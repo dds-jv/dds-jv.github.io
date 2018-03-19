@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<div class="teaserimage">
+    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}></div>
+</div>
+<header class="blog-header">
+    <h1 class="blog-title">{{ site.title }}</h1>
+    <h2 class="blog-description">{{ site.description }}</h2>
+    <div class="custom-links">
+        <a href="mailto:{{ site.email }}">¡Sumate a nuestro grupo!</a>
+    </div>
+    <div class="index-headline"></div>
+</header>
+<main class="content" role="main">
+    <div class="cf frame">
+            <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+                <header class="post-header">
+                    <h2 class="post-title">Apuntes Útiles</h2>
+                </header>
+                <section class="post-excerpt" itemprop="description">También podés verlos <a href="{{site.baseurl}}/apuntes/">acá</a></section>
+                </section>
+                <div class="buttons-content">
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/sistemas">Diseño y Sistemas</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/metodologias">Diseño y Metodologías de Desarrollo</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/comunicacion">Concepción y Comunicación del Diseño</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/requerimientos">Requerimientos y Diseño</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/modelado-objetos">Modelado de Objetos</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/herramientas">Herramientas Tecnológicas</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/patrones">Patrones de Diseño y Buenas Prácticas</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/modelado-datos">Modelado de Datos</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/arquitectura">Introducción al Diseño de Arquitectura</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/validacion">Validación del Diseño</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/ui">Diseño de Interfaz de Usuario</a>
+                    <a class="post-button" href="{{site.baseurl}}/apuntes/bonus">Extras</a>
+                </div>
+            </article>
+            <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+                <header class="post-header">
+                    <h2 class="post-title">Algunos Enunciados</h2>
+                </header>
+                <section class="post-excerpt" itemprop="description">También podés verlos <a href="{{site.baseurl}}/enunciados/">acá</a></section>
+                <div class="buttons-content">
+                    <a class="post-button" href="{{site.baseurl}}/enunciados/parte-a">Parte A</a>
+                    <a class="post-button" href="{{site.baseurl}}/enunciados/parte-b">Parte B</a>
+                    <a class="post-button" href="{{site.baseurl}}/enunciados/integradores">Integradores</a>
+                </div>
+            </article>
+    </div>
+</main>

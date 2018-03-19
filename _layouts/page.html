@@ -1,0 +1,29 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body itemscope itemtype="http://schema.org/Article">
+    <main class="content" role="main">
+      <article class="post">
+        <div class="article-image">
+          <div class="post-image-image" {% if site.pagecover %}style="background-image: url({{ site.pagecover | prepend: site.baseurl }})"{% endif %}></div>
+          <div class="post-meta">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <div class="cf post-meta-text">
+                <h4 class="author-name">{{ page.description }}</h4>
+            </div>
+            <div class="viewmore head">
+              <i class="fa fa-angle-down"></i>
+            </div>
+          </div>
+        </div>
+        <section class="post-content">
+          {{content}}
+        </section>
+      </article>
+    </main>
+    {% include footer.html %}
+    {% include javascripts.html %}
+  </body>
+</html>
