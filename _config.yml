@@ -3,7 +3,7 @@ email: dds-jv-cursada@googlegroups.com
 baseurl:  
 url: http://dds-jv.github.io
 description: Conocé más sobre ésta temática
-
 cover: /assets/images/cover.jpg
 pagecover: /assets/images/pagecover.jpg
+error: /assets/images/error.jpg
 permalink: pretty
