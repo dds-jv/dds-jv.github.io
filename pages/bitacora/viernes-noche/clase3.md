@@ -14,6 +14,8 @@ Aprenderemos:
 * Qué son las interfaces sincrónicas y asincrónicas
 * Y algunas formas de hacer _testing_ cuando interactuamos con interfaces externas
 
+Además, tendremos una primera aproximación a los los patrones de comunicación y a la idea de control de flujo e inversión de control.
+
 # Lo que vemos
 
 - [Diseño de interfaces: Entrantes/Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)

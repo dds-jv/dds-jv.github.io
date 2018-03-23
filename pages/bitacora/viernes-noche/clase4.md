@@ -7,11 +7,7 @@ permalink: /bitacora/viernes-n/clase-4/
 
 # Resumen
 
-Aprenderemos:
-
-* La noción de evento
-* Cómo utilizarlos para desacoplarnos
-* Manejo de asincronismo
+Aprenderemos sobre la noción de eventos, que aplicada al diseño de interfaces entre componentes nos permitirá utilizar el asincronismo para desacoplarlos y ganar flexibilidad.
 
 # Lo que vemos
 
