@@ -2,6 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-control" content="public">
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="HandheldFriendly" content="True" />
@@ -20,7 +21,7 @@
   <meta property="og:type" content="blog" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
   <link rel="stylesheet" type="text/css" href="{{ "/css/fonts.css" | prepend: site.baseurl }}" />
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/assets/css/fontawesome.min.css" | prepend: site.baseurl }}" />
   <link rel="stylesheet" type="text/css" media="screen" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
   <link rel="stylesheet" type="text/css" media="print" href="{{ "/css/print.css" | prepend: site.baseurl }}" />
 </head>
