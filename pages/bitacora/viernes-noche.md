@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Viernes (Noche)
+title: Viernes
+description: Turno Noche
 permalink: /bitacora/viernes-n/
 ---
 
 
 ## Planificación 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpyaoGNoxJNtRgjGIVCKgYgDp_xNwkpbme2vuYGwGidMlxFOKDN_drasfeH5FffzQQEV7rvJKUqElP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height:600px" ></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpyaoGNoxJNtRgjGIVCKgYgDp_xNwkpbme2vuYGwGidMlxFOKDN_drasfeH5FffzQQEV7rvJKUqElP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Clases
-
 
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 
