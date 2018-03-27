@@ -1,8 +1,14 @@
-title: Diseño de Sistemas
+# Site settings
+title: "Diseño de Sistemas"
+description: "Conocé más sobre ésta temática"
 email: dds-jv-cursada@googlegroups.com
-url: http://dds-jv.github.io
-description: Conocé más sobre ésta temática
+
+# Blog cover
 cover: /assets/images/cover.jpg
 pagecover: /assets/images/pagecover.jpg
 error: /assets/images/error.jpg
+
 permalink: pretty
+
+url: "http://dds-jv.github.io"
+baseurl: ""
