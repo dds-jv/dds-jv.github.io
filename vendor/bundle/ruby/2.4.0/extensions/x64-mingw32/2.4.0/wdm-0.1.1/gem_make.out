@@ -1,5 +1,5 @@
-current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/wdm-0.1.1/ext/wdm
-C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180315-8912-l78l0a.rb extconf.rb
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/wdm-0.1.1/ext/wdm
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180326-5032-1m92ci7.rb extconf.rb
 checking for -lkernel32... yes
 checking for windows.h... yes
 checking for ruby.h... yes
@@ -7,10 +7,10 @@ checking for HAVE_RUBY_ENCODING_H... yes
 checking for rb_thread_call_without_gvl()... yes
 creating Makefile
 
-current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/wdm-0.1.1/ext/wdm
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/wdm-0.1.1/ext/wdm
 make "DESTDIR=" clean
 
-current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/wdm-0.1.1/ext/wdm
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/wdm-0.1.1/ext/wdm
 make "DESTDIR="
 generating wdm_ext-x64-mingw32.def
 compiling entry.c
@@ -28,6 +28,6 @@ compiling utils.c
 compiling wdm.c
 linking shared-object wdm_ext.so
 
-current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/wdm-0.1.1/ext/wdm
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/wdm-0.1.1/ext/wdm
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 wdm_ext.so ./.gem.20180315-8912-1y5uphp
+/usr/bin/install -c -m 0755 wdm_ext.so ./.gem.20180326-5032-c2ygg5

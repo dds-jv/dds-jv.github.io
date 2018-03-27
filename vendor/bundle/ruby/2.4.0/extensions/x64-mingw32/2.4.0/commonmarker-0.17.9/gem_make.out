@@ -1,11 +1,11 @@
-current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
-C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180315-6964-yq4wgq.rb extconf.rb
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180326-5032-1t7pstt.rb extconf.rb
 creating Makefile
 
-current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
 make "DESTDIR=" clean
 
-current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
 make "DESTDIR="
 generating commonmarker-x64-mingw32.def
 compiling arena.c
@@ -56,6 +56,6 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.so
 
-current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/commonmarker-0.17.9/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20180315-6964-1kd1q73/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20180326-5032-10sjwif/commonmarker
