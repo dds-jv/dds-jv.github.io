@@ -1,0 +1,24 @@
+current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/json-1.8.3/ext/json/ext/generator
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180314-6424-199nc82.rb extconf.rb
+creating Makefile
+
+current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/json-1.8.3/ext/json/ext/generator
+make "DESTDIR=" clean
+
+current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/json-1.8.3/ext/json/ext/generator
+make "DESTDIR="
+generating generator-x64-mingw32.def
+compiling generator.c
+generator.c: In function 'generate_json':
+generator.c:861:25: error: 'rb_cFixnum' undeclared (first use in this function); did you mean 'mFixnum'?
+     } else if (klass == rb_cFixnum) {
+                         ^~~~~~~~~~
+                         mFixnum
+generator.c:861:25: note: each undeclared identifier is reported only once for each function it appears in
+generator.c:863:25: error: 'rb_cBignum' undeclared (first use in this function); did you mean 'rb_cFixnum'?
+     } else if (klass == rb_cBignum) {
+                         ^~~~~~~~~~
+                         rb_cFixnum
+make: *** [Makefile:242: generator.o] Error 1
+
+make failed, exit code 2

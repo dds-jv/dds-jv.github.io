@@ -1,18 +1,9 @@
-plugins:
-  - github-pages
-  - jemoji
-
-# Site settings
-title: "Diseño de Sistemas"
-description: "Conocé más sobre ésta temática"
+title: Diseño de Sistemas
 email: dds-jv-cursada@googlegroups.com
-
-# Blog cover
+baseurl:  
+url: http://dds-jv.github.io
+description: Conocé más sobre ésta temática
 cover: /assets/images/cover.jpg
 pagecover: /assets/images/pagecover.jpg
 error: /assets/images/error.jpg
-
 permalink: pretty
-
-url: "http://dds-jv.github.io"
-baseurl: ""

@@ -1,12 +1,12 @@
-current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/RedCloth-4.2.9/ext/redcloth_scan
-C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180326-3188-d876ng.rb extconf.rb
+current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/RedCloth-4.2.9/ext/redcloth_scan
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180314-6424-1p5t8e5.rb extconf.rb
 checking for main() in -lc... no
 creating Makefile
 
-current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/RedCloth-4.2.9/ext/redcloth_scan
+current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/RedCloth-4.2.9/ext/redcloth_scan
 make "DESTDIR=" clean
 
-current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/RedCloth-4.2.9/ext/redcloth_scan
+current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/RedCloth-4.2.9/ext/redcloth_scan
 make "DESTDIR="
 generating redcloth_scan-x64-mingw32.def
 compiling redcloth_attributes.c
@@ -18,6 +18,6 @@ ragel/redcloth_inline.c.rl:100:9: warning: variable 'attr_regs' set but not used
 compiling redcloth_scan.c
 linking shared-object redcloth_scan.so
 
-current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/RedCloth-4.2.9/ext/redcloth_scan
+current directory: D:/Repositorios/dds-alpha/vendor/bundle/ruby/2.4.0/gems/RedCloth-4.2.9/ext/redcloth_scan
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 redcloth_scan.so ./.gem.20180326-3188-69dibf
+/usr/bin/install -c -m 0755 redcloth_scan.so ./.gem.20180314-6424-1op7w5
