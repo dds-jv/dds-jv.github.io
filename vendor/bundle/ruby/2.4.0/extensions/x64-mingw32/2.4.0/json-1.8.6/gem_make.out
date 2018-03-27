@@ -1,0 +1,13 @@
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180326-3188-1kt0znt.rb extconf.rb
+creating Makefile
+
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: No se hace nada para 'all'.
+
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install

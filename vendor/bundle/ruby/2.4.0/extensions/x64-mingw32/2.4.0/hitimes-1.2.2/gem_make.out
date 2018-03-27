@@ -1,0 +1,21 @@
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/hitimes-1.2.2/ext/hitimes/c
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180326-3188-l6b8el.rb extconf.rb
+creating Makefile
+
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/hitimes-1.2.2/ext/hitimes/c
+make "DESTDIR=" clean
+
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/hitimes-1.2.2/ext/hitimes/c
+make "DESTDIR="
+generating hitimes-x64-mingw32.def
+compiling hitimes.c
+compiling hitimes_instant_clock_gettime.c
+compiling hitimes_instant_osx.c
+compiling hitimes_instant_windows.c
+compiling hitimes_interval.c
+compiling hitimes_stats.c
+linking shared-object hitimes/2.4/hitimes.so
+
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/hitimes-1.2.2/ext/hitimes/c
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 hitimes.so ./.gem.20180326-3188-v3cau6/hitimes/2.4

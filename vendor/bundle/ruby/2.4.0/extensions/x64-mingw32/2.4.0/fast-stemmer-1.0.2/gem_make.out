@@ -1,0 +1,17 @@
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/fast-stemmer-1.0.2/ext
+C:/Ruby24-x64/bin/ruby.exe -r ./siteconf20180326-3188-1mffscq.rb extconf.rb
+creating Makefile
+
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/fast-stemmer-1.0.2/ext
+make "DESTDIR=" clean
+
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/fast-stemmer-1.0.2/ext
+make "DESTDIR="
+generating stemmer-x64-mingw32.def
+compiling porter.c
+compiling porter_wrap.c
+linking shared-object stemmer.so
+
+current directory: D:/Repositorios/dds-jv.github.io/vendor/bundle/ruby/2.4.0/gems/fast-stemmer-1.0.2/ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 stemmer.so ./.gem.20180326-3188-1gcwxma
