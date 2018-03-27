@@ -1,3 +1,7 @@
+plugins:
+  - github-pages
+  - jemoji
+
 # Site settings
 title: "Diseño de Sistemas"
 description: "Conocé más sobre ésta temática"
