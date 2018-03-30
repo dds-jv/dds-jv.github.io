@@ -1,13 +1,11 @@
 <footer class="site-footer">
-  {% if page.layout == 'page' %}
-    <ul class="footer-go">
-      <li><a onclick="window.history.back();" class="footer-go">Atrás</a></li>
-      <li><a onclick="$('html, body').animate({ scrollTop: 0 }, 'slow');" class="footer-go">Arriba</a></li>
-      <li><a href="{{ site.url }}{{ site.baseurl }}" class="footer-go">Inicio</a></li>
-    </ul>
-  {% endif %}
-  <div class="index-headline"></div>
-  <div class="inner">
+    {% if page.layout == 'page' %}
+        <ul class="footer-go">
+            <li><a onclick="window.history.back();" class="footer-go">Atrás</a></li>
+            <li><a onclick="$('html, body').animate({ scrollTop: 0 }, 'slow');" class="footer-go">Arriba</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}" class="footer-go">Inicio</a></li>
+        </ul>
+    {% endif %}
+    <div class="index-headline"></div>
     <section class="copyright">&copy; {{ site.time | date: '%Y' }} &bull; <a href="http://jekyllrb.com">Jekyll</a></section>
-  </div>
-</footer>
+</footer>  

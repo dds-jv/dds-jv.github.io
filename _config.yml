@@ -1,9 +1,24 @@
+# Site settings
 title: Diseño de Sistemas
 email: dds-jv-cursada@googlegroups.com
-baseurl:  
-url: http://dds-jv.github.io
-description: Conocé más sobre ésta temática
-cover: /assets/images/cover.jpg
-pagecover: /assets/images/pagecover.jpg
-error: /assets/images/error.jpg
-permalink: pretty
+description: >- # this means to ignore newlines until "baseurl:"
+  Conocé más sobre ésta temática
+baseurl: ""
+url: "https://dds-jv.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

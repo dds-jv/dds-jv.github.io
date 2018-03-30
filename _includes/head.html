@@ -1,26 +1,16 @@
+<!DOCTYPE html>
 <head lang="es-AR">
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="HandheldFriendly" content="True" />
-  <meta name="MobileOptimized" content="320" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta property="og:site_name" content="{{ site.title }}" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
-  {% if page.excerpt %}
-    <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
-  {% elsif site.description %}
-    <meta property="og:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
-  {% endif %}
-  <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" >
-  <meta property="og:type" content="blog" />
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
-  <link rel="stylesheet" type="text/css" href="{{ "/css/fonts.css" | prepend: site.baseurl }}" />
-  <link rel="stylesheet" href="{{ "/assets/css/fontawesome.min.css" | prepend: site.baseurl }}" />
-  <link rel="stylesheet" type="text/css" media="screen" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
-  <link rel="stylesheet" type="text/css" media="print" href="{{ "/css/print.css" | prepend: site.baseurl }}" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/fonts.css" />
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/fontawesome.min.css" />
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/print.css" />
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/normalize.css" />
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/index.css" />
 </head>

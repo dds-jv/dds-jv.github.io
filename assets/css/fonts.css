@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Open Sans"; src: url("../../assets/fonts/open-sans-normal-bold.ttf"); font-weight: 700; font-style: normal;
+}
+@font-face {
+    font-family: "Open Sans"; src: url("../../assets/fonts/open-sans-normal.ttf"); font-weight: 400; font-style: normal;
+}
+@font-face {
+    font-family: "Open Sans"; src: url("../../assets/fonts/open-sans-italic-bold.ttf"); font-weight: 700; font-style: italic;
+}
+@font-face {
+    font-family: "Open Sans"; src: url("../../assets/fonts/open-sans-italic.ttf"); font-weight: 400; font-style: italic;
+}
+@font-face {
+    font-family: "Linux Libertine"; src: url("../../assets/fonts/linux-libertine-normal-bold.ttf"); font-weight: 700; font-style: normal;
+}
+@font-face {
+    font-family: "Linux Libertine"; src: url("../../assets/fonts/linux-libertine-normal.ttf"); font-weight: 400; font-style: normal;
+}
+@font-face {
+    font-family: "Linux Libertine"; src: url("../../assets/fonts/linux-libertine-italic-bold.ttf"); font-weight: 700; font-style: italic;
+}
+@font-face {
+    font-family: "Linux Libertine"; src: url("../../assets/fonts/linux-libertine-italic.ttf"); font-weight: 400; font-style: italic;
+}

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jueves (Mañana)
-description: Juan Zaffaroni, Gastón Prieto y equipo
+title: Jueves
+description: Turno Mañana
 permalink: /bitacora/jueves-m/
 ---
 ## Clases
