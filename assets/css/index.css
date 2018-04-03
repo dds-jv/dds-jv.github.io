@@ -446,7 +446,7 @@ main.content > article.post > section.post-content > iframe {
         display: block;
         position: absolute;
         text-align: center;
-        width: 100%;
+        width: calc(100vw - 24px);
         bottom: 0;
         font-size: 20px;
     }
