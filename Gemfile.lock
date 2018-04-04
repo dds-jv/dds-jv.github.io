@@ -1,6 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    activesupport (4.2.10)
+      i18n (~> 0.7)
+      minitest (~> 5.1)
+      thread_safe (~> 0.3, >= 0.3.4)
+      tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
@@ -11,6 +16,10 @@ GEM
     eventmachine (1.2.5-x64-mingw32)
     ffi (1.9.23-x64-mingw32)
     forwardable-extended (2.6.0)
+    gemoji (3.0.0)
+    html-pipeline (2.7.1)
+      activesupport (>= 2)
+      nokogiri (>= 1.4)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
@@ -35,6 +44,12 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (2.0.0)
       listen (~> 3.0)
+    jemoji (0.9.0)
+      activesupport (~> 4.0, >= 4.2.9)
+      gemoji (~> 3.0)
+      html-pipeline (~> 2.2)
+      jekyll (~> 3.0)
+    json (2.1.0)
     kramdown (1.16.2)
     liquid (4.0.0)
     listen (3.1.5)
@@ -42,10 +57,14 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-    minima (2.4.0)
+    mini_portile2 (2.3.0)
+    minima (2.4.1)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+    minitest (5.11.3)
+    nokogiri (1.8.2-x64-mingw32)
+      mini_portile2 (~> 2.3.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.2)
@@ -73,6 +92,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.7.3)
   jekyll-feed (~> 0.6)
+  jemoji
+  json
   minima (~> 2.0)
   tzinfo-data
   wdm (~> 0.1.0)

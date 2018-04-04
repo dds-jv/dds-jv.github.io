@@ -8,8 +8,10 @@ url: "https://dds-jv.github.io"
 
 # Build settings
 markdown: kramdown
+
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

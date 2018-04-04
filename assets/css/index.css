@@ -302,12 +302,12 @@ main.content > article.post > section.post-content > p {
     hyphens: auto;
 }
 
-main.content > article.post > section.post-content > p > a {
+main.content > article.post > section.post-content a {
     color: #555;
     text-decoration: underline;
 }
 
-main.content > article.post > section.post-content > p > a:hover {
+main.content > article.post > section.post-content a:hover {
     color: #333;
 }
 
@@ -336,24 +336,22 @@ main.content > article.post > section.post-content > hr {
     border: 0;
     padding: 0;
     display: block;
-    width: 15%;
     margin: -6px auto 30px;
     border: 0px solid #ddd;
     border-top: 1px solid #ddd;
 }
 
-main.content > article.post > section.post-content > blockquote {
+main.content > article.post > section.post-content blockquote {
     margin: 0 0 30px;
     border-left: 4px solid #e6e3df;
     padding-left: 20px;
 }
 
-main.content > article.post > section.post-content > blockquote > p {
+main.content > article.post > section.post-content blockquote > p {
     letter-spacing: 0.01rem;
     font-weight: 200;
     padding-left: 20px;
     margin-left: -26px;
-    padding-bottom: 3px;
     font-size: 23px;
     color: #777;
 }
@@ -423,6 +421,67 @@ main.content > article.post > section.post-content > iframe {
     border: thin solid #dadada;
     box-shadow: 0px 1px 8px -4px #000;
     background-color: #fafafa;
+}
+
+main.content > article.post > section.post-content > p code {
+    background-color: #fff4f4;
+    border: thin solid #f5c2c2;
+    color: #e34f4f;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.75em;
+    font-family: "Ubuntu Mono", "Courier New", Courier, monospace;
+}
+
+main.content > article.post > section.post-content pre {
+    border: thin solid #dedede;
+    border-radius: 4px;
+    padding: 4px 8px;
+    background-color: #f8f8f8;
+    color: #383838;
+    font-family: "Ubuntu Mono", "Courier New", Courier, monospace;
+}
+
+main.content > article.post > section.post-content pre > code {
+    font-family: inherit;
+}
+
+main.content > article.post > section.post-content > table {
+    width: 100%;
+    margin: 8px 0 16px 0;
+}
+
+main.content > article.post > section.post-content > table > thead > tr,
+main.content > article.post > section.post-content > table > tbody > tr {
+    border-bottom: thin solid #eaeaea;
+}
+
+main.content > article.post > section.post-content > table tbody > tr:last-child {
+    border-bottom: none;
+}
+
+main.content > article.post > section.post-content > table tr > th,
+main.content > article.post > section.post-content > table tr > td {
+    padding: 4px 6px;
+    font-family: 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, 'Helvetica Neue', sans-serif;
+    font-size: 0.9em;
+}
+
+main.content > article.post > section.post-content img {
+    max-width: 35%;
+}
+
+main.content > article.post > section.post-content > dl > dt {
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+main.content > article.post > section.post-content > dl > dd {
+    margin-left: 16px;
+}
+
+main.content > article.post > section.post-content abbr {
+    border-bottom: none;
 }
 
 @media (max-width: 572px) {
