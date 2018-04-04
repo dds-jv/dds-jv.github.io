@@ -423,22 +423,27 @@ main.content > article.post > section.post-content > iframe {
     background-color: #fafafa;
 }
 
-main.content > article.post > section.post-content > p > code {
+main.content > article.post > section.post-content > p code {
     background-color: #fff4f4;
     border: thin solid #f5c2c2;
     color: #e34f4f;
     padding: 2px 6px;
     border-radius: 4px;
     font-size: 0.75em;
+    font-family: "Ubuntu Mono", "Courier New", Courier, monospace;
 }
 
-main.content > article.post > section.post-content pre.highlight {
+main.content > article.post > section.post-content pre {
     border: thin solid #dedede;
     border-radius: 4px;
     padding: 4px 8px;
     background-color: #f8f8f8;
     color: #383838;
-    font-size: 0.9em;
+    font-family: "Ubuntu Mono", "Courier New", Courier, monospace;
+}
+
+main.content > article.post > section.post-content pre > code {
+    font-family: inherit;
 }
 
 main.content > article.post > section.post-content > table {
