@@ -6,15 +6,17 @@ permalink: /bitacora/jueves-m/
 ---
 ## Planificación
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpyaoGNoxJNtRgjGIVCKgYgDp_xNwkpbme2vuYGwGidMlxFOKDN_drasfeH5FffzQQEV7rvJKUqElP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height:600px" ></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1auicTbLuSAJNhGpUcw4D0L2A2T9IK37lmkBiD0KCWrM/edit#gid=0" style="width: 100%; height:600px" ></iframe>
+
+## [Planilla de alumnos](https://docs.google.com/spreadsheets/d/1Pv6WRazw1zMOwIM7NMf3cgZoSwJOLrlTZ1vvHIcLBu8/edit?usp=drive_web&ouid=105127262669791671578)
 
 ## Clases
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 
-- [Clase 1]({{site.baseurl}}/bitacora/jueves-m/clase-1)
-- [Clase 2]({{site.baseurl}}/bitacora/jueves-m/clase-2)
-- [Clase 3]({{site.baseurl}}/bitacora/jueves-m/clase-3)
-- [Clase 4]({{site.baseurl}}/bitacora/jueves-m/clase-4)
+- [Clase 1 - Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacora/jueves-m/clase-1)
+- [Clase 2 - Cualidades de diseño, Patrones de Diseño]({{site.baseurl}}/bitacora/jueves-m/clase-2)
+- [Clase 3 - Manejo de errores y adaptación de interfaces entre componentes]({{site.baseurl}}/bitacora/jueves-m/clase-3)
+- [Clase 4 - Eventos y Notificaciones]({{site.baseurl}}/bitacora/jueves-m/clase-4)
 - Clase 5
 - Clase 6
 - Clase 7
