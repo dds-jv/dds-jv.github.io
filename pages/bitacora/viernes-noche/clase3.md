@@ -21,7 +21,7 @@ Además, tendremos una primera aproximación a los los patrones de comunicación
 - [Diseño de interfaces: Entrantes/Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
 - Code Ownership
 - Mocking
-- Patrón Adapter
+- [Patrones de Diseño - Patrón Adapter] (https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
 
 # Material Complementario:
 

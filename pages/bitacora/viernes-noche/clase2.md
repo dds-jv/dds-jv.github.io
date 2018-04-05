@@ -17,8 +17,9 @@ Además, aprenderemos: qué es un error, cómo lidiar con ellos, y cómo usar ex
 
 - [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit)
 - [Introducción a los Patrones de Diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
-    - [Strategy](https://sourcemaking.com/design_patterns/strategy)
-    - [Template Method](https://sourcemaking.com/design_patterns/template_method)
+    - [Patrones de Diseño - Patrón Strategy](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+    - [Patrones de Diseño - Patrón Template Method](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+
 - [Diseño del Manejo de Errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#)
 
 # Material Complemetario
