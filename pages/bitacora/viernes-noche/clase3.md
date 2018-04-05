@@ -22,7 +22,7 @@ Además, tendremos una primera aproximación a los los patrones de comunicación
 - Code Ownership
 - Mocking
 - [Patrones de Diseño - Patrón Adapter](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
-
+ 
 # Material Complementario:
 
 - [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)
