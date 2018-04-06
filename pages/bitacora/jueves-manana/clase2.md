@@ -22,3 +22,4 @@ También introduciremos dos conceptos de diseño en objetos: estrategias y plant
 
 - [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)
 - [Las entradas del diseño](https://docs.google.com/document/d/1qPM_sQ0UyGFKRzl13Cbf6zDKj6vxJ4wMZQIXeOrRvM8/edit?usp=sharing)
+- [Solución - Macowins](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI/edit)
