@@ -8,7 +8,7 @@ permalink: /bitacora/jueves-m/clase-5/
 
 Ya tuvimos un avance respecto a los _Patrones de Diseño_, de hecho en las últimas clases nos enfocamos en los siguientes:
 - Adapter: Para adaptarnos (valga la redundancia) a, por ejemplo, servicios externos cuyas interfaces pueden variar.
-- Observer: Por ejemplo, en situaciones en donde no sabemos cuando puede terminar una operación y necesitamos continuar sin descuidar lo que ocurra en paralelo (llegado el momento en que termine, poder enterarnos de ésto). Ahí también conocimos el concepto de _asincronismo_.
+- Observer: Cuando hay varios interesados que necesitan ser notificados de un cierto *evento* para tomar alguna acción, de la cual no esperamos su resolución para continuar. Tener en cuenta que estas acciones (extra) _no deben romper al flujo principal_.
 
 Como ven, hasta ahora trabajamos gestionando el comportamiento para evitar malas prácticas en éste aspecto. 
 
