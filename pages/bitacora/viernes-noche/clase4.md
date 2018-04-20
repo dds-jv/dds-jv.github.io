@@ -13,6 +13,10 @@ Aprenderemos sobre la noción de eventos, que aplicada al diseño de interfaces 
 
 - [El patrón observer](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
 
+# Ejercicio de clase
+
+- https://github.com/dds-utn/macowins-tarjetas: Ver ramas `adapter-con-test` y `observer-implementado`
+
 # Material Complementario:
 
 - [Sobre los efectos en el observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
