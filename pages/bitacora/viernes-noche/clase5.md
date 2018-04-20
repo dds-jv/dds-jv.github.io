@@ -25,6 +25,8 @@ Básicamente, si no lo hiciste antes, aprovechá de leer los siguientes apuntes:
 
 - Veremos en profundidad el [Patrón Command](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf).
 - Trabajaremos con [éste ejercicio](https://docs.google.com/document/d/1TngwZCctCp4qKsdw89HLUc_GLSb6mxZ7_lJTTj3TOLM/edit) y pondremos ideas en común al respecto.
+   - Este ejercicio (que fue un parcial) es largo y completo. Te recomendamos que lo intentes resolver por tu cuenta...
+   - ...y para cuando termines, acá hay una [solución explicada](https://docs.google.com/document/d/1_ftxB1gTeNkN1qN_EMEIaF0vgtLkcH1SHwk-XA5_S1s/edit)
 
 **¡Mirá!** [Acá](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit) hay un caso en donde se implementa Command.
 
