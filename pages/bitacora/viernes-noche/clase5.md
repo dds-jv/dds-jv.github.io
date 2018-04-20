@@ -27,3 +27,7 @@ Básicamente, si no lo hiciste antes, aprovechá de leer los siguientes apuntes:
 - Trabajaremos con [éste ejercicio](https://docs.google.com/document/d/1TngwZCctCp4qKsdw89HLUc_GLSb6mxZ7_lJTTj3TOLM/edit) y pondremos ideas en común al respecto.
 
 **¡Mirá!** [Acá](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit) hay un caso en donde se implementa Command.
+
+# Material complementario
+
+  - [Biblioteca vs Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit?usp=sharing)
