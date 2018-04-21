@@ -172,6 +172,10 @@ header.article-image > div.post-article-image {
     vertical-align: middle;
 }
 
+header.article-image > div.post-article-image.team-image {
+    background-image: url("../../assets/images/teamcover.jpg");
+}
+
 header.article-image > div.post-article-image > div.post-meta {
     text-align: center;
     z-index: 9;
@@ -482,6 +486,38 @@ main.content > article.post > section.post-content > dl > dd {
 
 main.content > article.post > section.post-content abbr {
     border-bottom: none;
+}
+
+main.content > article.team > section.post-content > ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+main.content > article.team > section.post-content > ul > li {
+    width: 210px;
+    display: inline-block;
+    text-align: center;
+    margin: 12px 0;
+    font-size: 14px;
+    color: #666;
+    line-height: 14px;
+}
+
+main.content > article.team > section.post-content > ul > li em {
+    font-style: normal;
+    font-size: 0.75em;
+    background-color: #eee;
+    padding: 1px 6px 0px 6px;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+main.content > article.team > section.post-content > ul > li img {
+    margin-top: 2px;
+    border-radius: 2px;
+    box-shadow: 0px 0px 2px 0px #0000004d;
 }
 
 @media (max-width: 572px) {
