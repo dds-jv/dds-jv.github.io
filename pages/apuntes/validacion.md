@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introducción al Diseño de Arquitectura
+title: Validación del Diseño
 description: Apuntes, Enlaces y Papers
 permalink: /apuntes/validacion/
 ---
