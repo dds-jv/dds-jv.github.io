@@ -1,6 +1,6 @@
 ---
 layout: team
-title: ¡Conocé al equipo!
+title: ¡Conocenos!
 permalink: /equipo/
 ---
 - Mariano Barragán ![]({{site.baseurl}}/assets/images/team/mbarragan.png)
@@ -21,4 +21,5 @@ permalink: /equipo/
 - Roberto Ruiz _Robert_ ![]({{site.baseurl}}/assets/images/team/rruiz.png)
 - Jessica Saavedra _Jess_ ![]({{site.baseurl}}/assets/images/team/jsaavedra.png)
 - Alan Szpigiel ![]({{site.baseurl}}/assets/images/team/aszpigiel.png)
+- Jonathan Vera _Joni_ ![]({{site.baseurl}}/assets/images/team/jvera.png)
 - Juan Zaffaroni ![]({{site.baseurl}}/assets/images/team/jzaffaroni.png)

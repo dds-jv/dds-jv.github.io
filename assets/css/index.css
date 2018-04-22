@@ -110,19 +110,30 @@ main.content > article > div.buttons-content {
 
 main.content > article > div.buttons-content > a.post-button {   
     display: inline-block;
-    background-color: #EEE;
+    background-color: #F8F8F8;
     margin: 6px 6px 6px 0px;
     padding: 8px 16px;
     border-radius: 4px;
     text-decoration: none;
     color: #555;
-    border: thin solid #CCC;
+    border: thin solid #E6E6E6;
     transition: .1s ease;
 }
 
 main.content > article > div.buttons-content > a.post-button:hover {   
-    background-color: #F8F8F8;
-    color: #666;
+    background-color: #E6E6E6;
+    color: #333;
+}
+
+main.content > article > div.buttons-content > a.post-button.bonus-item {
+    background-color: #FFF1F1;
+    border-color: #FFCFCF;
+    color: #894343;
+}
+
+main.content > article > div.buttons-content > a.post-button.bonus-item:hover {
+    background-color: #FFCFCF;
+    color: #421c1c;
 }
 
 main.content > article > div.buttons-content > a.post-button:last-child {   
