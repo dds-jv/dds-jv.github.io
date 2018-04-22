@@ -2,10 +2,10 @@
 <body>
     {% include teaser.html %}
     <header class="blog-header">
-        <h1 class="blog-title">Hay un problema</h1>
-        <h2 class="blog-description">Parece que no existe la página que querés ver</h2>
+        <h1 class="blog-title">¡Oops!</h1>
+        <h2 class="blog-description">No encontramos lo que querés ver</h2>
         <div class="custom-links">
-            <a href="#" onclick="window.history.back();">¿Volvemos?</a>
+            <a href="mailto:{{ site.email }}">¡Avisanos!</a>
         </div>
     </header>
     {% include footer.html %}

@@ -1,8 +1,13 @@
 <footer class="site-footer">
-    {% if page.layout != 'home' %}
+    {% if page.layout == 'page' || page.layout == 'team' %}
         <ul class="footer-go">
             <li><a onclick="window.history.back();" class="footer-go">Atrás</a></li>
             <li><a onclick="$('html, body').animate({ scrollTop: 0 }, 'slow');" class="footer-go">Arriba</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}" class="footer-go">Inicio</a></li>
+        </ul>
+    {% else if page.layout == 'error' %}
+        <ul class="footer-go">
+            <li><a onclick="window.history.back();" class="footer-go">Atrás</a></li>
             <li><a href="{{ site.url }}{{ site.baseurl }}" class="footer-go">Inicio</a></li>
         </ul>
     {% endif %}
