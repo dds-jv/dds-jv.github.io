@@ -22,7 +22,10 @@ permalink: /ejercicios/guia-2/
 - [Excepciones Genéricas](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-ejercicios-introductorios-objetos/excepciones-genricas)
 - [Pepita](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-ejercicios-introductorios-objetos/pepita) (Ahora con un 100% más de excepciones)
 - [Solicitudes de Notebooks](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-ejercicios-introductorios-objetos/solicitudes-de-notebooks)
-- [Manejo de facturas](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6ZTNlZWZlMzFmYzI5NTMw)
+- [Manejo de Facturas](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6ZTNlZWZlMzFmYzI5NTMw)
 
 # Testeo unitario
-En desarrollo...
+- [Pepita Testeada](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-ejercicios-introductorios-objetos/pepita-testeada)
+- [Pilas y Colas](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-ejercicios-introductorios-objetos/pilas-y-colas)
+- [Uniformes - Parte 1](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-ejercicios-introductorios-objetos/uniformes-parte-1)
+- [Uniformes - Parte 2](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-ejercicios-introductorios-objetos/uniformes-parte-2)
