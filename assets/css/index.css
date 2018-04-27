@@ -297,15 +297,19 @@ main.content > article.post > section.post-content > h6 {
 main.content > article.post > section.post-content > h1, 
 main.content > article.post > section.post-content > h2 {
     font-size: 32px;
+    line-height: 1.3;
+}
+
+main.content > article.post > section.post-content > h3 {
+    font-size: 24px;
     line-height: 1.2;
 }
 
-main.content > article.post > section.post-content > h3, 
 main.content > article.post > section.post-content > h4, 
 main.content > article.post > section.post-content > h5, 
 main.content > article.post > section.post-content > h6 {
-    font-size: 24px;
-    line-height: 1.3;
+    font-size: 22px;
+    line-height: 1;
 }
 
 main.content > article.post > section.post-content > p {
