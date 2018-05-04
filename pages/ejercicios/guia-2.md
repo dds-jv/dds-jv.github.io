@@ -34,4 +34,4 @@ _Material Relacionado: [Manejo de errores](https://docs.google.com/viewer?a=v&pi
 - [Uniformes - Parte 1](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-ejercicios-introductorios-objetos/uniformes-parte-1)
 - [Uniformes - Parte 2](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-ejercicios-introductorios-objetos/uniformes-parte-2), con una [posible solución](http://svn2.xp-dev.com/svn/uqbar/examples/dds/objetos-introductorios/uniformes/)
 
-Material Relacionado: Testing
+_Material Relacionado: [Testing](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MTAzMTk0NmQxOTFiYzU5Zg)_
