@@ -8,8 +8,6 @@ permalink: /bitacora/jueves-m/
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpW7bMemgkdsO6fTFyLC1fpQz0d4S1ArREtaLmNXbrg_7AF3iZnqet3TNWygHe-tGfwh_PlGfcu6ye/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height:600px"></iframe>
 
-## [Planilla de alumnos](https://docs.google.com/spreadsheets/d/1Pv6WRazw1zMOwIM7NMf3cgZoSwJOLrlTZ1vvHIcLBu8/edit?usp=drive_web&ouid=105127262669791671578)
-
 ## Clases
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 
