@@ -4,6 +4,7 @@ title: Parte A
 description: Algunos Enunciados
 permalink: /enunciados/parte-a
 ---
+- [Monsaint (2017)](https://docs.google.com/document/d/1-voPHOXaS4x7YYWFxNX4nRtIk_zpDdwGmKubrmXx-Rk)
 - [Tatsy (2017)](https://docs.google.com/document/d/1q0nP2koMy8q2WvYmaLLTt5D6jh057DkA7Kc4YjBJDng)
 - [Hitbug (05/08/2016)](https://docs.google.com/document/d/1TngwZCctCp4qKsdw89HLUc_GLSb6mxZ7_lJTTj3TOLM/edit?usp=sharing)
 - [Sueños (22/06/2016)](https://docs.google.com/document/d/1kv5i-LgijfBkkkdnQLlPhQKksSOLqYN_9PhQJKVXBbg/edit)
