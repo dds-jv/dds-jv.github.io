@@ -4,10 +4,11 @@ title: Parte A
 description: Algunos Enunciados
 permalink: /enunciados/parte-a
 ---
-- [Monsaint (2017)](https://docs.google.com/document/d/1-voPHOXaS4x7YYWFxNX4nRtIk_zpDdwGmKubrmXx-Rk)
-- [Tatsy (2017)](https://docs.google.com/document/d/1q0nP2koMy8q2WvYmaLLTt5D6jh057DkA7Kc4YjBJDng)
-- [Hitbug (05/08/2016)](https://docs.google.com/document/d/1TngwZCctCp4qKsdw89HLUc_GLSb6mxZ7_lJTTj3TOLM/edit?usp=sharing)
-- [Sueños (22/06/2016)](https://docs.google.com/document/d/1kv5i-LgijfBkkkdnQLlPhQKksSOLqYN_9PhQJKVXBbg/edit)
+- [Copia.me (01-06-2018)](https://docs.google.com/document/d/1NIgfMwyokaJ5U1oFXCGDVOIt5Pbh80Aat6o-v8MOqYk/edit)
+- [Monsaint (06-2017)](https://docs.google.com/document/d/1-voPHOXaS4x7YYWFxNX4nRtIk_zpDdwGmKubrmXx-Rk)
+- [Tatsy (08-2017)](https://docs.google.com/document/d/1q0nP2koMy8q2WvYmaLLTt5D6jh057DkA7Kc4YjBJDng)
+- [Hitbug (05-08-2016)](https://docs.google.com/document/d/1TngwZCctCp4qKsdw89HLUc_GLSb6mxZ7_lJTTj3TOLM/edit?usp=sharing)
+- [Sueños (22-06-2016)](https://docs.google.com/document/d/1kv5i-LgijfBkkkdnQLlPhQKksSOLqYN_9PhQJKVXBbg/edit)
 - [PGM (Hormiguero) (07-08-2015)](https://docs.google.com/document/d/10YG5vVS_UxHfhQnewQW9oleX3AbQyQcNwFajm_Y5bB4/edit#heading=h.l7htq1w726rk)
 - [Politics (08/07/2015)](https://docs.google.com/document/d/1I4Nsm7SU9xayS2a_SyN7_t2P4wfkCFYNtpaPWNtB490/edit?usp=sharing)
 - [Corrector de Exámenes (13-12-2014)](https://docs.google.com/document/d/1X8n5fNsA_O1e7e5zLNT_CaMNzVIBfSERUnr124UkWL0/edit#heading=h.lbsw4sbxydcn)
