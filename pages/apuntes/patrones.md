@@ -28,3 +28,6 @@ permalink: /apuntes/patrones/
 
 - **Double Dispatch**
   - [Ejercicio "Selección de Personal"](https://docs.google.com/document/d/1XWq9azqchoJZ7h8-hLcpA1Zj5T1UtvFtDKbpzxoQ-dw/edit#heading=h.gjdgxs)
+
+- [Manejo del Cambio](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit#heading=h.oqx964fgvsuc)
+  - _Destacados: Cambio, Entropía, Refactoring, Code Smells, Deuda Técnica_
