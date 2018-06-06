@@ -375,6 +375,13 @@ main.content > article.post > section.post-content blockquote > p {
     color: #777;
 }
 
+main.content > article.post > section.post-content blockquote > ul {
+    font-family: 'Linux Libertine', 'Times New Roman', Times, serif;
+    font-size: 1.4em;
+    color: #777;
+    padding-left: 24px;
+}
+
 main.content > article.post > section.post-content > ul, 
 main.content > article.post > section.post-content > ol {
     padding: 0 0 30px;
