@@ -4,7 +4,7 @@ title: Parte A
 description: Algunos Enunciados
 permalink: /enunciados/parte-a
 ---
-- [Copia.me (01-06-2018)](https://docs.google.com/document/d/1NIgfMwyokaJ5U1oFXCGDVOIt5Pbh80Aat6o-v8MOqYk/edit)
+- [Copia.me (01-06-2018)](https://docs.google.com/document/d/1NIgfMwyokaJ5U1oFXCGDVOIt5Pbh80Aat6o-v8MOqYk/edit), y [posibles soluciones](https://docs.google.com/document/d/1t7oUyhheEcPjoj2XzNu0x4pB_BGTUmbjhDjskDB2k1I/edit#heading=h.xxux6vkwpsjl)
 - [Monsaint (06-2017)](https://docs.google.com/document/d/1-voPHOXaS4x7YYWFxNX4nRtIk_zpDdwGmKubrmXx-Rk)
 - [Tatsy (08-2017)](https://docs.google.com/document/d/1q0nP2koMy8q2WvYmaLLTt5D6jh057DkA7Kc4YjBJDng)
 - [Hitbug (05-08-2016)](https://docs.google.com/document/d/1TngwZCctCp4qKsdw89HLUc_GLSb6mxZ7_lJTTj3TOLM/edit?usp=sharing)
