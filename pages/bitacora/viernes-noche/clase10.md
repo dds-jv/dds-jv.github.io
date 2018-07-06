@@ -5,6 +5,8 @@ description: Viernes (Noche)
 permalink: /bitacora/viernes-n/clase-10/
 ---
 
+# Resumen
+
 En ésta oportunidad analizaremos los casos no tan felices de un desarrollo, en donde debemos aplicar cambios (en algunos casos de raíz). ¿Como y cuando lo vamos a hacer? 
  
 Esa y otras dudas, las analizaremos en ésta clase.
