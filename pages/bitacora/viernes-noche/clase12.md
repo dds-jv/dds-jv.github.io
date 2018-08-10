@@ -2,7 +2,7 @@
 layout: page
 title: Clase 12
 description: Viernes (Noche)
-permalink: /bitacora/viernes-n/clase-11/
+permalink: /bitacora/viernes-n/clase-12/
 ---
 
 # Resumen
