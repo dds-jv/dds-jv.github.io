@@ -2,7 +2,7 @@
 layout: page
 title: Clase 13
 description: Jueves (Mañana)
-permalink: /bitacora/viernes-n/clase-13/
+permalink: /bitacora/jueves-m/clase-13/
 ---
 
 # Resumen
