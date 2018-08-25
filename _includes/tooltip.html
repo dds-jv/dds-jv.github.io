@@ -1,0 +1,12 @@
+{% if page.layout != 'home' %}
+    <a class="tooltip info" href="{{site.tooltip-link}}" target="_blank">
+        <strong>¡Atención!</strong>
+        <span>{{site.tooltip-label}}</span>
+    </a>
+{% endif %}
+{% if page.layout == 'home' %}
+    <a class="tooltip alert" href="{{site.tooltip-link}}" target="_blank">
+        <strong>¡Atención!</strong>
+        <span>{{site.tooltip-label}}</span>
+    </a>
+{% endif %}

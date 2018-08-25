@@ -4,6 +4,7 @@
     <header class="blog-header">
         <h1 class="blog-title">{{ site.title }}</h1>
         <h2 class="blog-description">{{ site.description }}</h2>
+        {% if site.tooltip-enabled %}{% include tooltip.html %}{% endif %}
         <div class="custom-links">
             <a href="mailto:{{ site.email }}">Sumate al grupo</a>
         </div>
