@@ -10,12 +10,36 @@ body {
     font-feature-settings: "liga", "dlig";
 }
 
+a.tooltip {
+    padding: 4px 16px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+}
+
+a.tooltip.alert {
+    background-color: #fff1cf;
+    border: thin solid #f5e2b6;
+    color: #8a6712;
+    border-radius: 4px;
+    margin-bottom: 16px;
+}
+
+a.tooltip.info {    
+    color: #585555;
+    background-color: #f5f5f5;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border: thin solid #dededc;
+    border-bottom: none;
+}
+
 div.teaserimage {
     height: 204px;
     position: relative;
     overflow: hidden;
     background-color: #000;
-    border-bottom: thin solid #8f8f8f;
+    border-bottom: thin solid #c3c3c3;
 }
 
 div.teaserimage-image {

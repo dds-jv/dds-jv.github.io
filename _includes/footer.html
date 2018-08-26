@@ -4,6 +4,7 @@
             <li><a onclick="window.history.back();" class="footer-go">Atrás</a></li>
             <li><a href="{{ site.url }}{{ site.baseurl }}" class="footer-go">Inicio</a></li>
         </ul>
+        {% include tooltip.html %}
     {% endif %}
     <div class="index-headline"></div>
     <section class="copyright">&copy; {{ site.time | date: '%Y' }} &bull; <a href="http://jekyllrb.com">Jekyll</a></section>
