@@ -4,8 +4,8 @@ title: Parte B
 description: Algunos Enunciados
 permalink: /enunciados/parte-b
 ---
-- [Rekomendashi (24-11-2018)](https://docs.google.com/document/d/1OTmrCpW-Ode-h_k1qWIE9OB4Uuzs9ZbR_A1JMJwHK-I/edit#heading=h.l1o68lkpuj7d)
-- [She-Ra (25-11-2018)](https://docs.google.com/document/d/17BCysrIMFL-iwDtjKNA_BRS6Clvj7CEONeqrNCwWq-M)
+- [Rekomendashi (24-11-2017)](https://docs.google.com/document/d/1OTmrCpW-Ode-h_k1qWIE9OB4Uuzs9ZbR_A1JMJwHK-I/edit#heading=h.l1o68lkpuj7d)
+- [She-Ra (25-11-2017)](https://docs.google.com/document/d/17BCysrIMFL-iwDtjKNA_BRS6Clvj7CEONeqrNCwWq-M)
 - [Muertos Andantes (17-11-2016)](https://docs.google.com/document/d/1mFHo8MmJ_9imDow1C_itWi0T54AveqI16P-Q7vlm87g)
 - [Intensa Mente (13-11-2015)](https://docs.google.com/document/d/1c_rT4RUJmT2xM0HhhCL3q5uL_u8Rmol_ezxWZAcX42Q/edit#heading=h.6mxgodhmmcx6)
 - [Reparaciones de Electrodomésticos (11-11-2015)](https://docs.google.com/document/d/1iHGTOEUBpUvId634FWQPT23M7_9Aj3zEyyiH7Xcbd8Q/edit?usp=sharing)
