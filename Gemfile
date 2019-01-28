@@ -35,3 +35,4 @@ gem 'jekyll-sitemap'
 
 # Updates for vulnerability alerts
 gem "ffi", ">= 1.9.24"
+gem "nokogiri", ">= 1.8.5"
