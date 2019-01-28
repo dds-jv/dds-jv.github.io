@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7.3"
+gem "jekyll", ">= 3.7.4"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
@@ -32,3 +32,8 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Sitemap
 gem 'jekyll-sitemap'
+
+# Updates for vulnerability alerts
+gem "ffi", ">= 1.9.24"
+gem "nokogiri", ">= 1.8.5"
+gem "activesupport", ">= 4.1.11"

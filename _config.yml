@@ -7,9 +7,9 @@ baseurl: ""
 url: "https://dds-jv.github.io"
 
 # Tooltip settings
-tooltip-enabled: true
-tooltip-label: "Comunicado de FAGDUT al 13/8 en relación a las Paritarias Docentes"
-tooltip-link: "https://www.fagdut.org.ar/noticias/2018-08-13/resumen-reunion-paritaria"
+tooltip-enabled: false
+tooltip-label: ""
+tooltip-link: ""
 
 # Build settings
 markdown: kramdown
