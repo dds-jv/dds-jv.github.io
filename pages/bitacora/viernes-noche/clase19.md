@@ -15,10 +15,10 @@ Todos esos aspectos (que son muchos), vamos a explicarlos brevemente hoy.
 
 - *Precondición:* Tener repasado [éste apunte de Arquitectura Web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit#heading=h.jii8bn1f6qx1). Sé que ya lo viste antes, pero repasalo.
 
-- [Taller de Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit).
+- [Taller de Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit)
 
 # Información complementaria
 
-- [W3Schools: HTML](https://www.w3schools.com/html/html_intro.asp).
+- [W3Schools: HTML](https://www.w3schools.com/html/html_intro.asp)
 
-- [W3Schools: CSS](https://www.w3schools.com/css/css_intro.asp).
+- [W3Schools: CSS](https://www.w3schools.com/css/css_intro.asp)
