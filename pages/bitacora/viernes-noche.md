@@ -29,9 +29,9 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 15: ORM, Colecciones y Migraciones]({{site.baseurl}}/bitacora/viernes-n/clase-15)
 - [Clase 16: Arquitectura Web]({{site.baseurl}}/bitacora/viernes-n/clase-16)
 - [Clase 17: Diseño Web, parte 1]({{site.baseurl}}/bitacora/viernes-n/clase-17)
-- [Clase 18: Diseño Web, parte 2]({{site.baseurl}}/bitacora/viernes-n/clase-17)
+- [Clase 18: Diseño Web, parte 2]({{site.baseurl}}/bitacora/viernes-n/clase-18)
 - [Clase 19: Usabilidad y Experiencia de Usuario]({{site.baseurl}}/bitacora/viernes-n/clase-19)
 - [Clase 20: Arquitectura (Parte 1)]({{site.baseurl}}/bitacora/viernes-n/clase-20)
-- [Clase 21: Arquitectura (parte 2)]({{site.baseurl}}/bitacora/viernes-n/clase-20)
-- [Clase 22: Arquitectura (parte 3)]({{site.baseurl}}/bitacora/viernes-n/clase-20)
+- [Clase 21: Arquitectura (parte 2)]({{site.baseurl}}/bitacora/viernes-n/clase-21)
+- [Clase 22: Arquitectura (parte 3)]({{site.baseurl}}/bitacora/viernes-n/clase-22)
 
