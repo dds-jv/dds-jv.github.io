@@ -2,21 +2,24 @@
 ---
 {% include head.html %}
 <body>
-    <header class="article-image">
-        <div class="post-article-image">
-            <div class="post-meta">
-                <h1 class="post-title">{{ page.title }}</h1>
-                <h4 class="post-meta-text">{{ page.description }}</h4>
-                <h5 class="post-viewmore"><i class="fa fa-angle-down"></i></h5>
-            </div>
+    {% if site.tooltip-enabled %}{% include tooltip.html %}{% endif %}
+    <header class="blog-header">
+        <div class="blog-header">
+            <h1 class="blog-title">{{ page.title }}</h1>
+            <p class="blog-description">{{ page.description }}</p>
+            <div class="custom-links"></div>
         </div>
     </header>
+    {% if page.frame %}
+    <iframe src="{{page.frame}}" frameborder="0"></iframe>
+    {% endif %}
     <main class="content" role="main">
-        <article class="post">
+        <article class="post" role="article">
             <section class="post-content">
                 {{content}}
             </section>
         </article>
+        {% include pseudofooter.html %}
     </main>
     {% include footer.html %}
     {% include javascripts.html %}

@@ -1,13 +1,11 @@
 {% include head.html %}
-<body>
-    {% include teaser.html %}
-    <header class="blog-header">
-        <h1 class="blog-title">¡Oops!</h1>
-        <h2 class="blog-description">No encontramos lo que querés ver</h2>
-        <div class="custom-links">
-            <a href="mailto:{{ site.email }}">¡Avisanos!</a>
-        </div>
-    </header>
-    {% include footer.html %}
-    {% include javascripts.html %}
-</body>
+{% if site.tooltip-enabled %}{% include tooltip.html %}{% endif %}
+{% include header.html %}
+<div class="error">
+    <img src="{{site.url}}{{site.baseurl}}/assets/images/error.png" />
+    <h1>404</h1>
+    <h2>No encontramos lo que buscás :'(</h1>
+    <a href="mailto:{{ site.email }}">Pssst, ¡avisanos!</a>
+</div>
+{% include pseudofooter.html %}
+{% include footer.html %}

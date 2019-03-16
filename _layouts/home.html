@@ -1,15 +1,7 @@
 {% include head.html %}
 <body>
-    {% include teaser.html %}
-    <header class="blog-header">
-        <h1 class="blog-title">{{ site.title }}</h1>
-        <h2 class="blog-description">{{ site.description }}</h2>
-        {% if site.tooltip-enabled %}{% include tooltip.html %}{% endif %}
-        <div class="custom-links">
-            <a href="mailto:{{ site.email }}">Sumate al grupo</a>
-        </div>
-        <div class="index-headline"></div>
-    </header>
+    {% if site.tooltip-enabled %}{% include tooltip.html %}{% endif %}
+    {% include header.html %}
     <main class="content" role="main">
         <article class="post" role="article">
             <header class="post-header">
@@ -21,6 +13,7 @@
                 <a class="post-button" href="{{site.baseurl}}/bitacora/viernes-n">Viernes (Noche)</a>
             </div>
         </article>
+        <hr>
         <article class="post" role="article">
             <header class="post-header">
                 <h2 class="post-title">Apuntes</h2>
@@ -42,6 +35,7 @@
                 <a class="post-button" href="{{site.baseurl}}/apuntes/bonus">Extras</a>
             </div>
         </article>
+        <hr>
         <article class="post" role="article">
             <header class="post-header">
                 <h2 class="post-title">Ejercicios cortos</h2>
@@ -58,6 +52,7 @@
                 <a class="post-button bonus-item" href="https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-4-ejercicios-funcional">Bonus: Diseño Funcional</a>
             </div>
         </article>
+        <hr>
         <article class="post" role="article">
             <header class="post-header">
                 <h2 class="post-title">Enunciados</h2>
