@@ -10,8 +10,8 @@ permalink: /ejercicios/
 - **Guia 2:** [Ejercicios Introductorios de Modelado con Objetos]({{site.baseurl}}/ejercicios/guia-2)
 - **Guia 3:** [Modelado con Objetos y Patrones]({{site.baseurl}}/ejercicios/guia-3)
 - **Guia 4:** [Diseño de Interfaces de Usuario]({{site.baseurl}}/ejercicios/guia-4)
-- **Guia 5:** [Modelado de Datos](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-modelado-datos)
+- **Guia 5:** [Modelado de Datos]({{site.baseurl}}/ejercicios/guia-5)
 
 ## ¡Bonus!
-- **Guia 6:** [Diseño Estructurado](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-disenio-estructurado)
-- **Guia 7:** [Diseño Funcional](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-4-ejercicios-funcional)
+- **Guia 6:** [Diseño Estructurado]({{site.baseurl}}/ejercicios/guia-6)
+- **Guia 7:** [Diseño Funcional]({{site.baseurl}}/ejercicios/guia-7)
