@@ -1,11 +1,9 @@
 <footer class="site-footer">
-    {% if page.layout != 'home' %}
-        <ul class="footer-go">
-            <li><a onclick="window.history.back();" class="footer-go">Atrás</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}" class="footer-go">Inicio</a></li>
-        </ul>
-        {% if site.tooltip-enabled %}{% include tooltip.html %}{% endif %}
-    {% endif %}
-    <div class="index-headline"></div>
-    <section class="copyright">&copy; {{ site.time | date: '%Y' }} &bull; <a href="http://jekyllrb.com">Jekyll</a></section>
+    <section class="copyright">
+        <span>&copy;</span>
+        <span>{{ site.time | date: '%Y' }}</span>
+        <a href="http://jekyllrb.com">
+            <img src="{{site.url}}{{site.baseurl}}/assets/images/jekyll.png" class="jekyll-logo" />
+        </a>
+    </section>
 </footer>  

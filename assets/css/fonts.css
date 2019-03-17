@@ -11,16 +11,16 @@
     font-family: "Open Sans"; src: url("../../assets/fonts/open-sans-italic.ttf"); font-weight: 400; font-style: italic;
 }
 @font-face {
-    font-family: "Linux Libertine"; src: url("../../assets/fonts/linux-libertine-normal-bold.ttf"); font-weight: 700; font-style: normal;
+    font-family: "Noto Serif"; src: url("../../assets/fonts/noto-serif-normal-bold.ttf"); font-weight: 700; font-style: normal;
 }
 @font-face {
-    font-family: "Linux Libertine"; src: url("../../assets/fonts/linux-libertine-normal.ttf"); font-weight: 400; font-style: normal;
+    font-family: "Noto Serif"; src: url("../../assets/fonts/noto-serif-normal.ttf"); font-weight: 400; font-style: normal;
 }
 @font-face {
-    font-family: "Linux Libertine"; src: url("../../assets/fonts/linux-libertine-italic-bold.ttf"); font-weight: 700; font-style: italic;
+    font-family: "Noto Serif"; src: url("../../assets/fonts/noto-serif-italic-bold.ttf"); font-weight: 700; font-style: italic;
 }
 @font-face {
-    font-family: "Linux Libertine"; src: url("../../assets/fonts/linux-libertine-italic.ttf"); font-weight: 400; font-style: italic;
+    font-family: "Noto Serif"; src: url("../../assets/fonts/noto-serif-italic.ttf"); font-weight: 400; font-style: italic;
 }
 @font-face {
     font-family: "Ubuntu Mono"; src: url("../../assets/fonts/ubuntu-mono-normal-bold.ttf"); font-weight: 700; font-style: normal;

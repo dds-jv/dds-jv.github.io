@@ -7,9 +7,9 @@ baseurl: ""
 url: "https://dds-jv.github.io"
 
 # Tooltip settings
-tooltip-enabled: false
-tooltip-label: ""
-tooltip-link: ""
+tooltip-enabled: true
+tooltip-label: "Buscamos a Arshak Karhanyan"
+tooltip-link: "http://siga.frba.utn.edu.ar/up/docs/PERSONA%20PERDIDA.jpeg"
 
 # Build settings
 markdown: kramdown

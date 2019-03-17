@@ -3,11 +3,8 @@ layout: page
 title: Jueves
 description: Turno Mañana
 permalink: /bitacora/jueves-m/
+frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRpW7bMemgkdsO6fTFyLC1fpQz0d4S1ArREtaLmNXbrg_7AF3iZnqet3TNWygHe-tGfwh_PlGfcu6ye/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
 ---
-## Planificación
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpW7bMemgkdsO6fTFyLC1fpQz0d4S1ArREtaLmNXbrg_7AF3iZnqet3TNWygHe-tGfwh_PlGfcu6ye/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height:600px"></iframe>
-
 ## Clases
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 
