@@ -20,7 +20,7 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - Clase 10
 - Clase 11
 - Clase 12
-- Clase 13
+- [Clase 13: ORM, Relaciones e Identidad]({{site.baseurl}}/bitacora/jueves-m/clase-13)
 - Clase 14
 - Clase 15
 - Clase 16
