@@ -3,7 +3,7 @@ layout: page
 title: Viernes
 description: Turno Noche
 permalink: /bitacora/viernes-n/
-frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRpyaoGNoxJNtRgjGIVCKgYgDp_xNwkpbme2vuYGwGidMlxFOKDN_drasfeH5FffzQQEV7rvJKUqElP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSECJ_lPtojMauPxZebtPwOYjHdfgjlqNK7qOPr0ntCM67pC5ZE7TZvCmkZcJXVXp8T-ftoxQtTgSku/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
 ---
 ## Clases
 
