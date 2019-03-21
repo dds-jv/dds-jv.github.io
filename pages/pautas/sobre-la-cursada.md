@@ -84,12 +84,30 @@ Nada de ésto debe entenderse como una postura superada, la mera expresión de d
 
 Llegó la hora de hablar de otro temido tema: los paros docentes.
 
+.....
+
+
+## Sobre las herramientas de comunicación
+
+### Lista de correo
+
+Es obligatorio inscribirse a la lista del curso: por allí se compartirá material, discusiones, anuncios, etc.
+
+...para inscribirse....
+
+### Página
+
+....acá vas a encontrar el seguimiento (recomendamos fuertemente leerlo antes de la clase), ejercicios y parciales (resueltos, pero siempre para discutir, no hay verdad absoluta)
+
+
+### Repositorios de la cátedra
+
+....
+
+
 
 Pero diseño no es un culto al sufrimiento
 
   - Diseñar es más que sólo diseñar
-  - Respeto e inclusión
-  - Adherirse a los paros
-  - Habrá aspectos que tendrán que investigar por su cuenta
   - Tendrán que dedicarle tiempo a la materia (sí, quizás tanto como a operativos)
   - https://docs.google.com/document/d/1HHJMaRvjYbIjfpQM_WFtGHS9cTAvWWx0dQjPR60dqz8/edit
