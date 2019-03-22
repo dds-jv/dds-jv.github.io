@@ -31,7 +31,7 @@ Ni sí ni no. Aprender equivocándose choca con nuestras expectativas del aprend
 
 Peor aún, el cumplimiento riguroso de una currícula obliga a que cualquier desviación del plan original, en la que todo el curso avanza a una misma velocidad, con tasas de error bajas y controladas, sea un fracaso de les docentes, de les estudiantes, o ambes. ¡Todo un contrasentido!
 
-El problema es que en una educación fragmentaria en la que la adquisición de conocimientos individuales, desprovistos de su dinamismo y relación natural, orientada a las evaluaciones antes que a los aprendizajes significativos, al depóstio bancarizado de información antes que a la construcción de saberes cooperativos, y al cumplimiento de currículas modulares antes que a los recorridos enriquecedores, el aprendizaje del diseño de sistemas (como así cualquier actividad que involucre práctica, creatividad, discusión, pero también apropiación de contenidos disciplinares _duros_) siempre será trunco, y apenas una aproximación a lo que debe ser.
+El problema es que en una educación fragmentaria en la que la adquisición de conocimientos individuales, desprovistos de su dinamismo y relación natural, orientada a las evaluaciones antes que a los aprendizajes significativos, al depósito bancarizado de información antes que a la construcción de saberes cooperativos, y al cumplimiento de currículas modulares antes que a los recorridos enriquecedores, el aprendizaje del diseño de sistemas (como así cualquier actividad que involucre práctica, creatividad, discusión, pero también apropiación de contenidos disciplinares _duros_) siempre será trunco, y apenas una aproximación a lo que debe ser.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ny61lc2xiZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -79,13 +79,14 @@ Pero **SÍ** es una  materia en la que:
 * vincularemos a la actividad con cuestiones que la trascienden
 
 
-## Sobre el respeto e inclusión
+## Sobre el respeto
 
 Desde el equipo docente creemos que no hay educación posible sin respeto entre todas las partes: todes (estudiantes y docentes) somos personas, y estamos acá para enseñar y aprender, pero también para pasar momentos disfrutables. Por eso es importante que siempre tengamos esto en cuenta, tanto para ofrecerlo como para exigirlo, y señalarlo si se quiebra.
 
-En particular, creemos que estamos atravesando un momento de doble responsabilidad compartida: por un lado, la reivindicación de los derechos de las mujeres y el colectivo LGBT+ y el combate férreo a toda forma de discriminación, violencia o acoso, y en particular, la lucha contra la marcada brecha de género que existe en las carreras de informática y afines.
+En particular, creemos que estamos atravesando un momento de doble responsabilidad compartida:
 
-...citas...
+ * por un lado, la reivindicación de los derechos de las mujeres y el colectivo LGBT+ y el combate férreo a toda forma de discriminación, violencia o acoso, en general.
+ * por el otro, la lucha contra la marcada brecha de género que existe en las carreras de informática y afines, en particular. Te dejamos este excelente [informe de la Fundación Sadosky](http://www.fundacionsadosky.org.ar/wp-content/uploads/2014/06/Informe-sobre-Genero-final.pdf)
 
 Nada de esto debe entenderse como una postura superada, la mera expresión de deseo de obsevación de estas cuestiones no nos convierte automáticamente en portaderes de una verdad, o nos libra de micro-prácticas machistas, pero si consideramos fundamental ponerlas sobre la mesa, abrirlas al debate, y esperar tanto de estudiantes como docentes, nuevamente, su aceptación y exigencia.
 
