@@ -111,28 +111,23 @@ Ah, y por si lo notaste, acá hay una [nota muy recomendada del Gato y la Caja](
 
 Llegó la hora de hablar de otro temido tema: los paros docentes.
 
+La respuesta breve es que sí, nos adherimos, a veces no yendo a clases, y otras veces, de forma activa (es decir, dando las clases pero no tomando listas). 
 
-## Sobre las herramientas de comunicación
+## ¿Cómo nos comunicamos?
 
 ### Lista de correo
 
-Es obligatorio inscribirse a la lista del curso: por allí se compartirá material, discusiones, anuncios, etc.
-
-...para inscribirse....
-
-### Página
-
-....acá vas a encontrar el seguimiento (recomendamos fuertemente leerlo antes de la clase), ejercicios y parciales (resueltos, pero siempre para discutir, no hay verdad absoluta)
+Es obligatorio inscribirse a la lista del curso: por allí se compartirá material, discusiones, anuncios, etc. Hacelo desde este [enlace](https://dds-jv.github.io/mailto:dds-jv-cursada@googlegroups.com). Vas a necesitar una cuenta de Google o compatible.
 
 
 ### Repositorios de la cátedra
 
-* http://github.com/ddsutn
+El repositorio de la cátedra es http://github.com/ddsutn, ahí vas a encontrar ejemplos varios de código (que iremos enlazando) y tu repositorio. Vas a necesitar un usuario Github.
 
 
 ## Seguimiento de cursada
 
-Pero diseño no es un culto al sufrimiento
+¡Mirá siempre el seguimiento de las clases antes y después de cada una! Lo vas encontrar en las bitácoras:
 
-
-  - https://docs.google.com/document/d/1HHJMaRvjYbIjfpQM_WFtGHS9cTAvWWx0dQjPR60dqz8/edit
+* [Jueves](https://dds-jv.github.io/bitacora/jueves-m/)
+* [Viernes](https://dds-jv.github.io/bitacora/viernes-n/)
