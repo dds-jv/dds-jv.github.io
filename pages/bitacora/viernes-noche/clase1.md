@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clase 1
-description: Viernes (Noche)
+description: Viernes (Noche, 2019)
 permalink: /bitacora/viernes-n/clase-1/
 ---
 
