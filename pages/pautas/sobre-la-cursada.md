@@ -111,7 +111,11 @@ Ah, y por si lo notaste, acá hay una [nota muy recomendada del Gato y la Caja](
 
 Llegó la hora de hablar de otro temido tema: los paros docentes.
 
-La respuesta breve es que sí, nos adherimos, a veces no yendo a clases, y otras veces, de forma activa (es decir, dando las clases pero no tomando listas). 
+La respuesta breve es que sí, nos adherimos, a veces no yendo a clases, y otras veces, de forma activa (es decir, dando las clases pero no tomando listas), eso dependerá del reclamo particular y de la planificación a ese día. Vemos a este como un último recurso, al que sólo recurriremos cuando sea necesario.
+
+¿El motivo? Por un lado, porque creemos en la educación pública, y no estaríamos aquí si no fuera por ella. Y por otro, porque creemos que la labor docente debe ser considerada de excelencia y no de segunda, y una de (las tantas) formas de jerarquizarla es asignándole salarios acordes a las realidades. Pero sobre todo, porque pensamos que _docente que lucha, docente que enseña_.
+
+![](http://www.cepid.com.ar/wp-content/uploads/2017/04/el-maestro-ense%C3%B1ando-300x128.jpg)
 
 ## ¿Cómo nos comunicamos?
 
