@@ -21,7 +21,7 @@ _Marge, no voy a mentirte_: _diseño_ es una materia anual, compleja e integrado
 
 ## ¿Es difícil aprender a diseñar?
 
-Aprender a diseñar no es imposible, pero tampoco es trivial: no hay caminos directos ni atajos rápidos. Aprehender las técnicas y cualidades de diseño es un camino no lineal, sinuoso, que requiere tiempo y paciencia. A diseñar se aprende leyendo y estudiando de las lecciones y errores de otres, pero sobre todo, haciendo, equivocándose y volviendo a hacer.
+Dominar el _arte_ de diseñar no es imposible, pero tampoco es trivial: no hay caminos directos ni atajos rápidos. Aprehender las técnicas y cualidades de diseño es un camino no lineal, sinuoso, que requiere tiempo y paciencia. A diseñar se aprende leyendo y estudiando de las lecciones y errores de otres, pero sobre todo, haciendo, equivocándose y volviendo a hacer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vqLKyKcVWb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -37,7 +37,7 @@ El problema es que en una educación fragmentaria en la que la adquisición de c
 
 ## ¿Y entonces? ¿Será muy pesada la cursada? ¿Se puede aprobar? ¿Puedo ya empezar a llorar?
 
-¡No todo está perdido! Quizás estudiar bajo esta estructura no sea la forma ideal, pero definitivamente hay mucho que podemos y vamos a aprender durante la cursada. Eso sí, tendremos que aprender a (en el ínterin) aceptar y convivir con algunas realidades:
+¡No todo está perdido! Quizás estudiar bajo esta estructura no sea la forma ideal, pero definitivamente hay mucho que podemos y vamos a conocer durante la cursada. Eso sí, tendremos que aceptar (en el ínterin) y convivir con algunas realidades:
 
 1. Llevarse trabajo para la casa será la regla y no la excepción
 2. Los trabajos prácticos muchas veces requerirán entregas y reentregas
@@ -46,26 +46,22 @@ El problema es que en una educación fragmentaria en la que la adquisición de c
 
 Si considerás que astas son condiciones justas, este es tu lugar. ¡Te esperamos!
 
-## Sobre los horarios
+## ¿Cuánto demoran las correcciones?
+
+Las correcciones de los parciales ocurren siempre antes del fin de la cursada en plazos razonables. Sin embargo, los primeros recuperatorios (que se toman a mediados de diciembre) suelen demorar más tiempo: suelen estar a fines de enero o principios de febrero, dos semanas antes de los segundos recuperatorios. ¿Por qué? Porque por un lado nos solemos tomar bastante tiempo para entender y revisar los exámenes, y dar el mejor feedback posible, y por otro lado, porque les docentes también nos tomamos vacaciones.
+
+Esto significa que salvo que estés muy convencide de que te fue bien en el recuperatorio... ¡estudies durante el verano!
+
+## ¿Cuál es el horario de cursada?
 
 Las clases serán teórico-practicas, aunque usualmente más prácticas que teóricas. Para aprovechar al máximo el tiempo de clase, necesitaremos dos cosas:
 
 1. Que traigan los textos teóricos leídos
-2. Que respetemos los horarios: de 19 a 22 los viernes, .... los jueves.
+2. Que respetemos los horarios: de 19 a 22.15 los viernes, y de 9.15 a 12.30 los jueves.
 
-## Sobre qué contenidos esperar (o no) de la materia
+## ¿Qué temas vamos a ver en la materia?
 
-Ahora sí, yendo a los contenidos concretos, diseño **NO** es una materia:
-
-* de lenguajes de programación o sobre tecnologías concretas, pero de todas formas los necesitaremos para bajar los conceptos a detalle.
-* de repaso de Análisis. Asumiremos que tenés claros los conceptos de requerimiento funcional y no funcional, de especificación de caso de uso o de historia de usuario, de entrevista y una noción ciclo de vida del software. Si no fuera el caso, consultanos y te proveeremos apuntes niveladores.
-* de repaso de Paradigmas. Asumiremos que tenés claros los conceptos de declaratividad, expresividad, orden superior, polimorfismo y excepciones, y que podés resolver problemas de programación bajo el paradigma de objetos. Si no fuera el caso, consultanos y te proveeremos apuntes niveladores.
-que te enseñe trucos para aprobar los TP de Operativos, TADP o TGC; pero muchas ideas te pueden ser de gran ayuda: si bien no hablaremos de `sockets`, metaprogramación o `sprites`, las ideas de diseño que verás acá son aplicables a muchas otras materias
-* basada en herramientas que ofrecen las bases de datos relacionales. Pero sí necesitaremos algunos conocimientos básicos sobre las mismas en el segundo cuatrimestre, es recomendable cursar en paralelo Gestión de Datos
-* en la que tengas que recitar de memoria un catálogo de patrones de diseño: si bien utilizaremos eventualmente la idea de patrón (solución conocida a problema recurrente), nos servirán sólo como catalizador de nuestro proceso de pensamiento, no son el foco de la materia. Diseñar NO es aplicar patrones.
-* de la que vayas a salir con un título de arquitecte o gurú del software, pero que te dará valiosos fundamentos del diseño y desarrollo de sistemas para la vida profesional
-
-Pero **SÍ** es una  materia en la que:
+Ahora sí, yendo a los contenidos concretos, diseño es una materia en que:
 
 * pondremos al diseño y construcción de software en el contexto del ciclo de vida del desarrollo de sistemas, y veremos cómo factores externos técnicos, humanos y económicos los afectan
 * aprenderemos sobre cualidades de diseño y de software
@@ -79,7 +75,26 @@ Pero **SÍ** es una  materia en la que:
 * vincularemos a la actividad con cuestiones que la trascienden
 
 
-## Sobre el respeto
+## ¿Y qué queda afuera?
+
+Diseño **NO** es una materia:
+
+* de lenguajes de programación o sobre tecnologías concretas, pero de todas formas los necesitaremos para bajar los conceptos a detalle.
+* de repaso de Análisis. Asumiremos que tenés claros los conceptos de requerimiento funcional y no funcional, de especificación de caso de uso o de historia de usuario, de entrevista y una noción ciclo de vida del software. Si no fuera el caso, consultanos y te proveeremos apuntes niveladores.
+* de repaso de Paradigmas. Asumiremos que tenés claros los conceptos de declaratividad, expresividad, orden superior, polimorfismo y excepciones, y que podés resolver problemas de programación bajo el paradigma de objetos. Si no fuera el caso, consultanos y te proveeremos apuntes niveladores.
+que te enseñe trucos para aprobar los TP de Operativos, TADP o TGC; pero muchas ideas te pueden ser de gran ayuda: si bien no hablaremos de `sockets`, metaprogramación o `sprites`, las ideas de diseño que verás acá son aplicables a muchas otras materias
+* basada en herramientas que ofrecen las bases de datos relacionales. Pero sí necesitaremos algunos conocimientos básicos sobre las mismas en el segundo cuatrimestre, es recomendable cursar en paralelo Gestión de Datos
+* en la que tengas que recitar de memoria un catálogo de patrones de diseño: si bien utilizaremos eventualmente la idea de patrón (solución conocida a problema recurrente), nos servirán sólo como catalizador de nuestro proceso de pensamiento, no son el foco de la materia. Diseñar NO es aplicar patrones.
+* de la que vayas a salir con un título de arquitecte o gurú del software, pero que te dará valiosos fundamentos del diseño y desarrollo de sistemas para la vida profesional
+
+
+## ¿Voy a tener que bastante dedicarle tiempo a la materia?
+
+Sí.
+
+(De verdad, no nos ocurrió nada mejor para decir acá...)
+
+## ¿Y qué hay sobre el lenguaje y el respeto?
 
 Desde el equipo docente creemos que no hay educación posible sin respeto entre todas las partes: todes (estudiantes y docentes) somos personas, y estamos acá para enseñar y aprender, pero también para pasar momentos disfrutables. Por eso es importante que siempre tengamos esto en cuenta, tanto para ofrecerlo como para exigirlo, y señalarlo si se quiebra.
 
@@ -88,13 +103,13 @@ En particular, creemos que estamos atravesando un momento de doble responsabilid
  * por un lado, la reivindicación de los derechos de las mujeres y el colectivo LGBT+ y el combate férreo a toda forma de discriminación, violencia o acoso, en general.
  * por el otro, la lucha contra la marcada brecha de género que existe en las carreras de informática y afines, en particular. Te dejamos este excelente [informe de la Fundación Sadosky](http://www.fundacionsadosky.org.ar/wp-content/uploads/2014/06/Informe-sobre-Genero-final.pdf)
 
-Nada de esto debe entenderse como una postura superada, la mera expresión de deseo de obsevación de estas cuestiones no nos convierte automáticamente en portaderes de una verdad, o nos libra de micro-prácticas machistas, pero si consideramos fundamental ponerlas sobre la mesa, abrirlas al debate, y esperar tanto de estudiantes como docentes, nuevamente, su aceptación y exigencia.
+¡Cuidado! Nada de esto debe entenderse como una postura superada, no somos portaderes de una verdad, o nos posiciona fuera de una sociedad plagada de prácticas micro-prácticas machistas. Pero sí consideramos fundamental poner estas problemáticas sobre la mesa, abrirlas al debate, y esperar tanto de estudiantes como docentes, nuevamente, tanto su aceptación y exigencia.
 
-## Sobre las luchas docentes
+Ah, y por si lo notaste, acá hay una [nota muy recomendada del Gato y la Caja](https://elgatoylacaja.com.ar/la-lengua-degenerada/) sobre cómo el lenguaje impacta en la forma en que pensamos (y sí, también vale para el nombre de las abstracciones en el software).
+
+## ¿Les docentes se adhieren a los paros?
 
 Llegó la hora de hablar de otro temido tema: los paros docentes.
-
-.....
 
 
 ## Sobre las herramientas de comunicación
@@ -112,12 +127,12 @@ Es obligatorio inscribirse a la lista del curso: por allí se compartirá materi
 
 ### Repositorios de la cátedra
 
-....
+* http://github.com/ddsutn
 
 
+## Seguimiento de cursada
 
 Pero diseño no es un culto al sufrimiento
 
-  - Diseñar es más que sólo diseñar
-  - Tendrán que dedicarle tiempo a la materia (sí, quizás tanto como a operativos)
+
   - https://docs.google.com/document/d/1HHJMaRvjYbIjfpQM_WFtGHS9cTAvWWx0dQjPR60dqz8/edit

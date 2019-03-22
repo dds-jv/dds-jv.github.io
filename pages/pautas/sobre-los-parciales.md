@@ -5,13 +5,11 @@ description: Pautas básicas para parciales felices
 permalink: /pautas/sobre-los-parciales
 ---
 
+# Sobre los Parciales
 
+Página en construcción.
 
-
-- Recomendaciones y consideraciones
-
-  Sobre los Parciales
-
+<!-- -->
   - La corrección es cruzada, pero puede fallar o estar incompleta
   - No se desaprueba por un único error
   - El primer y segundo parcial son muy diferentes: el primero suele ser más extenso y requerir mucha más práctica, con tazas mayores de desaprobación, mientras que el segundo es más concreto y suele tener mayores tazasa de aprobación, pero requiere mucha práctica en máquina y conocimiento de las herramientas involucradas.
