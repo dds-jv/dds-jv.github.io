@@ -7,7 +7,7 @@ permalink: /bitacora/viernes-n/clase-1/
 
 **¡Hola!**
 
-Ésta página corresponde a la primera clase, y habrá una por cada encuentro. Acá encontrarás apuntes y ejercicios que desarrollamos en clase, además de contenido recomendado para que profundices (o amplies) lo visto después. 
+Ésta página corresponde a la primera clase, y habrá una por cada encuentro. Acá encontrarás apuntes y ejercicios que desarrollamos en clase, además de contenido recomendado para que profundices (o amplies) lo visto después.
 
 Si bien está pensado para que puedas seguir lo visto estés donde estés, es importante aclarar que éstos contenidos no reemplazan a la cursada.
 
@@ -27,7 +27,6 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 
 - [Introducción al Desarrollo de Software](https://docs.google.com/document/d/1TZeWMdtMOKv7fESrFyJEJXWLTVutGVy_Gho9h5e1tRY/edit#heading=h.hegow82vrh7m)
     - _Complementario: [Introducción a Diseño de Sistemas](https://docs.google.com/document/d/1mqWuU_5p9l6GIfHXSjcoyDXILWTKq2eW2dLFlIBOQzk)_
-    - _Complementario: [Guía para Comunicar un Diseño](https://docs.google.com/document/d/1eXLlNppAX-7E2M8Xxs0MCckdn4XVEYmeQNaS_E1RqTc/edit)_
 - [Introducción a Arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE)
 
 # Ejercicio/s
@@ -35,10 +34,13 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 - [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU)
     - [Posibles soluciones](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI): ¡Prestá atención a los diagramas UML!
 
-# Tarea :'(
+# Tarea
 - [¡Repasá Objetos!](http://www.pdep.com.ar/material/apuntes/apuntes-de-la-cursada)
 - Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ).
-    - Si te interesa practicar, ¡tratá de implementar la solución!
-    - **¡Alternativa!** Lecciones de _Java_ en [Mumuki](https://dds-utn-frba.mumuki.io).
+  - ¡tratá de implementar la solución de Macowins!
+  - **¡Alternativa!** Lecciones de _Java_ en [Mumuki](https://mumuki.io/ddsjv).
+- Para la construcción del proyecto _Java_ vamos a usar [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/)
 - Si aún no usaste _Git_, es importante que [leas ésta introducción](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)-
-- ¡Armá tu grupo! Pueden ser de **ambos** cursos ;).
+- Leé el apunte que explica como [Comunicar un diseño](https://docs.google.com/document/d/1eXLlNppAX-7E2M8Xxs0MCckdn4XVEYmeQNaS_E1RqTc/edit)
+- Leé el apunte para que explica las [Cualidades de diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
+- ¡Armá tu grupos si aún no lo hiciste! Pueden ser de **ambos** cursos ;).
