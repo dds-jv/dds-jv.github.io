@@ -32,7 +32,7 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 # Ejercicio/s
 
 - [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU)
-    - [Posibles soluciones](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI): ¡Prestá atención a los diagramas UML!
+
 
 # Tarea
 - [¡Repasá Objetos!](http://www.pdep.com.ar/material/apuntes/apuntes-de-la-cursada)
