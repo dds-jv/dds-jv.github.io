@@ -48,9 +48,14 @@ Si considerás que astas son condiciones justas, este es tu lugar. ¡Te esperamo
 
 ## ¿Cuánto demoran las correcciones?
 
-Las correcciones de los parciales ocurren siempre antes del fin de la cursada en plazos razonables. Sin embargo, los primeros recuperatorios (que se toman a mediados de diciembre) suelen demorar más tiempo: suelen estar a fines de enero o principios de febrero, dos semanas antes de los segundos recuperatorios. ¿Por qué? Porque por un lado nos solemos tomar bastante tiempo para entender y revisar los exámenes, y dar el mejor feedback posible, y por otro lado, porque les docentes también nos tomamos vacaciones.
+Las correcciones de los parciales ocurren siempre antes del fin de la cursada en plazos razonables. Sin embargo, los primeros recuperatorios (que se toman a mediados de diciembre) suelen demorar más tiempo: suelen estar a fines de enero o principios de febrero, dos semanas antes de los segundos recuperatorios.
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/415pS46tqBL.jpg" alt="drawing" width="200"/>
+
+¿Por qué? Porque por un lado nos solemos tomar bastante tiempo para entender y revisar los exámenes, y dar el mejor feedback posible, y por otro lado, porque les docentes también nos tomamos vacaciones.
 
 Esto significa que salvo que estés muy convencide de que te fue bien en el recuperatorio... ¡estudies durante el verano!
+
 
 ## ¿Cuál es el horario de cursada?
 
