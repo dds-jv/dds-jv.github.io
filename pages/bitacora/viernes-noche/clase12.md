@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clase 12
-description: Viernes (Noche)
+description: Viernes (Noche, 2018)
 permalink: /bitacora/viernes-n/clase-12/
 ---
 
