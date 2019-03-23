@@ -62,7 +62,7 @@ Esto significa que salvo que estés muy convencide de que te fue bien en el recu
 Las clases serán teórico-practicas, aunque usualmente más prácticas que teóricas. Para aprovechar al máximo el tiempo de clase, necesitaremos dos cosas:
 
 1. Que traigan los textos teóricos leídos
-2. Que respetemos los horarios: de 19 a 22.15 los viernes, y de 9.15 a 12.30 los jueves.
+2. Que respetemos los horarios: de 19 a 22.15 los viernes, y de 9.00 a 12.30 los jueves.
 
 ## ¿Qué temas vamos a ver en la materia?
 
