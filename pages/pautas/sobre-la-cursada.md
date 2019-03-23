@@ -131,7 +131,7 @@ Es obligatorio inscribirse a la lista del curso: por allí se compartirá materi
 
 ### Repositorios de la cátedra
 
-El repositorio de la cátedra es http://github.com/ddsutn, ahí vas a encontrar ejemplos varios de código (que iremos enlazando) y tu repositorio. Vas a necesitar un usuario Github.
+El repositorio de la cátedra es https://github.com/dds-utn, ahí vas a encontrar ejemplos varios de código (que iremos enlazando) y tu repositorio. Vas a necesitar un usuario Github.
 
 
 ## Seguimiento de cursada
