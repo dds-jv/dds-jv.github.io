@@ -90,7 +90,7 @@ Diseño **NO** es una materia:
 * que te enseñe trucos para aprobar los TP de Operativos, TADP o TGC; pero muchas ideas te pueden ser de gran ayuda: si bien no hablaremos de `sockets`, metaprogramación o `sprites`, las ideas de diseño que verás acá son aplicables a muchas otras materias.
 * basada en herramientas que ofrecen las bases de datos relacionales. Pero sí necesitaremos algunos conocimientos básicos sobre las mismas en el segundo cuatrimestre, es recomendable cursar en paralelo Gestión de Datos.
 * en la que tengas que recitar de memoria un catálogo de patrones de diseño: si bien utilizaremos eventualmente la idea de patrón (solución conocida a problema recurrente), nos servirán sólo como catalizador de nuestro proceso de pensamiento, no son el foco de la materia. Diseñar NO es aplicar patrones.
-* de la que vayas a salir con un título de arquitecto o gurú del software, pero que te dará valiosos fundamentos del diseño y desarrollo de sistemas para la vida profesional.
+* de la que vayas a salir con un título de arquitecte o gurú del software, pero que te dará valiosos fundamentos del diseño y desarrollo de sistemas para la vida profesional.
 
 
 ## ¿Voy a tener que dedicarle bastante tiempo a la materia?
