@@ -21,7 +21,7 @@ _Marge, no voy a mentirte_: _diseño_ es una materia anual, compleja e integrado
 
 ## ¿Es difícil aprender a diseñar?
 
-Dominar el _arte_ de diseñar no es imposible, pero tampoco es trivial: no hay caminos directos ni atajos rápidos. Aprender las técnicas y cualidades de diseño es un camino no lineal, sinuoso, que requiere tiempo y paciencia. A diseñar se aprende leyendo y estudiando de las lecciones y errores de otres, pero sobre todo, haciendo, equivocándose y volviendo a hacer.
+Dominar el _arte_ de diseñar no es imposible, pero tampoco es trivial: no hay caminos directos ni atajos rápidos. Aprehender las técnicas y cualidades de diseño es un camino no lineal, sinuoso, que requiere tiempo y paciencia. A diseñar se aprende leyendo y estudiando de las lecciones y errores de otres, pero sobre todo, haciendo, equivocándose y volviendo a hacer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vqLKyKcVWb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
