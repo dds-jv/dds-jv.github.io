@@ -12,6 +12,7 @@ permalink: /enunciados/parte-a
 - [PGM (Hormiguero) (07-08-2015)](https://docs.google.com/document/d/10YG5vVS_UxHfhQnewQW9oleX3AbQyQcNwFajm_Y5bB4/edit#heading=h.l7htq1w726rk)
 - [Politics (08/07/2015)](https://docs.google.com/document/d/1I4Nsm7SU9xayS2a_SyN7_t2P4wfkCFYNtpaPWNtB490/edit?usp=sharing)
 - [Corrector de Exámenes (13-12-2014)](https://docs.google.com/document/d/1X8n5fNsA_O1e7e5zLNT_CaMNzVIBfSERUnr124UkWL0/edit#heading=h.lbsw4sbxydcn)
+    - Solucion: [Evaluando alternativa/s de diseño al Corrector de Exámenes](https://docs.google.com/document/d/1F3MK2cjnFZiKdlHEkKyyGg0WblYb3A3bCJIN4k2Asm4/edit#heading=h.mtd0ygpdrc3t)
 - [Venta de Entradas (08-08-2014)](https://docs.google.com/document/d/1rBV8UHO8L3pefuFpkCXY8fbottrlrMM-dLqSh7UZvqg/edit)
 - [Analizador de Facebook (02-07-2014)](https://docs.google.com/document/d/1Q0yGfgdxxOHmR_rwdAJ5XM-3u1xYtAtPcjZHdj75zY8/edit?usp=sharing)
 - [Máquina Industrial de Helado (12-2014)](https://docs.google.com/document/d/18MGJ-HvNZZxwA0gs0M2sNg-tCx8pxfwbOIzQP5n2o5I/edit?usp=sharing)
