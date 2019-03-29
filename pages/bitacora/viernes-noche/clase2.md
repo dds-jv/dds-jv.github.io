@@ -27,3 +27,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 - [Diseño del Manejo de Errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#)
 - Complementario:
   - _Complementario: [Excepciones en Java](https://docs.google.com/document/d/1G0a9j-OA0rIEA5cdvEhIMbztJVo86ssvZKBK8HL9akg/edit)_
+
+# Ejercicio
+
+- [¿Que me pongo? (primera iteración)](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ/edit?usp=drivesdk)
