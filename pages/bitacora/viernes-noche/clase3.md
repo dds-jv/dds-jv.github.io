@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 3
-description: Viernes (Noche, 2018)
-permalink: /bitacora/viernes-n/clase-3/
+title: Clase 6
+description: Viernes (Noche, 2019)
+permalink: /bitacora/viernes-n/clase-6/
 ---
 
 # Resumen
