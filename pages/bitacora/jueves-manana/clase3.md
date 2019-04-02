@@ -22,7 +22,7 @@ El ejercicio que se trabajará será el de [Macowins](https://goo.gl/tSWzi4).
 
 En ésta clase vamos a continuar viendo los Patrones de Diseño, pero en particular un tipo de ellos: Los [_Creacionales_](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#heading=h.6ya5si9ipi77), que como bien nos indica su nombre, consisten en buenas prácticas a casos frecuentes de creación de instancias.
 También explicaremos porque decir _instanciación_ no es lo mismo que _configuración_.
-  - Builder
+  - [Builder](https://sourcemaking.com/design_patterns/builder)
   - [Singleton](https://sourcemaking.com/design_patterns/singleton)
 
 Además, hablaremos sobre [_Inyección de Dependencias_](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit#heading=h.niaj9skgl3x9) y como hacerlo de forma correcta para favorecer la inmutabilidad y mantener el principio _fail-fast_ (¿se acuerdan?).
@@ -41,10 +41,8 @@ Trabajaremos con el siguiente ejercicio (¡accedé al [repositorio](https://gith
 
 # Material Complemetario
 
-- Abstract Factory
-- Repasar:
-	- Builder
-	- Factory Method
-- _Opcional: Prototype_
+- [Abstract Factory](https://sourcemaking.com/design_patterns/abstract_factory)
+- [Factory Method](https://sourcemaking.com/design_patterns/factory_method)
+- _Opcional: [Prototype](https://sourcemaking.com/design_patterns/prototype)_
   
 _Opcional:_ Leer éste apunte sobre [Patrones Creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4).
