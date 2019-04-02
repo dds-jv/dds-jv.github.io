@@ -47,4 +47,4 @@ Trabajaremos con el siguiente ejercicio (¡accedé al [repositorio](https://gith
 	- Factory Method
 - _Opcional: Prototype_
   
-_Opcional:_, Leer éste apunte sobre [Patrones Creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4).
+_Opcional:_ Leer éste apunte sobre [Patrones Creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4).
