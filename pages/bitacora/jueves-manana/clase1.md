@@ -1,9 +1,17 @@
 ---
 layout: page
 title: Clase 1
-description: Jueves (Mañana)
+description: Jueves (Mañana, 2019)
 permalink: /bitacora/jueves-m/clase-1/
 ---
+
+**¡Hola!**
+
+Ésta página corresponde a la primera clase, y habrá una por cada encuentro. Acá encontrarás apuntes y ejercicios que desarrollamos en clase, además de contenido recomendado para que profundices (o amplíes) lo visto después.
+
+Si bien está pensado para que puedas seguir lo visto estés donde estés, es importante aclarar que éstos contenidos no reemplazan a la cursada.
+
+¡Buen comienzo! ;)
 
 # Resumen
 
@@ -29,7 +37,7 @@ permalink: /bitacora/jueves-m/clase-1/
 # Tarea
 - [¡Repasá Objetos!](http://www.pdep.com.ar/material/apuntes/apuntes-de-la-cursada)
 - Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ).
-  - ¡tratá de implementar la solución de Macowins!
+  - ¡Tratá de implementar la solución de Macowins!
   - **¡Alternativa!** Lecciones de _Java_ en [Mumuki](https://mumuki.io/ddsjv).
 - Para la construcción del proyecto _Java_ vamos a usar [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/)
 - Si aún no usaste _Git_, es importante que [leas ésta introducción](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)-
