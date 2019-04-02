@@ -1,9 +1,17 @@
 ---
 layout: page
 title: Clase 1
-description: Jueves (Mañana)
+description: Jueves (Mañana, 2019)
 permalink: /bitacora/jueves-m/clase-1/
 ---
+
+**¡Hola!**
+
+Ésta página corresponde a la primera clase, y habrá una por cada encuentro. Acá encontrarás apuntes y ejercicios que desarrollamos en clase, además de contenido recomendado para que profundices (o amplíes) lo visto después.
+
+Si bien está pensado para que puedas seguir lo visto estés donde estés, es importante aclarar que éstos contenidos no reemplazan a la cursada.
+
+¡Buen comienzo! ;)
 
 # Resumen
 
