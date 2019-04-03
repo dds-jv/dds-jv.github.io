@@ -26,6 +26,7 @@ También explicaremos porque decir _instanciación_ no es lo mismo que _configur
 
 Además, hablaremos sobre [_Inyección de Dependencias_](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit#heading=h.niaj9skgl3x9) y como hacerlo de forma correcta para favorecer la inmutabilidad y mantener el principio _fail-fast_ (¿se acuerdan?).
 
+<!---
 ### Práctica
 
 Trabajaremos con el siguiente ejercicio (¡accedé al [repositorio](https://github.com/dds-utn/computers)!):
@@ -37,6 +38,7 @@ Trabajaremos con el siguiente ejercicio (¡accedé al [repositorio](https://gith
 >
 > Tener en cuenta la restricción de que las Placas de Video nVidia funcionan solo con microprocesadores Intel y las placas de video AMD funcionan solo con microprocesadores AMD.
 > Una vez finalizado hay que saber el precio del componente que es igual a la sumatoria de precios de los componentes.
+-->
 
 # ¿Qué queda leer?
 
@@ -45,5 +47,5 @@ Trabajaremos con el siguiente ejercicio (¡accedé al [repositorio](https://gith
 	- Builder
 	- Factory Method
 - _Opcional: Prototype_
-  
-_Opcional:_, Leer éste apunte sobre [Patrones Creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4). 
+
+_Opcional:_, Leer éste apunte sobre [Patrones Creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4).
