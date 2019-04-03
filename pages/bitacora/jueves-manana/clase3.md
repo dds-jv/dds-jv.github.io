@@ -9,7 +9,7 @@ permalink: /bitacora/jueves-m/clase-3/
 
 Recordá que siempre es importante tener presente lo visto en la [clase anterior]({{site.baseurl}}/bitacora/jueves-m/clase-2) para poder consultarnos cualquier inquietud que te haya quedado.
 
-Pasado mañana, sábado 6/4 a las 10:00 o a las 14:00 (pueden asistir en cualquier horario), habrá en el Laboratorio de Medrano un taller introductorio relacionado a Java, Maven y Git. La asistencia es opcional, aunque es altamente recomendado para aquellos que no manejaron éstas tecnologías previamente y necesitan un poco más de tiempo.
+Pasado mañana, sábado 6/4 a las 9:00 o a las 14:00 (pueden asistir en cualquier horario), habrá en el Laboratorio de Medrano un taller introductorio relacionado a Java, Maven y Git. La asistencia es opcional, aunque es altamente recomendado para aquellos que no manejaron éstas tecnologías previamente y necesitan un poco más de tiempo.
 
 Es importante que lleven leído o tengan a mano lo siguiente:
 - Apunte de [Java](https://goo.gl/ioY8cc).
