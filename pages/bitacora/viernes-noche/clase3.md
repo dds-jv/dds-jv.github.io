@@ -6,7 +6,7 @@ permalink: /bitacora/viernes-n/clase-3/
 ---
 **¡Hola!**
 
-Recordá tener presente lo visto en la [clase anterior]({{site.baseurl}}/bitacora/viernes-noche/clase-2), particularmente el documento que habla sobre _manejo de errores_ y consultarnos cualquier duda que tengas.
+Recordá tener presente lo visto en la [clase anterior]({{site.baseurl}}/bitacora/viernes-n/clase-2), particularmente el documento que habla sobre _manejo de errores_ y consultarnos cualquier duda que tengas.
 
 > Si cursás en el K3053 y no sos _oyente_, recordá que hoy estaremos en **Medrano**. En otro caso, deberás asistir al aula S10.
 
