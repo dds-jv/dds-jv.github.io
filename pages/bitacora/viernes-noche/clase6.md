@@ -1,51 +1,28 @@
 ---
 layout: page
-title: Clase 3
+title: Clase 6
 description: Viernes (Noche, 2019)
-permalink: /bitacora/viernes-n/clase-3/
+permalink: /bitacora/viernes-n/clase-6/
 ---
-**¡Hola!**
-
-Recordá que siempre es importante tener presente lo visto en la [clase anterior]({{site.baseurl}}/bitacora/viernes-noche/clase-2), es fundamental que leas el documento que habla sobre [manejo de errores] y consultarnos cualquier inquietud que tengas.
-
-Mañana, sábado 6/4 a las 09:00 o a las 14:00 (pueden asistir en cualquier horario), habrá en el Laboratorio de Medrano un taller introductorio relacionado a Java, Maven y Git. La asistencia es opcional, aunque es altamente recomendado para aquellos que no manejaron éstas tecnologías previamente y necesitan un poco más de tiempo.
-
-Es importante que lleven leído o tengan a mano lo siguiente:
-- Apunte de [Java](https://goo.gl/ioY8cc).
-- Apunte de [Maven](https://goo.gl/FAFyRe).
-- Apunte de [GIT](https://goo.gl/cwjcYB).
-
-El ejercicio que se trabajará será el de [Macowins](https://goo.gl/tSWzi4).
-
 
 # Resumen
-En ésta clase vamos a continuar viendo los Patrones de Diseño, pero en particular un tipo de ellos: Los [_Creacionales_](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#heading=h.6ya5si9ipi77), que como bien nos indica su nombre, consisten en buenas prácticas a casos frecuentes de creación de instancias.
-También explicaremos porque decir _instanciación_ no es lo mismo que _configuración_.
-  - Builder
-  - [Singleton](https://sourcemaking.com/design_patterns/singleton)
 
-Además, hablaremos sobre [_Inyección de Dependencias_](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit#heading=h.niaj9skgl3x9) y como hacerlo de forma correcta para favorecer la inmutabilidad y mantener el principio _fail-fast_ (¿se acuerdan?).
+Aprenderemos:
 
-<!---
-### Práctica
+* ¿Cómo introducir interfaces entre componentes?
+* ¿Qué son Interfaces Entrantes y Salientes?
+* ¿Qué son las interfaces sincrónicas y asincrónicas?
+* ¿Cómo hacer _testing_ cuando interactuamos con servicios externos?
 
-Trabajaremos con el siguiente ejercicio (¡accedé al [repositorio](https://github.com/dds-utn/computers)!):
+# Lo que vemos
 
-> En un Negocio de Tecnología dejan construir a los clientes las PCs a partir de los diferentes componentes. Solo se venden PCs armadas completas y funcionales.
-> Hay componentes mínimos para hacer andar una PC y otros que son opcionales
-> - Requeridos: Motherboard, Fuente, Disco de Almacenamiento
-> - Opcionales: Placa de Video, Teclado, Mouse, Monitor, Disco SSD.
->
-> Tener en cuenta la restricción de que las Placas de Video nVidia funcionan solo con microprocesadores Intel y las placas de video AMD funcionan solo con microprocesadores AMD.
-> Una vez finalizado hay que saber el precio del componente que es igual a la sumatoria de precios de los componentes.
--->
+- [Diseño de interfaces: Entrantes/Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
+- [Patrones de Diseño - Patrón Adapter](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
 
-# ¿Qué queda leer?
+# Lo que queda para leer
+- [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
+ 
+# Material Complementario:
 
-- Abstract Factory
-- Repasar:
-	- Builder
-	- Factory Method
-- _Opcional: Prototype_
-
-_Opcional:_, Leer éste apunte sobre [Patrones Creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4).
+- [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)
+- [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
