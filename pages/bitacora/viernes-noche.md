@@ -9,14 +9,9 @@ frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSECJ_lPtojMauPxZebtPwOY
 
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 
-### Actualizadas
-Corresponden a las clases del ciclo actual
 - [Clase 1: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacora/viernes-n/clase-1)
 - [Clase 2: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores]({{site.baseurl}}/bitacora/viernes-n/clase-2)
 - [Clase 3: Patrones Creacionales]({{site.baseurl}}/bitacora/viernes-n/clase-3)
-
-### Archivo
-Corresponden a las clases del ciclo anterior
 - [Clase 4: Eventos y Notificaciones]({{site.baseurl}}/bitacora/viernes-n/clase-4)
 - [Clase 5: Cosificar Comportamiento]({{site.baseurl}}/bitacora/viernes-n/clase-5)
 - [Clase 6: Adaptación de Interfaces entre Componentes]({{site.baseurl}}/bitacora/viernes-n/clase-6)
