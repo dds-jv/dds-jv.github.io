@@ -36,16 +36,8 @@ Mañana, sábado 6/4 a las 9:00 o 14:00 (pueden ir en cualquier horario), habrá
   - _Opcional: Otro apunte sobre [Patrones Creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4)_
 - [Inyección de Dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit#heading=h.niaj9skgl3x9)
 
-<!---
-# Ejercicio
+# Practica
 
-Trabajaremos con el siguiente ejercicio (¡accedé al [repositorio](https://github.com/dds-utn/computers)!):
-
-> En un Negocio de Tecnología dejan construir a los clientes las PCs a partir de los diferentes componentes. Solo se venden PCs armadas completas y funcionales.
-> Hay componentes mínimos para hacer andar una PC y otros que son opcionales
-> - Requeridos: Motherboard, Fuente, Disco de Almacenamiento
-> - Opcionales: Placa de Video, Teclado, Mouse, Monitor, Disco SSD.
->
-> Tener en cuenta la restricción de que las Placas de Video nVidia funcionan solo con microprocesadores Intel y las placas de video AMD funcionan solo con microprocesadores AMD.
-> Una vez finalizado hay que saber el precio del componente que es igual a la sumatoria de precios de los componentes.
--->
+- [Solucion: Primera iteracion](https://docs.google.com/document/d/1ayrs5-vrGsXgZKDob-f5_0fmhCYXf7-ty5Be6NXITRY/edit#)
+  Analizamos la solución de la clase anterior.
+- En clase: [¿Que me pongo? (Segunda iteración)](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y)
