@@ -26,6 +26,7 @@ Mañana, sábado 6/4 a las 9:00 o 14:00 (pueden ir en cualquier horario), habrá
 - Conoceremos a los Patrones Creacionales, que nos brindarán buenas prácticas a casos frecuentes de creación de instancias.
   - Patrón _Builder_.
   - Patrón _Singleton_.
+  - Patrón _Abstract Factory_.
 - Descubriremos porqué no es lo mismo decir _instanciación_ que _configuración_.
 - Hablaremos sobre _Inyección de Dependencias_ y como favorecer la inmutabilidad, manteniendo así el principio _fail-fast_.
 
@@ -36,8 +37,7 @@ Mañana, sábado 6/4 a las 9:00 o 14:00 (pueden ir en cualquier horario), habrá
   - _Opcional: Otro apunte sobre [Patrones Creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4)_
 - [Inyección de Dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit#heading=h.niaj9skgl3x9)
 
-# Practica
+# Práctica
 
-- [Solucion: Primera iteracion](https://docs.google.com/document/d/1ayrs5-vrGsXgZKDob-f5_0fmhCYXf7-ty5Be6NXITRY/edit#)
-  Analizamos la solución de la clase anterior.
 - En clase: [¿Que me pongo? (Segunda iteración)](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y)
+- _Solución a la [Primera Iteracion](https://docs.google.com/document/d/1ayrs5-vrGsXgZKDob-f5_0fmhCYXf7-ty5Be6NXITRY/edit#): Analizamos la solución de la clase anterior._

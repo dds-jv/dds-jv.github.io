@@ -5,23 +5,20 @@ description: Viernes (Noche, 2018)
 permalink: /bitacora/viernes-n/clase-4/
 ---
 
+**¡Hola!**
+Antes que nada, la parte odiosa: Leé los apuntes de la clase anterior y consultanos las dudas que tengas. Como la próxima semana no vamos avernos ya que es _Viernes Santo_, tenés una buena oportunidad para ponerte al día si aún no lo hiciste.
+
 # Resumen
 
-Aprenderemos sobre la noción de eventos, que aplicada al diseño de interfaces entre componentes nos permitirá utilizar el asincronismo para desacoplarlos y ganar flexibilidad.
+- Trabajaremos con el Modelado del Estado como un Objeto, además de Eventos y Transiciones.
+- Repasaremos el Patrón Builder y Composite.
 
 # Lo que vemos
 
-- [Patrón Observer](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
+- [Patrón State](https://sourcemaking.com/design_patterns/state)
+- [Patrones Builder y Composite](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+- [Diagrama de Estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit?usp=sharing)
 
-# Ejercicio de clase
-
-- Macowins con Tarjetas ([Repositorio](https://github.com/dds-utn/macowins-tarjetas)): Ver _branches_ `adapter-con-test` y `observer-implementado`
-
-# Material Complementario:
-
-- [Sobre los efectos en el observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
-- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit)
-
-
-
-
+# Ejercitación
+ 
+- [Enunciado "Pequeños Grandes Mundos" (Hormiguero)](https://docs.google.com/document/d/10YG5vVS_UxHfhQnewQW9oleX3AbQyQcNwFajm_Y5bB4/edit#heading=h.l7htq1w726rk)

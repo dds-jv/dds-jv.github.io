@@ -12,10 +12,12 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 1: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacora/viernes-n/clase-1)
 - [Clase 2: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores]({{site.baseurl}}/bitacora/viernes-n/clase-2)
 - [Clase 3: Patrones Creacionales]({{site.baseurl}}/bitacora/viernes-n/clase-3)
-- [Clase 4: Eventos y Notificaciones]({{site.baseurl}}/bitacora/viernes-n/clase-4)
+- [Clase 4: Inversión de Control]({{site.baseurl}}/bitacora/viernes-n/clase-4)
+
+<!--
 - [Clase 5: Cosificar Comportamiento]({{site.baseurl}}/bitacora/viernes-n/clase-5)
 - [Clase 6: Adaptación de Interfaces entre Componentes]({{site.baseurl}}/bitacora/viernes-n/clase-6)
-- [Clase 7: Inversión de Control. Modelar Estado con Objetos]({{site.baseurl}}/bitacora/viernes-n/clase-7)
+- [Clase 7: Eventos y Notificaciones]({{site.baseurl}}/bitacora/viernes-n/clase-7)
 - [Clase 8: MVC y UI]({{site.baseurl}}/bitacora/viernes-n/clase-8)
 - [Clase 9: Patrones de Comunicación entre Componentes]({{site.baseurl}}/bitacora/viernes-n/clase-9)
 - [Clase 10: Manejo del Cambio, Deuda Tecnica y Refactoring]({{site.baseurl}}/bitacora/viernes-n/clase-10)
@@ -31,4 +33,4 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 20: Arquitectura (parte 1)]({{site.baseurl}}/bitacora/viernes-n/clase-20)
 - [Clase 21: Arquitectura (parte 2)]({{site.baseurl}}/bitacora/viernes-n/clase-21)
 - [Clase 22: Arquitectura (parte 3)]({{site.baseurl}}/bitacora/viernes-n/clase-22)
-
+-->
