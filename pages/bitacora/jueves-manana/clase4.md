@@ -10,17 +10,16 @@ Puede que sonemos repetitivos, pero la semana que viene (Jueves Santo) es un bue
 
 # Resumen
 
-- Repasaremos el [Patrón Builder y Composite](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf).
-- Trabajaremos con el Modelado del Estado como un Objeto, además de Eventos y Transiciones.
+En ésta clase hablaremos del concepto de *Inversión de control* ...
+Además veremos las diferencias existentes entre las Bibliotecas y los Frameworks.
 
 # Lo que vemos
+- [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit)
+
+# Tarea:
 
 - [Patrón State](https://sourcemaking.com/design_patterns/state)
 - [Diagrama de Estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit?usp=sharing)
-
-# Práctica
- 
-- [Enunciado "Pequeños Grandes Mundos" (Hormiguero)](https://docs.google.com/document/d/10YG5vVS_UxHfhQnewQW9oleX3AbQyQcNwFajm_Y5bB4/edit#heading=h.l7htq1w726rk)
 
 # Material Complementario:
 
