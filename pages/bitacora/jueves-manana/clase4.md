@@ -1,23 +1,29 @@
 ---
 layout: page
 title: Clase 4
-description: Jueves (Mañana)
+description: Jueves (Mañana, 2019)
 permalink: /bitacora/jueves-m/clase-4/
 ---
 
+**¡Hola!**
+Puede que sonemos repetitivos, pero la semana que viene (Jueves Santo) es un buen momento para que te pongas al día, si todavía no lo hiciste, con los apuntes de clases anteriores así podes consultarnos las dudas que te vayan surgiendo.
+
 # Resumen
 
-Aprenderemos sobre la noción de eventos, que aplicada al diseño de interfaces entre componentes nos permitirá utilizar el asincronismo para desacoplarlos y ganar flexibilidad.
+En ésta clase hablaremos del concepto de __Inversión de control__, la idea que está detrás de los Frameworks, y sus implementaciones mediante _eventos_ o mediante la _Inyección de dependencias_.
+
+Además veremos las diferencias entre las Bibliotecas y los Frameworks.
 
 # Lo que vemos
 
-- [El patrón observer](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
+- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit)
+- [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit)
+
+# Tarea:
+
+- [Patrón State](https://sourcemaking.com/design_patterns/state)
+- [Diagrama de Estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit?usp=sharing)
 
 # Material Complementario:
 
-- [Sobre los efectos en el observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
-- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit)
-
-
-
-
+- [Patrón Adapter](https://sourcemaking.com/design_patterns/adapter)
