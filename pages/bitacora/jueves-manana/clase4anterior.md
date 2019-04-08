@@ -2,7 +2,7 @@
 layout: page
 title: Clase 4
 description: Jueves (Mañana)
-permalink: /bitacora/jueves-m/clase-4/
+permalink: /bitacora/jueves-m/clase-4-anterior/
 ---
 
 # Resumen
