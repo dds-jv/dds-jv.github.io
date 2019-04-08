@@ -10,10 +10,13 @@ Puede que sonemos repetitivos, pero la semana que viene (Jueves Santo) es un bue
 
 # Resumen
 
-En ésta clase hablaremos del concepto de *Inversión de control* ...
+En ésta clase hablaremos del concepto de __Inversión de control__, la idea que está detrás de los Frameworks, y sus implementaciones mediante _eventos_ o mediante la _Inyección de dependencias_.
+
 Además veremos las diferencias existentes entre las Bibliotecas y los Frameworks.
 
 # Lo que vemos
+
+- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit)
 - [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit)
 
 # Tarea:
@@ -23,5 +26,4 @@ Además veremos las diferencias existentes entre las Bibliotecas y los Framework
 
 # Material Complementario:
 
-- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit)
 - [Patrón Adapter](https://sourcemaking.com/design_patterns/adapter)
