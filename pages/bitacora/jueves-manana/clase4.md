@@ -10,7 +10,7 @@ Puede que sonemos repetitivos, pero la semana que viene (Jueves Santo) es un bue
 
 # Resumen
 
-En ésta clase hablaremos del concepto de __Inversión de control__, la idea que está detrás de los Frameworks, y sus implementaciones mediante _eventos_ o mediante la _Inyección de dependencias_.
+En ésta clase hablaremos del concepto de __Inversión de control__, la idea que está detrás de los Frameworks, y sus implementaciones mediante _eventos_ o _Inyección de dependencias_.
 
 Además veremos las diferencias entre las Bibliotecas y los Frameworks.
 
