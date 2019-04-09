@@ -21,8 +21,8 @@ Además veremos las diferencias entre las Bibliotecas y los Frameworks.
 
 # Tarea:
 
-- [Patrón State](https://sourcemaking.com/design_patterns/state)
-- [Diagrama de Estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit?usp=sharing)
+- Lee el apunte sobre el [Patrón State](https://sourcemaking.com/design_patterns/state)
+- Leé el apunte que explica como comunicar un diseño con un [Diagrama de Estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit?usp=sharing)
 
 # Material Complementario:
 
