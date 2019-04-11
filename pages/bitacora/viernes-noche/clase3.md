@@ -33,9 +33,11 @@ Mañana, sábado 6/4 a las 9:00 o 14:00 (pueden ir en cualquier horario), habrá
 # Apuntes
 
 - [Patrones Creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#heading=h.6ya5si9ipi77).
-  - _Complementario: [Singleton](https://sourcemaking.com/design_patterns/singleton)_
+  - _Complementario: [Singleton (SourceMaking)](https://sourcemaking.com/design_patterns/singleton)_
   - _Opcional: Otro apunte sobre [Patrones Creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4)_
 - [Inyección de Dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit#heading=h.niaj9skgl3x9)
+
+- _Recomendado: [Design Patterns](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)_
 
 # Práctica
 
