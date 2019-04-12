@@ -21,5 +21,5 @@ Antes que nada, la parte odiosa: Leé los apuntes de la clase anterior y consult
 - _Recomendado: [Design Patterns](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)_
 
 # Práctica
- 
-- Enunciado: ["Pequeños Grandes Mundos" (Hormiguero)](https://docs.google.com/document/d/10YG5vVS_UxHfhQnewQW9oleX3AbQyQcNwFajm_Y5bB4/edit#heading=h.l7htq1w726rk)
+
+- En clase: [¿Que me pongo? (Tercera iteración)](https://docs.google.com/document/d/1th_F_BsF91zKuFWk6POogegljhrVW9ThybW_9U_xJZY/edit#heading=h.uyku9mnteh0t)
