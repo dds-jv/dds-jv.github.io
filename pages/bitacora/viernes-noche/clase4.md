@@ -17,9 +17,15 @@ Antes que nada, la parte odiosa: Leé los apuntes de la clase anterior y consult
 
 - [Diagrama de Estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit?usp=sharing)
 - _SourceMaking: [Patrón State](https://sourcemaking.com/design_patterns/state)_
+- Biblioteca vs. Framework
 
 - _Recomendado: [Design Patterns](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)_
 
 # Práctica
 
+- Analizamos la solución de la segunda iteración.
 - En clase: [¿Que me pongo? (Tercera iteración)](https://docs.google.com/document/d/1th_F_BsF91zKuFWk6POogegljhrVW9ThybW_9U_xJZY/edit#heading=h.uyku9mnteh0t)
+
+# Tarea
+- Ver "Factory Method" y "Template Method".
+- ¡Realizar el TP!
