@@ -6,6 +6,7 @@ permalink: /bitacora/jueves-m/clase-4/
 ---
 
 **¡Hola!**
+
 Puede que sonemos repetitivos, pero la semana que viene (Jueves Santo) es un buen momento para que te pongas al día, si todavía no lo hiciste, con los apuntes de clases anteriores así podes consultarnos las dudas que te vayan surgiendo.
 
 # Resumen
