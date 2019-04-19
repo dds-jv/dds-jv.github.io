@@ -425,7 +425,8 @@ main.content > article.post > section.post-content > pre > code {
     padding-left: 0;
 }
 
-main.content > article.post > section.post-content > p code {
+main.content > article.post > section.post-content > p code,
+main.content > article.post > section.post-content > ul > li > code {
     background-color: #fff4f4;
     border: thin solid #f5c2c2;
     color: #e34f4f;
