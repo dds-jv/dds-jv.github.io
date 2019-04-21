@@ -18,7 +18,7 @@ Antes que nada, la parte odiosa: Leé los apuntes de la clase anterior y consult
 - [Biblioteca vs Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/)
 - [Diagrama de Estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit?usp=sharing)
 - _SourceMaking: [Patrón State](https://sourcemaking.com/design_patterns/state)_
-- [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9Rv K8Nv9orpxSoX eVA3R5Az1uYHhg8NRMtQ/edit#)
+- [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#)
 - _Recomendado: [Design Patterns](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)_
 - [¿Qué me pongo? (Alternativas de diseño a la segunda y tercera iteración)](https://docs.google.com/document/d/1rsv8a9EP9j5D9QLLOOpEqavBdKzdMhfMVPayW8yahow/edit?ts=5cba5a78#heading=h.mqh222e83i79)
 
