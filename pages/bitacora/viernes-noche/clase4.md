@@ -20,12 +20,12 @@ Antes que nada, la parte odiosa: Leé los apuntes de la clase anterior y consult
 - _SourceMaking: [Patrón State](https://sourcemaking.com/design_patterns/state)_
 - [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#)
 - _Recomendado: [Design Patterns](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)_
-- [¿Qué me pongo? (Alternativas de diseño a la segunda y tercera iteración)](https://docs.google.com/document/d/1rsv8a9EP9j5D9QLLOOpEqavBdKzdMhfMVPayW8yahow/edit?ts=5cba5a78#heading=h.mqh222e83i79)
+- [Qué me pongo (Alternativas de diseño a la segunda y tercera iteración)](https://docs.google.com/document/d/1rsv8a9EP9j5D9QLLOOpEqavBdKzdMhfMVPayW8yahow/edit?ts=5cba5a78#)
 
 # Práctica
 
 - Analizamos la solución de la segunda iteración.
-- En clase: [¿Que me pongo? (Tercera iteración)](https://docs.google.com/document/d/1th_F_BsF91zKuFWk6POogegljhrVW9ThybW_9U_xJZY/edit#heading=h.uyku9mnteh0t)
+- En clase: [Qué me pongo (Tercera iteración)](https://docs.google.com/document/d/1th_F_BsF91zKuFWk6POogegljhrVW9ThybW_9U_xJZY/edit#heading=h.uyku9mnteh0t)
 
 # Tarea
 
