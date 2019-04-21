@@ -15,8 +15,8 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 2: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores]({{site.baseurl}}/bitacora/jueves-m/clase-2)
 - [Clase 3: Patrones Creacionales]({{site.baseurl}}/bitacora/jueves-m/clase-3)
 - [Clase 4: Inversión de control]({{site.baseurl}}/bitacora/jueves-m/clase-4)
-- Clase 5
-- Clase 6
+- [Clase 5: Adaptación de interfaces entre componentes]({{site.baseurl}}/bitacora/jueves-m/clase-5)
+- [Clase 6: Patrones de comunicación entre componentes]({{site.baseurl}}/bitacora/jueves-m/clase-6)
 - Clase 7
 - Clase 8
 - Clase 9
