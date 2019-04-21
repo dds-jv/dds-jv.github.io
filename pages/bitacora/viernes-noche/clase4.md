@@ -24,8 +24,9 @@ Antes que nada, la parte odiosa: Leé los apuntes de la clase anterior y consult
 # Práctica
 
 - Analizamos la solución de la segunda iteración.
-- En clase: [¿Que me pongo? (Tercera iteración)](https://docs.google.com/document/d/1th_F_BsF91zKuFWk6POogegljhrVW9ThybW_9U_xJZY/edit#heading=h.uyku9mnteh0t)
+- En clase: [Qué me pongo (Tercera iteración)](https://docs.google.com/document/d/1th_F_BsF91zKuFWk6POogegljhrVW9ThybW_9U_xJZY/edit#heading=h.uyku9mnteh0t)
 
 # Tarea
-- Ver "Factory Method" y "Template Method".
+- Analizar las [Alternativas de diseño a la segunda y tercera iteración de "Qué me pongo"](https://docs.google.com/document/d/1rsv8a9EP9j5D9QLLOOpEqavBdKzdMhfMVPayW8yahow/edit?ts=5cba5a78#)
+- Ver [Factory Method](https://sourcemaking.com/design_patterns/abstract_factory) y [Template Method](https://sourcemaking.com/design_patterns/factory_method) "Template Method".
 - ¡Realizar el TP!
