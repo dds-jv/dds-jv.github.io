@@ -13,10 +13,10 @@ Hasta ahora trabajábamos con clases de nuestras soluciones, pero ahora vamos a 
 A su vez, también vamos a trabajar y pensar en como tendríamos que testearlos.
 
 # Resumen
-- ¿Cómo introducir interfaces entre componentes?
-- ¿Qué son Interfaces Entrantes y Salientes?
-- ¿Qué son las interfaces sincrónicas y asincrónicas?
-- ¿Cómo hacer _testing_ cuando interactuamos con servicios externos?
+- Aprendemos a trabajar interfaces para adaptar entre componentes.
+- Conocemos el concepto de Interfaces Entrantes y Salientes.
+- Descubriremos el concepto de sincronismo y asincronismo.
+- ¿Cómo _testear_ cuando interactuamos con servicios externos?
 
 # Apuntes
 - [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
@@ -26,7 +26,7 @@ A su vez, también vamos a trabajar y pensar en como tendríamos que testearlos.
 - _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
 
 # Práctica
-Stay tuned...
+--
 
 # Tarea
-Stay tuned...
+--
