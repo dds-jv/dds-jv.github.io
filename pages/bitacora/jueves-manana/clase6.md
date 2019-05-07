@@ -9,6 +9,8 @@ permalink: /bitacora/jueves-m/clase-6/
 
 En la clase pasada introducimos la noción de Componentes y las interfaces que nos permiten adaptarlos. En esta clase haremos mayor hincapié en la manera que estos se comunican entre sí.
 
+Además, les dejamos un apunte de [introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit) que sirve de complemento para lo que llegamos a nombrar la semana anterior.
+
 # Lo que vemos
 
 - [Patrones de Comunicación entre Componentes](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
