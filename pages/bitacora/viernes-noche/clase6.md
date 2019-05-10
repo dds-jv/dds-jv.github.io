@@ -1,28 +1,29 @@
 ---
 layout: page
 title: Clase 6
-description: Viernes (Noche, 2018)
+description: Viernes (Noche, 2019)
 permalink: /bitacora/viernes-n/clase-6/
 ---
+**¡Hola!**
+
+La clase anterior ya comenzamos a trabajar adaptando interfaces entre componentes. Hoy vamos a profundizarlo y, por supuesto, vamos a practicar al respecto. 
+
+Recordá que si estás inscripto al curso de Gastón, podés ir a **Medrano**. Mientras que, si estás inscripto al curso de Franco o sos oyente, deberías ir al aula de **Campus**. ¡No te olvides!
 
 # Resumen
 
-Aprenderemos:
+- Tiempo de Uso vs. Tiempo de Configuración: Veremos sus diferencias. 
+- Inyeccion de Dependencias.
+- Patrones de Comunicación entre Componentes. 
+  - Call & Return
+  - Memoria compartida
+  - Continuaciones
+  
+# Apuntes
 
-* ¿Cómo introducir interfaces entre componentes?
-* ¿Qué son Interfaces Entrantes y Salientes?
-* ¿Qué son las interfaces sincrónicas y asincrónicas?
-* ¿Cómo hacer _testing_ cuando interactuamos con servicios externos?
-
-# Lo que vemos
-
-- [Diseño de interfaces: Entrantes/Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
-- [Patrones de Diseño - Patrón Adapter](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
-
-# Lo que queda para leer
-- [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
+- [Patrones de Comunicación entre Componentes](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
+- [Comparación de los Patrones de Comunicación](https://docs.google.com/document/d/1dBaf8tILr37iD2mNMiZsfeYdL7AADW698skIkkoVU9g/edit)
  
-# Material Complementario:
+# Práctica
 
-- [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)
-- [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+- [¿Qué me pongo?: Quinta iteración]()
