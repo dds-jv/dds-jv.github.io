@@ -16,6 +16,7 @@ Recordá que si estás inscripto al curso de Gastón, podés ir a **Medrano**. M
 - Inyeccion de Dependencias.
 - Patrones de Comunicación entre Componentes. 
   - Call & Return
+  - Excepciones 
   - Memoria compartida
   - Continuaciones
   
@@ -23,7 +24,9 @@ Recordá que si estás inscripto al curso de Gastón, podés ir a **Medrano**. M
 
 - [Patrones de Comunicación entre Componentes](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
 - [Comparación de los Patrones de Comunicación](https://docs.google.com/document/d/1dBaf8tILr37iD2mNMiZsfeYdL7AADW698skIkkoVU9g/edit)
+- [Inyección de Dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit#heading=h.niaj9skgl3x9)
+- En [éste repositorio](https://github.com/dds-utn/patrones-comunicacion) tenemos ejemplos donde implementamos los patrones de comunicación.
  
 # Práctica
 
-- [¿Qué me pongo?: Quinta iteración]()
+- File System ([Ver Repositorio](https://github.com/dds-utn/file-system))
