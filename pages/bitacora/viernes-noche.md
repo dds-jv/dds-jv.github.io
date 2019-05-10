@@ -14,9 +14,9 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 3: Patrones Creacionales]({{site.baseurl}}/bitacora/viernes-n/clase-3)
 - [Clase 4: Inversión de Control]({{site.baseurl}}/bitacora/viernes-n/clase-4)
 - [Clase 5: Adaptación de Interfaces entre Componentes]({{site.baseurl}}/bitacora/viernes-n/clase-5)
+- [Clase 6: Tiempo de Uso vs. Tiempo de Configuración]({{site.baseurl}}/bitacora/viernes-n/clase-6)
 
 <!--
-- [Clase 5: Cosificar Comportamiento]({{site.baseurl}}/bitacora/viernes-n/clase-5)
 - [Clase 6: Adaptación de Interfaces entre Componentes]({{site.baseurl}}/bitacora/viernes-n/clase-6)
 - [Clase 7: Eventos y Notificaciones]({{site.baseurl}}/bitacora/viernes-n/clase-7)
 - [Clase 8: MVC y UI]({{site.baseurl}}/bitacora/viernes-n/clase-8)
