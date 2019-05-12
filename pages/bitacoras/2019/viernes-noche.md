@@ -10,7 +10,7 @@ frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSECJ_lPtojMauPxZebtPwOY
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 
 - [Clase 1: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-1)
-- [Clase 2: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores]({{site.baseurl}}/bitacora/viernes-n/clase-2)
+- [Clase 2: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-2)
 - [Clase 3: Patrones Creacionales]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-3)
 - [Clase 4: Inversión de Control]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-4)
 - [Clase 5: Adaptación de Interfaces entre Componentes]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-5)
