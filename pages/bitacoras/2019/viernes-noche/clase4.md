@@ -2,7 +2,7 @@
 layout: page
 title: Clase 4
 description: Viernes (Noche, 2019)
-permalink: /bitacora/viernes-n/clase-4/
+permalink: /bitacoras/2019/viernes-n/clase-4/
 ---
 **¡Hola!**
 

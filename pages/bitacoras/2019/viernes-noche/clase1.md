@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Clase 1
-description: Jueves (Mañana, 2019)
-permalink: /bitacora/jueves-m/clase-1/
+description: Viernes (Noche, 2019)
+permalink: /bitacoras/2019/viernes-n/clase-1/
 ---
 
 **¡Hola!**
@@ -32,15 +32,15 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 # Ejercicio/s
 
 - [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU)
-    - [Posibles soluciones](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI): ¡Prestá atención a los diagramas UML!
+
 
 # Tarea
 - [¡Repasá Objetos!](http://www.pdep.com.ar/material/apuntes/apuntes-de-la-cursada)
 - Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ).
-  - ¡Tratá de implementar la solución de Macowins!
+  - ¡tratá de implementar la solución de Macowins!
   - **¡Alternativa!** Lecciones de _Java_ en [Mumuki](https://mumuki.io/ddsjv).
 - Para la construcción del proyecto _Java_ vamos a usar [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/)
 - Si aún no usaste _Git_, es importante que [leas ésta introducción](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)-
 - Leé el apunte que explica como [Comunicar un diseño](https://docs.google.com/document/d/1eXLlNppAX-7E2M8Xxs0MCckdn4XVEYmeQNaS_E1RqTc/edit)
 - Leé el apunte para que explica las [Cualidades de diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
-- ¡Armá tu grupos si aún no lo hiciste!
+- ¡Armá tu grupos si aún no lo hiciste! Pueden ser de **ambos** cursos ;).

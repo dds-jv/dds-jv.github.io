@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Jueves
-description: Turno Mañana
-permalink: /bitacora/jueves-m/
+description: Turno Mañana - 2019
+permalink: /bitacoras/2019/jueves-m/
 frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRjEKcPqicYg7tVtVapxNsusp45lvi61CK8EdLEpTAmFG6UC4qPJPO2j4_838d_Jd3UN8gA_uo8Fhyz/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
 ---
 ## Alumnos
@@ -11,12 +11,12 @@ frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRjEKcPqicYg7tVtVapxNsus
 ## Clases
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 
-- [Clase 1: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacora/jueves-m/clase-1)
+- [Clase 1: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-1)
 - [Clase 2: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores]({{site.baseurl}}/bitacora/jueves-m/clase-2)
-- [Clase 3: Patrones Creacionales]({{site.baseurl}}/bitacora/jueves-m/clase-3)
-- [Clase 4: Inversión de control]({{site.baseurl}}/bitacora/jueves-m/clase-4)
-- [Clase 5: Adaptación de interfaces entre componentes]({{site.baseurl}}/bitacora/jueves-m/clase-5)
-- [Clase 6: Patrones de comunicación entre componentes]({{site.baseurl}}/bitacora/jueves-m/clase-6)
+- [Clase 3: Patrones Creacionales]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-3)
+- [Clase 4: Inversión de control]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-4)
+- [Clase 5: Adaptación de interfaces entre componentes]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-5)
+- [Clase 6: Patrones de comunicación entre componentes]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-6)
 - Clase 7
 - Clase 8
 - Clase 9

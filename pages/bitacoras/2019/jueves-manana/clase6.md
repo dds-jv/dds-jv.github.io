@@ -2,7 +2,7 @@
 layout: page
 title: Clase 6
 description: Jueves (Mañana, 2019)
-permalink: /bitacora/jueves-m/clase-6/
+permalink: /bitacoras/2019/jueves-m/clase-6/
 ---
 
 # Resumen
