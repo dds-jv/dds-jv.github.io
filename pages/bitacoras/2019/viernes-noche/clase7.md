@@ -22,9 +22,9 @@ En este clase vamos a estar viendo cómo modelar comportamiento, lo que comúnme
 
 # Material Complementario:
 
-- [Ejercicio Microprocesador](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit) donde van a encontrar una posible solución donde se implementa `Command`.
+- [Ejercicio Microprocesador](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit), donde van a encontrar una posible solución donde se implementa `Command`.
 - [Ejercicio Hitbug](https://docs.google.com/document/d/1TngwZCctCp4qKsdw89HLUc_GLSb6mxZ7_lJTTj3TOLM/edit)
-   - Este ejercicio (que fue un parcial) es largo y completo. Recomendamos que lo lean para que puedan tener una noción de que esperar de un primer parcial (si es que aun no vieron ninguno). Pueden omitir el punto de _code smells_. También es una bueno oportunidad para intentar resolverlo por su cuenta...  
+   - Este ejercicio (que fue un parcial) es largo y completo. Recomendamos que lo lean para que puedan empezar a enteder una noción de que esperar de un primer parcial (si es que aun no vieron ninguno). Pueden omitir el punto de _code smells_. También es una bueno oportunidad para intentar resolverlo por su cuenta...  
    - Una vez terminado pueden ver [una posible solución detallada](https://docs.google.com/document/d/1_ftxB1gTeNkN1qN_EMEIaF0vgtLkcH1SHwk-XA5_S1s/edit).
 
 
