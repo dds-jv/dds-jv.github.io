@@ -15,9 +15,9 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 4: Inversión de Control]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-4)
 - [Clase 5: Adaptación de Interfaces entre Componentes]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-5)
 - [Clase 6: Tiempo de Uso vs. Tiempo de Configuración]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-6)
+- [Clase 7: Cosificar Comportamiento]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-7)
 
 <!--
-- [Clase 7: Eventos y Notificaciones]({{site.baseurl}}/bitacora/viernes-n/clase-7)
 - [Clase 8: MVC y UI]({{site.baseurl}}/bitacora/viernes-n/clase-8)
 - [Clase 9: Patrones de Comunicación entre Componentes]({{site.baseurl}}/bitacora/viernes-n/clase-9)
 - [Clase 10: Manejo del Cambio, Deuda Tecnica y Refactoring]({{site.baseurl}}/bitacora/viernes-n/clase-10)
