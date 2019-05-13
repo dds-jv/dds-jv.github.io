@@ -2,7 +2,7 @@
 layout: page
 title: Clase 2
 description: Jueves (Mañana)
-permalink: /bitacoras/2019/bitacora/jueves-m/clase-2/
+permalink: /bitacoras/2019/jueves-m/clase-2/
 ---
 
 **¡Hola!**
