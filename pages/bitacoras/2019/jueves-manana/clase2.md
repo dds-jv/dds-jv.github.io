@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clase 2
-description: Jueves (Mañana)
+description: Jueves (Mañana, 2019)
 permalink: /bitacoras/2019/jueves-m/clase-2/
 ---
 
