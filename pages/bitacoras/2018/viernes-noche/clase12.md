@@ -2,7 +2,7 @@
 layout: page
 title: Clase 12
 description: Viernes (Noche, 2018)
-permalink: /bitacora/viernes-n/clase-12/
+permalink: /bitacoras/2018/viernes-n/clase-12/
 ---
 
 # Resumen
@@ -18,4 +18,3 @@ Esa duda hoy empezará a tener respuesta. Es un tema largo y es importante que t
 - [Normalización](https://docs.google.com/document/d/1Jil-3oiveXDtY1iKBCof7jE9ooRFJ-f1KjcXgaGk6F0/edit#heading=h.aa3gqw2dds4m)
 
 **Adicional:** [Componentes en la Base de Datos](https://docs.google.com/document/d/1zeagKbYb5w1mGCbTDGT1gRgaQS5keLrnAfFAn8v2dtY/edit)
-

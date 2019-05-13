@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Historial Bitácoras
+title: Historial de bitácoras
 description: Bitácoras años anteriores
 permalink: /bitacoras/bitacoras-anteriores/
 ---

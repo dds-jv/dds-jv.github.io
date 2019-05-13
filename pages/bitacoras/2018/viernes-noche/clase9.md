@@ -2,7 +2,7 @@
 layout: page
 title: Clase 9
 description: Viernes (Noche, 2018)
-permalink: /bitacora/viernes-n/clase-9/
+permalink: /bitacoras/2018/viernes-n/clase-9/
 ---
 
 # Resumen

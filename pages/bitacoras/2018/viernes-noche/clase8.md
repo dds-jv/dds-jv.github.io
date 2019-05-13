@@ -2,7 +2,7 @@
 layout: page
 title: Clase 8
 description: Viernes (Noche, 2018)
-permalink: /bitacora/viernes-n/clase-8/
+permalink: /bitacoras/2018/viernes-n/clase-8/
 ---
 
 # Resumen
@@ -29,9 +29,3 @@ Ahora, vamos a ver la Arquitectura a fondo, cubriendo Patrones de Arquitectura y
 - [Conversor de Unidades](https://github.com/uqbar-project/eg-conversor-arena-java) (en Arena)
 
 - _¡Bonus!_ Taller sobre Arena ([Dale, ¡entrá!](https://docs.google.com/document/d/17EvP3IGEbdzhC-da-V2iV3OB6yU4qYXbMNbycu3maPo/edit))
-
-
-
-
-
-
