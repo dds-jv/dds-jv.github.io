@@ -182,20 +182,29 @@ main.content > article > header.post-header > h2.post-title {
     margin: 0 0;
 }
 
+main.content > article > section.post-text,
 main.content > article > section.post-excerpt {
     letter-spacing: -0.5px;
     font-weight: 400;
     font-style: normal;
-    font-size: 16px;
     line-height: 1.5;
     color: #696969;
 }
 
+main.content > article > section.post-text {
+    font-size: 14px;
+}
+
+main.content > article > section.post-excerpt {
+    font-size: 16px;
+}
+main.content > article > section.post-text > a,
 main.content > article > section.post-excerpt > a {
     color: #555;
 }
 
-main.content > article > section.post-excerpt > a:hover {
+main.content > article > section.post-excerpt > a:hover, 
+main.content > article > section.post-text > a:hover {
     color: #333;
 }
 

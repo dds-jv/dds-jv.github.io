@@ -2,7 +2,7 @@
 layout: page
 title: Clase 22
 description: Viernes (Noche, 2018)
-permalink: /bitacora/viernes-n/clase-22/
+permalink: /bitacoras/2018/viernes-n/clase-22/
 ---
 # Resumen
 En ésta oportunidad, analizaremos las diferencias entre una API y una cola de mensajes. ¿En qué situación vamos a utilizar cada una?
