@@ -17,4 +17,4 @@ Veremos en profundidad el [Patrón Command](https://github.com/dieforfree/edsebo
 
 # Material complementario
 
-- [Acá](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit) hay un caso donde se implementa el patrón.
+- **¡Mirá!** [acá](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit) hay un ejemplo donde se implementa el _patrón command_.
