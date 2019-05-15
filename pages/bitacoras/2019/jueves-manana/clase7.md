@@ -23,6 +23,8 @@ En esta ocasión veremos en profundidad el [Patrón Command](https://github.com/
 
 # Práctica
 
+- Estaremos trabajando con una nueva iteración de [Qué Me Pongo]()
+
 # Material complementario
 
 - **¡Mirá!** [Acá](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit) hay un ejemplo donde se implementa el _patrón command_.
