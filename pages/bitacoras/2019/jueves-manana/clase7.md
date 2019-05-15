@@ -23,7 +23,7 @@ En esta ocasión veremos en profundidad el [Patrón Command](https://github.com/
 
 # Práctica
 
-- Estaremos trabajando con una nueva iteración de [Qué Me Pongo]()
+- Estaremos trabajando con una [nueva iteración de Qué Me Pongo]()
 
 # Material complementario
 
