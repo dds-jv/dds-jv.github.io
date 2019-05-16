@@ -50,7 +50,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    jemoji (0.10.1)
+    jemoji (0.11.0)
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (~> 3.0)
@@ -68,11 +68,11 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.11.3)
-    nokogiri (1.10.1)
+    nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.1-x64-mingw32)
+    nokogiri (1.10.3-x64-mingw32)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.1-x86-mingw32)
+    nokogiri (1.10.3-x86-mingw32)
       mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -93,7 +93,6 @@ GEM
       thread_safe (~> 0.1)
     tzinfo-data (1.2018.9)
       tzinfo (>= 1.0.0)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -111,4 +110,6 @@ DEPENDENCIES
   minima (~> 2.0)
   nokogiri (>= 1.8.5)
   tzinfo-data
-  wdm (~> 0.1.0)
+
+BUNDLED WITH
+   2.0.1
