@@ -23,8 +23,10 @@ En esta ocasión veremos en profundidad el [Patrón Command](https://github.com/
 
 # Práctica
 
-- Estaremos trabajando con una [nueva iteración de Qué Me Pongo](https://docs.google.com/document/d/1wS622pMwZrDK9ilL_hEt5bBE04vKUKZILx8cIQ-aQzU/edit?usp=sharing)
+- Estaremos trabajando con [Qué Me Pongo - Quinta iteración](https://docs.google.com/document/d/1wS622pMwZrDK9ilL_hEt5bBE04vKUKZILx8cIQ-aQzU/edit?usp=sharing)
 
 # Material complementario
 
 - **¡Mirá!** [Acá](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit) hay un ejemplo donde se implementa el _patrón command_.
+- Les dejamos también [Qué Me Pongo - Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit?usp=sharing).
+- [HitBug](https://docs.google.com/document/d/1TngwZCctCp4qKsdw89HLUc_GLSb6mxZ7_lJTTj3TOLM/edit) un parcial de hace algunos años donde aparecen también implementaciones del patrón.
