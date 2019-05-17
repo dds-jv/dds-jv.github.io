@@ -17,7 +17,7 @@ Retomando el concepto de la clase pasada de _tiempo de uso vs tiempo de configur
 
 # Ejercicio de clase
 
-- Qué Me Pongo - Quinta Iteración
+- [Qué Me Pongo - Quinta Iteración](https://docs.google.com/document/d/1wS622pMwZrDK9ilL_hEt5bBE04vKUKZILx8cIQ-aQzU/edit?usp=drivesdk)
 
 
 # Material Complementario:
