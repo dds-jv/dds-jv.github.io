@@ -17,7 +17,7 @@ Retomando el concepto de la clase pasada de _tiempo de uso vs tiempo de configur
 
 # Ejercicio de clase
 
-- :construction: Qué Me Pongo - Quinta Iteración :construction:
+- Qué Me Pongo - Quinta Iteración
 
 
 # Material Complementario:
