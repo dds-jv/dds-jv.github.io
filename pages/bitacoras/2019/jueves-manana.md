@@ -18,7 +18,7 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 5: Adaptación de interfaces entre componentes]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-5)
 - [Clase 6: Patrones de comunicación entre componentes]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-6)
 - [Clase 7: Cosificar comportamiento]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-7)
-- Clase 8
+- [Clase 8: Eventos y notificaciones]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-8)
 - Clase 9
 - Clase 10
 - Clase 11
