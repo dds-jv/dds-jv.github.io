@@ -8,6 +8,8 @@ permalink: /bitacoras/2019/viernes-n/clase-8/
 
 Siguiendo con los patrones de comportamiento, hoy trabajaremos con los eventos y las notificaciones que tenemos en una solucion. Como siempre, todo necesario para las siguientes entregas del Trabajo Práctico Anual.
 
+En tanto al aula, recordá que si estás inscripto al curso K3053 (de Franco), hoy te estaremos esperando en Medrano. Si sos oyente o pertenecés al otro curso, te esperamos en Campus como todos los viernes.
+
 # Resumen
 
 - Eventos.
