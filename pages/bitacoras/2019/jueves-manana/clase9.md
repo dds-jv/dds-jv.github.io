@@ -29,5 +29,3 @@ En ésta oportunidad analizaremos los casos no tan felices de un desarrollo, en 
 # Práctica
 
 - Monedero ([Repositorio](https://github.com/dds-utn/dds-monedero-java8))
-
-# Material complementario
