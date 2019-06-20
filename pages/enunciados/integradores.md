@@ -4,6 +4,7 @@ title: Integradores
 description: Algunos Enunciados
 permalink: /enunciados/integradores
 ---
+- [Vymyaa (15-02-2017)](https://docs.google.com/document/d/1vIT7xtOsrhzE0bdrf-qrkni9-P8UrnP9SZOzXVq-Zoc/edit#), incluye resolución
 - [Pelotaruleta (20-02-2016)](https://docs.google.com/document/d/1GbXULBTIwlxJiSmTzBQhUH9NXewjoqQ4EaskOKKU2es/edit?usp=sharing)
 - [SIGA (12-2015)](https://docs.google.com/document/d/1s9l9mB9mgMkzWMXq7Yry00f3pnD1PWCp8EsFMlzosO8/edit#heading=h.9fy1zux420qv)
 - [Stock Tracker (12-2015)](https://docs.google.com/document/d/1x889K8UnR8EVWvnGxx4I9VJHyZJJA7iSki_IcGSi7p4/edit)

@@ -16,5 +16,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
-  - jemoji
   - jekyll-sitemap
