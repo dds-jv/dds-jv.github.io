@@ -17,3 +17,5 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 6: Tiempo de Uso vs. Tiempo de Configuración]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-6)
 - [Clase 7: Cosificar Comportamiento]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-7)
 - [Clase 8: Eventos y Notificaciones]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-8)
+
+- [Clase 10: Arquitectura MVC]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-10)
