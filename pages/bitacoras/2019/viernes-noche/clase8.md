@@ -24,4 +24,4 @@ En tanto al aula, recordá que si estás inscripto al curso K3053 (de Franco), h
 
 # Práctica
 
-- ...
+- [¿Qué me pongo? (Sexta iteración)](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit)
