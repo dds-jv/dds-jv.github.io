@@ -25,7 +25,7 @@ Por una parte resaltaremos la importancia de contar con buenas prácticas para n
 
 - Deuda Técnica (Explicado por: [10Pines](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6ZTIyOGM3NjBjMWE4OTIx), [Martin Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) y [Ward Cunningham](http://wiki.c2.com/?WardExplainsDebtMetaphor))
 
-- _Complementario: ([Test-Driven Development](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit#heading=h.mm7wfgq1wuu1))_
+- _Complementario: [Test-Driven Development](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit#heading=h.mm7wfgq1wuu1)_
 
 # Práctica
 
