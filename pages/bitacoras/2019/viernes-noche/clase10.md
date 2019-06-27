@@ -6,7 +6,7 @@ permalink: /bitacoras/2019/viernes-n/clase-10/
 ---
 **¡Hola!**
 
-En ésta ocasión volvemos a pisar el acelerador para cubrir un Patrón de Arquitectura muy conocido: _Modelo-Vista-Controlador (también conocido como "MVC")_. Dentro de éste descubriremos las variantes de éste patrón y las características de éstos.
+En ésta ocasión volvemos a pisar el acelerador para cubrir un Patrón de Arquitectura muy conocido: _Modelo-Vista-Controlador (también conocido como "MVC")_. Dentro de éste descubriremos sus variantes y características.
 
 # Resumen
 

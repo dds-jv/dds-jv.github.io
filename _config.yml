@@ -7,9 +7,9 @@ baseurl: ""
 url: "https://dds-jv.github.io"
 
 # Tooltip settings
-tooltip-enabled: false
-tooltip-label: "Buscamos a Arshak Karhanyan"
-tooltip-link: "http://siga.frba.utn.edu.ar/up/docs/PERSONA%20PERDIDA.jpeg"
+tooltip-enabled: true
+tooltip-label: "URGENTE: Se solicita información sobre el paradero de Arshak Karhanyan"
+tooltip-link: "https://www.lanacion.com.ar/seguridad/recompensa-ofrecen-medio-millon-pesos-quien-de-nid2261631"
 
 # Build settings
 markdown: kramdown

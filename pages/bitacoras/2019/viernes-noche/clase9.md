@@ -8,7 +8,7 @@ permalink: /bitacoras/2019/viernes-n/clase-9/
 
 Hoy hacemos una pausa para analizar problemas frecuentes del día a día, los cuales pueden surgir como consecuencia de la evolución de un producto y/o el dominio del mismo.
 
-Por una parte resaltaremos la importancia de contar con buenas prácticas para nuestra solución. A su vez, como nada es perfecto, trabajaremos el concepto de _refactoring_, el cual nos permitirá mejorar código existente (aunque no siempre sea ésto posible). Y finalmente, describiremos que se suele entender por **deuda técnica**.
+Por una parte resaltaremos la importancia de contar con buenas prácticas para nuestra solución. A su vez, como nada es perfecto, trabajaremos el concepto de _refactoring_, el cual nos permitirá mejorar código existente. Como no siempre es ésto posible, conoceremos lo que se entiende por **deuda técnica**.
 
 # Resumen
 
