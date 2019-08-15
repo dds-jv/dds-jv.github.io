@@ -20,3 +20,4 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 9: Manejo del Cambio, Deuda Técnica y Refactoring]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-9)
 - [Clase 10: Patrón Arquitectural MVC, Binding e Interfaces]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-10)
 - [Clase 12: Modelo Relacional, Normalización y Denormalización]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-12)
+- [Clase 13: ORM, Relaciones e Identidad]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-13)
