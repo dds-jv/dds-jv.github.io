@@ -10,7 +10,7 @@ En esta oportunidad hablaremos sobre la persistencia y tocaremos los siguientes 
 - Utilidad y rol que cumple la misma en nuestros sistemas.
 - Mencionaremos diferentes medios de persistencia y modelos. Haciendo foco en el modelo relacional.
 - Repaso del diagrama DER y sus componentes.
-- Conceptos de normalizacioón/desnormalización.
+- Conceptos de normalización/desnormalización.
 
 # Apuntes
 - [Modelo Relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit#heading=h.aa3gqw2dds4m)
