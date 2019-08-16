@@ -10,6 +10,7 @@ Habiendo visto la teoría del _modelo relacional_, vamos a dar un paso más adel
 
 Para ahondar en esta cuestión vamos a estar trabajando con el repo
 - [Proyecto base de JPA](https://github.com/dds-utn/jpa-proof-of-concept-template)
+- También vamos a estar viendo [un proyecto sin ORM](https://github.com/dds-utn/eg-equipos-futbol-jdbc-java)
 
 Por lo que es importante, en la medida de lo posible, que traigan una compu con el repo ya clonada y tengan instalado el motor de base de datos MySQL Server.
 
