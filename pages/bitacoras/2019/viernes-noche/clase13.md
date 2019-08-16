@@ -20,6 +20,7 @@ _Nota: Especialmente para los que usan el entorno de Eclipse, ¡No olviden corre
 
 # Apuntes
 - [Mapeo de Objetos Relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit), a.k.a. ORM
+- [Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
 
 
 **Importante:**
