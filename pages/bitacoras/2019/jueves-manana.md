@@ -20,10 +20,10 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 7: Cosificar Comportamiento]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-7)
 - [Clase 8: Eventos y Notificaciones]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-8)
 - [Clase 9: Manejo del cambio, Deuda Técnica y Refactoring]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-9)
-- [Clase 10: Patrón Arquitectural MVC, Binding e Interfaces]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-10)
-- Clase 11
-- Clase 12
-- Clase 13
+- Clase 10: Diseño y metodologías de desarrollo
+- [Clase 11: Patrón Arquitectural MVC, Binding e Interfaces]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-11)
+- [Clase 12: Modelo Relacional, Normalización y Denormalización]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-12)
+- [Clase 13: ORM, Relaciones e Identidad]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-13)
 - Clase 14
 - Clase 15
 - Clase 16

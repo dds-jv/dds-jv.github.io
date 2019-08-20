@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 10
+title: Clase 11
 description: Jueves (Mañana, 2019)
-permalink: /bitacoras/2019/jueves-m/clase-10/
+permalink: /bitacoras/2019/jueves-m/clase-11/
 ---
 **¡Hola!**
 
