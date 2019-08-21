@@ -6,21 +6,14 @@ permalink: /bitacoras/2019/viernes-n/clase-13/
 ---
 
 # Resumen
-Habiendo visto la teoría del _modelo relacional_, vamos a dar un paso más adelante para empezar a entender cómo podemos persistir nuestros objetos bajo este modelo y que alternativas existen para engranar estos dos "mundos" que son distintos entre sí. 
-
-Para ahondar en esta cuestión vamos a estar trabajando con el repo
-- [Proyecto base de JPA](https://github.com/dds-utn/jpa-proof-of-concept-template)
-- También vamos a estar viendo [un proyecto sin ORM](https://github.com/dds-utn/eg-equipos-futbol-jdbc-java)
-
-Por lo que es importante, en la medida de lo posible, que traigan una compu con el repo ya clonada y tengan instalado el motor de base de datos MySQL Server.
-
-
-_Nota: Especialmente para los que usan el entorno de Eclipse, ¡No olviden correr Maven `mvn clean install`! a fin de contar previamente con las dependencias instaladas que necesita el repo (ya que esto puede demorar un tiempo)._ 
-
-
+Habiendo visto la teoría del _modelo relacional_, vamos a dar un paso más adelante para empezar a entender cómo podemos persistir nuestros objetos bajo este modelo, ver las dificultades que existen entre estos dos mundos y algunas posibles alternativas que existen para engranarlos.
+ 
 # Apuntes
 - [Mapeo de Objetos Relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit), a.k.a. ORM
-- [Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
+
+# Tarea
+- Leer la sección [Subtipos en el modelo relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit#heading=h.s0gpttj2xc26) del documento _Mapeo de Objetos Relacional_.
+- Como adicional pueden ver la implmentación de un [proyecto sin ORM](https://github.com/dds-utn/eg-equipos-futbol-jdbc-java)
 
 
 **Importante:**
