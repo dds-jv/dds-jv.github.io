@@ -10,15 +10,15 @@ En esta oportunidad vamos a estar llevando a la práctica varios de los concepto
 
 - Incorporar y configurar Hibernate/JPA en un proyecto.
 - Realizar el mapeo de entidades.
-- Nombrar más opciones de mapeo que tenemos disponibles.
+- Ver más opciones de mapeo que tenemos disponibles.
 - Ver cómo a partir del mapeo podemos generar de forma automática nuestro modelo relación. Y cómo los cambios en el mapeo afectan a este último.  
 
 Además vamos a hablar del _ciclo de vida de un objeto_ y temas relacionados a _testing_.
 
 A fin poder llevar a cabo  esta práctica les vamos a pedir que, en la medida de lo posible, traigan su compu (o por lo menos que intenten traer una por grupo como mínimo) con lo siguiente:
 - Tener clonado el [proyecto base de JPA](https://github.com/dds-utn/jpa-proof-of-concept-template) ¡No olviden correr Maven `mvn clean install`!
-- Tener instalado el motor de base de datos MySQL Server o PostgreSQL.
-- Muy recomendable, tener instalado un cliente de base de datos, por ejemplo _Workbench_.
+- Tener instalado el motor de base de datos [MySQL Server](https://dev.mysql.com/downloads/mysql/) o [PostgreSQL](https://www.postgresql.org/download/) .
+- Muy recomendable, tener instalado un cliente de base de datos, por ejemplo [Workbench](https://dev.mysql.com/downloads/workbench/).
 
 # Apuntes
 - [Mapeo Objetos/Relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit)
