@@ -5,7 +5,6 @@ description: Viernes (Noche, 2019)
 permalink: /bitacoras/2019/viernes-n/clase-14/
 ---
 
-x
 # Resumen
 En esta oportunidad vamos a estar llevando a la práctica varios de los conceptos que vimos la clase pasada, de forma más teórica. Para esto vamos a:
 
