@@ -5,6 +5,7 @@ description: Viernes (Noche, 2019)
 permalink: /bitacoras/2019/viernes-n/clase-14/
 ---
 
+x
 # Resumen
 En esta oportunidad vamos a estar llevando a la práctica varios de los conceptos que vimos la clase pasada, de forma más teórica. Para esto vamos a:
 
@@ -16,9 +17,10 @@ En esta oportunidad vamos a estar llevando a la práctica varios de los concepto
 Además vamos a hablar del _ciclo de vida de un objeto_ y temas relacionados a _testing_.
 
 A fin poder llevar a cabo  esta práctica les vamos a pedir que, en la medida de lo posible, traigan su compu (o por lo menos que intenten traer una por grupo como mínimo) con lo siguiente:
-- Tener clonado el [proyecto base de JPA](https://github.com/dds-utn/jpa-proof-of-concept-template) ¡No olviden correr Maven `mvn clean install`!
+- Tener clonado el [proyecto - canchas modelo](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/canchas-modelo) ¡No olviden correr Maven `mvn clean install`! 
 - Tener instalado el motor de base de datos [MySQL Server](https://dev.mysql.com/downloads/mysql/) o [PostgreSQL](https://www.postgresql.org/download/) .
 - Muy recomendable, tener instalado un cliente de base de datos, por ejemplo [Workbench](https://dev.mysql.com/downloads/workbench/).
+
 
 # Apuntes
 - [Mapeo Objetos/Relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit)
