@@ -23,6 +23,8 @@ En la práctica vamos a:
 
 Además vamos a hablar del _ciclo de vida de un objeto_ y temas relacionados a _testing_.
 
+![](https://www.mysoftkey.com/wp-content/uploads/2017/07/hibernate-object-lifecycle.png)
+
 # Apuntes
 
 - [Mapeo Objetos/Relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit)
