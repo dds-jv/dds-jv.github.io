@@ -10,7 +10,7 @@ Hoy vamos a poner en práctica la mayoría de los conceptos teóricos que aprend
 Para esto les vamos a pedir que, en la medida de lo posible, traigan su compu (o por lo menos que intenten traer una por grupo como mínimo) con lo siguiente:
 - [Canchas modelo](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/canchas-modelo) ¡No olviden correr Maven `mvn clean install`! 
 - Motor de base de datos [MySQL Server](https://dev.mysql.com/downloads/mysql/) o [PostgreSQL](https://www.postgresql.org/download/) .
-- **Muy recomendable**, [Workbench](https://dev.mysql.com/downloads/workbench/).
+- **Muy recomendable**, cliente de base de datos, por ejemplo [Workbench](https://dev.mysql.com/downloads/workbench/).
 
 # Resumen
 
