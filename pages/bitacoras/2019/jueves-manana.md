@@ -25,8 +25,8 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 12: Modelo Relacional, Normalización y Denormalización]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-12)
 - [Clase 13: ORM, Relaciones e Identidad]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-13)
 - [Clase 14: ORM, Mapeo de Herencia y Ciclo de Vida]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-14)
-- [Clase 15: ORM, Colecciones y Migraciones]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-14)
-- Clase 16
+- [Clase 15: ORM, Colecciones y Migraciones]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-15)
+- [Clase 16: Arquitectura Web]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-16)
 - Clase 17
 - Clase 18
 - Clase 19
