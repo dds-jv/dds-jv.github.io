@@ -1,0 +1,5 @@
+line vty 0 1
+password CLAVE
+login
+exec-timeout 2
+exit
