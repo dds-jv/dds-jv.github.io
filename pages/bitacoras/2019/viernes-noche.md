@@ -23,3 +23,4 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 13: ORM, Relaciones e Identidad]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-13)
 - [Clase 14: ORM, Mapeo de Herencia y Ciclo de Vida]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-14)
 - [Clase 15: ORM, Colecciones y Migraciones]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-15)
+- [Clase 20: Arquitectura (parte 1)]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-20)
