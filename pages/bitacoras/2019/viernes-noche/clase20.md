@@ -6,7 +6,7 @@ permalink: /bitacoras/2019/viernes-n/clase-20/
 ---
 
 # Resumen
-En esta clase y en las siguientes, vamos a cambiar un poco el foco del diseño para charlar sobre temas de Arquitectura. Vamos a entender cómo diseño de arquitectura, el diseño (y sus decisiones) de lo más importante. Es decir sus componentes, relaciones, comunicaciones y cómo tiene injerencia no solo las piezas de software sino los componentes de hardware y tecnologías. 
+En esta clase y subsiguientes, vamos a cambiar un poco el enfoque para empezar a charlar sobre temas de _Arquitectura_. Entendiendo cómo diseño de arquitectura, el diseño (y sus decisiones) de lo más importante. Es decir sus componentes, relaciones, comunicaciones y cómo tiene injerencia, no solo en las piezas de software sino en los componentes de hardware, tecnologías, costos y contexto. 
 
 En clase vamos a estar resolviendo el ejercicio _EntregaYaYaYa_
 
