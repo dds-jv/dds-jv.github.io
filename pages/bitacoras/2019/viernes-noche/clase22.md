@@ -7,7 +7,7 @@ permalink: /bitacoras/2019/viernes-n/clase-22/
 
 # Resumen
 En nuestra última clase teórica vamos a cerrar el tema de arquitectura viendo los siguientes temas:
-- **Cola de mensajes** y la diferencias entre esta y una API. 
+- **Cola de mensajes** - comparamos la integración por colas de mensajes y por API rest. 
 - **Caché**.
 
 Para introducir estos conceptos vamos a estar resolviendo los ejercicio *Ciberfraday* y *Librerías Bustos Domecq*.
