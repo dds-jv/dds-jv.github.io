@@ -25,3 +25,4 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 15: ORM, Colecciones y Migraciones]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-15)
 - [Clase 20: Arquitectura (parte 1)]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-20)
 - [Clase 21: Arquitectura (parte 2)]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-21)
+- [Clase 22: Arquitectura (parte 3)]({{site.baseurl}}/bitacoras/2019/viernes-n/clase-22)
