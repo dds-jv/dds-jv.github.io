@@ -29,8 +29,8 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 16: Arquitectura Web]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-16)
 - [Clase 17: Diseño Web, parte 1]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-17)
 - [Clase 18: Diseño Web, parte 2]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-18)
-- Clase 19
-- Clase 20
-- Clase 21
-- Clase 22
-- Clase 23
+- [Clase 19: Diseño Web, parte 3]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-19)
+- Clase 20: Usabilidad, Experiencia de Usuario
+- [Clase 21: Arquitectura (parte 1)]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-21)
+- [Clase 22: Arquitectura (parte 2)]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-22)
+- [Clase 23: Arquitectura (parte 3)]({{site.baseurl}}/bitacoras/2019/jueves-m/clase-23)
