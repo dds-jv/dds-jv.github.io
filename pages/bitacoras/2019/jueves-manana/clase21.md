@@ -11,7 +11,7 @@ En estas últimas clases que nos quedan, vamos a cambiar un poco el enfoque para
 
 # Resumen
 
-Sería conveniente tratar de definir la _Arquitectura de Software_. Podemos entenderla, en base a algunas interpretaciones, como un diseño lógico de alto nivel, en el que debemos tener en cuenta aspectos de software que son difíciles de cambiar (lenguajes por ejemplo) y aspectos o componentes de hardware que vamos a necesitar para desplegar (aka deployar) nuestro software.
+Sería conveniente, en primer lugar, tratar de definir la _Arquitectura de Software_. Podemos entenderla, en base a algunas interpretaciones, como un diseño lógico de alto nivel, en el que debemos tener en cuenta aspectos de software que son difíciles de cambiar (lenguajes por ejemplo) y aspectos o componentes de hardware que vamos a necesitar para desplegar (aka deployar) nuestro software.
 Concretamente, en la clase de hoy, nos vamos a enfocar en:
 - Cómo comunicar (diagramar) nuestra solución.
 - Algunas arquitecturas clásicas (desktop, web, mobile).
