@@ -16,7 +16,7 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 # Resumen
 
 - Presentamos la materia y la noción de _diseño_. 
-- Nos introducimos a los _sistemas software_, su arqiutectura y sus metodologías de desarrollo.
+- Nos introducimos a los _sistemas software_, su arquitectura y sus metodologías de desarrollo.
 - Hacemos foco en la idea del _desarrollo iterativo e incremental_
     - Analizar, diseño, construir, testear.
     - Su motivación y aplicabilidad.
