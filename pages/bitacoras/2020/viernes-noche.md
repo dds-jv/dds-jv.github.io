@@ -8,3 +8,5 @@ frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSECJ_lPtojMauPxZebtPwOY
 ## Clases
 
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
+
+### **[Clase 1](viernes-noche/clase01.md)**
