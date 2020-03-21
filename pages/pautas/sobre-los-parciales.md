@@ -52,3 +52,4 @@ Pese a que su tasa de aprobación es baja, es fundamental practicar con la **men
 A diferencia del primero, ya contamos con un dominio desarrollado. Si bien es más concreto, es importante para éste parcial conocer las herramientas trabajadas (además de los conceptos involucrados).
 
 Su tasa de aprobación suele ser más alta, aunque **¡no te duermas en los laureles!**, porque intentar estudiar y preparar lo justo en ésta materia siempre fué una pésima idea. Es más, suele ser la causa más frecuente de desaprobación de éste exámen.
+
