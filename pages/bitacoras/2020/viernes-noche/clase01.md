@@ -12,9 +12,9 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 ¡Buen comienzo! ;)
  
 # Quiénes Somos
-* Gastón Prieto (Jueves mañana - **K3003**)
 * Franco Bulgarelli (Viernes noche - **K3053**)
 * Rodolfo Caputo (Viernes noche - **K3153**)
+* Gastón Prieto
 * Jessica Saavedra
 * Fernando Petryszyn
 * Alejandro Krumkamp
@@ -26,6 +26,8 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 * Martín Loguancio
 * Germán Gallici
 * Nahuel Pascual
+* Ailen Muñoz
+* Agustin De Cunto
 
 # Resumen
 
