@@ -2,7 +2,7 @@
 layout: page
 title: Clase 1
 description: Viernes (Noche, 2020)
-permalink: /bitacoras/2020/viernes-n/clase-01/
+permalink: /bitacoras/2020/jueves-m/clase-01/
 ---
 
 # **¡Bienvenidos!**
