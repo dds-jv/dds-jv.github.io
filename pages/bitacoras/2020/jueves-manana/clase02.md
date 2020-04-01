@@ -37,4 +37,4 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 # Extra
 
-[Solución - Macowins](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI/edit)
+[Solución - Macowins](https://docs.google.com/document/d/10Tp6E4zEl1ibuUVKBJ-RbyIWD1O1EyAFfPU73c1Ycm4/edit)
