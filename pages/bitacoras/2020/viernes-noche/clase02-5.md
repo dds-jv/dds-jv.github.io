@@ -33,6 +33,6 @@ Hoy tuvimos nuestra primera clase virtual! En ella repasamos los temas vistos en
 
 # Formularios de seguimiento
 * [Segumiento de Apuntes de la clase anterior](https://docs.google.com/forms/d/1EeK7OWMZmh3tDTk6r2dzeFhE6BFOVMK4H4oYUkqsVRU)
-* [Formulario de entrega de QueMePongo-I](https://forms.gle/ozVMAKP6M3YDjXbb9)
+* [Formulario de entrega de QueMePongo I](https://forms.gle/ozVMAKP6M3YDjXbb9)
 
 
