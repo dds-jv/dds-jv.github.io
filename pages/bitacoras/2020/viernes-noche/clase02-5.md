@@ -19,11 +19,20 @@ Hoy tuvimos nuestra primera clase virtual! En ella repasamos los temas vistos en
 - Evacuamos dudas y consultas comunes
 - Pusimos en común y debatimos una solución a MacoWins
 
-# Apuntes
+# Material
+
+* [Introducción a Diseño de Sistemas](https://docs.google.com/document/d/1mqWuU_5p9l6GIfHXSjcoyDXILWTKq2eW2dLFlIBOQzk)
+* [Introducción al Desarrollo de Software](https://docs.google.com/document/d/1TZeWMdtMOKv7fESrFyJEJXWLTVutGVy_Gho9h5e1tRY/edit#heading=h.hegow82vrh7m)
+* [Introducción a Arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE)
+* [Solución explicada a Macowins](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
+* [Pseudocódigo visto en clase](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
 
 # Para la próxima clase
 
+[Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
 
 # Formularios de seguimiento
+[Segumiento de Apuntes de la clase anterior](https://docs.google.com/forms/d/1EeK7OWMZmh3tDTk6r2dzeFhE6BFOVMK4H4oYUkqsVRU)
+[Formulario de entrega de QueMePongo-I](https://forms.gle/ozVMAKP6M3YDjXbb9)
 
 
