@@ -10,7 +10,6 @@ permalink: /bitacoras/2020/viernes-n/clase-02.5/
 Hoy tuvimos nuestra primera clase virtual! En ella repasamos los temas vistos en la clase 1 y despejamos dudas.
 
 [Video](https://zoom.us/rec/share/1NwycKj273FLaa_U-kvaAb8aLobGX6a8hiYe_PoLxRnw2dWDLoTzvJeSO10a8DGf?startTime=1585950673000)
-
 [Presentación](https://docs.google.com/presentation/d/1nhZRjpcrIVigJG6nrDf_ubDsdymnvPlW3ijtKlLFxGI)
 
 # Resumen
