@@ -29,10 +29,10 @@ Hoy tuvimos nuestra primera clase virtual! En ella repasamos los temas vistos en
 
 # Para la próxima clase
 
-[Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
+* [Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
 
 # Formularios de seguimiento
-[Segumiento de Apuntes de la clase anterior](https://docs.google.com/forms/d/1EeK7OWMZmh3tDTk6r2dzeFhE6BFOVMK4H4oYUkqsVRU)
-[Formulario de entrega de QueMePongo-I](https://forms.gle/ozVMAKP6M3YDjXbb9)
+* [Segumiento de Apuntes de la clase anterior](https://docs.google.com/forms/d/1EeK7OWMZmh3tDTk6r2dzeFhE6BFOVMK4H4oYUkqsVRU)
+* [Formulario de entrega de QueMePongo-I](https://forms.gle/ozVMAKP6M3YDjXbb9)
 
 
