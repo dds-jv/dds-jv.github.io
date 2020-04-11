@@ -42,7 +42,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 - Contestar la [encuesta de seguimiento](https://docs.google.com/forms/d/1EeK7OWMZmh3tDTk6r2dzeFhE6BFOVMK4H4oYUkqsVRU/edit)
 - Ver vídeo: [Patrones, Strategy y Template Method](https://drive.google.com/file/d/11vgwTdXXujSuDQTDULVLtHEiRFuzPoik/view)
 
-# Extra
+# Material Complementario
 
 - [Dos Posibles Soluciones - Macowins](https://docs.google.com/document/d/10Tp6E4zEl1ibuUVKBJ-RbyIWD1O1EyAFfPU73c1Ycm4/edit)
 - [Diseño de la Solución - Macowins](https://drive.google.com/file/d/1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV/view)
