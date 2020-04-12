@@ -26,6 +26,8 @@ Hoy tuvimos nuestra primera clase virtual! En ella repasamos los temas vistos en
 * [Introducción a Arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE)
 * [Solución explicada a Macowins](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
 * [Pseudocódigo visto en clase](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
+* [Video sobre patrones Strategy y Template Method](https://drive.google.com/file/d/11vgwTdXXujSuDQTDULVLtHEiRFuzPoik/view)
+
 
 # Para la próxima clase
 
