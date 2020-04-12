@@ -9,15 +9,6 @@ permalink: /bitacoras/2020/jueves-m/clase-03/
 
 Recordá que siempre es importante tener presente lo visto en la [clase anterior]({{site.baseurl}}/bitacora/jueves-m/clase-02) para poder consultarnos cualquier inquietud que te haya quedado.
 
-Pasado mañana, sábado 6/4 a las 9:00 o a las 14:00 (pueden asistir en cualquier horario), habrá en el Laboratorio de Medrano un taller introductorio relacionado a Java, Maven y Git. La asistencia es opcional, aunque es altamente recomendado para aquellos que no manejaron éstas tecnologías previamente y necesitan un poco más de tiempo.
-
-Es importante que lleven leído o tengan a mano lo siguiente:
-- Apunte de [Java](https://goo.gl/ioY8cc).
-- Apunte de [Maven](https://goo.gl/FAFyRe).
-- Apunte de [GIT](https://goo.gl/cwjcYB).
-
-El ejercicio que se trabajará será el de [Macowins](https://goo.gl/tSWzi4).
-
 # Resumen
 
 En ésta clase vamos a continuar viendo los Patrones de Diseño, pero en particular un tipo de ellos: Los [_Creacionales_](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#heading=h.6ya5si9ipi77), que como bien nos indica su nombre, consisten en buenas prácticas a casos frecuentes de creación de instancias.
