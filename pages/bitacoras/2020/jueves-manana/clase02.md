@@ -47,9 +47,6 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 - [Dos Posibles Soluciones - Macowins](https://docs.google.com/document/d/10Tp6E4zEl1ibuUVKBJ-RbyIWD1O1EyAFfPU73c1Ycm4/edit)
 - [Diseño de la Solución - Macowins](https://drive.google.com/file/d/1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV/view)
 - [Explicación Detallada - Macowins](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI/edit#heading=h.pzjlb13p5e2p)
-- [Patrones de Diseño - Gamma](https://github.com/deepakkum21/Books/blob/master/Design%20Patterns%20-%20Elements%20of%20Reusable%20Object%20Oriented%20Software%20-%20GOF.pdf)
-  
-  Recomendamos descargar el pdf para navegarlo más fácil:
+- [Patrones de Diseño - Gamma](https://github.com/deepakkum21/Books/blob/master/Design%20Patterns%20-%20Elements%20of%20Reusable%20Object%20Oriented%20Software%20-%20GOF.pdf) (recomendamos descargar el pdf para navegarlo más fácil)
   - Strategy, página 292
   - Template Method, página 301
-
