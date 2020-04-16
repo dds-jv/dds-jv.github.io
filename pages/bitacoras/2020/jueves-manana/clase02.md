@@ -28,7 +28,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 	- _Complementario: [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
 	- _Complementario: [Las entradas del diseño](https://docs.google.com/document/d/1qPM_sQ0UyGFKRzl13Cbf6zDKj6vxJ4wMZQIXeOrRvM8/edit?usp=sharing)_
 - [Introducción a los Patrones de Diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
-- Patrones de Diseño Gamma
+- Patrones de Diseño
   - [Strategy](https://sourcemaking.com/design_patterns/strategy)
   - [Template Method](https://sourcemaking.com/design_patterns/template_method)
 
