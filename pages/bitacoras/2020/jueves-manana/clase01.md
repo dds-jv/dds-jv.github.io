@@ -21,7 +21,7 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 * Lucas Clauser
 * Matias Mendez Corridoni
 * Natán Szmedra
-* Federico Kiwowics
+* Federico Kiwowicz
 * Santiago Lorenzo
 
 # Resumen
