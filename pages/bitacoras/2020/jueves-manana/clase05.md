@@ -18,7 +18,7 @@ Aprenderemos:
 # Lo que vemos
 
 - [Diseño de interfaces: Entrantes/Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
-- [Patrón Adapter](https://sourcemaking.com/design_patterns/adapter)
+- [Patrones de Diseño - Patrón Adapter](https://sourcemaking.com/design_patterns/adapter)
 
 # Material Complemetario
 
