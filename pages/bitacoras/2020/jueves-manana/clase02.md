@@ -32,6 +32,8 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
    - Strategy, página 292
     - Template Method, página 301
 
+  Recomendamos descargar el pdf para navegar más fácil
+
 - [Diseño del Manejo de Errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#)
 	- _Complementario: [Excepciones en Java](https://docs.google.com/document/d/1G0a9j-OA0rIEA5cdvEhIMbztJVo86ssvZKBK8HL9akg/edit)_
 
