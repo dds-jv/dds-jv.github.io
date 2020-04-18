@@ -12,7 +12,7 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 1: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-01)
 - [Clase 2: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-02)
 - [Clase 3: Qué es diseñar, Strategy, Template Method]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-03)
-- Clase 4: Manejo de errores, cualidades y patrones de de diseño.
+- [Clase 4: Manejo de errores, cualidades y patrones de de diseño]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-04)
 - Clase X: Patrones Creacionales <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-03) -->
 - Clase X: Patrones Creacionales <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-03) -->
 - Clase X: Inversión de Control <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-04) -->

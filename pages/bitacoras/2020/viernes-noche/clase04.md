@@ -4,29 +4,39 @@ title: Clase 4
 description: Viernes (Noche, 2020)
 permalink: /bitacoras/2020/viernes-n/clase-04/
 ---
+
 **¡Hola!**
 
-Antes que nada, la parte odiosa: Leé los apuntes de la clase anterior y consultanos las dudas que tengas. Como la próxima semana no vamos a vernos ya que es _Viernes Santo_, estamos ante una buena oportunidad para ponernos al día.
+Hoy tuvimos nuestra primera clase virtual! En ella repasamos los temas vistos en la clase 1 y despejamos dudas.
+
+- Video
+- [Presentación](https://docs.google.com/presentation/d/1U2MrpF9P44aZi1H4BhrvSzdbdJq6I2laEaDa055sFDo/edit#slide=id.g35f391192_00)
 
 # Resumen
 
-- Trabajaremos con el Modelado del Estado como un Objeto, además de Eventos y Transiciones.
-- Repasaremos los Patrones Creacionales.
+- Presentamos al resto del equipo docente
+- Repasamos las cualidades de diseño y los conceptos asociados al manejo de errores
+- Evacuamos dudas y consultas los apuntes de la clase y QMP Primera Iteración
 
-# Apuntes
+# Material
 
-- [Biblioteca vs Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/)
-- [Diagrama de Estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit?usp=sharing)
-- _SourceMaking: [Patrón State](https://sourcemaking.com/design_patterns/state)_
-- [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#)
-- _Recomendado: [Design Patterns](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)_
+- [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit)
+- [Diseño del Manejo de Errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#)
+* [Solución explicada a QMP Primera Iteración](https://docs.google.com/document/d/1ayrs5-vrGsXgZKDob-f5_0fmhCYXf7-ty5Be6NXITRY/edit#heading=h.uyku9mnteh0t)
+* [Pseudocódigo visto en clase](https://codeshare.io/G6Elwm)
 
-# Práctica
 
-- Analizamos la solución de la segunda iteración.
-- En clase: [Qué me pongo (Tercera iteración)](https://docs.google.com/document/d/1th_F_BsF91zKuFWk6POogegljhrVW9ThybW_9U_xJZY/edit#heading=h.uyku9mnteh0t)
+# Para la próxima clase
 
-# Tarea
-- Analizar las [Alternativas de diseño a la segunda y tercera iteración de "Qué me pongo"](https://docs.google.com/document/d/1rsv8a9EP9j5D9QLLOOpEqavBdKzdMhfMVPayW8yahow/edit?ts=5cba5a78#)
-- Ver [Factory Method](https://sourcemaking.com/design_patterns/abstract_factory) y [Template Method](https://sourcemaking.com/design_patterns/factory_method) "Template Method".
-- ¡Realizar el TP!
+## Apuntes y ejercicios
+
+* [Patrones Creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#)
+* [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
+* [Ejercicio: Qué Me Pongo - Segunda Iteración](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y/edit#heading=h.uyku9mnteh0t)
+
+## Formularios de seguimiento
+
+* [Segumiento de Apuntes](https://docs.google.com/forms/d/16Kjb-wSc5aO7TzTvoq0PNH9IofhGp_mrJ3ABJt3spLY/edit)
+* [Formulario de entrega de QueMePongo Segunda Iteración](https://docs.google.com/forms/d/1cKyNjjOYZoLyYsO5XaRvYYdfBRKdJFyVk_8J4PwQNWs/edit)
+
+
