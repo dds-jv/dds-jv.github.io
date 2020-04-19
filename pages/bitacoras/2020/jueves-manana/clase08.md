@@ -12,7 +12,7 @@ permalink: /bitacoras/2020/jueves-m/clase-08/
 Aprenderemos sobre la noción de eventos, que aplicada al diseño de interfaces entre componentes nos permitirá utilizar el asincronismo para desacoplarlos y ganar flexibilidad.
 
 - [Apunte sobre el patrón Observer, caso práctico](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
-- [Patrón Observer](https://sourcemaking.com/design_patterns/observer)
+- [Patrón Observer EN](https://sourcemaking.com/design_patterns/observer)/[Patrón Observer ES](https://reactiveprogramming.io/blog/es/patrones-de-diseno/observer)
 
 # Práctica
 

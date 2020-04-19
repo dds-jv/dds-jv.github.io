@@ -28,8 +28,8 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 	- _Complementario: [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
 	- _Complementario: [Las entradas del diseño](https://docs.google.com/document/d/1qPM_sQ0UyGFKRzl13Cbf6zDKj6vxJ4wMZQIXeOrRvM8/edit?usp=sharing)_
 - [Introducción a los Patrones de Diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
-  - [Strategy](https://sourcemaking.com/design_patterns/strategy)
-  - [Template Method](https://sourcemaking.com/design_patterns/template_method)
+  - [Strategy EN](https://sourcemaking.com/design_patterns/strategy)/[Strategy ES](https://reactiveprogramming.io/blog/es/patrones-de-diseno/strategy)
+  - [Template Method EN](https://sourcemaking.com/design_patterns/template_method)/[Template Method ES](https://reactiveprogramming.io/blog/es/patrones-de-diseno/template-method)
 
 - [Diseño del Manejo de Errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#)
 	- _Complementario: [Excepciones en Java](https://docs.google.com/document/d/1G0a9j-OA0rIEA5cdvEhIMbztJVo86ssvZKBK8HL9akg/edit)_

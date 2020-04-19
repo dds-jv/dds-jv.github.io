@@ -19,7 +19,7 @@ Ya tuvimos un avance respecto a los Patrones de Diseño, de hecho en las última
 - Patrones de comunicación entre componentes: Forma en que los componentes se comunican entre si.
 - Adapter: Para adaptarnos (valga la redundancia) a, por ejemplo, servicios externos cuyas interfaces pueden variar.
 
-En esta ocasión veremos en profundidad el [Patrón Command](https://sourcemaking.com/design_patterns/command)
+En esta ocasión veremos en profundidad el [Patrón Command EN](https://sourcemaking.com/design_patterns/command)/[Patrón Command ES](https://reactiveprogramming.io/blog/es/patrones-de-diseno/command)
 
 # Práctica
 
