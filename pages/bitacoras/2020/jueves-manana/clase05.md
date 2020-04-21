@@ -18,7 +18,7 @@ Aprenderemos:
 # Lo que vemos
 
 - [Diseño de interfaces: Entrantes/Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
-- [Patrones de Diseño - Patrón Adapter](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+- [Patrones de Diseño - Patrón Adapter EN](https://sourcemaking.com/design_patterns/adapter)/[Patrones de Diseño - Patrón Adapter ES](https://reactiveprogramming.io/blog/es/patrones-de-diseno/adapter)
 
 # Material Complemetario
 
@@ -26,3 +26,7 @@ Aprenderemos:
 - [Mocks arent stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 - [Testing: todo lo que necesitás saber y más](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4)
 - [Cualidades de las pruebas unitarias](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4)
+- [Patrones de Diseño - Gamma](https://github.com/deepakkum21/Books/blob/master/Design%20Patterns%20-%20Elements%20of%20Reusable%20Object%20Oriented%20Software%20-%20GOF.pdf) (recomendamos descargar el pdf para navegarlo más fácil)
+
+  - Adapter, página 135
+
