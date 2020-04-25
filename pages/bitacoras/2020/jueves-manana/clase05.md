@@ -20,6 +20,7 @@ Tercera clase online de Diseño de Sistemas en pantuflas!
 # Material
 
 * [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/)
+  * _Complementario [Otro Apunte - Código en XTend](https://docs.google.com/document/d/1UhHVskJKyw7y28AsAASsCXtIodEiJ4coEOiw0QdlOTo/edit)_
 * [Solución QueMePongo explicada - Iteración 2](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM)
 
 

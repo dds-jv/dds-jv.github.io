@@ -26,6 +26,8 @@ Hoy tuvimos nuestra primera clase virtual! En ella repasamos los temas vistos en
 * [Introducción al Desarrollo de Software](https://docs.google.com/document/d/1TZeWMdtMOKv7fESrFyJEJXWLTVutGVy_Gho9h5e1tRY/edit#heading=h.hegow82vrh7m)
 * [Introducción a Arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE)
 * [Solución explicada a Macowins](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
+* [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
+* [Las entradas del diseño](https://docs.google.com/document/d/1qPM_sQ0UyGFKRzl13Cbf6zDKj6vxJ4wMZQIXeOrRvM8/edit?usp=sharing)_
 
 # Para la próxima clase
 
