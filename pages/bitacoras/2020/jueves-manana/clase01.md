@@ -64,8 +64,6 @@ Recuerden prestarle mucha atención al [grupo](https://groups.google.com/forum/#
   *  ¡tratá de implementar la solución de Macowins! (en Java)
   *  ¡Alternativa! Lecciones de Java en Mumuki:
      * Link de inscripción para [K3003](https://mumuki.io/ddsjv/join/EWO_zA) (Jueves)
-     * Link de inscripción para [K3053](https://mumuki.io/ddsjv/join/VnMlEQ) (Viernes)
-     * Link de inscripción para [K3153](https://mumuki.io/ddsjv/join/tLRi2g) (Viernes)
 * Para la construcción del proyecto Java vamos a usar [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/)
 * Si aún no usaste Git, es importante que [leas ésta introducción](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)
 * Leé el apunte que explica como [Comunicar un diseño](https://docs.google.com/document/d/1eXLlNppAX-7E2M8Xxs0MCckdn4XVEYmeQNaS_E1RqTc/edit)
