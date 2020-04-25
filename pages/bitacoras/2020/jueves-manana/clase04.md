@@ -7,24 +7,31 @@ permalink: /bitacoras/2020/jueves-m/clase-04/
 
 **¡Hola!**
 
-Puede que sonemos repetitivos, pero la semana que viene (Jueves Santo) es un buen momento para que te pongas al día, si todavía no lo hiciste, con los apuntes de clases anteriores así podes consultarnos las dudas que te vayan surgiendo.
+Segunda clase de Diseño de Sistemas en pantuflas!
+
+- [Video](https://us02web.zoom.us/rec/share/2tNnBY7O-15Oaa-OxFz9dY0sBo_baaa81XBNqfYPyh6qG9bnd6vhK86DDg2HU08K)
+- [Presentación](https://docs.google.com/presentation/d/1XJ5IwjtA87XLLwRN2rauKBebLkatWNgmuUrm92XjUPw)
+- [Preguntas usadas]()
 
 # Resumen
 
-En ésta clase hablaremos del concepto de __Inversión de control__, la idea que está detrás de los Frameworks, y sus implementaciones mediante _eventos_ o _Inyección de dependencias_.
+- Repasamos la idea de patron de diseño y cuales vimos
+- Repasamos las cualidades de diseño y los conceptos asociados al manejo de errores
+- Evacuamos dudas y consultas los apuntes de la clase y QMP Primera Iteración
 
-Además veremos las diferencias entre las Bibliotecas y los Frameworks.
+# Material
 
-# Lo que vemos
+- [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
+- [Diseño del Manejo de Errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c)
+- [Solución explicada a QMP Primera Iteración](https://docs.google.com/document/d/1ayrs5-vrGsXgZKDob-f5_0fmhCYXf7-ty5Be6NXITRY)
+- [Introducción a los patrones de de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y)
 
-- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit)
-- [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit)
+# Para la próxima clase
 
-# Tarea:
+* [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/)
+* [Ejercicio QueMePongo - Iteración 2](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y)
 
-- Lee el apunte sobre el [Patrón State](https://sourcemaking.com/design_patterns/state)
-- Leé el apunte que explica como comunicar un diseño con un [Diagrama de Estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit?usp=sharing)
+# Formularios de seguimiento
+* [Segumiento de Apuntes de la clase](https://docs.google.com/forms/d/16Kjb-wSc5aO7TzTvoq0PNH9IofhGp_mrJ3ABJt3spLY/edit)
+* [Formulario de entrega de QueMePongo II](https://docs.google.com/forms/d/1cKyNjjOYZoLyYsO5XaRvYYdfBRKdJFyVk_8J4PwQNWs/edit)
 
-# Material Complementario:
-
-- [Patrón Adapter](https://sourcemaking.com/design_patterns/adapter)
