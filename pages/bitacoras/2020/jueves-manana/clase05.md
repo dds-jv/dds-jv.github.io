@@ -4,29 +4,32 @@ title: Clase 5
 description: Jueves (Mañana, 2020)
 permalink: /bitacoras/2020/jueves-m/clase-05/
 ---
+**¡Hola!**
+
+Tercera clase online de Diseño de Sistemas en pantuflas!
+
+- [Video](https://us02web.zoom.us/rec/share/wO9LdZ6gp0ZLYJH9xHP2BoQOHq_Haaa80yNL_PtezkpmoxLOBbCVwg0oJHxkYTCN?startTime=1587643573000)
+- [Presentación](https://docs.google.com/presentation/d/1LEOLX-8QVkCEZb3FHbDyxVM1iUS1d85XU1Ju0wmXpQU/edit#slide=id.p)
+
 # Resumen
 
-Aprenderemos:
+- Repasamos los problemas que hay en la creación de los objetos
+- Vimos que patrones podrían servirnos para solucionar dichos problemas
+- Evacuamos dudas y consultas los apuntes de la clase y QMP Segunda Iteración
 
-* ¿Cómo introducir interfaces entre componentes?
-* ¿Qué son Interfaces Entrantes y Salientes?
-* ¿Qué son las interfaces sincrónicas y asincrónicas?
-* ¿Cómo hacer _testing_ cuando interactuamos con servicios externos?
-* Code Ownership
-* Mocking
+# Material
 
-# Lo que vemos
+* [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/)
+* [Solución QueMePongo explicada - Iteración 2](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM)
 
-- [Diseño de interfaces: Entrantes/Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
-- [Patrones de Diseño - Patrón Adapter EN](https://sourcemaking.com/design_patterns/adapter)/[Patrones de Diseño - Patrón Adapter ES](https://reactiveprogramming.io/blog/es/patrones-de-diseno/adapter)
 
-# Material Complemetario
+# Para la próxima clase
 
-- [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)
-- [Mocks arent stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-- [Testing: todo lo que necesitás saber y más](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4)
-- [Cualidades de las pruebas unitarias](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4)
-- [Patrones de Diseño - Gamma](https://github.com/deepakkum21/Books/blob/master/Design%20Patterns%20-%20Elements%20of%20Reusable%20Object%20Oriented%20Software%20-%20GOF.pdf) (recomendamos descargar el pdf para navegarlo más fácil)
+* [Manejo del cambios](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit)
+* [TPA - Prueba de concepto](https://docs.google.com/document/d/1cSmA-JwmtXvOe2sbeQK5ycL3pl3vhXhpDhbABNvd--o)
 
-  - Adapter, página 135
+# Formularios de seguimiento
+* [Segumiento de Apuntes de la clase]()
+
+
 
