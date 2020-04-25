@@ -7,35 +7,35 @@ permalink: /bitacoras/2020/jueves-m/clase-03/
 
 **¡Hola!**
 
-Recordá que siempre es importante tener presente lo visto en la [clase anterior]({{site.baseurl}}/bitacora/jueves-m/clase-02) para poder consultarnos cualquier inquietud que te haya quedado.
+Hoy tuvimos nuestra primera clase virtual! En ella repasamos los temas vistos en la clase 1 y despejamos dudas.
 
-_Importante: En caso de que todavía no estés en Discord ingresá [acá](https://discord.gg/2JRcsq)_
+* [Video](https://zoom.us/rec/play/vZUpfuyh_T03HdHAuASDV_8vW9W-Lv2s0CAd-aYPnRm8ACZVOlDwM-MTY3ztMyzPvTNXMSW_4eJpMHE)
+* [Presentación](https://docs.google.com/presentation/d/1DLnzOp3nVM40BgC8F9o3YVTANwWu9JaLiVYf2mPyzio)
+* [Preguntas usadas](https://quizizz.com/join/quiz/5e8ab69a16ba33001ff2323d/start)
 
 # Resumen
 
-En ésta clase vamos a continuar viendo los Patrones de Diseño, pero en particular un tipo de ellos: Los [_Creacionales_](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#heading=h.6ya5si9ipi77), que como bien nos indica su nombre, consisten en buenas prácticas a casos frecuentes de creación de instancias.
-También explicaremos porque decir _instanciación_ no es lo mismo que _configuración_.
-  - [Builder](https://sourcemaking.com/design_patterns/builder)
-  - [Singleton](https://sourcemaking.com/design_patterns/singleton)
+* Hicimos una presentación administrativa de la materia
+* Repasamos qué es diseñar
+* Evacuamos dudas y consultas comunes
+* Pusimos en común y debatimos una solución a MacoWins
 
-Además, hablaremos sobre [_Inyección de Dependencias_](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit#heading=h.niaj9skgl3x9) y como hacerlo de forma correcta para favorecer la inmutabilidad y mantener el principio _fail-fast_ (¿se acuerdan?).
+# Material
 
-### Práctica
+* [Introducción a Diseño de Sistemas](https://docs.google.com/document/d/1mqWuU_5p9l6GIfHXSjcoyDXILWTKq2eW2dLFlIBOQzk)
+* [Introducción al Desarrollo de Software](https://docs.google.com/document/d/1TZeWMdtMOKv7fESrFyJEJXWLTVutGVy_Gho9h5e1tRY/edit#heading=h.hegow82vrh7m)
+* [Introducción a Arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE)
+* [Solución explicada a Macowins](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
 
-Trabajaremos con el siguiente ejercicio (¡accedé al [repositorio](https://github.com/dds-utn/computers)!):
+# Para la próxima clase
 
-> En un Negocio de Tecnología dejan construir a los clientes las PCs a partir de los diferentes componentes. Solo se venden PCs armadas completas y funcionales.
-> Hay componentes mínimos para hacer andar una PC y otros que son opcionales
-> - Requeridos: Motherboard, Fuente, Disco de Almacenamiento
-> - Opcionales: Placa de Video, Teclado, Mouse, Monitor, Disco SSD.
->
-> Tener en cuenta la restricción de que las Placas de Video nVidia funcionan solo con microprocesadores Intel y las placas de video AMD funcionan solo con microprocesadores AMD.
-> Una vez finalizado hay que saber el precio del componente que es igual a la sumatoria de precios de los componentes.
+* [Manejo de errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit)
+* [Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
+* [Invitación al discord](https://discord.gg/jeDfwY9)
+* [Uso de Discord](https://youtu.be/A7eZOivOid4)
+* [Video sobre patrones Strategy y Template Method](https://drive.google.com/file/d/11vgwTdXXujSuDQTDULVLtHEiRFuzPoik/view)
 
-# Material Complemetario
+# Formularios de seguimiento
+* [Segumiento de Apuntes de la clase](https://docs.google.com/forms/d/1EeK7OWMZmh3tDTk6r2dzeFhE6BFOVMK4H4oYUkqsVRU)
+* [Formulario de entrega de QueMePongo I](https://forms.gle/ozVMAKP6M3YDjXbb9)
 
-- [Abstract Factory](https://sourcemaking.com/design_patterns/abstract_factory)
-- [Factory Method](https://sourcemaking.com/design_patterns/factory_method)
-- _Opcional: [Prototype](https://sourcemaking.com/design_patterns/prototype)_
-  
-_Opcional:_ Leer éste apunte sobre [Patrones Creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4).
