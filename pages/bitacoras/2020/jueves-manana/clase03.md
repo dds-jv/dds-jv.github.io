@@ -9,6 +9,8 @@ permalink: /bitacoras/2020/jueves-m/clase-03/
 
 Recordá que siempre es importante tener presente lo visto en la [clase anterior]({{site.baseurl}}/bitacora/jueves-m/clase-02) para poder consultarnos cualquier inquietud que te haya quedado.
 
+_Importante: En caso de que todavía no estés en Discord ingresá [acá](https://discord.gg/2JRcsq)_
+
 # Resumen
 
 En ésta clase vamos a continuar viendo los Patrones de Diseño, pero en particular un tipo de ellos: Los [_Creacionales_](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#heading=h.6ya5si9ipi77), que como bien nos indica su nombre, consisten en buenas prácticas a casos frecuentes de creación de instancias.
