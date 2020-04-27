@@ -7,9 +7,9 @@ permalink: /bitacoras/2020/viernes-n/clase-04/
 
 **¡Hola!**
 
-Hoy tuvimos nuestra primera clase virtual! En ella repasamos los temas vistos en la clase 1 y despejamos dudas.
+Segunda clase online.
 
-- Video
+- [Video](https://us02web.zoom.us/rec/share/6o9rA4zA7kxOW4Gc-R3Ne6kZONX0aaa80Scb-PcMmJEZ_0_XpmnIifsInpXNv3s?startTime=1587160612000)
 - [Presentación](https://docs.google.com/presentation/d/1U2MrpF9P44aZi1H4BhrvSzdbdJq6I2laEaDa055sFDo/edit#slide=id.g35f391192_00)
 
 # Resumen
