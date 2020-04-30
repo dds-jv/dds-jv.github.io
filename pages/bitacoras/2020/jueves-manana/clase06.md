@@ -14,6 +14,14 @@ En esta clase estuvimos analizando algunos Code smells (o indicios que denotan q
   ```codigo post refactor```
 
 Para hacerlo, nos apoyamos en algunas de las herramientas que nos provee el IDE (como fue renombrar clases asegurando la consistencia, algo que usando un editor de texto más limitado tendríamos que controlar a mano).
+Fuimos teniendo en cuenta algunas cuestiones comunes a cualquier refactor:
+  - no hacer todo el refactor de una, sino que ir haciendo commits pequeños
+  - después de cada cambio en el diseño, correr los tests para validar que los resultados obtenidos no hayan variado
+
+Algunos refactors que hicimos:
+ - delegar (extraer en un nuevo método)
+ - renombrar
+ - indentar
 
 Además, vimos por qué el testing es importante: no sólo nos permite validar que nuestro código se adecúe a los requerimientos, sino que son una base clave para poder hacer cualquier refactor (estando seguros de que no rompimos nada).
 
