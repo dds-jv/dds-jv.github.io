@@ -7,25 +7,18 @@ permalink: /bitacoras/2020/jueves-m/clase-06/
 
 # Resumen
 
-En la clase pasada introducimos la noción de Componentes y las interfaces que nos permiten adaptarlos. En esta clase haremos mayor hincapié en la manera que estos se comunican entre sí.
+En esta clase estuvimos analizando algunos Code smells (o indicios que denotan que puede haber un problema de diseño detrás) y refactoring.
 
-Además, les dejamos un apunte de [introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit) que sirve de complemento para lo que llegamos a nombrar la semana anterior.
+  ```codigo pre refactor```
 
-# Lo que vemos
+  ```codigo post refactor```
 
-- [Patrones de Comunicación entre Componentes](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
-    - _"Call & Return"_ 
-    - _"Call By Reference"_ (Memoria compartida)
-    - Excepciones 
-    - _"Continuation Passing Style"_ (Continuaciones)
-    - Eventos
-    - Mensajes asincrónicos
+Para hacerlo, nos apoyamos en algunas de las herramientas que nos provee el IDE (como fue renombrar clases asegurando la consistencia, algo que usando un editor de texto más limitado tendríamos que controlar a mano).
 
-Podés ver una **muy** interesante comparación de todos los patrones [acá](https://docs.google.com/document/d/1dBaf8tILr37iD2mNMiZsfeYdL7AADW698skIkkoVU9g/edit).
+Además, vimos por qué el testing es importante: .
 
-**¡Mirá!** En [éste repositorio](https://github.com/dds-utn/patrones-comunicacion) tenemos ejemplos donde implementamos los patrones de comunicación.
+Les dejamos un apunte sobre [manejo del cambio (expansión y refactoring)](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit) en el que se ve lo que charlamos hoy.
 
-# Práctica
+# Material complementario
 
-- File System ([Ver Repositorio](https://github.com/dds-utn/file-system))
-
+De manera adicional, agregamos un articulo de Martin Fowler sobre [deuda ténica](https://martinfowler.com/bliki/TechnicalDebt.html)
