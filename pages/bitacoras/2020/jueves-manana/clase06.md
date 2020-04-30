@@ -15,9 +15,9 @@ En esta clase estuvimos analizando algunos Code smells (o indicios que denotan q
 
 Para hacerlo, nos apoyamos en algunas de las herramientas que nos provee el IDE (como fue renombrar clases asegurando la consistencia, algo que usando un editor de texto más limitado tendríamos que controlar a mano).
 
-Además, vimos por qué el testing es importante: .
+Además, vimos por qué el testing es importante: no sólo nos permite validar que nuestro código se adecúe a los requerimientos, sino que son una base clave para poder hacer cualquier refactor (estando seguros de que no rompimos nada).
 
-Les dejamos un apunte sobre [manejo del cambio (expansión y refactoring)](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit) en el que se ve lo que charlamos hoy.
+Les dejamos un apunte sobre [manejo del cambio](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit) en el que pueden ver lo que hablamos hoy.
 
 # Material complementario
 
