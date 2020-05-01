@@ -9,7 +9,7 @@ permalink: /bitacoras/2020/viernes-n/clase-05/
 Tercera clase online desde casa!
 
 - [Video](https://us02web.zoom.us/rec/share/wPFbE6nz6VpJWNaXs3_ZZqsZEaPcaaa80ylM__YJnU5fCHHUARNfRpGqL-hbCvrw?startTime=1587765530000)
-- Presentación
+- [Presentación](https://docs.google.com/presentation/d/1U2MrpF9P44aZi1H4BhrvSzdbdJq6I2laEaDa055sFDo/edit#slide=id.g838dcce884_0_98)
 
 
 # Resumen
