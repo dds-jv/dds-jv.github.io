@@ -37,5 +37,5 @@ Tercera clase online desde casa!
 
 
 ### Formularios de seguimiento
-- Segumiento de Apuntes
+- [Segumiento de Apuntes](https://forms.gle/W7NyfphtFNFbTgvg8)
 
