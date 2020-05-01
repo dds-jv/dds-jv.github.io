@@ -39,9 +39,10 @@ Además, vimos por qué el testing es importante: no sólo nos permite validar q
 Les dejamos un apunte sobre [manejo del cambio](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit) en el que pueden ver lo que hablamos hoy.
 
 # Para la próxima clase
-## Apuntes y ejercicios
+## Apuntes
 
 [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit)
+
 [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit)
 
 # Material complementario
