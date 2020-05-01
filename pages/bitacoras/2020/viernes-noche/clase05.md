@@ -31,7 +31,7 @@ Tercera clase online desde casa!
 
 ### Apuntes y ejercicios
 - [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
-- [Biblioteca vs. Framework](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
+- [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit#heading=h.6ab0fffv8tld)
 - [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
 - [TPA - Prueba de concepto](https://docs.google.com/document/d/1cSmA-JwmtXvOe2sbeQK5ycL3pl3vhXhpDhbABNvd--o/edit?usp=sharing). Entrega 01/05
 
