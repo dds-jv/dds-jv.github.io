@@ -6,27 +6,36 @@ permalink: /bitacoras/2020/viernes-n/clase-05/
 ---
 **¡Hola!**
 
-Ya que han avanzado (o esperamos que hayan avanzado) con las lecturas y practicaron suficiente, vamos a continuar viendo patrones. 
+Tercera clase online desde casa!
 
-Hasta ahora trabajábamos con clases de nuestras soluciones, pero ahora vamos a trabajar con entes que no conocemos (al menos en detalle), por lo que vamos a tener en cuenta nuevos conceptos de cara a asegurarnos que nuestra solución entienda siempre el mismo mensaje, por más que éstos entes cambien su lógica.
+- [Video](https://us02web.zoom.us/rec/share/wPFbE6nz6VpJWNaXs3_ZZqsZEaPcaaa80ylM__YJnU5fCHHUARNfRpGqL-hbCvrw?startTime=1587765530000)
+- [Presentación](https://docs.google.com/presentation/d/1U2MrpF9P44aZi1H4BhrvSzdbdJq6I2laEaDa055sFDo/edit#slide=id.g838dcce884_0_98)
 
-A su vez, también vamos a trabajar y pensar en como tendríamos que testearlos.
 
 # Resumen
-- Aprendemos a trabajar interfaces para adaptar entre componentes.
-- Conocemos el concepto de Interfaces Entrantes y Salientes.
-- Descubriremos el concepto de sincronismo y asincronismo.
-- ¿Cómo _testear_ cuando interactuamos con servicios externos?
 
-# Apuntes
-- [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
-- _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
-- [Patrón Adapter](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
-- [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
-- _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
+- Abordamos el concepto de _Patrones de Diseño_.
+- Explicamos _creación_, _instanciación_ e _inicialización_.
+- Mostramos algunos patrones creacionales: _Builder_ y _Singleton_ 
+- Evacuamos dudas y consultas de QMP Segunda Iteración
 
-# Práctica
-- [Qué Me Pongo - Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit?usp=sharing)
+# Material
 
-# Tarea
---
+- [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit?usp=sharing)
+- [Introducción a patrones de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit?usp=sharing)
+- [Solución explicada a QMP Segunda Iteración](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM/edit)
+- [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
+* [Pseudocódigo visto en clase](https://codeshare.io/ay6Vyb)
+
+# Para la próxima clase
+
+### Apuntes y ejercicios
+- [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
+- [Biblioteca vs. Framework](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
+- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
+- [TPA - Prueba de concepto](https://docs.google.com/document/d/1cSmA-JwmtXvOe2sbeQK5ycL3pl3vhXhpDhbABNvd--o/edit?usp=sharing). Entrega 01/05
+
+
+### Formularios de seguimiento
+- [Segumiento de Apuntes](https://forms.gle/W7NyfphtFNFbTgvg8)
+
