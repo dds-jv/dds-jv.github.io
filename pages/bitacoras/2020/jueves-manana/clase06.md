@@ -14,7 +14,7 @@ Cuarta clase de Diseño de Sistemas en pantuflas!
 
 - [Presentación](https://docs.google.com/presentation/d/1McLAT-VnnWiitCmURzQmdbxVCCSt7M18xUMu4GnNBBs/edit#slide=id.p)
 
-- [Preguntas usadas]()
+- [Preguntas usadas](https://quizizz.com/join/quiz/5eac507e7cf884001d75d385/start?from=soloLinkShare&referrer=5e80f3362abd61001b3daf75)
 
 # Resumen
 
