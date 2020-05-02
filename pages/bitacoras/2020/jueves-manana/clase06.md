@@ -20,11 +20,7 @@ Cuarta clase de Diseño de Sistemas en pantuflas!
 
 En esta clase estuvimos analizando algunos Code smells (o indicios que denotan que puede haber un problema de diseño detrás) y refactoring.
 
-  ```codigo pre refactor```
-
-  ```codigo post refactor```
-
-Para hacerlo, nos apoyamos en algunas de las herramientas que nos provee el IDE (como fue renombrar clases asegurando la consistencia, algo que usando un editor de texto más limitado tendríamos que controlar a mano).
+Para hacer el refactor, nos apoyamos en algunas de las herramientas que nos provee el IDE (como fue renombrar clases asegurando la consistencia, algo que usando un editor de texto más limitado tendríamos que controlar a mano).
 Fuimos teniendo en cuenta algunas cuestiones comunes a cualquier refactor:
   - no hacer todo el refactor de una, sino que ir haciendo commits pequeños
   - después de cada cambio en el diseño, correr los tests para validar que los resultados obtenidos no hayan variado
