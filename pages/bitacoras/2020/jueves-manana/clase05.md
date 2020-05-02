@@ -10,6 +10,7 @@ Tercera clase online de Diseño de Sistemas en pantuflas!
 
 - [Video](https://us02web.zoom.us/rec/share/wO9LdZ6gp0ZLYJH9xHP2BoQOHq_Haaa80yNL_PtezkpmoxLOBbCVwg0oJHxkYTCN?startTime=1587643573000)
 - [Presentación](https://docs.google.com/presentation/d/1LEOLX-8QVkCEZb3FHbDyxVM1iUS1d85XU1Ju0wmXpQU/edit#slide=id.p)
+- [Preguntas usadas](https://quizizz.com/join/quiz/5eac507e7cf884001d75d385/start?from=soloLinkShare&referrer=5e80f3362abd61001b3daf75)
 
 # Resumen
 
