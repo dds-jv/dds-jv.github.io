@@ -11,7 +11,7 @@ Segunda clase de Diseño de Sistemas en pantuflas!
 
 - [Video](https://us02web.zoom.us/rec/share/2tNnBY7O-15Oaa-OxFz9dY0sBo_baaa81XBNqfYPyh6qG9bnd6vhK86DDg2HU08K)
 - [Presentación](https://docs.google.com/presentation/d/1XJ5IwjtA87XLLwRN2rauKBebLkatWNgmuUrm92XjUPw)
-- [Preguntas usadas]()
+- [Preguntas usadas](https://quizizz.com/join/quiz/5ead7bfa117372001bfa42a8/start?referrer=5e80f3362abd61001b3daf75)
 
 # Resumen
 
