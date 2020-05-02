@@ -41,7 +41,7 @@ Les dejamos un apunte sobre [manejo del cambio](https://docs.google.com/document
 
 [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit)
 
-[Testing](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit) hasta el punto 9 (Impostores)
+[Testing](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit) los puntos 1 al 8 (hasta el punto 9, Impostores)
 
 # Material complementario
 
