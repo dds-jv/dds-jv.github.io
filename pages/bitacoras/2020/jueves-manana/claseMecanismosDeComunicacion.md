@@ -2,7 +2,7 @@
 layout: page
 title: Clase 6
 description: Jueves (Mañana, 2020)
-permalink: /bitacoras/2020/jueves-m/clase-06/
+permalink: /bitacoras/2020/jueves-m/comunicacion/
 ---
 
 # Resumen
