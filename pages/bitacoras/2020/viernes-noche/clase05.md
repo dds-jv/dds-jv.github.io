@@ -25,7 +25,6 @@ Tercera clase online desde casa!
 - [Introducción a patrones de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit?usp=sharing)
 - [Solución explicada a QMP Segunda Iteración](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM/edit)
 - [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
-* [Pseudocódigo visto en clase](https://codeshare.io/ay6Vyb)
 
 # Para la próxima clase
 
