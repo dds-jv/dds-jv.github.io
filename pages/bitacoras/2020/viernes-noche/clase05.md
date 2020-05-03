@@ -34,8 +34,11 @@ Tercera clase online desde casa!
 - [Biblioteca vs. Framework](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
 - [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
 - [TPA - Prueba de concepto](https://docs.google.com/document/d/1cSmA-JwmtXvOe2sbeQK5ycL3pl3vhXhpDhbABNvd--o/edit?usp=sharing). Entrega 01/05
+- [Ejercicio Monedero](https://github.com/dds-utn/dds-monedero-java8)
+- [Ejemplos Code Smells ](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
 
 
 ### Formularios de seguimiento
 - [Segumiento de Apuntes](https://forms.gle/W7NyfphtFNFbTgvg8)
+- [Formulario Ejercicio Monedero](https://forms.gle/BDVkq6o15yb3gjqv8)
 
