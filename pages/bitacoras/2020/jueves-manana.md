@@ -17,3 +17,4 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 4: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-04) 
 - [Clase 5: Tiempo de Uso vs. Tiempo de Configuración. Patrones creacionales (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-05)
 - [Clase 6: Manejo del cambio (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-06)
+- [Clase 7: Inversión de control, inyección de dependencia y testing (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-06)
