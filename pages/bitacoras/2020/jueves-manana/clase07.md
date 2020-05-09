@@ -24,6 +24,9 @@ Y cuales son las [diferencias en el uso de estas](https://docs.google.com/docume
 Recordamos que era una dependencia y empezamos a hablar de distintas formas de conocerlas, en particular de la [inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit) para poder parametrizarlas y tener mayor flexibilidad/testeabilidad. 
 
 Por último hablamos sobre las características de los [tests](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit) y algunas herramientas que nos van a servir para analizar la solución
+* Github actions: video _próximamente_
+* [SonarLint](https://www.sonarlint.org/) para chequeo de código
+* Plugin de cobertura en el IDE
 
 # Para la próxima clase
 
