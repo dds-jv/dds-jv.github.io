@@ -2,7 +2,7 @@
 layout: page
 title: Clase 7
 description: Jueves (Mañana, 2020)
-permalink: /bitacoras/2020/jueves-m/clase-07/
+permalink: /bitacoras/2020/jueves-m/clase-command/
 ---
 
 **¡Hola!**
