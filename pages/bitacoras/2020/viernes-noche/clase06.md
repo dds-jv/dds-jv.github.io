@@ -6,27 +6,33 @@ permalink: /bitacoras/2020/viernes-n/clase-06/
 ---
 **¡Hola!**
 
-La clase anterior ya comenzamos a trabajar adaptando interfaces entre componentes. Hoy vamos a profundizarlo y, por supuesto, vamos a practicar al respecto. 
+Esta fue nuestra cuarta clase virtual!
 
-Recordá que si estás inscripto al curso de Gastón, podés ir a **Medrano**. Mientras que, si estás inscripto al curso de Franco o sos oyente, deberías ir al aula de **Campus**. ¡No te olvides!
+- [Video](https://us02web.zoom.us/rec/share/6sVTcamr0zhIUo2OxlPtfYkvEJ_baaa8h3RIqaVenkhhnC_CjE1dhk8sXsN5HZLu?startTime=1588975024000)
+- [Presentación](https://docs.google.com/presentation/d/1GYwCnxdKlb1HQlX6UJw30bidZKLg621Oyz0xGJ_Z4ew/edit?usp=sharing)
+
 
 # Resumen
 
-- Tiempo de Uso vs. Tiempo de Configuración: Veremos sus diferencias. 
-- Inyeccion de Dependencias.
-- Patrones de Comunicación entre Componentes. 
-  - Call & Return
-  - Excepciones 
-  - Memoria compartida
-  - Continuaciones
-  
-# Apuntes
+- Abordamos el concepto de _Inversion de Control_.
+- Nos introdujimos a la _Inyección de dependencias_.
+- Discutimos sobre: _Refactor_ y _Manejo del Cambio_ 
+- Vimos cómo hacer refactors en vivo ayudándonos con un IDE
 
-- [Patrones de Comunicación entre Componentes](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
-- [Comparación de los Patrones de Comunicación](https://docs.google.com/document/d/1dBaf8tILr37iD2mNMiZsfeYdL7AADW698skIkkoVU9g/edit)
-- [Inyección de Dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit#heading=h.niaj9skgl3x9)
-- En [éste repositorio](https://github.com/dds-utn/patrones-comunicacion) tenemos ejemplos donde implementamos los patrones de comunicación.
- 
-# Práctica
+# Material
+- [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
+- [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit#heading=h.6ab0fffv8tld)
+- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
+- [Ejemplos Code Smells ](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
 
-- File System ([Ver Repositorio](https://github.com/dds-utn/file-system))
+# Para la próxima clase
+
+### Apuntes y ejercicios
+- [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
+- _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
+- [Patrón Adapter](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+- [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
+- _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
+
+### Formularios de seguimiento
+Próximamente...
