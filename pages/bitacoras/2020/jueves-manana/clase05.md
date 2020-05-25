@@ -30,8 +30,7 @@ Tercera clase online de Diseño de Sistemas en pantuflas!
 * [TPA - Prueba de concepto](https://docs.google.com/document/d/1cSmA-JwmtXvOe2sbeQK5ycL3pl3vhXhpDhbABNvd--o)
 
 # Formularios de seguimiento
-* [Segumiento de Apuntes de la clase](https://docs.google.com/forms/d/1I4N0Ods8_WwPz2Wg2dTtglbm7hKcVgZQmjZEcnNzx3k/viewform
-)
+* [Segumiento de Apuntes de la clase](https://docs.google.com/forms/d/1I4N0Ods8_WwPz2Wg2dTtglbm7hKcVgZQmjZEcnNzx3k/viewform)
 
 
 
