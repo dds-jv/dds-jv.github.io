@@ -9,7 +9,7 @@ permalink: /bitacoras/2020/jueves-m/clase-03/
 
 Hoy tuvimos nuestra primera clase virtual! En ella repasamos los temas vistos en la clase 1 y despejamos dudas.
 
-* [Video](https://zoom.us/rec/play/vZUpfuyh_T03HdHAuASDV_8vW9W-Lv2s0CAd-aYPnRm8ACZVOlDwM-MTY3ztMyzPvTNXMSW_4eJpMHE)
+* [Video](https://www.youtube.com/playlist?list=PL7cuUUqxhfsOUyP7slWffn4qQQY1luFq3)
 * [Presentación](https://docs.google.com/presentation/d/1DLnzOp3nVM40BgC8F9o3YVTANwWu9JaLiVYf2mPyzio)
 * [Preguntas usadas](https://quizizz.com/join/quiz/5e8ab69a16ba33001ff2323d/start)
 
