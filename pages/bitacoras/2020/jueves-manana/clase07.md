@@ -28,6 +28,9 @@ Por último hablamos sobre las características de los [tests](https://docs.goog
 * [SonarLint](https://www.sonarlint.org/) para chequeo de código
 * Plugin de cobertura en el IDE
 
-# Para la próxima clase
+# Para la próxima clase (en 2 semanas)
 
-* Entrega TPA en el horario de clase, vamos a publicar pronto los horarios.
+* [QMP - Iteración 4](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY)
+* [Diseño de interfaces entrantes/salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg)
+* [Patrón adapter - pág. 157](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)
+* [Testing impostores](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit#heading=h.5bqwe0zgcgud)

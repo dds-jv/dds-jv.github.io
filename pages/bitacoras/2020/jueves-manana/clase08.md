@@ -5,22 +5,26 @@ description: Jueves (Mañana, 2020)
 permalink: /bitacoras/2020/jueves-m/clase-08/
 ---
 
+
 **¡Hola!**
+
+Sexta clase de Diseño de Sistemas en pantuflas!
+
+- [Video](https://us02web.zoom.us/rec/share/w95TJLPirF5IW6fP9EzBX4UAN9vYX6a80yZN_fYFmRvAAQ4AoXA6AgyuoVjoz2mj?startTime=1590063424000)
+- [Presentación](https://docs.google.com/presentation/d/1VVo9rluSVBIZSLHIM0w5LmpJ9M-sAsG7EcymdCT6s5M/edit?usp=sharing)
 
 # Resumen
 
-Aprenderemos sobre la noción de eventos, que aplicada al diseño de interfaces entre componentes nos permitirá utilizar el asincronismo para desacoplarlos y ganar flexibilidad.
+En esta clase estuvimos viendo como modelar la comunicación entre dos componentes y como probarlas.
 
-- [Apunte sobre el patrón Observer, caso práctico](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
-- [Patrón Observer EN](https://sourcemaking.com/design_patterns/observer)/[Patrón Observer ES](https://reactiveprogramming.io/blog/es/patrones-de-diseno/observer)
+En principio vimos como modelar la [comunicación entre componentes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg), a identificar si estamos modelando la interfaz entrante a nuestro sistema o la interfaz saliente de nuestro sistema.
 
-# Práctica
+Además vimos como adaptar interfaces de componentes que aún no tenemos o que no son compatibles con una que deseamos, para esto nos ayudaría el [patrón adapter](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf).
 
-- Macowins con Tarjetas ([Repositorio](https://github.com/dds-utn/macowins-tarjetas)): Ver _branches_ `adapter-con-test` y `observer-implementado`
+Por otro lado, tuvimos un desafío extra que fue como testear de forma unitaria nuestros componentes sin tener que usar los componentes reales, esto es muy útil cuando los componentes que usamos tienen efecto y queremos evitarlos, para esto nos sirvio definir [impostores](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit#heading=h.5bqwe0zgcgud).
 
-# Material complementario
 
-- [Sobre los efectos en el observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
-- [Patrones de Diseño - Gamma](https://github.com/deepakkum21/Books/blob/master/Design%20Patterns%20-%20Elements%20of%20Reusable%20Object%20Oriented%20Software%20-%20GOF.pdf) (recomendamos descargar el pdf para navegarlo más fácil)
+# Para la próxima clase
 
-  - Observer, página 273
+* [Leer Patrones de comunicación](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
+* [Plantear el ejercicio de Sistema de archivos](https://docs.google.com/document/d/1MYNcBAKlszo1A1bEC2vMvXHyGUgrJyEhGF0tSXJHNsM/)
