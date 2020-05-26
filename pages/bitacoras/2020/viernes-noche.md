@@ -15,7 +15,7 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 4: Manejo de errores, cualidades y patrones de de diseño]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-04)
 - [Clase 5: Tiempo de Uso vs. Tiempo de Configuración. Patrones creacionales (online)]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-05)
 - [Clase 6: Inversion de control, Refactoring, ID]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-06)
-- Clase X: Inversión de Control <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-04) -->
+- [Clase 7: Diseño de Interfaces entre componentes + Testing]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-07)
 - Clase X: Adaptación de Interfaces entre Componentes <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-05) -->
 - Clase X: Tiempo de Uso vs. Tiempo de Configuración <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-06) -->
 - Clase X: Cosificar Comportamiento <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-07) -->
