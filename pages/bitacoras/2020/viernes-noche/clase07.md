@@ -25,8 +25,8 @@ Esta fue nuestra quinta clase virtual!
 	
  	- Aclaramos que la entrega de ejercicios será _obligatoria_.
 	
- 	- Remarcamos que la resolución que se pide de los ejercicios es un planteo general, que no debería llevarles más de 30 min.
-(De hecho, recomendamos que cronometren su tiempo y entreguen lo que sea que lleguen a haber armado en esos 30 minutos)
+ 	- Remarcamos que la resolución que se pide de los ejercicios es un planteo general, que no debería llevarles más de 30 min.(De hecho, recomendamos que cronometren su tiempo y entreguen lo que sea que lleguen a haber armado en esos 30 minutos)
+	
 * Abordamos distintos tipos de _Testing_ y para qué lo hacemos.
 * Nos introdujimos al concepto de _Interfaz_, en un sentido más amplio que el de objetos.
 * Hablamos sobre cómo establecer y diseñar: _Interfaces entre componentes_ 
