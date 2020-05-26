@@ -19,9 +19,9 @@ Esta fue nuestra quinta clase virtual!
 - Recordamos que dado el contexto de pandemia, la lectura de apuntes y entrega de ejercicios es de **suma importancia**
 	- Entendimos que dado el contexto de parciales, la partipacion bajo
 	- Decidimos darles tiempo de más para hacer el ejercicio, entendiendo las dificultades circunstanciales de esta semana
- * Destacamos la importancia de leer los apuntes y realizar los ejercicios, y que comenzaremos a ponermos firmes con ello
- * Aclaramos que la entrega de ejercicios será _obligatoria_
- * Remarcamos que la resolución que se pide de los ejercicios es un planteo general, que no debería llevarles más de 30 min.
+ 	- Destacamos la importancia de leer los apuntes y realizar los ejercicios, y que comenzaremos a ponermos firmes con ello
+ 	- Aclaramos que la entrega de ejercicios será _obligatoria_
+ 	- Remarcamos que la resolución que se pide de los ejercicios es un planteo general, que no debería llevarles más de 30 min.
 (De hecho, recomendamos que cronometren su tiempo y entreguen lo que sea que lleguen a haber armado en esos 30 minutos)
 * Abordamos distintos tipos de _Testing_ y para qué lo hacemos.
 * Nos introdujimos al concepto de _Interfaz_, en un sentido más amplio que el de objetos.
