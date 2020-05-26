@@ -39,5 +39,4 @@ Esta fue nuestra quinta clase virtual!
 
 ### Apuntes y ejercicios
 - [Patrones de comunicación](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
-- [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
--- **Obligatorio**
+- [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit) **Obligatorio**
