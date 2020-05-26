@@ -6,22 +6,38 @@ permalink: /bitacoras/2020/viernes-n/clase-07/
 ---
 **¡Hola!**
 
-Siguiendo con los Patrones de Diseño y sus tipos, donde comenzamos por los creacionales, ahora cubriremos los que son de comportamiento. Ahora lo modelaremos y lo manejaremos a lo largo de la solución mediante buenas prácticas.
+Esta fue nuestra quinta clase virtual!
+
+- [Video](https://us02web.zoom.us/rec/share/4_xlcO-363tOGbOQzFyHaLMMF9Taaaa82yAbrPAKyEn8v0F6v_YI3oge8mMspVz_?startTime=1590184884000)
+- [Presentación](https://docs.google.com/presentation/d/1XxkTAaRN3QFWFzVGikNwnYF1mgPz3JmwIXd0sMvLNTo/edit?usp=sharing)
+- [Ejemplo de Mocking](https://drive.google.com/drive/folders/1fUdW29WD6pqQwLG_WGrqcNNzPBvgANBq?usp=sharing)
 
 # Resumen
 
-Retomando el concepto de la clase pasada de _Tiempo de Uso vs. Tiempo de Configuración_ , vamos a pararnos en la etapa de uso y trabajar sobre el modelado del comportamiento. A esta idea, de darle una identidad dentro de nuestro modelo, se la conoce como _cosificación_. 
+- Hablamos de la baja participación en entregas de QMP4 y lectura de apuntes
+- Pospusimos la entrega de QMP4 para la clase siguiente -como **obligatoria**- y solo vimos teoría y consultas.
+- Recordamos que dado el contexto de pandemia, la lectura de apuntes y entrega de ejercicios es de **suma importancia**
+-- Entendimos que dado el contexto de parciales, la partipacion bajo
+-- Decidimos darles tiempo de más para hacer el ejercicio, entendiendo las dificultades circunstanciales de esta semana
+-- Destacamos la importancia de leer los apuntes y realizar los ejercicios, y que comenzaremos a ponermos firmes con ello
+-- Aclaramos que la entrega de ejercicios será _obligatoria_
+-- Remarcamos que la resolución que se pide de los ejercicios es un planteo general, que no debería llevarles más de 30 min.
+De hecho, recomendamos que cronometren su tiempo y entreguen lo que sea que lleguen a haber armado en esos 30 minutos.
+- Abordamos distintos tipos de _Testing_ y para qué lo hacemos.
+- Nos introdujimos al concepto de _Interfaz_, en un sentido más amplio que el de objetos.
+- Hablamos sobre cómo establecer y diseñar: _Interfaces entre componentes_ 
+- Aprendimos cómo mantener interfaces desacopladas valiéndonos del _Patrón Adapter_
 
-# Lo que vemos
+# Material
+- [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
+- _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
+- [Patrón Adapter](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+- [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
+- _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
 
-- [Patrón Command](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+# Para la próxima clase
 
-# Práctica
-
-- [Qué Me Pongo - Quinta Iteración](https://docs.google.com/document/d/1wS622pMwZrDK9ilL_hEt5bBE04vKUKZILx8cIQ-aQzU/edit?usp=drivesdk)
-
-- _Complementario: [Hitbug](https://docs.google.com/document/d/1TngwZCctCp4qKsdw89HLUc_GLSb6mxZ7_lJTTj3TOLM/edit#heading=h.e94p7hnixqf4), y [posible solución](https://docs.google.com/document/d/1_ftxB1gTeNkN1qN_EMEIaF0vgtLkcH1SHwk-XA5_S1s/edit#)._
-
-  _Fue un parcial. Por esa razón, les recomendamos que le den una mirada ya que les puede servir como puntapié para entender que esperar de un primer parcial (si es que aun no incursionaron en esto) y ver cuan cómodos se sentirían encarando el mismo. Pueden omitir el punto de Code Smells._
-  
-- _Complementario: [Microprocesador (incluye posible solución)](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit)._
+### Apuntes y ejercicios
+- [Patrones de comunicación](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
+- [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
+-- **Obligatorio**
