@@ -23,9 +23,8 @@ Esta fue nuestra quinta clase virtual!
 	
 	- Preferimos evitar avanzar por avanzar sin que nos puedan seguir el ritmo.
 	
-	- Destacamos la importancia de leer los apuntes y realizar los ejercicios, y que comenzaremos a ponermos firmes con ello.
-	
- 	- Aclaramos que la entrega de ejercicios será _obligatoria_.
+	- Destacamos la importancia de leer los apuntes y realizar los ejercicios, y que comenzaremos a ponermos firmes con ello
+	- Aclaramos que la entrega de ejercicios será _obligatoria_.
 	
  	- Remarcamos que la resolución que se pide de los ejercicios es un planteo general, que no debería llevarles más de 30 min.(De hecho, recomendamos que cronometren su tiempo y entreguen lo que sea que lleguen a haber armado en esos 30 minutos)
 	
