@@ -19,9 +19,8 @@ Esta fue nuestra quinta clase virtual!
 - Recordamos que dado el contexto de pandemia, la lectura de apuntes y entrega de ejercicios es de **suma importancia**
 	- Entendimos que dado el contexto de parciales, la partipacion bajó. 
 	
-	- Decidimos darles tiempo de más para hacer el ejercicio, entendiendo las dificultades circunstanciales de esta semana, para evitar avanzar por avanzar sin que nos puedan seguir el ritmo. 
-	
- 	- Destacamos la importancia de leer los apuntes y realizar los ejercicios, y que comenzaremos a ponermos firmes con ello.
+	- Decidimos darles tiempo de más para hacer el ejercicio, entendiendo las dificultades circunstanciales de esta semana, para evitar avanzar por avanzar sin que nos puedan seguir el ritmo.
+	- Destacamos la importancia de leer los apuntes y realizar los ejercicios, y que comenzaremos a ponermos firmes con ello.
 	
  	- Aclaramos que la entrega de ejercicios será _obligatoria_.
 	
