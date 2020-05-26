@@ -36,7 +36,7 @@ Esta fue nuestra quinta clase virtual!
 # Material
 - [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
 - _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
-- [Patrón Adapter](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+- [Patrón Adapter (Pág. 157)](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)
 - [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
 - _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
 
