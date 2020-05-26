@@ -33,7 +33,5 @@ Esta fue nuestra cuarta clase virtual!
 - [Patrón Adapter](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
 - [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
 - _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
-- Qué Me Pongo: Tercera Iteración (Próximamente...)
+- [Qué Me Pongo: Cuarta Iteración] (https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
 
-### Formularios de seguimiento
-Próximamente...
