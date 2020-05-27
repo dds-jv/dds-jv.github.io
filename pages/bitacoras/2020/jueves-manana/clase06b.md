@@ -2,7 +2,7 @@
 layout: page
 title: Clase 6 - Parte 2
 description: Jueves (Mañana, 2020)
-permalink: /bitacoras/2020/jueves-m/clase-07/
+permalink: /bitacoras/2020/jueves-m/clase-06b/
 ---
 
 
