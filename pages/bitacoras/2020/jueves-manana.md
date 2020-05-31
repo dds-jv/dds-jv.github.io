@@ -19,3 +19,4 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 6A: Manejo del cambio (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-06a)
 - [Clase 6B: Inversión de control, inyección de dependencia y testing (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-06b/)
 - [Clase 7: Comunicación entre componentes - Adaptación de interfaces - Impostores (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-07)
+- [Clase 8: Patrones de comunicación entre componentes (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-08)
