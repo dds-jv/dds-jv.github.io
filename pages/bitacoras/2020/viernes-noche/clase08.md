@@ -8,7 +8,7 @@ permalink: /bitacoras/2020/viernes-n/clase-08/
 
 ¡Esta fue nuestra sexta clase virtual!
 
-- [Video](https://docs.google.com/document/d/1wS622pMwZrDK9ilL_hEt5bBE04vKUKZILx8cIQ-aQzU)
+- [Video](https://us02web.zoom.us/rec/share/2ZZRLevs1VtLfLfmr03vHe14Adm6T6a81yYYrqJcyhxyWfm9PPFWggvUptY4iy0X?startTime=1590789721000)
 - [Presentación](https://docs.google.com/presentation/d/1XQXjn4IPn9JmUeilZkvqlL8JHBN4dC1oq-J5JRUY8tY/edit#slide=id.g35f391192_00)
 
 # Resumen
