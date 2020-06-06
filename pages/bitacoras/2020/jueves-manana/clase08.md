@@ -7,7 +7,9 @@ permalink: /bitacoras/2020/jueves-m/clase-08/
 
 ## Resumen
 
-En la clase pasada introducimos la noción de Componentes y las interfaces que nos permiten adaptarlos. En esta clase haremos mayor hincapié en la manera que estos se comunican entre sí.
+*¡Séptima clase de Diseño de Sistemas en pantuflas!*
+
+En la clase pasada introducimos la noción de Componentes y las interfaces que nos permiten adaptarlos. Pero en esta clase haremos mayor hincapié en la manera que estos se comunican entre sí.
 
 ## Lo que vemos
 
