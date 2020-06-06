@@ -7,9 +7,6 @@ permalink: /bitacoras/2020/jueves-m/clase-09/
 
 **¡Octava clase de Diseño de Sistemas en pantuflas!**
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/udQpPajL9mpLQ6_c-BuYRo8gLpzET6a80CNP-vEKzUv6tTa_3HclzNBba55LQ8rO?startTime=1591273596000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1b3xGYTRlbEWvCp5dWOlJ-hPsZF5d_DSFCEY1x3hvHkY)
-
 ## Resumen
 
 Esta clase vimos alternativas para el ejercicio de FileSystem y como se debería encarar el diseño. Además usamos las cualidades de diseño para poder analizar los cambios.
@@ -18,6 +15,11 @@ Además vimos como modelar objetos que representan un comportamiento:
 
 - Para que la ejecute un tercero en otro momento.
 - Para que decida si la ejecuta o no.
+
+## Material utilizado
+
+- [Video de la clase](https://us02web.zoom.us/rec/share/udQpPajL9mpLQ6_c-BuYRo8gLpzET6a80CNP-vEKzUv6tTa_3HclzNBba55LQ8rO?startTime=1591273596000)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1b3xGYTRlbEWvCp5dWOlJ-hPsZF5d_DSFCEY1x3hvHkY)
 
 ## Práctica
 
