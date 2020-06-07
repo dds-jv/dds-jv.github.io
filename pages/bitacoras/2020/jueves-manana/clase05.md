@@ -8,7 +8,8 @@ permalink: /bitacoras/2020/jueves-m/clase-05/
 
 Tercera clase online de Diseño de Sistemas en pantuflas!
 
-- [Video](https://us02web.zoom.us/rec/share/wO9LdZ6gp0ZLYJH9xHP2BoQOHq_Haaa80yNL_PtezkpmoxLOBbCVwg0oJHxkYTCN?startTime=1587643573000)
+- [Video Clase - Completa](https://us02web.zoom.us/rec/share/wO9LdZ6gp0ZLYJH9xHP2BoQOHq_Haaa80yNL_PtezkpmoxLOBbCVwg0oJHxkYTCN?startTime=1587643573000)
+* [Video Clase - Segmentado en Youtube](https://www.youtube.com/playlist?list=PL7cuUUqxhfsP4xmh5ij7AcWtcvbOo-Xkm)
 - [Presentación](https://docs.google.com/presentation/d/1LEOLX-8QVkCEZb3FHbDyxVM1iUS1d85XU1Ju0wmXpQU/edit#slide=id.p)
 
 # Resumen
