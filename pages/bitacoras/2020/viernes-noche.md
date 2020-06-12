@@ -17,7 +17,7 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 6: Inversion de control, Refactoring, ID]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-06)
 - [Clase 7: Diseño de Interfaces entre componentes + Testing]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-07)
 - [Clase 8: Adaptación de Interfaces entre Componentes y Patrones de comunicación]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-08)
-- Clase X: Adaptación de Interfaces entre Componentes <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-05) -->
+- [Clase 9: Reificando Comportamiento]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-09)
 - Clase X: Tiempo de Uso vs. Tiempo de Configuración <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-06) -->
 - Clase X: Cosificar Comportamiento <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-07) -->
 - Clase X: Eventos y Notificaciones <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-08) -->0
