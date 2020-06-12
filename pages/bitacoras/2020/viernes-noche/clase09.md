@@ -4,33 +4,28 @@ title: Clase 9
 description: Viernes (Noche, 2020)
 permalink: /bitacoras/2020/viernes-n/clase-09/
 ---
-**¡Hola!**
+**¡Hola de nuevo!**
 
-Hoy hacemos una pausa para analizar problemas frecuentes del día a día, los cuales pueden surgir como consecuencia de la evolución de un producto y/o el dominio del mismo.
+¡Esta fue nuestra séptima clase virtual!
 
-Por una parte resaltaremos la importancia de contar con buenas prácticas para nuestra solución. A su vez, como nada es perfecto, trabajaremos el concepto de _refactoring_, el cual nos permitirá mejorar código existente. Como no siempre es ésto posible, conoceremos lo que se entiende por **deuda técnica**.
+- [Video](https://us02web.zoom.us/rec/share/y-xkAr6pr0VOfbPc0l6cVpRxGtnBT6a81SIf__texEyErcQN8KSJYxmgjH438lk7?startTime=1591394556000)
+- [Presentación](https://docs.google.com/presentation/d/1jl-GXxx5Usaiofds5XFemTSiMOp8PrfwL_W_6m8TLv0/edit?usp=sharing)
 
 # Resumen
 
-- Code Smells (también conocidos como "Bad Smells")
-- Refactoring y Manejo del Cambio
-    - Noción de Cambio
-    - Diseño Anticipado vs. Diseño Iterativo
-    - Simplicidad ([KISS](https://es.wikipedia.org/wiki/Principio_KISS), [YAGNI](https://es.wikipedia.org/wiki/YAGNI))
-- Concepto de Deuda Técnica
+- Hablamos sobre Reificar comportamiento y cómo implementarlo
+- Discutimos sobre sincronismo y asincronismo
+- Evaluamos ventajas y casos de uso para el comportamiento cosificado
+- Pusimos en común QMP5 y comparamos soluciones de diferentes alumnos
 
-# Apuntes
+# Material
+- [Reificar Comportamiento](https://docs.google.com/document/d/14n6SNTbCt1wJzhNiIFNSoAq0tJdYjRrOQCi5ar_FQ1c/edit#heading=h.6ab0fffv8tld)
+- [Patrón Command](http://www.google.com/url?q=http%3A%2F%2Fwww.uml.org.cn%2Fc%2B%2B%2Fpdf%2FDesignPatterns.pdf&sa=D&sntz=1&usg=AFQjCNFD5AGp1QDdoN_pu3TgljJJRqMAMg)
+- [Qué Me Pongo: Quinta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
 
-- [Refactoring y Manejo del Cambio](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit)
+# Para la próxima clase
 
-- Deuda Técnica (Explicado por: [10Pines](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6ZTIyOGM3NjBjMWE4OTIx), [Martin Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) y [Ward Cunningham](http://wiki.c2.com/?WardExplainsDebtMetaphor))
-
-- _Complementario: [Test-Driven Development](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit#heading=h.mm7wfgq1wuu1)_
-
-# Práctica
-
-- [¿Qué me pongo? (Repaso de la sexta iteración)](https://drive.google.com/file/d/1ZLI2HiIILMpmEGbIxekWKXq694kBFoIf/edit)
-
-- [Ejemplos de Code Smells](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit)
-
-- [Ejemplo de Long Method](https://gist.github.com/gastonprieto/10072862)
+### Apuntes y ejercicios
+- [Patrón Observer](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
+- [Complementario: Sobre los efectos en el Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
+- [Qué Me Pongo: Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit#) **Obligatorio**
