@@ -6,6 +6,11 @@ permalink: /bitacoras/2020/viernes-n/
 frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQP7Tl5BpIV8EaMimFoOCMavEURNjtiYdGw3hOtG-_o8iz3aKnvp7Bo0oBNWsvzqNQnjQ0UZ8cFx2zL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
 ---
 
+## Alumnos
+
+[Listado de alumnos / grupos](https://docs.google.com/spreadsheets/d/1PofMZlXxpQZvd_v9wyeNfica8tJzORx4nFTds-BHI5M/edit?usp=sharing)
+
+
 ## Clases
 
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
