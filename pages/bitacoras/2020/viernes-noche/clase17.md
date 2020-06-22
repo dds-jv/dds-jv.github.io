@@ -2,12 +2,12 @@
 layout: page
 title: Clase 13
 description: Viernes (Noche, 2020)
-permalink: /bitacoras/2020/viernes-n/clase-13/
+permalink: /bitacoras/2020/viernes-n/clase-17/
 ---
 
 # Resumen
 Habiendo visto la teoría del _modelo relacional_, vamos a dar un paso más adelante para empezar a entender cómo podemos persistir nuestros objetos bajo este modelo, ver las dificultades que existen entre estos dos mundos y algunas posibles alternativas que existen para engranarlos.
- 
+
 # Apuntes
 - [Mapeo de Objetos Relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit), a.k.a. ORM
 

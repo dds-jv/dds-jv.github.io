@@ -2,7 +2,7 @@
 layout: page
 title: Clase 12
 description: Viernes (Noche, 2020)
-permalink: /bitacoras/2020/viernes-n/clase-12/
+permalink: /bitacoras/2020/viernes-n/clase-16/
 ---
 
 # Resumen
