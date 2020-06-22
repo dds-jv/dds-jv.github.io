@@ -1,22 +1,30 @@
 ---
 layout: page
-title: Clase 12
+title: Clase 10
 description: Viernes (Noche, 2020)
-permalink: /bitacoras/2020/viernes-n/clase-12/
+permalink: /bitacoras/2020/viernes-n/clase-10/
 ---
+**¡Hola!**
+
+En ésta ocasión volvemos a pisar el acelerador para cubrir un Patrón de Arquitectura muy conocido: _Modelo-Vista-Controlador (también conocido como "MVC")_. Dentro de éste descubriremos sus variantes y características.
 
 # Resumen
-En esta oportunidad hablaremos sobre la persistencia y tocaremos los siguientes temas:
-- Utilidad y rol que cumple la misma en nuestros sistemas.
-- Mencionaremos diferentes medios de persistencia y modelos. Haciendo foco en el modelo relacional.
-- Repaso del diagrama DER y sus componentes.
-- Conceptos de normalización/desnormalización.
+
+- Patrón _Model-View-Controller (MVC)_
+    - Componentes (Diagrama)
+    - Binding
+    - _Variante: Patrón Model-View-ViewModel (MVVM)_
+- Diseño de Interfaces
+    - Elementos gráficos
+    - Desktop vs. Web
+    - Arena
 
 # Apuntes
-- [Modelo Relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit#heading=h.aa3gqw2dds4m)
-- [Normalización](https://docs.google.com/document/d/1Jil-3oiveXDtY1iKBCof7jE9ooRFJ-f1KjcXgaGk6F0/edit#heading=h.aa3gqw2dds4m)
+
+- [Model-View-Controller](https://sites.google.com/site/programacionui/temario/02-disenio-UI/intro-a-ui-mvc)
+
+- Complementario: [Arena, un framework "MVVM"](https://sites.google.com/site/programacionui/temario/02-disenio-UI/arena-disclaimer) e [información para instalarlo](http://arena.uqbar-project.org)
 
 # Práctica
-- [Canchas de Paddle](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80/edit#heading=h.bvad7dw8bhrq)
 
-**Adicional:** [Guía de mumuki - Base de Datos](https://mumuki.io/dds)
+- [Conversor de Unidades](https://docs.google.com/document/d/1hYBIm2S7KqKIzAvWnYl6F9JyRDZzOI6aW2BExH8aDB4/edit)
