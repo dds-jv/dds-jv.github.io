@@ -23,12 +23,13 @@ Además hablamos de los Repositorios, objetos globales que nos permiten conocer 
 
 ## Material utilizado
 
-- [Video de la clase]()
+- [Video de la clase](https://us02web.zoom.us/rec/share/5pVvDb3o8W9JSNbB7kXkc4Q9DN_paaa8hCcW-PMJyka7Vurhx5bo62u7Nnkzfd1-?startTime=1591999314000)
 - [Presentación utilizada](https://docs.google.com/presentation/d/1GYxb86-8lZIf5wtjW6RtR9BdtwLc3GeGfRNKCl4pzsw/edit)
 
 ## Práctica
 
 - Estuvimos trabajando con el ejercicio de [Qué Me Pongo - Sexta iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE)
+- Hicimos esta [puesta en común](https://drive.google.com/file/d/1JPWEYqw0a_ylqq2zF3zLa2SscGqPFPGg/view?usp=sharing)
 
 ## Material complementario
 
