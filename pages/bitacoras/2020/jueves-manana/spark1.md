@@ -2,7 +2,7 @@
 layout: page
 title: Clase 17
 description: Jueves (Mañana, 2020)
-permalink: /bitacoras/2020/jueves-m/clase-17/
+permalink: /bitacoras/2020/jueves-m/spark-1/
 ---
 
 **¡Hola!**

@@ -2,7 +2,7 @@
 layout: page
 title: Clase 23
 description: Jueves (Mañana, 2020)
-permalink: /bitacoras/2020/jueves-m/clase-23/
+permalink: /bitacoras/2020/jueves-m/arquitectura-3/
 ---
 
 **¡Hola!**
