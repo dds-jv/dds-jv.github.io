@@ -22,3 +22,5 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 8: Patrones de comunicación entre componentes (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-08)
 - [Clase 9: Práctica integradora + Cosificar comportamiento (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-09)
 - [Clase 10: Eventos y Notificaciones - Observer (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-10)
+- [Clase 11: Metodologías ágiles y repaso (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-11)
+- [Clase 12: Interfaz gráfica Desktop (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-12)
