@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 11
+title: Clase 12
 description: Jueves (Mañana, 2020)
-permalink: /bitacoras/2020/jueves-m/clase-11/
+permalink: /bitacoras/2020/jueves-m/clase-12/
 ---
 
 **Onceava clase de Diseño de Sistemas en pantuflas!!**
