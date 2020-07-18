@@ -9,7 +9,14 @@ permalink: /bitacoras/2020/jueves-m/clase-13/
 
 ## Resumen
 
+Primero hablamos sobre la modalidad del parcial, explicamos una posible opción de la modalidad. Pero igual para terminar de definarla vamos a necesitar que completen este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfPasPRaY_ertn_3CHdA_7thKrIUTkG3o1h33NoR7vd29xQnQ/viewform).
 
+Además vimos dos patrones que nos podían ayudar en nuestro modelado.
+
+* El [patrón State](https://docs.google.com/document/d/1RnmKXlQ5tdIasBmFiYFOOe8_JZMSetaT1APLLE9NGIE/edit#heading=h.xuj11ffam8am) que nos sirve para cosificar un estado que va cambiando con el tiempo y su comportamiento varia.
+* El [patrón Composite](https://docs.google.com/document/d/1RqEERDOr2ZVNGUKkMVrnbgu0jT12mc4cB_t0Tg3tAeM/edit) que nos sirve para cosificar un árbol, donde vamos a tratar los nodos finales e intermedios de manera polimorfica. 
+
+Por último discutimos como encarar el Parcial: _Corrector de parciales_
 
 ## Material utilizado
 
