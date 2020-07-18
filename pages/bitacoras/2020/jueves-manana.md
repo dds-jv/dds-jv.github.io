@@ -24,3 +24,4 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 10: Eventos y Notificaciones - Observer (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-10)
 - [Clase 11: Metodologías ágiles y repaso (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-11)
 - [Clase 12: Interfaz gráfica Desktop (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-12)
+- [Clase 13: Cosificar estado y otros patrones(online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-13)
