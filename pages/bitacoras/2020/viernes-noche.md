@@ -24,12 +24,13 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 8: Adaptación de Interfaces entre Componentes y Patrones de comunicación]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-08)
 - [Clase 9: Reificando Comportamiento]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-09)
 - [Clase 10: Eventos y Notificaciones. Observer]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-10)
-- Clase 11: Observer (continuación). Metodologías ágiles <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-11) -->
-- Clase 12: Patrón Arquitectural MVC, Binding e Interfaces <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-10) -->
-- Clase 13: Modelo Relacional, Normalización y Denormalización <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-12) -->
-- Clase 14: ORM, Relaciones e Identidad <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-13) -->
-- Clase 15: ORM, Mapeo de Herencia y Ciclo de Vida <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-14) -->
-- Clase 16: ORM, Colecciones y Migraciones <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-15) -->
-- Clase 17: Arquitectura (parte 1) <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-20) -->
-- Clase 18: Arquitectura (parte 2) <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-21) -->
-- Clase 19: Arquitectura (parte 3) <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22) -->
+- [Clase 11: Observer (continuación). Metodologías ágiles]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-11)
+- [Clase 12: Patrón Arquitectural MVC, Binding e Interfaces]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-12)
+- [Clase 13: Integración]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-13)
+- Clase 14: Modelo Relacional, Normalización y Denormalización <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-12) -->
+- Clase 15: ORM, Relaciones e Identidad <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-13) -->
+- Clase 16: ORM, Mapeo de Herencia y Ciclo de Vida <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-14) -->
+- Clase 17: ORM, Colecciones y Migraciones <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-15) -->
+- Clase 18: Arquitectura (parte 1) <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-20) -->
+- Clase 19: Arquitectura (parte 2) <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-21) -->
+- Clase 20: Arquitectura (parte 3) <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22) -->
