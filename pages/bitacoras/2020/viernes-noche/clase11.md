@@ -11,6 +11,8 @@ permalink: /bitacoras/2020/viernes-n/clase-11/
 
 En esta clase repasamos la noción de eventos para comunicar cosas que ocurren en nuestro sistema a otros objetos, sin acoplarnos a lo que hacen, pero ganando en flexibilidad de que se puedan suscribir otros interesados.
 
+Además, discutimos sobre metodologías de desarrollo.
+
 
 ## Material
 
