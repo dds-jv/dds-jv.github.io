@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 12
+title: Clase 14
 description: Jueves (Mañana, 2020)
-permalink: /bitacoras/2020/jueves-m/datos/
+permalink: /bitacoras/2020/jueves-m/clase-14/
 ---
 **¡Hola!**
 
