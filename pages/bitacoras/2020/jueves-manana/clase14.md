@@ -4,7 +4,7 @@ title: Clase 14
 description: Jueves (Mañana, 2020)
 permalink: /bitacoras/2020/jueves-m/clase-14/
 ---
-**¡Hola!**
+**Catorceava clase de Diseño de Sistemas en pantuflas!!**
 
 En ésta oportunidad haremos hincapié en el modelo relacional, hablaremos sobre conceptos de normalización/denormalización y repasaremos el DER y los elementos que lo componen.
 

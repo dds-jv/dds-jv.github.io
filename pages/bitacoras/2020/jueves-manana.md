@@ -26,3 +26,4 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 12: Interfaz gráfica Desktop (online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-12)
 - [Clase 13: Cosificar estado y otros patrones(online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-13)
 - [Clase 14: Modelado de datos(online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-14)
+- [Clase 15: Nomalización + Mapeo objetos / relacional]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-15)
