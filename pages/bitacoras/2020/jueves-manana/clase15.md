@@ -20,7 +20,7 @@ En esta clase profundizaremos en los conceptos de bases de datos relacionales y 
 
 ## Material
 
-<!-- - [Video de la clase]() -->
+- [Video de la clase](https://us02web.zoom.us/rec/share/9f54aJ3srWlISNL35X3tXaAkMr35aaa80ygZ-fUEyR2P-6aEqHXkIlkPCtdVuXMP?startTime=1598530714000)
 - [Presentación utilizada](https://docs.google.com/presentation/d/1g78A-lJXUN_6R-dVnVcYjcStrZZXOOyZRY8BKX94Qn8/edit)
 
 # Apuntes
