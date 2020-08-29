@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 13
-description: Jueves (Mañana, 2019)
-permalink: /bitacoras/2019/jueves-m/clase-13/
+title: Clase 14
+description: Jueves (Mañana, 2020)
+permalink: /bitacoras/2019/jueves-m/clase-14/
 ---
 **Quinceava clase de Diseño de Sistemas en pantuflas!!**
 
