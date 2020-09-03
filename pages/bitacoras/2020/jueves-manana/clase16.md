@@ -1,0 +1,29 @@
+---
+layout: page
+title: Clase 16
+description: Jueves (Mañana, 2020)
+permalink: /bitacoras/2020/jueves-m/clase-16/
+---
+**Dieciseisava clase de Diseño de Sistemas en pantuflas!!**
+
+Teniendo en cuenta lo visto la clase anterior, iremos un poco mas allá para entender como persistir nuestro modelo de objetos a partir de las ideas que propone el _modelo relacional_.
+
+# Resumen
+
+Evaluaremos las alternativas existentes para combinar los 2 mundos mencionados anteriormente:
+- [Proyecto base de JPA](https://github.com/dds-utn/jpa-proof-of-concept-template)
+- También vamos a estar viendo [un proyecto sin ORM](https://github.com/dds-utn/eg-equipos-futbol-jdbc-java)
+
+
+_Nota: Especialmente para los que usan el entorno de Eclipse, ¡No olviden correr Maven `mvn clean install`! Ya que la instalación de las dependencias puede demorar un tiempo._
+
+# Material
+- [Video de la clase](https://us02web.zoom.us/rec/share/_KANhq_IlxIh8hUTU4MP81QNFBeMZ4apHJPrpCnXfOPfmSYzzo1MbScZmHJQDaUw.zw9qZ-492cjXHtjE?startTime=1599135475000)
+- [Presentación utilizada](https://docs.google.com/presentation/d/16cIQVvOKDMy1Qe_0yfb7RqmTu33nsfRwZRnxENOvXWg/edit)
+
+# Apuntes
+- [Mapeo de Objetos Relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit), a.k.a. ORM
+- [Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
+
+**Importante:**
+De ahora en más, tambien les vamos a pedir que tenga a mano la [guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn). Les va a servir en las siguientes clases y para el exámen.
