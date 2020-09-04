@@ -29,7 +29,7 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 13: Integración]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-13)
 - [Clase 14: Modelo Relacional, Normalización y Denormalización]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-16)
 - [Clase 15: Práctica de Normalización, Intro a ORM]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-17)
-- Clase 16: ORM, Mapeo de Herencia y Ciclo de Vida <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-14) -->
+- [Clase 16: ORM, Relaciones, Identidad, Ciclo de Vida]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-18)
 - Clase 17: ORM, Colecciones y Migraciones <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-15) -->
 - Clase 18: Arquitectura (parte 1) <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-20) -->
 - Clase 19: Arquitectura (parte 2) <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-21) -->
