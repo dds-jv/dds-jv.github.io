@@ -26,17 +26,3 @@ En esta oportunidad comenzamos a modelar datos
 ## Apuntes
 
 - [Modelo Relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit#heading=h.aa3gqw2dds4m)
-**Adicional:** [Guía de mumuki - Base de Datos](https://mumuki.io/dds)
- 
-## Para la próxima clase
-
-- [Apunte sobre Normalización](https://docs.google.com/document/d/1Jil-3oiveXDtY1iKBCof7jE9ooRFJ-f1KjcXgaGk6F0)
-- [Apunte sobre ORM (Secciones 1,2,3,4)](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s)
-- [Ejercicio: Canchas de Paddle](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80)
-
-
-
-
-
-
-
