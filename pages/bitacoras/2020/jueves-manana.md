@@ -10,7 +10,7 @@ frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vS12HDLpYyv6l6key4Dqciaa
 
 ## Clases
 
-Si queres ver las clases sin editar también las tenemos en el siguiente [enlace](https://www.youtube.com/playlist?list=PL7cuUUqxhfsNt7ycizHgksigXDesa_IGl)
+[Clases sin editar](https://www.youtube.com/playlist?list=PL7cuUUqxhfsNt7ycizHgksigXDesa_IGl)
 
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 - [Clase 1: Diseño, Metodologías y Arquitectura (para leer)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-01)
