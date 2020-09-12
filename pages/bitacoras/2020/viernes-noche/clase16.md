@@ -18,6 +18,8 @@ En esta oportunidad comenzamos a conectarnos con un RDBM utilizando un ORM
 - Aprendimos cómo persisitr objetos y realizar tests sobre ellos
 - Conversamos sobre cambios al modelo de objetos devenidos del mapeo relacional
 
+**El paso a paso de la clase se encuentra [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md)** y [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
+
 ## Material
 
 - [Video de la clase](https://us02web.zoom.us/rec/play/FfP5YoDAIMwwg7hddl33DAoIl75qW1cTnTLXCfIO7cvmd0EbBv5VkH2OdqrbRxU3ejfX09eQxb7_pxr2.F5jhIkPIlL4yrJwz)
