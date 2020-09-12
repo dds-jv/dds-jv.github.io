@@ -1,29 +1,32 @@
 ---
 layout: page
-title: Clase 12
+title: Clase 16
 description: Viernes (Noche, 2020)
 permalink: /bitacoras/2020/viernes-n/clase-16/
 ---
 
-¡Esta fue nuestra duodécima clase virtual!
+¡Esta fue nuestra decimocuarta clase virtual!
 
 ## Resumen
 
-En esta oportunidad hablaremos sobre la persistencia y tocaremos los siguientes temas:
-- Utilidad y rol que cumple la misma en nuestros sistemas.
-- Mencionaremos diferentes medios de persistencia y modelos. Haciendo foco en el modelo relacional.
-- Abordamos el modelo relacional, sus características y conceptos principales.
-- Hablamos de Relaciones/Tablas, Consultas, Claves Foráneas y Primarias e Integridad de datos
-- Hicimos una demostracion de consultas SQL, tanto DDL como DML.
-- Vimos qué son las Formas Normales, ahondamos en las primeras 3 y hablamos sobre desnormalización.
+En esta oportunidad comenzamos a conectarnos con un RDBM utilizando un ORM
+- Vimos qué son JPA y Hibernate
+- Vimos como conectarnos a una Base de Datos
+- Aprendimos el Cliclo de vida de Objetos
+- Hablamos de Convenciones y Configuraciones
+- Aprendimos como agregar annotations a nuestro modelo para mapearlo a un modelo de datos
+- Aprendimos cómo persisitr objetos y realizar tests sobre ellos
+- Conversamos sobre cambios al modelo de objetos devenidos del mapeo relacional
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/-Mo2I7Lf_FJIQbOS2GeBZekAMYHfX6a80HBKqPUIzhxArGaQEpO853Wr_9cBmdhm?startTime=1598047628000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1RwCtcTtJNCmiSpORiNeDvrtKN2p3wd6aNbRrH0sF-QI/edit?usp=sharing)
-- [Consultas de ejemplo SQL (poner la opción de abrir en diagrams.net)](https://drive.google.com/file/d/1kfHXXyfUDmSLJdk-Wdw_7ilCRdB1wgKb/view?usp=sharing)
+- [Video de la clase](https://us02web.zoom.us/rec/play/FfP5YoDAIMwwg7hddl33DAoIl75qW1cTnTLXCfIO7cvmd0EbBv5VkH2OdqrbRxU3ejfX09eQxb7_pxr2.F5jhIkPIlL4yrJwz)
+- [Código utilizado](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol)
+- [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn).
+- [Apunte: Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
 
-## Apuntes
 
-- [Modelo Relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit#heading=h.aa3gqw2dds4m)
- 
+## Para la próxima clase
+
+- [Apunte sobre ORM (Sección 5: Subtipos en el modelo relacional)](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s)
+- [Ejercicio: Canchas de Paddle, Parte 2 (_Obligatorio_)](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80)
