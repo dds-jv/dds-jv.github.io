@@ -20,12 +20,12 @@ En esta oportunidad comenzamos a conectarnos con un RDBM utilizando un ORM
 
 ## Material
 
-- [Video de la clase (cargando...)]()
+- [Video de la clase](https://us02web.zoom.us/rec/play/FfP5YoDAIMwwg7hddl33DAoIl75qW1cTnTLXCfIO7cvmd0EbBv5VkH2OdqrbRxU3ejfX09eQxb7_pxr2.F5jhIkPIlL4yrJwz)
 - [Código utilizado](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol)
 - [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn).
 - [Apunte: Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
 
- 
+
 ## Para la próxima clase
 
 - [Apunte sobre ORM (Sección 5: Subtipos en el modelo relacional)](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s)
