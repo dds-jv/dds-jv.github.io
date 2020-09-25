@@ -31,7 +31,7 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 15: Práctica de Normalización, Intro a ORM]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-15)
 - [Clase 16: ORM, Relaciones, Identidad, Orden de Colecciones, Ciclo de Vida]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-16)
 - [Clase 17: ORM, Mapeo de herencia]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-17)
-- Clase 18 <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-20) -->
+- [Clase 18: ORM, Entidades y valores]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-18)
 - Clase 19 <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-21) -->
 - Clase 20 <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22) -->
 - Clase 21 <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22) -->
