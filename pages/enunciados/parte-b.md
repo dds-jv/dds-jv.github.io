@@ -6,6 +6,8 @@ permalink: /enunciados/parte-b
 ---
 
 - [Ginpass (1-11-2019)](https://docs.google.com/document/d/18uB4Bb5qnfsrvH3I6sDWCF6LxlBvY7mHkFkTBrRdOG4/edit?usp=sharing)
+- [Reciclame (ejercicio ORM)](https://docs.google.com/document/d/1n0dyG2TKT8J7MOVWiAshQs0Vkk3sMR0VRpjglbenh1o/edit#)
+- [DDSPALOOZA (ejercicio HTTP)](https://docs.google.com/document/d/1lNQERQZuWsve0k7VUVVPtliX9aR6JE0NC8tamYON_9A/edit)
 - [Que Me Pongo (2-11-2018)](https://docs.google.com/document/d/15ifQWQqfzbwwHIiiuoZiE4eyhd_DpmaQ5OGPvD9x2Wc/edit#heading=h.uyku9mnteh0t)
 - [Rekomendashi (24-11-2017)](https://docs.google.com/document/d/1OTmrCpW-Ode-h_k1qWIE9OB4Uuzs9ZbR_A1JMJwHK-I/edit#heading=h.l1o68lkpuj7d)
 - [She-Ra (25-11-2017)](https://docs.google.com/document/d/17BCysrIMFL-iwDtjKNA_BRS6Clvj7CEONeqrNCwWq-M)
