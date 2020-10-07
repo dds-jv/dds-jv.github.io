@@ -1,21 +1,32 @@
 ---
 layout: page
-title: Clase 15
+title: Clase 19
 description: Viernes (Noche, 2020)
 permalink: /bitacoras/2020/viernes-n/clase-19/
 ---
 
-# Resumen
-La clase de hoy continuaremos viendo estrategias de mapeos y configuraciones que nos ofrece el ORM de Hibernate/JPA. Puntualmente tocaremos los siguientes temas:
+¡Esta fue nuestra decimoséptima clase virtual!
 
-- Enumeraciones.
-- Embeber entidades.
-- Orden en las colecciones.
-- Migraciones
+## Resumen
 
-Además abordaremos el tema de _estereotipos de objetos_, dando una clasificación y como se relaciona la identidad, comportamiento y estado de cada uno de ellos.
+En esta clase presentamos los conceptos de arquitectura Web, HTTP y REST.
 
 
-# Práctica
-- [Reciclame](https://docs.google.com/document/d/1n0dyG2TKT8J7MOVWiAshQs0Vkk3sMR0VRpjglbenh1o/edit?usp=sharing)
+## Material
+
+- [Video de la clase](https://us02web.zoom.us/rec/share/mnYM1p76mwfisMQqTPuH8TeOHM76DuhyNIaNHaJhCCHzb1iQxZSz3Rk82mxO3kXi.c1h-JChUfMcySVts)
+- [Presentación](https://docs.google.com/presentation/d/1O0v4Xf-O_9RwegSMS2mvRXan0n1A_I0KNbDoxb0m4lI/edit)
+- [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): hasta el punto 8
+- [Introducción a Arquitectura Web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit#heading=h.kx1xmbyu1do6): hasta punto 4.3
+
+## Para la próxima clase
+
+- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0): **obligatorio** para leer
+- [QMP Iteración 7](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t): **obligatorio** ejercicio
+- [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para seguir profundizando hasta donde puedan y quieran
+
+
+
+
+
 
