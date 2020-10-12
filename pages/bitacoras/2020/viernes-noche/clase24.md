@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Clase 21
+title: Clase 24
 description: Viernes (Noche, 2020)
-permalink: /bitacoras/2020/viernes-n/clase-21/
+permalink: /bitacoras/2020/viernes-n/clase-24/
 ---
 
 # Resumen
-Vamos a seguir profundizando sobre temas de arquitectura. Puntualmente vamos a estar viendo los conceptos:
+En nuestra última clase teórica vamos a cerrar el tema de arquitectura viendo los siguientes temas:
+- **Cola de mensajes** - comparamos la integración por colas de mensajes y por API rest.
+- **Caché**.
 
-- **Balanceador de cargas:** Dispositivo de Hardware o Software especializado que permite distribuir la carga de trabajo a los diferentes nodos a partir de un algoritmo.  
-
-- **Microservicios:** Enfoque para desarrollar una sola aplicación como un conjunto de "pequeños" servicios. Donde cada uno se ejecuta en su propio proceso. Los mismos pueden (o no) estar escritos en diferentes lenguajes,comunicarse entre sí (por ejemplo, por medio de una API HTTP) y persistir su propios conjunto de datos. 
-Es importante remarcar que no solo implica una forma de diseño diferente (en comparación con un monolito), sino que en líneas generales plantea un cambio a nivel organización del equipo.
-
-Para introducir estos conceptos vamos a estar resolviendo los ejercicio *RekomendasRekomendashi, Fase 2* y *SheRa Enterprise*
+Para introducir estos conceptos vamos a estar resolviendo los ejercicio *Ciberfraday* y *Librerías Bustos Domecq*.
 
 # Práctica
 - [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing)
 
+# Recomendados
+- _Créditos a Juan Zaffaroni:_
+    - [NoSQL: Documental y Clave-Valor](https://drive.google.com/file/d/0B27PgUCCYOICWmhRX3RHdWtGUk0/view)
+    - [NoSQL: Teorema CAP](https://drive.google.com/file/d/0B27PgUCCYOICWmhRX3RHdWtGUk0/view)
