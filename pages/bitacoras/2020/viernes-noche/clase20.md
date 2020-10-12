@@ -5,15 +5,23 @@ description: Viernes (Noche, 2020)
 permalink: /bitacoras/2020/viernes-n/clase-20/
 ---
 
-# Resumen
-En esta clase y subsiguientes, vamos a cambiar un poco el enfoque para empezar a charlar sobre temas de _Arquitectura_. Entendiendo cómo diseño de arquitectura, el diseño (y sus decisiones) de lo más importante. Es decir sus componentes, relaciones, comunicaciones y cómo tiene injerencia, no solo en las piezas de software sino en los componentes de hardware, tecnologías, costos y contexto. 
+¡Esta fue nuestra decimoctava clase virtual!
 
-En clase vamos a estar resolviendo el ejercicio _EntregaYaYaYa_
+## Resumen
 
-# Práctica
-- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing)
+En esta clase presentamos [Spark](http://sparkjava.com/), un framework muy liviano para exponer nuestra aplicación via HTTP.
 
-# Apuntes
-- [Introducción a arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE/edit#heading=h.z9jwy1eurzt9)
-- [Arquitecturas Concurrentes, Episodio 1: El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
+## Material
+
+- [Video de la clase](https://us02web.zoom.us/rec/share/6nqytG84wWz5BWhuYAn6kU0p-4XE31wzETX45IcIEFnM5Kom7YHdsyBAE6ISvRp9.hWKMe8CN2-X8y9Ah?startTime=1602281006000)
+- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0)
+- [Ejercicio en clase](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras)
+- [Documentación de Spark](http://sparkjava.com/documentation)
+
+## Para la próxima clase
+
+- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0): **obligatorio** para leer si no lo leíste ya
+- [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para profundizar sobre HTTP si no lo hiciste ya.
+
+
 
