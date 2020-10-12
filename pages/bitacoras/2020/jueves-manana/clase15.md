@@ -4,11 +4,10 @@ title: Clase 15
 description: Jueves (Mañana, 2020)
 permalink: /bitacoras/2020/jueves-m/clase-15/
 ---
-**Quinceava clase de Diseño de Sistemas en pantuflas!!**
 
-Teniendo en cuenta lo visto la clase anterior, iremos un poco mas allá para entender como persistir nuestro modelo de objetos a partir de las ideas que propone el _modelo relacional_.
+**¡Hola bienvenidos a una nueva clase de diseño en pantuflas!**
 
-# Resumen
+## Resumen
 
 En esta clase profundizaremos en los conceptos de bases de datos relacionales y como relacionarlo con nuestro modelo de objetos. Vimos los siguientes temas
 
@@ -17,19 +16,14 @@ En esta clase profundizaremos en los conceptos de bases de datos relacionales y 
 - Mapeo objetos / relacional. Sus diferencias y cómo se relacionan.
 - Concepto de ORM (Object Relational Mapper).
 
-
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/9f54aJ3srWlISNL35X3tXaAkMr35aaa80ygZ-fUEyR2P-6aEqHXkIlkPCtdVuXMP?startTime=1598530714000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1g78A-lJXUN_6R-dVnVcYjcStrZZXOOyZRY8BKX94Qn8/edit)
+- [Video de la clase](https://www.youtube.com/watch?v=SfDI031raCg&list=PL7cuUUqxhfsNt7ycizHgksigXDesa_IGl&index=10)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1g78A-lJXUN_6R-dVnVcYjcStrZZXOOyZRY8BKX94Qn8/edit?usp=drive_web&ouid=105127262669791671578)
+- [Ejercicio Canchas de Paddle](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80/edit#heading=h.bvad7dw8bhrq)
+- [Ejemplo Mapeo manual](https://github.com/dds-utn/eg-equipos-futbol-jdbc-java)
 
-# Apuntes
+## Apuntes
+
 - [Normalización](https://docs.google.com/document/d/1Jil-3oiveXDtY1iKBCof7jE9ooRFJ-f1KjcXgaGk6F0/edit#heading=h.aa3gqw2dds4m)
-- [Mapeo de Objetos Relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit), a.k.a. ORM
-
-# Práctica
-
-- [Canchas de Paddle](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80/edit#heading=h.bvad7dw8bhrq)
-
-**Importante:**
-De ahora en más, tambien les vamos a pedir que tenga a mano la [guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn). Les va a servir en las siguientes clases y para el exámen.
+- [Mapeo Objetos/Relacional (Secciones: 1,2,3,4)](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s)
