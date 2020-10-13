@@ -26,6 +26,10 @@ Hoy vamos a hablar de la web. Analizamos el protocolo HTTP
 - [Presentación utilizada](https://docs.google.com/presentation/d/16weZuwCthwZlfCKWNlKCFoLZNxStN1YazQwpnpgeWew/edit?usp=sharing)
 - [Video de la clase](https://www.youtube.com/watch?v=Ux4SKlPn3v0&list=PL7cuUUqxhfsNt7ycizHgksigXDesa_IGl&index=14)
 
+- Contenido estático
+  - [Jekyll](https://jekyllrb.com/) (el que usamos para el sitio de la materia) esto pertenece a un stack llamado [Jamstack](https://jamstack.org/)
+  - [Python server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server#Running_a_simple_local_HTTP_server)
+
 ## Apuntes
 
 - [¿Cómo funciona Internet?](https://developer.mozilla.org/es/docs/Learn/Common_questions/How_does_the_Internet_work)
