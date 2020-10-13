@@ -39,5 +39,6 @@ Y finalmente veremos como mantener persistir el orden en las listas para poder o
 
 Analizar que pasa con el ejemplo de `Auto -> Posicion`
 
-    - ![](https://www.planttext.com/api/plantuml/img/SoWkIImgAStDuU9ApaaiBbPmB2t9LwXMu580Wk2IeioyT8M2n9BKl99KhbgOce3yuipapFmyXMfaPJc99PabfIaeGlbvwM0ne5QmmRfsSCrSN0wfUIb0cm40)
-    - ![](http://www.plantuml.com/plantuml/png/POx12i8m343l-Ogmez0_66DUl7Zn3wGqOGlKLjhq8DP_jsNA3hiaBoHvoPpL9YqF3x0ACJf9pZC0S53H5mxded50cv4xuHiGJoZKaZ4jF6CM9p7SXN0SBzTfWi--VFjrDy6_EaYyRUE5EiMmTEoIxM2j9icoggbrDy3CWThJNm00)
+![](https://www.planttext.com/api/plantuml/img/SoWkIImgAStDuU9ApaaiBbPmB2t9LwXMu580Wk2IeioyT8M2n9BKl99KhbgOce3yuipapFmyXMfaPJc99PabfIaeGlbvwM0ne5QmmRfsSCrSN0wfUIb0cm40)
+
+![](http://www.plantuml.com/plantuml/png/POx12i8m343l-Ogmez0_66DUl7Zn3wGqOGlKLjhq8DP_jsNA3hiaBoHvoPpL9YqF3x0ACJf9pZC0S53H5mxded50cv4xuHiGJoZKaZ4jF6CM9p7SXN0SBzTfWi--VFjrDy6_EaYyRUE5EiMmTEoIxM2j9icoggbrDy3CWThJNm00)

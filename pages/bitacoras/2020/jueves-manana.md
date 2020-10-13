@@ -33,4 +33,4 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 17: ORM[Herencia. Enumeraciones. Orden en las colecciones](online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-17)
 - [Clase 18: ORM[Value Object] - Práctica parcial(online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-18)
 - [Clase 19: Arquitectura web[HTTP + Diseño de rutas](online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-19)
-- [Clase 20: Arquitectura web[API REST JSON. HTML + CSS + Spark](online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-20)
+- Clase 20: Arquitectura web[API REST JSON. HTML + CSS + Spark](online)
