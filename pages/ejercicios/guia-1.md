@@ -18,7 +18,7 @@ Es necesario que tengas conocimientos previos de Análisis de Sistemas, por eso 
 
 
 ### Material Relacionado:
-Guías para Comunicar un Diseño 
+Guías para Comunicar un Diseño
 - [Diagrama y Especificación de Casos de Uso](https://docs.google.com/document/d/12DQ1ewTcr83WNEAOtckcoMPPdrmKb0gTqetR2EaxWF4/edit?usp=sharing)
 - [Diagrama de Actividades](https://docs.google.com/document/d/15nrpIfwwE_8lZOnsBpmM8j3CEIV2p3_EYNlfr8gmcGA/edit?usp=sharing)
 - [Diagrama de Estados](https://docs.google.com/document/d/1CLIsWdk-Fv3HnuUMD0D2tU96vGvdrkyQyiJgBIsQueE/edit?usp=sharing)

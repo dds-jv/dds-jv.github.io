@@ -16,7 +16,7 @@ En esta clase y subsiguientes, vamos a cambiar un poco el enfoque para empezar a
 - [Presentación de la clase](https://docs.google.com/presentation/d/1dFweT7Jg4CwG2pwUuzsPiopA1p-bkVX9QlwkCySuizU/edit)
 - [Introducción a arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE/edit#heading=h.z9jwy1eurzt9)
 - [Arquitecturas Concurrentes, Episodio 1: El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
-
+- [Requerimientos y Casos de Uso]({{site.baseurl}}/attachments/ComunicandoDecisionesArquitectonicas.pdf)
 
 # Para la próxima clase
 
