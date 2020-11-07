@@ -36,6 +36,6 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 20: Introducción a Spark y MVC Web]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-20)
 - [Clase 21: UI Web: Templating]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-21)
 - [Clase 22: UI Web: Sesión y transacciones]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22)
-- Clase 23 <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22) -->
+- [Clase 23: Introducción a la arquitectura y su documentación]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-23)
 - Clase 24 <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22) -->
 
