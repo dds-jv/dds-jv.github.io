@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 23
+title: Clase 24
 description: Viernes (Noche, 2020)
-permalink: /bitacoras/2020/viernes-n/clase-23/
+permalink: /bitacoras/2020/viernes-n/clase-24/
 ---
 
 # Resumen

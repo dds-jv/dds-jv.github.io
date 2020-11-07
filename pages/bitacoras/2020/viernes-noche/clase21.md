@@ -14,7 +14,6 @@ En esta clase seguimos trabajando con [Spark](http://sparkjava.com/), entendiend
 ## Material
 
 - [Video de la clase](https://us02web.zoom.us/rec/share/7orLmpwRyhFb9wT611mvZvcbWP-elpKY8axn_ENlCBDeudYwIIATPDZo3lLqYX4.OjTHQE3jKub5jBTk?startTime=1603490794000)
-- [Presentación](https://docs.google.com/presentation/d/1Qx4h2-mt9WQU_2bTQBHb9T1oBqVJNir7nQ1kUD-Eqoo/edit)
 - [Documentación de Spark](http://sparkjava.com/documentation)
 
 
