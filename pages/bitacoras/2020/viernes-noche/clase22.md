@@ -2,18 +2,23 @@
 layout: page
 title: Clase 22
 description: Viernes (Noche, 2020)
-permalink: /bitacoras/2020/viernes-n/clase-22/
+permalink: /bitacoras/2020/viernes-n/clase-21/
 ---
 
-# Resumen
-En esta clase y subsiguientes, vamos a cambiar un poco el enfoque para empezar a charlar sobre temas de _Arquitectura_. Entendiendo cómo diseño de arquitectura, el diseño (y sus decisiones) de lo más importante. Es decir sus componentes, relaciones, comunicaciones y cómo tiene injerencia, no solo en las piezas de software sino en los componentes de hardware, tecnologías, costos y contexto.
+¡Esta fue nuestra veinteava clase virtual!
 
-En clase vamos a estar resolviendo el ejercicio _EntregaYaYaYa_
+## Resumen
 
-# Práctica
-- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing)
+En esta clase cerramos nuestro estudio de UI MVC Web con [Spark](http://sparkjava.com/).
 
-# Apuntes
-- [Introducción a arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE/edit#heading=h.z9jwy1eurzt9)
-- [Arquitecturas Concurrentes, Episodio 1: El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
+Entenderemos cómo funcionan las sesiones HTTP como forma de simular estado en un protocolo _stateless_. Además integraremos nuestras vistas con la persistencia, utilizando transacciones para las operaciones mutables.
+
+Por último, dejaremos un video sobre la temática de **usabilidad y experiencia de usuario** (UI/UX).
+
+## Material
+
+- [Video de la clase](https://us02web.zoom.us/rec/share/oQYFaJWDsTgzesKVe2D8qqKIxZFGccZzLdWRj1E2t3inz_xHOnDmrrZ-xB4Rwkfw.eHvBQvF69cjhVHJW?startTime=1604095848000)
+- [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
+- [Documentación de Spark](http://sparkjava.com/documentation)
+
 

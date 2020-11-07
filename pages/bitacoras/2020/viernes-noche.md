@@ -34,6 +34,8 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 18: ORM, Entidades y valores]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-18)
 - [Clase 19: Introducción a Web, HTTP y REST]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-19)
 - [Clase 20: Introducción a Spark y MVC Web]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-20)
-- Clase 21 <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22) -->
-- Clase 22 <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22) -->
+- [Clase 21: UI Web: Templating]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-21)
+- [Clase 22: UI Web: Sesión y transacciones]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22)
+- Clase 23 <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22) -->
+- Clase 24 <!-- ({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22) -->
 
