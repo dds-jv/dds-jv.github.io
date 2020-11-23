@@ -35,3 +35,5 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 19: Arquitectura web[HTTP + Diseño de rutas](online)]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-19)
 - [Clase 20: Arquitectura web[API REST JSON. HTML + CSS + Spark]]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-20)
 - [Clase 21: Arquitectura web[Formularios. Cookies. Session]]({{site.baseurl}}/bitacoras/2020/jueves-m/clase-21)
+- [Clase 23: Introducción a la arquitectura y su documentación]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-22)
+- [Clase 24: Integración de sistemas y componentes arquitecturales]({{site.baseurl}}/bitacoras/2020/viernes-n/clase-23)

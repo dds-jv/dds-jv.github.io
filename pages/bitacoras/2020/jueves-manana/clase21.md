@@ -7,7 +7,7 @@ permalink: /bitacoras/2020/jueves-m/clase-21/
 
 **¡Hola!**
 
-Ya con algo de práctica y conocimiento previo acerca de la __Arquitectura Web__, hoy nos enfocaremos en cómo armar un "esqueleto" que permita al lado del servidor manejar sin problemas al del cliente.
+Ya con algo de práctica y conocimiento previo acerca de la __Arquitectura Web__, hoy nos enfocaremos en cómo armar una aplicación web en la cual veremos como guardar una información y consultarla. Además como mantener el estado cross-request para poder saber si un usuario se autentico en el sistema.
 
 ## Resumen
 
@@ -21,7 +21,7 @@ Hoy vimos como:
 ## Material
 
 - [Video de la clase](https://youtu.be/gCDOuhyVrWw)
-- [Proyecto pokemon con busqueda en el controller](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-step-search)
+- [Proyecto pokemon con búsqueda en el controller](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-step-search)
 - [Proyecto consultoras con persistencia](https://github.com/dds-utn/spark-web-proof-of-concept/tree/consultoras-con-persistencia)
 
 ## Tecnologías
@@ -29,8 +29,8 @@ Hoy vimos como:
 - [Handlebars - Partials (versión JS, pero los conceptos aplican)](https://handlebarsjs.com/guide/partials.html)
 - Spark
   - [Cookies](https://sparkjava.com/documentation#cookies)
-  - [Filtros](http://sparkjava.com/documentation#filters)
-  - [Sessions](http://sparkjava.com/documentation#sessions)
+  - [Filtros](https://sparkjava.com/documentation#filters)
+  - [Sessions](https://sparkjava.com/documentation#sessions)
 
 ## Apuntes
 
