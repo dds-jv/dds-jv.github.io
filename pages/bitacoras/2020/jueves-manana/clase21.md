@@ -21,7 +21,7 @@ Hoy vimos como:
 ## Material
 
 - [Video de la clase](https://youtu.be/gCDOuhyVrWw)
-- [Proyecto pokemon con búsqueda en el controller](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-step-search)
+- [Proyecto pokémon con búsqueda en el controller](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-step-search)
 - [Proyecto consultoras con persistencia](https://github.com/dds-utn/spark-web-proof-of-concept/tree/consultoras-con-persistencia)
 
 ## Tecnologías
