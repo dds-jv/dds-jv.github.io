@@ -26,7 +26,7 @@ Además veremos como resolver problemas de escalabilidad.
 ## Material
 
 - [Video de la clase](https://youtu.be/HpXeReqyicM)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1HAgxz64hR6X8NbuTqX2JVebnKjv_6XjYZXrJZWmAQ6Y/edit#slide=id.p)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1tMbPTemM-qKagqP7_jspJHglEIb0nVib75iui5pbjAM/edit)
 
 ## Apuntes
 
