@@ -1,23 +1,34 @@
 ---
 layout: page
-title: Clase 13
+title: Clase 16
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-13/
+permalink: /bitacoras/2021/viernes-n/clase-16/
 ---
 
-¡Esta fue nuestra undécima clase virtual!
+
 
 ## Resumen
 
-Esta clase fue la última clase antes de finalizar el cuatrimestre, en la que hicimos un ejercicio integrador y charlamos sobre la modalidad de exámen.
+En esta oportunidad comenzamos a conectarnos con un RDBM utilizando un ORM:
+
+- Vimos qué son JPA y Hibernate
+- Vimos como conectarnos a una Base de Datos
+- Aprendimos el Cliclo de vida de Objetos
+- Hablamos de Convenciones y Configuraciones
+- Aprendimos como agregar annotations a nuestro modelo para mapearlo a un modelo de datos
+- Aprendimos cómo persistir objetos y realizar tests sobre ellos
+- Conversamos sobre cambios al modelo de objetos devenidos del mapeo relacional
+
+**El paso a paso de la clase se encuentra [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md)** y [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/vPFZJZ7o-11OeM_f9mvUfa4KHZTIaaa80XMeqfdfzhsApPeGsjh_pQBjnOvnlinV?startTime=1595023516000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1nu2ykrWLkdWewDWQ7sP_cdcU9bvKFhaMm2vctFXwe8w/edit#slide=id.g35f391192_00)
+- [Video de la clase](https://us02web.zoom.us/rec/play/FfP5YoDAIMwwg7hddl33DAoIl75qW1cTnTLXCfIO7cvmd0EbBv5VkH2OdqrbRxU3ejfX09eQxb7_pxr2.F5jhIkPIlL4yrJwz)
+- [Código utilizado](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol)
+- [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn).
+- [Apunte: Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
 
-## Práctica
+## Para la próxima clase
 
-- [Ejercicio: Corrector de parciales](https://docs.google.com/document/d/1PGdn-k9N9R0eLKztHoT1Hd-PIHXohHccQ4Xu1_W3tIQ/edit?usp=drive_web&ouid=112820253850357685011)
-  - [Apunte: alternativas de solución](https://docs.google.com/document/d/1F3MK2cjnFZiKdlHEkKyyGg0WblYb3A3bCJIN4k2Asm4/edit#heading=h.mtd0ygpdrc3t)
-- [Código de la solución en clase](https://gist.github.com/flbulgarelli/f7516a3050d41e5ce7878f379c346b4e)
+- [Apunte sobre ORM (Sección 5: Subtipos en el modelo relacional)](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s)
+- [Ejercicio: Canchas de Paddle, Parte 2 (_Obligatorio_)](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80)

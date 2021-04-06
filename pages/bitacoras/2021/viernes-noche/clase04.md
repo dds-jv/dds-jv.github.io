@@ -1,42 +1,37 @@
 ---
 layout: page
-title: Clase 4
+title: Clase 6
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-04/
+permalink: /bitacoras/2021/viernes-n/clase-06/
 ---
-
 **¡Hola!**
 
-Segunda clase online.
+Esta fue nuestra cuarta clase virtual!
 
-- [Video](https://us02web.zoom.us/rec/share/6o9rA4zA7kxOW4Gc-R3Ne6kZONX0aaa80Scb-PcMmJEZ_0_XpmnIifsInpXNv3s?startTime=1587160612000)
-- [Presentación](https://docs.google.com/presentation/d/1U2MrpF9P44aZi1H4BhrvSzdbdJq6I2laEaDa055sFDo/edit#slide=id.g35f391192_00)
+- [Video](https://us02web.zoom.us/rec/share/6sVTcamr0zhIUo2OxlPtfYkvEJ_baaa8h3RIqaVenkhhnC_CjE1dhk8sXsN5HZLu?startTime=1588975024000)
+- [Presentación](https://docs.google.com/presentation/d/1GYwCnxdKlb1HQlX6UJw30bidZKLg621Oyz0xGJ_Z4ew/edit?usp=sharing)
+
 
 # Resumen
 
-- Presentamos al resto del equipo docente
-- Repasamos las cualidades de diseño y los conceptos asociados al manejo de errores
-- Evacuamos dudas y consultas los apuntes de la clase y QMP Primera Iteración
+- Abordamos el concepto de _Inversion de Control_.
+- Nos introdujimos a la _Inyección de dependencias_.
+- Discutimos sobre: _Refactor_ y _Manejo del Cambio_
+- Vimos cómo hacer refactors en vivo ayudándonos con un IDE
 
 # Material
-
-- [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit)
-- [Diseño del Manejo de Errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#)
-* [Solución explicada a QMP Primera Iteración](https://docs.google.com/document/d/1ayrs5-vrGsXgZKDob-f5_0fmhCYXf7-ty5Be6NXITRY/edit#heading=h.uyku9mnteh0t)
-* [Pseudocódigo visto en clase](https://codeshare.io/G6Elwm)
-
+- [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
+- [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit#heading=h.6ab0fffv8tld)
+- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
+- [Ejemplos Code Smells ](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
 
 # Para la próxima clase
 
-## Apuntes y ejercicios
-
-* [Patrones Creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit#)
-* [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
-* [Ejercicio: Qué Me Pongo - Segunda Iteración](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y/edit#heading=h.uyku9mnteh0t)
-
-## Formularios de seguimiento
-
-* [Segumiento de Apuntes](https://docs.google.com/forms/d/16Kjb-wSc5aO7TzTvoq0PNH9IofhGp_mrJ3ABJt3spLY/edit)
-* [Formulario de entrega de QueMePongo Segunda Iteración](https://docs.google.com/forms/d/1cKyNjjOYZoLyYsO5XaRvYYdfBRKdJFyVk_8J4PwQNWs/edit)
-
+### Apuntes y ejercicios
+- [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
+- _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
+- [Patrón Adapter](https://github.com/dieforfree/edsebooks/blob/master/ebooks/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+- [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
+- _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
+- [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
 

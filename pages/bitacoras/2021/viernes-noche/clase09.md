@@ -1,31 +1,33 @@
 ---
 layout: page
-title: Clase 9
+title: Clase 11
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-09/
+permalink: /bitacoras/2021/viernes-n/clase-11/
 ---
-**¡Hola de nuevo!**
 
-¡Esta fue nuestra séptima clase virtual!
 
-- [Video](https://us02web.zoom.us/rec/share/y-xkAr6pr0VOfbPc0l6cVpRxGtnBT6a81SIf__texEyErcQN8KSJYxmgjH438lk7?startTime=1591394556000)
-- [Presentación](https://docs.google.com/presentation/d/1jl-GXxx5Usaiofds5XFemTSiMOp8PrfwL_W_6m8TLv0/edit?usp=sharing)
 
-# Resumen
+## Resumen
 
-- Hablamos sobre Reificar comportamiento y cómo implementarlo
-- Discutimos sobre sincronismo y asincronismo
-- Evaluamos ventajas y casos de uso para el comportamiento cosificado
-- Pusimos en común QMP5 y comparamos soluciones de diferentes alumnos
+En esta clase repasamos la noción de eventos para comunicar cosas que ocurren en nuestro sistema a otros objetos, sin acoplarnos a lo que hacen, pero ganando en flexibilidad de que se puedan suscribir otros interesados.
 
-# Material
-- [Reificar Comportamiento](https://docs.google.com/document/d/14n6SNTbCt1wJzhNiIFNSoAq0tJdYjRrOQCi5ar_FQ1c/edit#heading=h.6ab0fffv8tld)
-- [Patrón Command](http://www.google.com/url?q=http%3A%2F%2Fwww.uml.org.cn%2Fc%2B%2B%2Fpdf%2FDesignPatterns.pdf&sa=D&sntz=1&usg=AFQjCNFD5AGp1QDdoN_pu3TgljJJRqMAMg)
-- [Qué Me Pongo: Quinta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
+Además, discutimos sobre metodologías de desarrollo.
 
-# Para la próxima clase
 
-### Apuntes y ejercicios
-- [Patrón Observer](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
-- [Complementario: Sobre los efectos en el Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
-- [Qué Me Pongo: Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit#) **Obligatorio**
+## Material
+
+- [Video de la clase](https://us02web.zoom.us/rec/share/3PF3L6372TlOH6vPtmuHR65_Mo_Paaa80XdMr6Vfzxz9b2Fxn2v7iPw_o35j8MG6?startTime=1593209247000)
+- [Presentación utilizada](https://docs.google.com/presentation/d/18y4Xr1nMGFd2Kh2z-SSLdK1NwgOhMbe2xnNAk8PEhAs/edit)
+- [Apunte sobre el patrón Observer, caso práctico](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
+- [Sobre los efectos del Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
+- [Diseño y metodologías de desarrollo](https://docs.google.com/document/d/11PQO8NPSOV4SW0ZwtFsh4RCtWubuEBV6E5qPicqJNKs/edit)
+
+## Material complementario
+
+- [Patrones de Diseño](https://www.utnianos.com.ar/foro/attachment.php?aid=3577)
+- Observer, página 269
+
+## Práctica
+
+- [Qué Me Pongo: Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit#)
+- [Código de la solucíón de clase](https://gist.github.com/flbulgarelli/ef546da56968d24c0284d8e43152946a)

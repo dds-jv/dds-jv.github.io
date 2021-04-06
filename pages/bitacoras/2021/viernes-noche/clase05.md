@@ -1,43 +1,48 @@
 ---
 layout: page
-title: Clase 5
+title: Clase 7
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-05/
+permalink: /bitacoras/2021/viernes-n/clase-07/
 ---
 **¡Hola!**
 
-Tercera clase online desde casa!
+Esta fue nuestra quinta clase virtual!
 
-- [Video](https://us02web.zoom.us/rec/share/wPFbE6nz6VpJWNaXs3_ZZqsZEaPcaaa80ylM__YJnU5fCHHUARNfRpGqL-hbCvrw?startTime=1587765530000)
-- [Presentación](https://docs.google.com/presentation/d/1U2MrpF9P44aZi1H4BhrvSzdbdJq6I2laEaDa055sFDo/edit#slide=id.g838dcce884_0_98)
-
+- [Video](https://us02web.zoom.us/rec/share/4_xlcO-363tOGbOQzFyHaLMMF9Taaaa82yAbrPAKyEn8v0F6v_YI3oge8mMspVz_?startTime=1590184884000)
+- [Presentación](https://docs.google.com/presentation/d/1XxkTAaRN3QFWFzVGikNwnYF1mgPz3JmwIXd0sMvLNTo/edit?usp=sharing)
+- [Ejemplo de Mocking](https://drive.google.com/drive/folders/1fUdW29WD6pqQwLG_WGrqcNNzPBvgANBq?usp=sharing)
 
 # Resumen
 
-- Abordamos el concepto de _Patrones de Diseño_.
-- Explicamos _creación_, _instanciación_ e _inicialización_.
-- Mostramos algunos patrones creacionales: _Builder_ y _Singleton_
-- Evacuamos dudas y consultas de QMP Segunda Iteración
+- Hablamos de la baja participación en entregas de QMP4 y lectura de apuntes
+- Pospusimos la entrega de QMP4 para la clase siguiente -como **obligatoria**- y solo vimos teoría y consultas.
+- Recordamos que dado el contexto de pandemia, la lectura de apuntes y entrega de ejercicios es de **suma importancia**
+	- Entendimos que dado el contexto de parciales, la partipacion bajó.
+
+	- Decidimos darles tiempo de más para hacer el ejercicio, entendiendo las dificultades circunstanciales de esta semana.
+
+	- Preferimos evitar avanzar por avanzar sin que nos puedan seguir el ritmo.
+
+	- Destacamos la importancia de leer los apuntes y realizar los ejercicios, y que comenzaremos a ponermos firmes con ello
+	- Aclaramos que la entrega de ejercicios será _obligatoria_.
+
+	- Remarcamos que la resolución que se pide de los ejercicios es un planteo general, que no debería llevarles más de 30 min.
+	(De hecho, recomendamos que cronometren su tiempo y entreguen lo que sea que lleguen a haber armado en esos 30 minutos)
+
+- Abordamos distintos tipos de _Testing_ y para qué lo hacemos.
+- Nos introdujimos al concepto de _Interfaz_, en un sentido más amplio que el de objetos.
+- Hablamos sobre cómo establecer y diseñar: _Interfaces entre componentes_
+- Aprendimos cómo mantener interfaces desacopladas valiéndonos del _Patrón Adapter_
 
 # Material
-
-- [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/edit?usp=sharing)
-- [Introducción a patrones de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit?usp=sharing)
-- [Solución explicada a QMP Segunda Iteración](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM/edit)
-- [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
+- [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
+- _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
+- [Patrón Adapter (Pág. 157)](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)
+- [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
+- _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
 
 # Para la próxima clase
 
 ### Apuntes y ejercicios
-- [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
-- [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit#heading=h.6ab0fffv8tld)
-- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
-- [TPA - Prueba de concepto](https://docs.google.com/document/d/1cSmA-JwmtXvOe2sbeQK5ycL3pl3vhXhpDhbABNvd--o/edit?usp=sharing). Entrega 01/05
-- [Ejercicio Monedero](https://github.com/dds-utn/dds-monedero-java8)
-- [Ejemplos Code Smells ](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
-
-
-### Formularios de seguimiento
-- [Segumiento de Apuntes](https://forms.gle/W7NyfphtFNFbTgvg8)
-- [Formulario Ejercicio Monedero](https://forms.gle/BDVkq6o15yb3gjqv8)
-
+- [Patrones de comunicación](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
+- [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit) **Obligatorio**

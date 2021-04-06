@@ -1,32 +1,28 @@
 ---
 layout: page
-title: Clase 12
+title: Clase 15
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-12/
+permalink: /bitacoras/2021/viernes-n/clase-15/
 ---
-**¡Hola!**
 
-En ésta ocasión volvemos a pisar el acelerador para cubrir un Patrón de Arquitectura muy conocido: _Modelo-Vista-Controlador (también conocido como "MVC")_. Dentro de éste descubriremos sus variantes y características.
 
-# Resumen
 
-- Patrón _Model-View-Controller (MVC)_
-    - Componentes (Diagrama)
-    - Binding
-    - _Variante: Patrón Model-View-ViewModel (MVVM)_
-- Diseño de Interfaces
-    - Elementos gráficos
-    - Desktop vs. Web
-    - Arena
+## Resumen
 
+En esta oportunidad comenzamos a modelar datos
+- Vimos varias alternativas de solucional ejercicio de Canchas de Paddle
+- Ensayamos soluciones con diferentes grados de normalizacion y denormalización
+- Conocimos JDBC
+- Hablamos de conectar aplicaciones con Bases de Datos Relacionales
+- Intuimos los problemas de trabajar con JDBC a secas
+- Vimos que existen alternativas de más alto nivel, como los ORMs
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/2Mxndr796nlJT53_yhGBRqIIApWieaa8hCAZ-vVcxEkhQbUa6sK2gu20_Mzp7GQ7?startTime=1593813686000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1__aa4efEVPFvupWNZODKXQzQv3Rqjj3j8pDeMM0Hz9U/edit#slide=id.g35f391192_00)
-- [Model-View-Controller](https://sites.google.com/site/programacionui/temario/02-disenio-UI/intro-a-ui-mvc)
-- Complementario: [Arena, un framework "MVVM"](https://sites.google.com/site/programacionui/temario/02-disenio-UI/arena-disclaimer) e [información para instalarlo](http://arena.uqbar-project.org)
+- [Video de la clase](https://us02web.zoom.us/rec/share/RNdOaL08fS4fObZg0uBw-84jQDu0lP26buN98X57jd4O6mSsTTtyFmliKqpLngQM.qlT1YR10UIl_879I?startTime=1598652358000)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1RwCtcTtJNCmiSpORiNeDvrtKN2p3wd6aNbRrH0sF-QI/edit?usp=sharing)
+- [Soluciones de Canchas de Paddle](https://drive.google.com/file/d/1pzfjfZusgj9IGdA2Mw7gXYeJWIHnr2Qf/view?usp=sharing)
 
-# Práctica
+## Apuntes
 
-- [Conversor de Unidades](https://docs.google.com/document/d/1hYBIm2S7KqKIzAvWnYl6F9JyRDZzOI6aW2BExH8aDB4/edit)
+- [Modelo Relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit#heading=h.aa3gqw2dds4m)

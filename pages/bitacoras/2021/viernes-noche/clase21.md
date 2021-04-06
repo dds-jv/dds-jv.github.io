@@ -1,19 +1,26 @@
 ---
 layout: page
-title: Clase 21
+title: Clase 24
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-21/
+permalink: /bitacoras/2021/viernes-n/clase-24/
 ---
 
-¡Esta fue nuestra decimonovena clase virtual!
+# Resumen
 
-## Resumen
+En esta última clase vamos a hablar de integración de aplicaciones y discutir diferentes estrategias. Además presentamos el concepto de **Cola de mensajes**.
 
-En esta clase seguimos trabajando con [Spark](http://sparkjava.com/), entendiendo como las páginas tienen estructuras generales conocidas como _Layouts_, y como las plantillas  (_templates_) y _partials_ nos pueden ayudar a no repetir lógica de vista.
+Por último, también nos visitó el equipo de CSU para informarnos sobre el protocolo de género.
 
-## Material
+# Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/7orLmpwRyhFb9wT611mvZvcbWP-elpKY8axn_ENlCBDeudYwIIATPDZo3lLqYX4.OjTHQE3jKub5jBTk?startTime=1603490794000)
-- [Documentación de Spark](http://sparkjava.com/documentation)
+- [Video de la clase](https://us02web.zoom.us/rec/share/GpWUSE5mGSU4gQSnSgtO7PBQ-k3JEh7xxr-UoUw3evoowsiZcVlzBOd_FL8hxPvC.6nXFYZdPPIsCXc0Y)
+- [Ejercicio usado para guiar la clase](https://github.com/flbulgarelli/integration_patterns)
+- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing). En particular, ver **Librerías Bustos Domecq**
+    - [Soluciones](https://drive.google.com/drive/folders/1mI6cDlBqdsmv_tp-BTXqCVhTFplpylN6)
 
+# Materiales bonus
 
+_Créditos a Juan Zaffaroni:_
+
+- [NoSQL: Documental y Clave-Valor](https://drive.google.com/file/d/0B27PgUCCYOICWmhRX3RHdWtGUk0/view)
+- [NoSQL: Teorema CAP](https://drive.google.com/file/d/0B27PgUCCYOICWmhRX3RHdWtGUk0/view)

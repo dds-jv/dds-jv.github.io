@@ -1,34 +1,32 @@
 ---
 layout: page
-title: Clase 16
+title: Clase 19
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-16/
+permalink: /bitacoras/2021/viernes-n/clase-19/
 ---
 
-¡Esta fue nuestra decimocuarta clase virtual!
+
 
 ## Resumen
 
-En esta oportunidad comenzamos a conectarnos con un RDBM utilizando un ORM:
+En esta clase presentamos los conceptos de arquitectura Web, HTTP y REST.
 
-- Vimos qué son JPA y Hibernate
-- Vimos como conectarnos a una Base de Datos
-- Aprendimos el Cliclo de vida de Objetos
-- Hablamos de Convenciones y Configuraciones
-- Aprendimos como agregar annotations a nuestro modelo para mapearlo a un modelo de datos
-- Aprendimos cómo persistir objetos y realizar tests sobre ellos
-- Conversamos sobre cambios al modelo de objetos devenidos del mapeo relacional
-
-**El paso a paso de la clase se encuentra [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md)** y [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/play/FfP5YoDAIMwwg7hddl33DAoIl75qW1cTnTLXCfIO7cvmd0EbBv5VkH2OdqrbRxU3ejfX09eQxb7_pxr2.F5jhIkPIlL4yrJwz)
-- [Código utilizado](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol)
-- [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn).
-- [Apunte: Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
+- [Video de la clase](https://us02web.zoom.us/rec/share/mnYM1p76mwfisMQqTPuH8TeOHM76DuhyNIaNHaJhCCHzb1iQxZSz3Rk82mxO3kXi.c1h-JChUfMcySVts)
+- [Presentación](https://docs.google.com/presentation/d/1O0v4Xf-O_9RwegSMS2mvRXan0n1A_I0KNbDoxb0m4lI/edit)
+- [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): hasta el punto 8
+- [Introducción a Arquitectura Web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit#heading=h.kx1xmbyu1do6): hasta punto 4.3
 
 ## Para la próxima clase
 
-- [Apunte sobre ORM (Sección 5: Subtipos en el modelo relacional)](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s)
-- [Ejercicio: Canchas de Paddle, Parte 2 (_Obligatorio_)](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80)
+- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0): **obligatorio** para leer
+- [QMP Iteración 7](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t): **obligatorio** ejercicio
+- [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para seguir profundizando hasta donde puedan y quieran
+
+
+
+
+
+

@@ -1,30 +1,51 @@
 ---
 layout: page
-title: Clase 8
+title: Clase 10
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-08/
+permalink: /bitacoras/2021/viernes-n/clase-10/
 ---
-**¡Hola!**
 
-¡Esta fue nuestra sexta clase virtual!
+> _¡Hola todo el mundo!_
+>
+> Dr Nick
 
-- [Video](https://us02web.zoom.us/rec/share/2ZZRLevs1VtLfLfmr03vHe14Adm6T6a81yYYrqJcyhxyWfm9PPFWggvUptY4iy0X?startTime=1590789721000)
-- [Presentación](https://docs.google.com/presentation/d/1XQXjn4IPn9JmUeilZkvqlL8JHBN4dC1oq-J5JRUY8tY/edit#slide=id.g35f391192_00)
 
-# Resumen
 
-- Volvimos sobre la entrega 4 de QMP, trabajamos sobre errores comunes y planteamos una solución posible
-- Discutimos los patrones de comunicación entre componentes más importantes.
 
-# Material
-- [Patrones de comunicación](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
-- [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
-   - [Solución posible](https://docs.google.com/document/d/1XNUtnvQl1oJhDWlevzxwkynZJMQ2upDmrXFC_6xEo3A/edit?userstoinvite=sofiavcortes%40gmail.com&ts=5ed51561&actionButton=1#heading=h.uyku9mnteh0t)
+## Resumen
 
-# Para la próxima clase
+En esta clase aprendimos sobre la noción de eventos para comunicar cosas que ocurren en nuestro sistema a otros objetos, sin acoplarnos a lo que hacen, pero ganando en flexibilidad de que se puedan suscribir otros interesados.
 
-### Apuntes y ejercicios
+- [Apunte sobre el patrón Observer, caso práctico](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
+- [Sobre los efectos del Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
 
-- [Reificiando comportamiento](https://docs.google.com/document/d/14n6SNTbCt1wJzhNiIFNSoAq0tJdYjRrOQCi5ar_FQ1c/edit#heading=h.6ab0fffv8tld)
-- [Patrón Command (pág. 263)](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)
-- [Qué Me Pongo: Quinta Iteración]() **Obligatorio**
+Además hablamos de los Repositorios, objetos globales que nos permiten conocer todas las instancias de cierto tipo, generando un objeto cohesivo responsable de esa tarea.
+
+## Material utilizado
+
+- [Video de la clase](https://us02web.zoom.us/rec/share/5pVvDb3o8W9JSNbB7kXkc4Q9DN_paaa8hCcW-PMJyka7Vurhx5bo62u7Nnkzfd1-?startTime=1591999314000)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1GYxb86-8lZIf5wtjW6RtR9BdtwLc3GeGfRNKCl4pzsw/edit)
+
+## Práctica
+
+- Estuvimos trabajando con el ejercicio de [Qué Me Pongo - Sexta iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE)
+- Hicimos esta [puesta en común](https://drive.google.com/file/d/1JPWEYqw0a_ylqq2zF3zLa2SscGqPFPGg/view?usp=sharing)
+
+## Material complementario
+
+- [Patrones de Diseño](https://www.utnianos.com.ar/foro/attachment.php?aid=3577)
+- Observer, página 269
+
+## Para la próxima clase 🤓
+
+- Tenemos entrega de TP
+
+## Y para la siguiente 📅
+
+-  [Diseño y metodologías de desarrollo](https://docs.google.com/document/d/11PQO8NPSOV4SW0ZwtFsh4RCtWubuEBV6E5qPicqJNKs/edit)
+  - Leer secciones 1, 2, 3, 4.1 y 4.4
+- Continuaremos trabajando sobre eventos y observer, por lo que si no hiciste el ejercicio de QMP o leíste los apuntes, te los dejamos nuevamente:
+  - [Patrón Observer](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
+  - [Complementario: Sobre los efectos en el Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
+  - [Qué Me Pongo: Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit#) **Obligatorio**
+

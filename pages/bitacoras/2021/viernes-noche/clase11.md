@@ -1,33 +1,29 @@
 ---
 layout: page
-title: Clase 11
+title: Clase 14
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-11/
+permalink: /bitacoras/2021/viernes-n/clase-14/
 ---
 
-¡Esta fue nuestra novena clase virtual!
+
 
 ## Resumen
 
-En esta clase repasamos la noción de eventos para comunicar cosas que ocurren en nuestro sistema a otros objetos, sin acoplarnos a lo que hacen, pero ganando en flexibilidad de que se puedan suscribir otros interesados.
-
-Además, discutimos sobre metodologías de desarrollo.
-
+En esta oportunidad hablaremos sobre la persistencia y tocaremos los siguientes temas:
+- Utilidad y rol que cumple la misma en nuestros sistemas.
+- Mencionaremos diferentes medios de persistencia y modelos. Haciendo foco en el modelo relacional.
+- Abordamos el modelo relacional, sus características y conceptos principales.
+- Hablamos de Relaciones/Tablas, Consultas, Claves Foráneas y Primarias e Integridad de datos
+- Hicimos una demostracion de consultas SQL, tanto DDL como DML.
+- Vimos qué son las Formas Normales, ahondamos en las primeras 3 y hablamos sobre desnormalización.
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/3PF3L6372TlOH6vPtmuHR65_Mo_Paaa80XdMr6Vfzxz9b2Fxn2v7iPw_o35j8MG6?startTime=1593209247000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/18y4Xr1nMGFd2Kh2z-SSLdK1NwgOhMbe2xnNAk8PEhAs/edit)
-- [Apunte sobre el patrón Observer, caso práctico](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
-- [Sobre los efectos del Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
-- [Diseño y metodologías de desarrollo](https://docs.google.com/document/d/11PQO8NPSOV4SW0ZwtFsh4RCtWubuEBV6E5qPicqJNKs/edit)
+- [Video de la clase](https://us02web.zoom.us/rec/share/-Mo2I7Lf_FJIQbOS2GeBZekAMYHfX6a80HBKqPUIzhxArGaQEpO853Wr_9cBmdhm?startTime=1598047628000)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1RwCtcTtJNCmiSpORiNeDvrtKN2p3wd6aNbRrH0sF-QI/edit?usp=sharing)
+- [Consultas de ejemplo SQL (poner la opción de abrir en diagrams.net)](https://drive.google.com/file/d/1kfHXXyfUDmSLJdk-Wdw_7ilCRdB1wgKb/view?usp=sharing)
 
-## Material complementario
+## Apuntes
 
-- [Patrones de Diseño](https://www.utnianos.com.ar/foro/attachment.php?aid=3577)
-- Observer, página 269
+- [Modelo Relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit#heading=h.aa3gqw2dds4m)
 
-## Práctica
-
-- [Qué Me Pongo: Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit#)
-- [Código de la solucíón de clase](https://gist.github.com/flbulgarelli/ef546da56968d24c0284d8e43152946a)

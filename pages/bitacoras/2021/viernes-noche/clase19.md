@@ -1,32 +1,34 @@
 ---
 layout: page
-title: Clase 19
+title: Clase 22
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-19/
+permalink: /bitacoras/2021/viernes-n/clase-22/
 ---
 
-¡Esta fue nuestra decimoséptima clase virtual!
+
 
 ## Resumen
 
-En esta clase presentamos los conceptos de arquitectura Web, HTTP y REST.
+En esta clase cerramos nuestro estudio de UI MVC Web con [Spark](http://sparkjava.com/).
 
+Entenderemos cómo funcionan las sesiones HTTP como forma de simular estado en un protocolo _stateless_. Además integraremos nuestras vistas con la persistencia, utilizando transacciones para las operaciones mutables.
+
+Por último, dejaremos un video sobre la temática de **usabilidad y experiencia de usuario** (UI/UX).
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/mnYM1p76mwfisMQqTPuH8TeOHM76DuhyNIaNHaJhCCHzb1iQxZSz3Rk82mxO3kXi.c1h-JChUfMcySVts)
-- [Presentación](https://docs.google.com/presentation/d/1O0v4Xf-O_9RwegSMS2mvRXan0n1A_I0KNbDoxb0m4lI/edit)
-- [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): hasta el punto 8
-- [Introducción a Arquitectura Web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit#heading=h.kx1xmbyu1do6): hasta punto 4.3
+- [Video de la clase](https://us02web.zoom.us/rec/share/oQYFaJWDsTgzesKVe2D8qqKIxZFGccZzLdWRj1E2t3inz_xHOnDmrrZ-xB4Rwkfw.eHvBQvF69cjhVHJW?startTime=1604095848000)
+- [Presentación](https://docs.google.com/presentation/d/1Qx4h2-mt9WQU_2bTQBHb9T1oBqVJNir7nQ1kUD-Eqoo/edit)
+- [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
+- [Documentación de Spark](http://sparkjava.com/documentation)
+- [Código de clase](https://github.com/dds-utn/spark-web-proof-of-concept) (hay varias ramas)
 
-## Para la próxima clase
+## Material complementario sobre CSS
 
-- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0): **obligatorio** para leer
-- [QMP Iteración 7](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t): **obligatorio** ejercicio
-- [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para seguir profundizando hasta donde puedan y quieran
-
-
-
-
+- [Intro a CSS](https://www.w3schools.com/css/css_intro.asp)
+- [Página de consulta sobre CSS](https://css-tricks.com/almanac/)
+- [Display](https://www.w3schools.com/css/css_display_visibility.asp)
+- [Flexbox](https://flexbox.io/): Videos introductorios sobre flexbox (los primeros 8 videos son los más importantes)
+- [Práctica Flexbox](https://flexboxfroggy.com/#es)
 
 

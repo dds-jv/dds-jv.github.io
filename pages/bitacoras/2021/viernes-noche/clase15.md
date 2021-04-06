@@ -1,28 +1,18 @@
 ---
 layout: page
-title: Clase 15
+title: Clase 18
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-15/
+permalink: /bitacoras/2021/viernes-n/clase-18/
 ---
 
-¡Esta fue nuestra decimotercera clase virtual!
+
 
 ## Resumen
 
-En esta oportunidad comenzamos a modelar datos
-- Vimos varias alternativas de solucional ejercicio de Canchas de Paddle
-- Ensayamos soluciones con diferentes grados de normalizacion y denormalización
-- Conocimos JDBC
-- Hablamos de conectar aplicaciones con Bases de Datos Relacionales
-- Intuimos los problemas de trabajar con JDBC a secas
-- Vimos que existen alternativas de más alto nivel, como los ORMs
+En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnología JPA/Hibernate. Además incorporamos los conceptos de valores y entidades (_value_ object vs _entities_).
+
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/RNdOaL08fS4fObZg0uBw-84jQDu0lP26buN98X57jd4O6mSsTTtyFmliKqpLngQM.qlT1YR10UIl_879I?startTime=1598652358000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1RwCtcTtJNCmiSpORiNeDvrtKN2p3wd6aNbRrH0sF-QI/edit?usp=sharing)
-- [Soluciones de Canchas de Paddle](https://drive.google.com/file/d/1pzfjfZusgj9IGdA2Mw7gXYeJWIHnr2Qf/view?usp=sharing)
-
-## Apuntes
-
-- [Modelo Relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit#heading=h.aa3gqw2dds4m)
+- [Video de la clase](https://us02web.zoom.us/rec/play/HACqhcHALUaKDGq19U0KPK5wLA58eBvT6zTNgc4ylgRkM8TvLjDyxzT-hOqGCuMkkgh6F7h0q3geHhCt.Bc6mYMDrbTdJB6zS?startTime=1600466705000)
+- [Presentación](https://docs.google.com/presentation/d/1mE-U5H8iRxOB5P-QXHwwfNGktn_7QqOfTfUprRvlne4/edit)

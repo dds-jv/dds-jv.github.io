@@ -1,29 +1,35 @@
 ---
 layout: page
-title: Clase 14
+title: Clase 17
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-14/
+permalink: /bitacoras/2021/viernes-n/clase-17/
 ---
 
-¡Esta fue nuestra duodécima clase virtual!
+
 
 ## Resumen
 
-En esta oportunidad hablaremos sobre la persistencia y tocaremos los siguientes temas:
-- Utilidad y rol que cumple la misma en nuestros sistemas.
-- Mencionaremos diferentes medios de persistencia y modelos. Haciendo foco en el modelo relacional.
-- Abordamos el modelo relacional, sus características y conceptos principales.
-- Hablamos de Relaciones/Tablas, Consultas, Claves Foráneas y Primarias e Integridad de datos
-- Hicimos una demostracion de consultas SQL, tanto DDL como DML.
-- Vimos qué son las Formas Normales, ahondamos en las primeras 3 y hablamos sobre desnormalización.
+En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnología JPA/Hibernate. Además incorporamos el concepto de mapeo de herencia.
+
+**El paso a paso de la clase se encuentra [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido-herencia/README.md#parte-3-herencia)**
+
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/-Mo2I7Lf_FJIQbOS2GeBZekAMYHfX6a80HBKqPUIzhxArGaQEpO853Wr_9cBmdhm?startTime=1598047628000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1RwCtcTtJNCmiSpORiNeDvrtKN2p3wd6aNbRrH0sF-QI/edit?usp=sharing)
-- [Consultas de ejemplo SQL (poner la opción de abrir en diagrams.net)](https://drive.google.com/file/d/1kfHXXyfUDmSLJdk-Wdw_7ilCRdB1wgKb/view?usp=sharing)
+- [Video de la clase](https://us02web.zoom.us/rec/play/7dICBtP0Dl6laDSU9o4Y71mAKpkm-Exj2TCMtiKcfJrLC4e2M8VWCcg0TTUjVudA-W0eOv6oc-jBzUCZ.DvF-_f3M2uy2IRaI)
+- [Presentación](https://docs.google.com/presentation/d/1v7fZvU_-kKjSHXKQBXhQpwsq0Taizm6TgWSTSRwrdzE/edit)
+- Código utilizado:
+  - https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia-sin-mapeos
+  - https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia-alternativa-enums
+  - https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia
+- [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn).
+- [Apunte: Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
 
-## Apuntes
 
-- [Modelo Relacional](https://docs.google.com/document/d/1uF3yoYIFmLxTH5ZJoT9I3cc5TW9b-H3BqZJbLudKBcA/edit#heading=h.aa3gqw2dds4m)
+## Para la próxima clase
 
+- [Parcial Juego de Tronos](https://docs.google.com/document/d/1Qjgq_KS73UUn8337LEoXi_M28wtgi-EkBuaQ7N-9Ks4/edit#heading=h.tlw7c15gv98x)
+
+## Y para la otra
+
+- [Liberamos el enunciado del TPA4](https://docs.google.com/document/d/1GNJDaTuO192ntS5Y8sqic2sucV5HPIvHt3izsl-ySLs)
