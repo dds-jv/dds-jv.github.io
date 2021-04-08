@@ -17,7 +17,6 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 
 - Juan Zaffaroni
 - Gastón Prieto
-- Kevin Szuchet
 - Lucas Clauser
 - Matias Mendez Corridoni
 - Natán Szmedra
