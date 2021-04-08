@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clase 1
-description: Viernes (Noche, 2021)
+description: Jueves (Mañana, 2021)
 permalink: /bitacoras/2021/jueves-m/clase-01/
 ---
 
@@ -72,6 +72,6 @@ Para consultas pueden usar el foro de la materia, en caso de que sea una duda pu
 
 - Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ) para ir poniendote al día con el lenguaje.
   - ¡Lecciones de Java en Mumuki!
-    - Link de inscripción para [K3003](https://mumuki.io/ddsjv/join/EWO_zA) (Jueves)
+    - Link de inscripción para [K3003] (Jueves)  _Próximamente_
 - Para la construcción del proyecto Java vamos a usar [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/)
 - Si aún no usaste GIT (aunque calculo que si en Paradigmas), es importante que [leas ésta introducción](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)
