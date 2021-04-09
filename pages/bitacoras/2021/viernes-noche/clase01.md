@@ -58,7 +58,7 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 
 # Tarea
 
-* [¡Repasá Objetos!](http://www.pdep.com.ar/material/apuntes/apuntes-de-la-cursada)
+* [¡Repasá Objetos!](https://www.pdep.com.ar/material/apuntes)
 * Hacé el ejercicio de [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU)
 * Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ).
 * Para la construcción del proyecto Java vamos a usar [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/)
