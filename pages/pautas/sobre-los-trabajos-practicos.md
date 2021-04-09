@@ -4,7 +4,24 @@ title: Sobre los trabajos prácticos
 description: Pautas básicas para trabajos prácticos felices
 permalink: /pautas/sobre-los-trabajos-practicos
 ---
-# Sobre los Trabajos Prácticos
+
+# Sobre las condiciones de aprobación
+
+La materia contará con tres tipos de trabajos prácticos:
+
+1. Entregas grupales del TP anual (TPA): 3 por cuatrimestre
+    * Los grupos serán de 6 integrantes (Jueves) o 7 integrantes (Viernes)
+    * Las mismas serán evaluadas periódicamente por une ayudante
+    * Para aprobar es necesario tener 2 de cada tres entregas cuatrimestrales aprobadas en tiempo y forma.
+2. Entregas individuales de TPs de implementación (TPI): 3 por cuatrimestre
+    * Las mismas serán evaluadas de forma automática a través de Github Classroom
+    * Para **aprobar** es necesario tener 2 de cada tres entregas cuatrimestrales aprobadas en tiempo y forma.
+3. Ejercicios semanales de diseño "Qué Me Pongo" (QMP): hasta 7 por cuatrimestre
+    * Las mismas serán evaluadas en clase, seleccionando una por grupo
+    * Para **aprobar** es necesaria al menos una entrega individual por grupo
+    * Para **promocionar** es necesario tener el 50% de las entregas individuales por cuatrimestre
+
+# Sobre las buenas prácticas
 
 Es posible que durante la cursada se adviertan algunas cuestiones, aunque de igual modo les brindamos una serie de buenas prácticas que usarán durante el año. Ésta iniciativa fué pensada para que puedan entenderse realizando sus desarrollos de forma práctica.
 

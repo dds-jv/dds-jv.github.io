@@ -136,5 +136,5 @@ El repositorio de la cátedra es https://github.com/dds-utn, ahí vas a encontra
 
 ¡Mirá siempre el seguimiento de las clases antes y después de cada una! Lo vas encontrar en las bitácoras:
 
-* [Jueves](https://dds-jv.github.io/bitacoras/2020/jueves-m/)
-* [Viernes](https://dds-jv.github.io/bitacoras/2020/viernes-n/)
+* [Jueves](https://dds-jv.github.io/bitacoras/2021/jueves-m/)
+* [Viernes](https://dds-jv.github.io/bitacoras/2021/viernes-n/)
