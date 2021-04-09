@@ -60,7 +60,7 @@ Para consultas pueden usar el foro de la materia, en caso de que sea una duda pu
 
 ## Tarea
 
-- [¡Repasá Objetos!](http://www.pdep.com.ar/material/apuntes/apuntes-de-la-cursada) 😇
+- [¡Repasá Objetos!](https://www.pdep.com.ar/material/apuntes#h.b671lgktvxbn) 😇
 - Leé el apunte de [Manejo de errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit)
 - Leé el apunte que explica como [Comunicar un diseño](https://docs.google.com/document/d/1eXLlNppAX-7E2M8Xxs0MCckdn4XVEYmeQNaS_E1RqTc/edit). Tal vez ya lo leíste en Paradigmas, pero no viene nada mal repasar los diagramas 😊
 - Pensar en las alternativas para el [ejercicio de Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU/edit) y plantear el diseño (diagrama de clases + pseudo código de objetos / wollok). 
