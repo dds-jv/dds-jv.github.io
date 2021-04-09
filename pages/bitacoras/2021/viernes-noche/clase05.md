@@ -4,11 +4,7 @@ title: Clase 7
 description: Viernes (Noche, 2021)
 permalink: /bitacoras/2021/viernes-n/clase-07/
 ---
-**¡Hola!**
 
-Esta fue nuestra quinta clase virtual!
-
-- [Video](https://us02web.zoom.us/rec/share/4_xlcO-363tOGbOQzFyHaLMMF9Taaaa82yAbrPAKyEn8v0F6v_YI3oge8mMspVz_?startTime=1590184884000)
 - [Presentación](https://docs.google.com/presentation/d/1XxkTAaRN3QFWFzVGikNwnYF1mgPz3JmwIXd0sMvLNTo/edit?usp=sharing)
 - [Ejemplo de Mocking](https://drive.google.com/drive/folders/1fUdW29WD6pqQwLG_WGrqcNNzPBvgANBq?usp=sharing)
 
@@ -46,3 +42,4 @@ Esta fue nuestra quinta clase virtual!
 ### Apuntes y ejercicios
 - [Patrones de comunicación](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
 - [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit) **Obligatorio**
+- [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
