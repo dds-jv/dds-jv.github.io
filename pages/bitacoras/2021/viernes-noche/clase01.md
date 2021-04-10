@@ -50,7 +50,6 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 # Material
 
 - [Presentación](https://docs.google.com/presentation/d/1vmIAk0e9BwX4M9rNwDcpyPuZfeKB1dLApLbb5QYAunY/edit#slide=id.gcf4af6c2f0_0_40)
-* Video de la clase (coming soon...)
 * [Introducción a Diseño de Sistemas](https://docs.google.com/document/d/1mqWuU_5p9l6GIfHXSjcoyDXILWTKq2eW2dLFlIBOQzk)
 * [Introducción al Desarrollo de Software](https://docs.google.com/document/d/1TZeWMdtMOKv7fESrFyJEJXWLTVutGVy_Gho9h5e1tRY/edit#heading=h.hegow82vrh7m)
 * [Introducción a Arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE)
