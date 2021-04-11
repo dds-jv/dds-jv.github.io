@@ -45,7 +45,7 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 ## Material utilizado
 
 - [Presentación](https://docs.google.com/presentation/d/1YvhClVLqCHFVtnzAn2gP1MusakyXu4lVjh6HcZRwLA8/edit#slide=id.gced8bced9a_1_129)
-- Video de la clase: _Próximamente_
+- [Video de la clase](https://youtu.be/3iXb0ZDXYoA)
 
 ## Apuntes sobre los temas vistos
 
