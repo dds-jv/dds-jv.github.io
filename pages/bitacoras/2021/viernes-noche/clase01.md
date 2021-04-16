@@ -58,8 +58,10 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 # Tarea
 
 * [¡Repasá Objetos!](https://www.pdep.com.ar/material/apuntes)
+    * En partircular, repasá [los mensajes de colecciones de Wollok](https://docs.google.com/document/d/1oJ-tyQJoBtJh0kFcsV9wSUpgpopjGtoyhJdPUdjFIJQ/edit) 
 * Hacé el ejercicio de [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU)
 * Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ).
+    * Y tené siempre a mano la [guía de colecciones de Java](https://docs.google.com/document/d/1Tn4hhyEwbAm1OBhqz2Yu2NIrY_AX2hArwUMEtZadtLk/edit#heading=h.84nijkpu6fvo)
 * Para la construcción del proyecto Java vamos a usar [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/)
    * Te dejamos un [proyecto plantila ya armado](https://github.com/dds-utn/java-base-project)
    * Y un [mini ejercicio de ejemplo](https://github.com/dds-utn/ejemplo-pepita) que la usa para probar que todo ande
