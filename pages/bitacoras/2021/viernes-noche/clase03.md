@@ -15,7 +15,7 @@ permalink: /bitacoras/2021/viernes-n/clase-03/
 
 # Material
 
-- [Presentación](https://docs.google.com/presentation/d/1U2MrpF9P44aZi1H4BhrvSzdbdJq6I2laEaDa055sFDo/edit#slide=id.g838dcce884_0_98)
+- [Presentación](https://docs.google.com/presentation/d/1U2MrpF9P44aZi1H4BhrvSzdbdJq6I2laEaDa055sFDo/edit)
 - [Patrones creacionales](https://docs.google.com/document/d/1wuU7VVvf7B4zhBinlc0RGuJs5lHI5-ZD/edit#heading=h.gjdgxs)
 - [Introducción a patrones de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit?usp=sharing)
 - [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
