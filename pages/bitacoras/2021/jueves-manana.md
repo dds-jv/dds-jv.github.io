@@ -10,9 +10,9 @@ frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQywdMcFtGRoXrfsVV56DWJ_
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 
 - [Clase 1: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-01)
+- [Clase 2: Cualidades de Diseño y Manejo de Errores]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-02)
 
 <!---
-- [Clase 2: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-02) 
 - [Clase 3: Diseño, Metodologías y Arquitectura (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-03) 
 - [Clase 4: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-04) 
 - [Clase 5: Tiempo de Uso vs. Tiempo de Configuración. Patrones creacionales (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-05) 
