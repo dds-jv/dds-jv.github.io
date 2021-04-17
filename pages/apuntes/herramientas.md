@@ -11,5 +11,5 @@ permalink: /apuntes/herramientas/
 - **Manejo de Errores** 
   - [Ejercicio "Monedero" (en Xtend)](https://docs.google.com/document/d/1vVW91adl0p-NxGNpe8fqmC_5YmBkrxaLDFKyZ0xZb9Y/edit)
 
-- [Guía de Lenguajes y Colecciones](https://docs.google.com/document/d/1-jsgDta3fBCuTynnOMXqeuLcSkDU3geg4wbz8o9q8Kg/edit)
-- [Apunte de Maven](https://sites.google.com/site/programacionui/temario/01-intro-UI/maven)
+- [Guía de Lenguajes y Colecciones](https://docs.google.com/document/d/1Tn4hhyEwbAm1OBhqz2Yu2NIrY_AX2hArwUMEtZadtLk/edit#heading=h.84nijkpu6fvo)
+- [Apunte de Maven](https://wiki.uqbar.org/wiki/articles/maven.html)
