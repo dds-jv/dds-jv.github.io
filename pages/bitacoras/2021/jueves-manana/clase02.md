@@ -34,6 +34,10 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 - [Introducción a los patrones de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
 - Ver vídeo: [Patrones, Strategy y Template Method](https://youtu.be/NZRYknYXX90)
 
+## TPI - 29/04 fecha límite
+
+- [Tarea de classroom](https://classroom.github.com/a/X3ONTey6)
+
 ## Material Complementario
 
 - [Explicación Detallada - Macowins](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI/edit#heading=h.pzjlb13p5e2p)
