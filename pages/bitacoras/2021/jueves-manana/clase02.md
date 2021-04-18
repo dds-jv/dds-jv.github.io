@@ -29,10 +29,12 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 ## Tareas para la próxima clase
 
-- Realizar ejercicio: [¿Que me pongo? (primera iteración)](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
-  - Enviar solución [acá](https://aulasvirtuales.frba.utn.edu.ar/mod/url/view.php?id=260086)
 - [Introducción a los patrones de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
 - Ver vídeo: [Patrones, Strategy y Template Method](https://youtu.be/NZRYknYXX90)
+- [Patrones creacionales](https://docs.google.com/document/d/1wuU7VVvf7B4zhBinlc0RGuJs5lHI5-ZD/edit#heading=h.gjdgxs)
+  - [Formulario para dudas](https://docs.google.com/forms/d/1UvYdokRU9jYNilEio53giorGg1-2QfeCAEh6Jzi0LyM/edit)
+- Realizar ejercicio: [¿Que me pongo? (primera iteración)](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
+  - Enviar solución [acá](https://aulasvirtuales.frba.utn.edu.ar/mod/url/view.php?id=260086)
 
 ## TPI - 29/04 fecha límite
 
