@@ -34,7 +34,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 - [Patrones creacionales](https://docs.google.com/document/d/1wuU7VVvf7B4zhBinlc0RGuJs5lHI5-ZD/edit#heading=h.gjdgxs)
   - [Formulario para dudas](https://docs.google.com/forms/d/1UvYdokRU9jYNilEio53giorGg1-2QfeCAEh6Jzi0LyM/edit)
 - Realizar ejercicio: [¿Que me pongo? (primera iteración)](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
-  - Enviar solución [acá](https://aulasvirtuales.frba.utn.edu.ar/mod/url/view.php?id=260086)
+  - Enviar solución [acá](https://docs.google.com/forms/d/1uymYx-XJ9ku9WqQUtIFJC3cwXVFnzmR_YCTplmues30/viewform?edit_requested=true)
 
 ## TPI - 29/04 fecha límite
 
