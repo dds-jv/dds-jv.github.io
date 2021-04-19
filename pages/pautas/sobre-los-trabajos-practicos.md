@@ -10,7 +10,7 @@ permalink: /pautas/sobre-los-trabajos-practicos
 La materia contará con tres tipos de trabajos prácticos:
 
 1. Entregas grupales del TP anual (TPA): 3 por cuatrimestre
-    * Los grupos serán de 6 integrantes (Jueves) o 6 integrantes (Viernes)
+    * Los grupos serán de 6 integrantes
     * Las mismas serán evaluadas periódicamente por une ayudante
     * Para aprobar es necesario tener 2 de cada tres entregas cuatrimestrales aprobadas en tiempo y forma.
 2. Entregas individuales de TPs de implementación (TPI): 3 por cuatrimestre
