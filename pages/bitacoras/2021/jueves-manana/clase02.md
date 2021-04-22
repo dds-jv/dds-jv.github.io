@@ -43,6 +43,6 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 ## Material Complementario
 
 - [Explicación Detallada - Macowins](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI/edit#heading=h.pzjlb13p5e2p)
-- [Patrones de Diseño - Gamma](https://github.com/deepakkum21/Books/blob/master/Design%20Patterns%20-%20Elements%20of%20Reusable%20Object%20Oriented%20Software%20-%20GOF.pdf) (recomendamos descargar el pdf para navegarlo más fácil)
-  - Strategy, página 292
-  - Template Method, página 301
+- [Patrones de Diseño - Gamma](https://aulasvirtuales.frba.utn.edu.ar/mod/url/view.php?id=311531) (recomendamos descargar el pdf para navegarlo más fácil)
+  - Strategy, página 289
+  - Template Method, página 299
