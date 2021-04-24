@@ -1,30 +1,31 @@
 ---
 layout: page
-title: Clase 8
+title: Clase 6
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-08/
+permalink: /bitacoras/2021/viernes-n/clase-06/
 ---
-**¡Hola!**
 
-
-
-- [Video](https://us02web.zoom.us/rec/share/2ZZRLevs1VtLfLfmr03vHe14Adm6T6a81yYYrqJcyhxyWfm9PPFWggvUptY4iy0X?startTime=1590789721000)
-- [Presentación](https://docs.google.com/presentation/d/1XQXjn4IPn9JmUeilZkvqlL8JHBN4dC1oq-J5JRUY8tY/edit#slide=id.g35f391192_00)
+- [Presentación](https://docs.google.com/presentation/d/1XxkTAaRN3QFWFzVGikNwnYF1mgPz3JmwIXd0sMvLNTo/edit?usp=sharing)
+- [Ejemplo de Mocking](https://drive.google.com/drive/folders/1fUdW29WD6pqQwLG_WGrqcNNzPBvgANBq?usp=sharing)
 
 # Resumen
 
-- Volvimos sobre la entrega 4 de QMP, trabajamos sobre errores comunes y planteamos una solución posible
-- Discutimos los patrones de comunicación entre componentes más importantes.
+- Abordamos distintos tipos de _Testing_ y para qué lo hacemos.
+- Nos introdujimos al concepto de _Interfaz_, en un sentido más amplio que el de objetos.
+- Hablamos sobre cómo establecer y diseñar: _Interfaces entre componentes_
+- Aprendimos cómo mantener interfaces desacopladas valiéndonos del _Patrón Adapter_
 
 # Material
-- [Patrones de comunicación](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
+- [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
+- _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
+- [Patrón Adapter (Pág. 157)](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)
+- [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
+- _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
 - [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
-   - [Solución posible](https://docs.google.com/document/d/1XNUtnvQl1oJhDWlevzxwkynZJMQ2upDmrXFC_6xEo3A/edit?userstoinvite=sofiavcortes%40gmail.com&ts=5ed51561&actionButton=1#heading=h.uyku9mnteh0t)
+   - [Solución posible](https://docs.google.com/document/d/1XNUtnvQl1oJhDWlevzxwkynZJMQ2upDmrXFC_6xEo3A)
 
-# Para la próxima clase
-
-### Apuntes y ejercicios
+# Tarea
 
 - [Reificiando comportamiento](https://docs.google.com/document/d/14n6SNTbCt1wJzhNiIFNSoAq0tJdYjRrOQCi5ar_FQ1c/edit#heading=h.6ab0fffv8tld)
 - [Patrón Command (pág. 263)](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)
-- [Qué Me Pongo: Quinta Iteración]() **Obligatorio**
+- [Qué Me Pongo: Quinta Iteración](https://docs.google.com/document/d/1wS622pMwZrDK9ilL_hEt5bBE04vKUKZILx8cIQ-aQzU/edit) **Obligatorio**

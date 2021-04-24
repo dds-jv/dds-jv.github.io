@@ -1,32 +1,33 @@
 ---
 layout: page
-title: Clase 12
+title: Clase 11
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-12/
+permalink: /bitacoras/2021/viernes-n/clase-11/
 ---
-**¡Hola!**
 
-En ésta ocasión volvemos a pisar el acelerador para cubrir un Patrón de Arquitectura muy conocido: _Modelo-Vista-Controlador (también conocido como "MVC")_. Dentro de éste descubriremos sus variantes y características.
 
-# Resumen
 
-- Patrón _Model-View-Controller (MVC)_
-    - Componentes (Diagrama)
-    - Binding
-    - _Variante: Patrón Model-View-ViewModel (MVVM)_
-- Diseño de Interfaces
-    - Elementos gráficos
-    - Desktop vs. Web
-    - Arena
+## Resumen
+
+En esta clase repasamos la noción de eventos para comunicar cosas que ocurren en nuestro sistema a otros objetos, sin acoplarnos a lo que hacen, pero ganando en flexibilidad de que se puedan suscribir otros interesados.
+
+Además, discutimos sobre metodologías de desarrollo.
 
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/2Mxndr796nlJT53_yhGBRqIIApWieaa8hCAZ-vVcxEkhQbUa6sK2gu20_Mzp7GQ7?startTime=1593813686000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1__aa4efEVPFvupWNZODKXQzQv3Rqjj3j8pDeMM0Hz9U/edit#slide=id.g35f391192_00)
-- [Model-View-Controller](https://sites.google.com/site/programacionui/temario/02-disenio-UI/intro-a-ui-mvc)
-- Complementario: [Arena, un framework "MVVM"](https://sites.google.com/site/programacionui/temario/02-disenio-UI/arena-disclaimer) e [información para instalarlo](http://arena.uqbar-project.org)
+- [Video de la clase](https://us02web.zoom.us/rec/share/3PF3L6372TlOH6vPtmuHR65_Mo_Paaa80XdMr6Vfzxz9b2Fxn2v7iPw_o35j8MG6?startTime=1593209247000)
+- [Presentación utilizada](https://docs.google.com/presentation/d/18y4Xr1nMGFd2Kh2z-SSLdK1NwgOhMbe2xnNAk8PEhAs/edit)
+- [Apunte sobre el patrón Observer, caso práctico](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
+- [Sobre los efectos del Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
+- [Diseño y metodologías de desarrollo](https://docs.google.com/document/d/11PQO8NPSOV4SW0ZwtFsh4RCtWubuEBV6E5qPicqJNKs/edit)
 
-# Práctica
+## Material complementario
 
-- [Conversor de Unidades](https://docs.google.com/document/d/1hYBIm2S7KqKIzAvWnYl6F9JyRDZzOI6aW2BExH8aDB4/edit)
+- [Patrones de Diseño](https://www.utnianos.com.ar/foro/attachment.php?aid=3577)
+- Observer, página 269
+
+## Práctica
+
+- [Qué Me Pongo: Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit#)
+- [Código de la solucíón de clase](https://gist.github.com/flbulgarelli/ef546da56968d24c0284d8e43152946a)
