@@ -1,34 +1,33 @@
 ---
 layout: page
-title: Clase 22
+title: Clase 20
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-22/
+permalink: /bitacoras/2021/viernes-n/clase-20/
 ---
 
+# Resumen
+
+En esta clase y subsiguientes, vamos a cambiar un poco el enfoque para empezar a charlar sobre temas de _Arquitectura_. Entendiendo cómo diseño de arquitectura, el diseño (y sus decisiones) de lo más importante. Es decir sus componentes, relaciones, comunicaciones y cómo tiene injerencia, no solo en las piezas de software sino en los componentes de hardware, tecnologías, costos y contexto.
+
+En particular introduciremos los siguientes nuevos conceptos:
+
+- **Balanceador de cargas:** Dispositivo de Hardware o Software especializado que permite distribuir la carga de trabajo a los diferentes nodos a partir de un algoritmo.
+
+- **Microservicios:** Enfoque para desarrollar una sola aplicación como un conjunto de "pequeños" servicios. Donde cada uno se ejecuta en su propio proceso. Los mismos pueden (o no) estar escritos en diferentes lenguajes,comunicarse entre sí (por ejemplo, por medio de una API HTTP) y persistir su propios conjunto de datos.
+Es importante remarcar que no solo implica una forma de diseño diferente (en comparación con un monolito), sino que en líneas generales plantea un cambio a nivel organización del equipo.
+
+Para introducir estos conceptos vamos a estar resolviendo los ejercicio *RekomendasRekomendashi, Fase 2* y *SheRa Enterprise*
 
 
-## Resumen
+# Material
 
-En esta clase cerramos nuestro estudio de UI MVC Web con [Spark](http://sparkjava.com/).
+- [Video de la clase](https://us02web.zoom.us/rec/share/lWwrjVOyScHNCQnqsM3xmUIPBg-OdOA4vzZmAVgbZ-NcmdORXowk9I0_ewGJQtfF.7vtKyLsOTFzRmFBj?startTime=1604700084000)
+- [Presentación de la clase](https://docs.google.com/presentation/d/1dFweT7Jg4CwG2pwUuzsPiopA1p-bkVX9QlwkCySuizU/edit)
+- [Arquitecturas Concurrentes, Episodio 1: El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
+- [Comunicación de decisiones arquitectónicas]({{site.baseurl}}/attachments/ComunicandoDecisionesArquitectonicas.pdf)
+- **Opcional** [Introducción a arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE/edit#heading=h.z9jwy1eurzt9)
 
-Entenderemos cómo funcionan las sesiones HTTP como forma de simular estado en un protocolo _stateless_. Además integraremos nuestras vistas con la persistencia, utilizando transacciones para las operaciones mutables.
+# Para la próxima clase
 
-Por último, dejaremos un video sobre la temática de **usabilidad y experiencia de usuario** (UI/UX).
-
-## Material
-
-- [Video de la clase](https://us02web.zoom.us/rec/share/oQYFaJWDsTgzesKVe2D8qqKIxZFGccZzLdWRj1E2t3inz_xHOnDmrrZ-xB4Rwkfw.eHvBQvF69cjhVHJW?startTime=1604095848000)
-- [Presentación](https://docs.google.com/presentation/d/1Qx4h2-mt9WQU_2bTQBHb9T1oBqVJNir7nQ1kUD-Eqoo/edit)
-- [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
-- [Documentación de Spark](http://sparkjava.com/documentation)
-- [Código de clase](https://github.com/dds-utn/spark-web-proof-of-concept) (hay varias ramas)
-
-## Material complementario sobre CSS
-
-- [Intro a CSS](https://www.w3schools.com/css/css_intro.asp)
-- [Página de consulta sobre CSS](https://css-tricks.com/almanac/)
-- [Display](https://www.w3schools.com/css/css_display_visibility.asp)
-- [Flexbox](https://flexbox.io/): Videos introductorios sobre flexbox (los primeros 8 videos son los más importantes)
-- [Práctica Flexbox](https://flexboxfroggy.com/#es)
-
-
+- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing). Hacer **EntregaYaYaYa**, **Shera**, y **Rekomendashi**
+  - [Soluciones](https://drive.google.com/drive/folders/1mI6cDlBqdsmv_tp-BTXqCVhTFplpylN6)
