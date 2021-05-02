@@ -7,37 +7,33 @@ permalink: /bitacoras/2021/jueves-m/clase-04/
 
 **¡Hola!**
 
-Segunda clase de Diseño de Sistemas en pantuflas!
 
-- [Video](https://www.youtube.com/playlist?list=PL7cuUUqxhfsNxUxyaN7ChbKi4gAOXqfiD)
-- [Presentación](https://docs.google.com/presentation/d/1XJ5IwjtA87XLLwRN2rauKBebLkatWNgmuUrm92XjUPw)
-- [Preguntas usadas](https://quizizz.com/join/quiz/5ead7bfa117372001bfa42a8/start?referrer=5e80f3362abd61001b3daf75)
+## Material utilizado
 
-# Resumen
+- Video de la clase: _Próximamente_
+- [Presentación](https://docs.google.com/presentation/d/1gDOc-G3ujHDfaCkbxk_JUSEPygI3zcG_6Wu28U32tOA/edit?usp=sharing)
 
-- Repasamos la idea de patron de diseño y cuales vimos
-- Repasamos las cualidades de diseño y los conceptos asociados al manejo de errores
-- Evacuamos dudas y consultas los apuntes de la clase y QMP Primera Iteración
+## Resumen
 
-# Material
+- Repasamos los problemas que hay en la creación de los objetos
+- Vimos que patrones podrían servirnos para solucionar dichos problemas
+- Evacuamos dudas y consultas los apuntes de la clase y QMP Segunda Iteración
 
-- [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
-    - _Complementario: [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
-	- _Complementario: [Las entradas del diseño](https://docs.google.com/document/d/1qPM_sQ0UyGFKRzl13Cbf6zDKj6vxJ4wMZQIXeOrRvM8/edit?usp=sharing)_
-- [Diseño del Manejo de Errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c)
-    - _Complementario: [Excepciones en Java](https://docs.google.com/document/d/1G0a9j-OA0rIEA5cdvEhIMbztJVo86ssvZKBK8HL9akg/edit)_
-- [Solución explicada a QMP Primera Iteración](https://docs.google.com/document/d/1ayrs5-vrGsXgZKDob-f5_0fmhCYXf7-ty5Be6NXITRY)
-- [Introducción a los patrones de de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y)
-    - [Strategy ES](https://reactiveprogramming.io/blog/es/patrones-de-diseno/strategy)
-    - [Template Method ES](https://reactiveprogramming.io/blog/es/patrones-de-diseno/template-method)
-    - [Patrones de Diseño - Libro](https://github.com/TushaarGVS/Design-Patterns-Mentorship/blob/master/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20(1994).pdf) Recomendación bajarlo y luego tenerlo siempre de referencia
-
-# Para la próxima clase
+## Material
 
 * [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/)
+  * _Complementario [Otro Apunte - Código en XTend](https://docs.google.com/document/d/1UhHVskJKyw7y28AsAASsCXtIodEiJ4coEOiw0QdlOTo/edit)_
 * [Ejercicio QueMePongo - Iteración 2](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y)
+* [Solución QueMePongo explicada - Iteración 2](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM)
+* [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
+## Para la próxima clase (en 2 semanas)
 
-# Formularios de seguimiento
-* [Segumiento de Apuntes de la clase](https://docs.google.com/forms/d/16Kjb-wSc5aO7TzTvoq0PNH9IofhGp_mrJ3ABJt3spLY/edit)
-* [Formulario de entrega de QueMePongo II](https://docs.google.com/forms/d/1cKyNjjOYZoLyYsO5XaRvYYdfBRKdJFyVk_8J4PwQNWs/edit)
+* Apuntes para leer
+  * [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
+  * [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit#heading=h.6ab0fffv8tld)
+  * [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
+  * [Formulario de seguimiento](https://docs.google.com/forms/d/e/1FAIpQLSdL9W_hP5c-GIiKDYyd3PvJXpvcBXIhXvG_jbanUN4yIh5rqw/viewform)
 
+* [Ejemplos Code Smells](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
+* [Ejercicio Monedero](https://github.com/dds-utn/dds-monedero-java8)
+  * [Formulario entrega](https://docs.google.com/forms/d/e/1FAIpQLSe-kGDSlPHwDDscaXXISdaDW3_Tgxje7tGu3XKuft79PZudGw/viewform)
