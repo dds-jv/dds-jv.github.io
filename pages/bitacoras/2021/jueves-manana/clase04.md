@@ -10,7 +10,7 @@ permalink: /bitacoras/2021/jueves-m/clase-04/
 
 ## Material utilizado
 
-- Video de la clase: _Próximamente_
+- [Video de la clase](https://youtu.be/chrceboYAXs)
 - [Presentación](https://docs.google.com/presentation/d/1gDOc-G3ujHDfaCkbxk_JUSEPygI3zcG_6Wu28U32tOA/edit?usp=sharing)
 
 ## Resumen
