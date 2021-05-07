@@ -21,11 +21,12 @@ permalink: /bitacoras/2021/jueves-m/clase-04/
 
 ## Material
 
-* [Patrones creacionales](https://docs.google.com/document/d/193WbUewu9RvK8Nv9orpxSoXeVA3R5Az1uYHhg8NRMtQ/)
+* [Patrones creacionales](https://docs.google.com/document/d/1wuU7VVvf7B4zhBinlc0RGuJs5lHI5-ZD)
   * _Complementario [Otro Apunte - Código en XTend](https://docs.google.com/document/d/1UhHVskJKyw7y28AsAASsCXtIodEiJ4coEOiw0QdlOTo/edit)_
 * [Ejercicio QueMePongo - Iteración 2](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y)
 * [Solución QueMePongo explicada - Iteración 2](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM)
 * [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
+
 ## Para la próxima clase (en 2 semanas)
 
 * Apuntes para leer
