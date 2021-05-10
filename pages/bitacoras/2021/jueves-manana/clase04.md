@@ -34,7 +34,6 @@ permalink: /bitacoras/2021/jueves-m/clase-04/
   * [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit#heading=h.6ab0fffv8tld)
   * [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
   * [Formulario de seguimiento](https://docs.google.com/forms/d/e/1FAIpQLSdL9W_hP5c-GIiKDYyd3PvJXpvcBXIhXvG_jbanUN4yIh5rqw/viewform)
-  * [QueMePongo - Iteración 3 - leer](https://docs.google.com/document/d/1th_F_BsF91zKuFWk6POogegljhrVW9ThybW_9U_xJZY/edit#heading=h.j358ixirihtq) Solo la primer parte (generar sugerencias)
 
 * [Ejemplos Code Smells](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
 * [Ejercicio Monedero](https://github.com/dds-utn/dds-monedero-java8)
