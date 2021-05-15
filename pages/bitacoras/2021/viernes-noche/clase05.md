@@ -26,7 +26,7 @@ permalink: /bitacoras/2021/viernes-n/clase-05/
 
 - [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
 - _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
-- Patrón Adapter del Libro de Gamma (link en el formulario de seguimiento)
+- Patrón Adapter del Libro de Gamma (ver nota en el formulario de seguimiento)
 - [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
 - _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
 - [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
