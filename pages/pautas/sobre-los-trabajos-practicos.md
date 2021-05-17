@@ -16,10 +16,11 @@ La materia contará con tres tipos de trabajos prácticos:
 2. Entregas individuales de TPs de implementación (TPI): 3 por cuatrimestre
     * Las mismas serán evaluadas de forma automática a través de Github Classroom
     * Para **aprobar** es necesario tener 2 de cada tres entregas cuatrimestrales aprobadas en tiempo y forma.
-3. Ejercicios semanales de diseño "Qué Me Pongo" (QMP): hasta 7 por cuatrimestre
+3. Ejercicios semanales de diseño: hasta 7 entregas por cuatrimestre
     * Las mismas serán evaluadas en clase, seleccionando una por grupo
     * Para **aprobar** es necesaria al menos una entrega individual por grupo
     * Para **promocionar** es necesario tener el 50% de las entregas individuales por cuatrimestre
+    * La mayoría de ellas serán sobre el ejercicio iterativo "Qué Me Pongo" (QMP), aunque algunas semanas podrán ser sobre otros problemas. 
 
 # Sobre las buenas prácticas
 
