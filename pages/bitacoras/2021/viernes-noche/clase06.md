@@ -20,8 +20,8 @@ permalink: /bitacoras/2021/viernes-n/clase-06/
 - _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
 - [Patrón Adapter (Pág. 157)](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)
 - [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
-   - _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
-   - _Complementario: [Guía Rápida Mockito](https://docs.google.com/document/d/1467Gc-adARJZZhVAdgazdCeHWRzCUJg6CfMD3nkhmG4/edit)
+   - _Complementario_: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+   - _Complementario_: [Guía Rápida Mockito](https://docs.google.com/document/d/1467Gc-adARJZZhVAdgazdCeHWRzCUJg6CfMD3nkhmG4/edit)
 - [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
    - [Solución posible](https://docs.google.com/document/d/1XNUtnvQl1oJhDWlevzxwkynZJMQ2upDmrXFC_6xEo3A)
 
