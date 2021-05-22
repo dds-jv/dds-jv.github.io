@@ -2,7 +2,7 @@
 layout: page
 title: Clase 8
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-8/
+permalink: /bitacoras/2021/viernes-n/clase-08/
 ---
 
 > _¡Hola todo el mundo!_
