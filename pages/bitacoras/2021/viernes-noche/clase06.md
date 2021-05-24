@@ -5,7 +5,7 @@ description: Viernes (Noche, 2021)
 permalink: /bitacoras/2021/viernes-n/clase-06/
 ---
 
-- [Presentación](https://docs.google.com/presentation/d/1XxkTAaRN3QFWFzVGikNwnYF1mgPz3JmwIXd0sMvLNTo/edit?usp=sharing)
+- [Presentación](https://docs.google.com/presentation/d/1GS-dQLC5AsZSJtwezbG1aO6fXMUpUNW7-sTui8Ha77c/edit)
 - [Ejemplo de Mocking](https://drive.google.com/drive/folders/1fUdW29WD6pqQwLG_WGrqcNNzPBvgANBq?usp=sharing)
 
 # Resumen
