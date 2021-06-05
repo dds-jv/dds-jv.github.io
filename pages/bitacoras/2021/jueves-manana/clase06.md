@@ -12,7 +12,7 @@ Sexta clase de Diseño de Sistemas en pantuflas!
 
 ## Material utilizado
 
-- Video __Próximamente__
+- [Video](https://www.youtube.com/watch?v=yXQcbPDiI8U)
 - [Presentación](https://docs.google.com/presentation/d/1cYIp_Krk_NworDgBCldxMl2k7zWwaidg550OxRbF0IU/edit?usp=sharing)
 
 ## Resumen
@@ -26,7 +26,6 @@ Además vimos como adaptar interfaces de componentes que aún no tenemos o que n
 Recordamos que era una dependencia y empezamos a hablar de distintas formas de conocerlas, en particular de la [inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit) para poder parametrizarlas y tener mayor flexibilidad/testeabilidad.
 
 Por otro lado, tuvimos un desafío extra que fue como testear de forma unitaria nuestros componentes sin tener que usar los componentes reales, esto es muy útil cuando los componentes que usamos tienen efecto y queremos evitarlos, para esto nos sirvio definir [impostores](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit#heading=h.5bqwe0zgcgud).
-
 
 ## Material
 
