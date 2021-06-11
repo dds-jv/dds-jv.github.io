@@ -23,6 +23,7 @@ Vimos como modelar objetos que representan un comportamiento:
 ## Material utilizado
 
 - Estuvimos trabajando con el ejercicio de [Qué Me Pongo - Quinta iteración](https://docs.google.com/document/d/1wS622pMwZrDK9ilL_hEt5bBE04vKUKZILx8cIQ-aQzU/edit?usp=sharing)
+  - [Alternativas de diseño](https://docs.google.com/document/d/1Q3HaxGWoxaZHLlvPxNt1cxQdubMIXkPOpcp4_vOO-zM)  
 - Patrones de Diseño - Libro - Command
 
 ## Material complementario
