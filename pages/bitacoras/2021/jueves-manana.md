@@ -16,10 +16,10 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 5: Manejo del cambio - Dependencias vs Framework]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-05) 
 - [Clase 6: Inyección de dependencia - Adaptación de interfaces - Testing[Impostores]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-06/)
 - [Clase 7: Cosificar comportamiento (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-07)
+- [Clase 8: Eventos y Notificaciones - Observer (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-08) 
 
 <!--
 - [Clase 9: Patrones de comunicación (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-09) 
-- [Clase 10: Eventos y Notificaciones - Observer (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-10) 
 - [Clase 11: Metodologías ágiles y repaso (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-11) 
 - [Clase 12: Interfaz gráfica Desktop (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-12) 
 - [Clase 13: Cosificar estado y otros patrones(online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-13) 
