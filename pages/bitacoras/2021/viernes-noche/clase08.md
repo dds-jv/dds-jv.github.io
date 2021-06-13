@@ -26,7 +26,7 @@ Además hablamos de los Repositorios, objetos globales que nos permiten conocer 
 ## Material utilizado
 
 - [Video de la clase](https://us02web.zoom.us/rec/share/5pVvDb3o8W9JSNbB7kXkc4Q9DN_paaa8hCcW-PMJyka7Vurhx5bo62u7Nnkzfd1-?startTime=1591999314000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1GYxb86-8lZIf5wtjW6RtR9BdtwLc3GeGfRNKCl4pzsw/edit)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1KwoYTdJA4_RLL_VTH5KcwOZGST9V3XAt_hkckzUJD94/edit)
 
 ## Práctica
 
