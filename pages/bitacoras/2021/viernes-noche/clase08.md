@@ -38,11 +38,7 @@ Además hablamos de los Repositorios, objetos globales que nos permiten conocer 
 - [Patrones de Diseño](https://www.utnianos.com.ar/foro/attachment.php?aid=3577)
 - Observer, página 269
 
-## Para la próxima clase 🤓
-
-- Tenemos entrega de TP
-
-## Y para la siguiente 📅
+## Para la próxima clase 📅
 
 - [Patrones de comunicación](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
 -  [Diseño y metodologías de desarrollo](https://docs.google.com/document/d/11PQO8NPSOV4SW0ZwtFsh4RCtWubuEBV6E5qPicqJNKs/edit)
