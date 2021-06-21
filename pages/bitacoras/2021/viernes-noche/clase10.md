@@ -29,4 +29,4 @@ En ésta ocasión volvemos a pisar el acelerador para cubrir un Patrón de Arqui
 
 # Práctica
 
-- [Conversor de Unidades](https://docs.google.com/document/d/1hYBIm2S7KqKIzAvWnYl6F9JyRDZzOI6aW2BExH8aDB4/edit)
+- [Conversor de Unidades](https://github.com/dds-utn/dds-conversor-ui#readme)
