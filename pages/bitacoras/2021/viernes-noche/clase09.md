@@ -15,7 +15,6 @@ Además, discutimos sobre metodologías de desarrollo.
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/3PF3L6372TlOH6vPtmuHR65_Mo_Paaa80XdMr6Vfzxz9b2Fxn2v7iPw_o35j8MG6?startTime=1593209247000)
 - [Presentación utilizada](https://docs.google.com/presentation/d/18y4Xr1nMGFd2Kh2z-SSLdK1NwgOhMbe2xnNAk8PEhAs/edit)
 - [Apunte sobre el patrón Observer, caso práctico](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
 - [Sobre los efectos del Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
