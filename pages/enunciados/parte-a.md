@@ -4,10 +4,11 @@ title: Parte A
 description: Algunos Enunciados
 permalink: /enunciados/parte-a
 ---
+- [Basher (2019)](https://docs.google.com/document/d/1qf-2U2S_XIpJAMSsYF0bWerjqIu7_jLvVVXfLSkMpIk)
 - [Copia.me (01-06-2018)](https://docs.google.com/document/d/1NIgfMwyokaJ5U1oFXCGDVOIt5Pbh80Aat6o-v8MOqYk/edit)
    - [Soluciones posibles](https://docs.google.com/document/d/1t7oUyhheEcPjoj2XzNu0x4pB_BGTUmbjhDjskDB2k1I/edit#heading=h.xxux6vkwpsjl)
 - [Nefli (31-05-2018)](https://docs.google.com/document/d/1YYFk99LmQp1OrRuyhAagUVa4J8lwGkMHd_tbj5gHYk8)
-- [Monsaint (06-2017)](https://docs.google.com/document/d/1-voPHOXaS4x7YYWFxNX4nRtIk_zpDdwGmKubrmXx-Rk)
+- [Monsaint (06-2017)](https://docs.google.com/document/d/1-voPHOXaS4x7YYWFxNX4nRtIk_zpDdwGmKubrmXx-Rk) // No parcial
 - [Tatsy (08-2017)](https://docs.google.com/document/d/1q0nP2koMy8q2WvYmaLLTt5D6jh057DkA7Kc4YjBJDng)
 - [Hitbug (05-08-2016)](https://docs.google.com/document/d/1TngwZCctCp4qKsdw89HLUc_GLSb6mxZ7_lJTTj3TOLM/edit?usp=sharing) 
     - [Soluciones posibles](https://docs.google.com/document/d/1_ftxB1gTeNkN1qN_EMEIaF0vgtLkcH1SHwk-XA5_S1s)
