@@ -19,9 +19,9 @@ En esta oportunidad hablaremos sobre la persistencia y tocaremos los siguientes 
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/-Mo2I7Lf_FJIQbOS2GeBZekAMYHfX6a80HBKqPUIzhxArGaQEpO853Wr_9cBmdhm?startTime=1598047628000)
 - [Presentación utilizada](https://docs.google.com/presentation/d/1RwCtcTtJNCmiSpORiNeDvrtKN2p3wd6aNbRrH0sF-QI/edit?usp=sharing)
 - [Consultas de ejemplo SQL (poner la opción de abrir en diagrams.net)](https://drive.google.com/file/d/1kfHXXyfUDmSLJdk-Wdw_7ilCRdB1wgKb/view?usp=sharing)
+- [Código de ejemplo de conexión JDBC](https://gist.github.com/flbulgarelli/f2219952bcacb33ea35a71a4e5478399)
 
 ## Apuntes
 
