@@ -14,6 +14,8 @@ En esta oportunidad comenzamos a modelar datos
 - Ensayamos soluciones con diferentes grados de normalizacion y denormalización
 - Mostramos un ejemplo de mapeo objetos-relacional utilizando JDBC puro e intuimos los problemas de trabajar de esta forma
 - Vimos que existen alternativas de más alto nivel, como los ORMs
+- Vimos qué son JPA y Hibernate
+- Vimos como conectarnos a una Base de Datos
 
 ## Material
 
@@ -34,4 +36,4 @@ En esta oportunidad comenzamos a modelar datos
   - [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn).
   - [Apunte: Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
   - [ORM](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit): secciones 1 - 4
-- Leer con detenimiento el código visto en esta clase, siguiendo [esta hoja de ruta](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md).
+- Leer con detenimiento el código visto en esta clase, siguiendo [esta hoja de ruta](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md). NOTA: Se recomienda leer mirar brevemente antes la [versión sin mapeos](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-sin-mapeos)

@@ -9,20 +9,22 @@ permalink: /bitacoras/2021/viernes-n/clase-13/
 
 ## Resumen
 
-En esta oportunidad comenzamos a conectarnos con un RDBM utilizando un ORM:
+En esta oportunidad estudiamos con más detalle cómo conectarnos con un RDBM utilizando un ORM:
 
-- Vimos qué son JPA y Hibernate
-- Vimos como conectarnos a una Base de Datos
+- Repasamos lo visto sobre JDBC, JPA y Hibernate
 - Aprendimos el Cliclo de vida de Objetos
 - Hablamos de Convenciones y Configuraciones
-- Aprendimos como agregar annotations a nuestro modelo para mapearlo a un modelo de datos
+- Aprendimos como agregar anotaciones a nuestro modelo para mapearlo a un modelo de datos
 - Aprendimos cómo persistir objetos y realizar tests sobre ellos
 - Conversamos sobre cambios al modelo de objetos devenidos del mapeo relacional
 
-**El paso a paso de la clase se encuentra [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md)** y [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
-
+## Materiales
 
 - [Código utilizado](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol)
+- Paso a paso:
+   - [Mapeos básicos](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md)
+   - [Colecciones](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
+
 
 ## Para la próxima clase
 
