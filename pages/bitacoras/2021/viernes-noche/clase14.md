@@ -16,7 +16,6 @@ En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnolog
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/play/7dICBtP0Dl6laDSU9o4Y71mAKpkm-Exj2TCMtiKcfJrLC4e2M8VWCcg0TTUjVudA-W0eOv6oc-jBzUCZ.DvF-_f3M2uy2IRaI)
 - [Presentación](https://docs.google.com/presentation/d/1v7fZvU_-kKjSHXKQBXhQpwsq0Taizm6TgWSTSRwrdzE/edit)
 - Código utilizado:
   - https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia-sin-mapeos

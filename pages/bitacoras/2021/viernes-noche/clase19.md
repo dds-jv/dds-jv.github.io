@@ -17,7 +17,6 @@ Por último, dejaremos un video sobre la temática de **usabilidad y experiencia
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/oQYFaJWDsTgzesKVe2D8qqKIxZFGccZzLdWRj1E2t3inz_xHOnDmrrZ-xB4Rwkfw.eHvBQvF69cjhVHJW?startTime=1604095848000)
 - [Presentación](https://docs.google.com/presentation/d/1Qx4h2-mt9WQU_2bTQBHb9T1oBqVJNir7nQ1kUD-Eqoo/edit)
 - [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
 - [Documentación de Spark](http://sparkjava.com/documentation)
@@ -30,5 +29,3 @@ Por último, dejaremos un video sobre la temática de **usabilidad y experiencia
 - [Display](https://www.w3schools.com/css/css_display_visibility.asp)
 - [Flexbox](https://flexbox.io/): Videos introductorios sobre flexbox (los primeros 8 videos son los más importantes)
 - [Práctica Flexbox](https://flexboxfroggy.com/#es)
-
-

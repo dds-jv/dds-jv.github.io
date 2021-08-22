@@ -21,7 +21,6 @@ Para introducir estos conceptos vamos a estar resolviendo los ejercicio *Rekomen
 
 # Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/lWwrjVOyScHNCQnqsM3xmUIPBg-OdOA4vzZmAVgbZ-NcmdORXowk9I0_ewGJQtfF.7vtKyLsOTFzRmFBj?startTime=1604700084000)
 - [Presentación de la clase](https://docs.google.com/presentation/d/1dFweT7Jg4CwG2pwUuzsPiopA1p-bkVX9QlwkCySuizU/edit)
 - [Arquitecturas Concurrentes, Episodio 1: El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
 - [Comunicación de decisiones arquitectónicas]({{site.baseurl}}/attachments/ComunicandoDecisionesArquitectonicas.pdf)
