@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Clase 16
+title: Clase 13
 description: Jueves (Mañana, 2021)
-permalink: /bitacoras/2021/jueves-m/clase-16/
+permalink: /bitacoras/2021/jueves-m/clase-13/
 ---
 
 **¡Bienvenidos nuevamente a diseño en pantuflas!**
 
-Hoy vamos a poner en práctica la mayoría de los conceptos teóricos de ORM que aprendimos la clase pasada.
+Hoy vamos a hablar de ORM, esa técnica que nos sirve para comunicar nuestro mundo de objetos con el mundo relacional. En particular vamos a ver un framework muy completo que implementa esta técnica.
 
 ## Resumen
 
@@ -27,8 +27,8 @@ Además vamos a hablar del _ciclo de vida de un objeto_ y temas relacionados a _
 
 - [Proyecto base de JPA](https://github.com/dds-utn/jpa-proof-of-concept-template)
 - [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn)
-- [Presentación utilizada](https://docs.google.com/presentation/d/16cIQVvOKDMy1Qe_0yfb7RqmTu33nsfRwZRnxENOvXWg/edit?usp=drive_web&ouid=105127262669791671578)
-- [Video de la clase](https://www.youtube.com/watch?v=L_xbklUy4aw&list=PL7cuUUqxhfsNt7ycizHgksigXDesa_IGl&index=11)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1kvOEwZ0oZn2i9yN7GbC8bVw30JM5qw_KC18Vw5yAan0/edit#slide=id.p)
+- [Video de la clase]()
 
 ## Apuntes
 

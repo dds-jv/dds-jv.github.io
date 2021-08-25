@@ -1,17 +1,22 @@
 ---
 layout: page
-title: Clase 12
+title: Clase 10
 description: Jueves (Mañana, 2021)
-permalink: /bitacoras/2021/jueves-m/clase-12/
+permalink: /bitacoras/2021/jueves-m/clase-10/
 ---
 
-**Onceava clase de Diseño de Sistemas en pantuflas!!**
+*Decima clase de Diseño de Sistemas en pantuflas!!*
 
 ## Resumen
 
-Hicimos un repaso de las responsabilidades que tiene la vista y que partes tiene la presentación.
+Vimos dos patrones que nos pueden ayudar en nuestro modelado.
 
-Vimos ejemplos de como se crean aplicaciones con interfaz gráfica en Java. Vimos que según los frameworks que utilizábamos la forma de comunicar el modelo con la vista puede variar.
+* El [patrón State](https://docs.google.com/document/d/1RnmKXlQ5tdIasBmFiYFOOe8_JZMSetaT1APLLE9NGIE/edit#heading=h.xuj11ffam8am) que nos sirve para cosificar un estado que va cambiando con el tiempo y su comportamiento varia.
+* El [patrón Composite](https://docs.google.com/document/d/1RqEERDOr2ZVNGUKkMVrnbgu0jT12mc4cB_t0Tg3tAeM/edit) que nos sirve para cosificar un árbol, donde vamos a tratar los nodos finales e intermedios de manera polimorfica.
+
+Además vimos las responsabilidades que tiene la vista y que partes tiene la presentación.
+
+Vimos ejemplos de como se crean aplicaciones con interfaz gráfica de escritorio en Java. Vimos que según los frameworks que utilizábamos cambia la forma de comunicar el modelo con la vista puede variar.
 
 El [ejemplo en Swing](https://github.com/uqbar-project/eg-conversor-arena-java/tree/master/src/main/java/org/uqbar/arena/examples/conversor/swing) donde nos comunicabamos directamente con los componentes de vista para obtener los valores y luego interactuar con el dominio. Y el [ejemplo de Arena](https://github.com/uqbar-project/eg-conversor-arena-java/blob/master/src/main/java/org/uqbar/arena/examples/conversor/ConversorWindow.java) donde el framework es el encargado mediante el binding de asociar los valores de la vista con los del modelo.
 
@@ -21,8 +26,8 @@ Hablamos también de MVVM (Model-View-ViewModel) donde la responsabilidad del co
 
 ## Material utilizado
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/vPJ7BvbNqHlJfK-T-V7HWZ59Brr9aaa80ycZ_aBcz0uf6FIwxtNTHgY4hB6GOLa9?startTime=1593691636000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1tLPWq7Jq4DcqacM9rAZAkMZLxubRvxA3VHY7ewfuOGk/edit#slide=id.g8b03c295a0_0_220)
+- [Video de la clase](https://youtu.be/wMnrDTa_PbE)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1JeV5LwUXoV4b66fNdJ2NU7Vb8MrljDoLoAf9T8Ubdd8)
 
 ### Complementario
 - [Arena, un framework "MVVM"](https://sites.google.com/site/programacionui/temario/02-disenio-UI/arena-disclaimer)

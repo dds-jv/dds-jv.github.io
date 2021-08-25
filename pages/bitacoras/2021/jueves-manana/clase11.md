@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 14
+title: Clase 11
 description: Jueves (Mañana, 2021)
-permalink: /bitacoras/2021/jueves-m/clase-14/
+permalink: /bitacoras/2021/jueves-m/clase-11/
 ---
 
 **¡Luego del parcial, seguimos en pantuflas!**
@@ -21,8 +21,8 @@ En esta oportunidad hablaremos sobre la persistencia y tocaremos los siguientes 
 
 ## Material
 
-- [Video de la clase](https://us02web.zoom.us/rec/share/wvR-JaOt2H9ITLfAsB3eZ6FxO6XVeaa82icc-PtYxUo2-ju7AQp3HPGpWm5M9Fg3?startTime=1597925803000)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1oChJnB3Dk_KtITJDE3XRU5IAfbokszU42KEhGkUMBTI/edit)
+- [Video de la clase](https://youtu.be/WLqkIG2yplE)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1b5xieKBabIvpR4vrByJ0Gt7OQDtrXyXWw0raUB3dZ-E/edit?usp=sharing)
 
 ## Apuntes
 

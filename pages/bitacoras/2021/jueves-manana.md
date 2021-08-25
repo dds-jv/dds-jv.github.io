@@ -18,14 +18,13 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 7: Cosificar comportamiento (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-07)
 - [Clase 8: Eventos y Notificaciones - Observer (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-08) 
 - [Clase 9: Patrones de comunicación (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-09) 
+- [Clase 10: Interfaz de usuario Desktop - Patrón Arquitectural MVC]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-10)
+- [Clase 11: Modelado de datos(online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-11) 
+- [Clase 12: Modelado de datos[Práctica - Normalización](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-12) 
+- [Clase 13: ORM[Mapeos básicos](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-13) 
 
 <!--
 - [Clase 11: Metodologías ágiles y repaso (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-11) 
-- [Clase 12: Interfaz gráfica Desktop (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-12) 
-- [Clase 13: Cosificar estado y otros patrones(online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-13) 
-- [Clase 14: Modelado de datos(online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-14) 
-- [Clase 15: Modelado de datos[Práctica - Normalización](online) - ORM[Mapeos básicos](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-15) 
-- [Clase 16: ORM[Mapeos básicos](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-16) 
 - [Clase 17: ORM[Herencia. Enumeraciones. Orden en las colecciones](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-17) 
 - [Clase 18: ORM[Value Object] - Práctica parcial(online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-18) 
 - [Clase 19: Arquitectura web[HTTP + Diseño de rutas](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-19) 
