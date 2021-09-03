@@ -20,6 +20,7 @@ En esta oportunidad estudiamos con más detalle cómo conectarnos con un RDBM ut
 
 ## Materiales
 
+- [Presentación](https://docs.google.com/presentation/d/1dfOoL63ZSaUGCPCGBaUOOhcDEqICEdVo-7h6Y9ZT0To/edit#slide=id.g35f391192_00)
 - [Código utilizado](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol)
 - Paso a paso:
    - [Mapeos básicos](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md)
