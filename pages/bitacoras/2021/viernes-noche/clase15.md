@@ -20,3 +20,8 @@ En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnolog
 - Código en clase: 
   - [Embebibles, primera iteración](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/localizacion)
   - [Embebibles, segunda iteración](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/localizacion-extendido) 
+
+## Para las próximas clases
+
+* Liberaremos el enunciado del TPI4: Juego de Tronos
+* Liberamos el enunciado del TPA4 
