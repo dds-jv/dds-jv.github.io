@@ -22,13 +22,13 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 11: Modelado de datos(online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-11) 
 - [Clase 12: Modelado de datos[Práctica - Normalización](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-12) 
 - [Clase 13: ORM[Mapeos básicos](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-13) 
+- [Clase 14: ORM[Herencia. Enumeraciones](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-14) 
+- [Clase 15: ORM[Value Object. Orden en las listas] - Práctica parcial(online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-15)
+- [Clase 16: Arquitectura web[HTTP + Diseño de rutas](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-16) 
+- [Clase 17: Arquitectura web[API REST JSON. HTML + CSS + Spark]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-17) 
 
 <!--
 - [Clase 11: Metodologías ágiles y repaso (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-11) 
-- [Clase 17: ORM[Herencia. Enumeraciones. Orden en las colecciones](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-17) 
-- [Clase 18: ORM[Value Object] - Práctica parcial(online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-18) 
-- [Clase 19: Arquitectura web[HTTP + Diseño de rutas](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-19) 
-- [Clase 20: Arquitectura web[API REST JSON. HTML + CSS + Spark]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-20) 
 - [Clase 21: Arquitectura web[Formularios. Cookies. Session]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-21) 
 - [Clase 22: Introducción a la arquitectura y su documentación]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-22) 
 - [Clase 23: Integración de sistemas y componentes arquitecturales]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-23) 

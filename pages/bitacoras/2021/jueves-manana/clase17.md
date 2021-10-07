@@ -11,12 +11,12 @@ Luego de descubrir temas relacionados a la Arquitectura Web, vamos a profundizar
 
 ## Resumen
 
-En esta clase presentamos [Spark](http://sparkjava.com/), un framework muy liviano para exponer nuestra aplicación via HTTP.
+En esta clase iremos en profundidad en la definición de endpoints HTTP + presentamos [Spark](http://sparkjava.com/), un framework muy liviano para exponer nuestra aplicación via HTTP.
 
 ## Material
 
-- [Video de la clase](https://youtu.be/ooxLlYnZYt8)
-- [Presentación](https://docs.google.com/presentation/d/1IO7R3pb3bzc4YWotvw2f3_gDsC_6ZPTFF5smuSvuil4/edit?usp=sharing)
+- [Video de la clase]()
+- [Presentación](https://docs.google.com/presentation/d/11M2PMeCoLOwde20E0PFVfCz-cWZvPHX25SQAystvbIY/edit?usp=sharing)
 - Ejercicio en clase
   - [Branch base](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon)
   - [Branch generando HTML en el controller](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-step-1)
@@ -34,9 +34,16 @@ En esta clase presentamos [Spark](http://sparkjava.com/), un framework muy livia
     - [CSS display](https://www.w3schools.com/css/css_display_visibility.asp)
     - [Videos introductorios](https://flexbox.io/)
     - [Práctica flexbox](https://flexboxfroggy.com/#es)
-  - [CSS Framework](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+  - [CSS Framework](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
 ## Apuntes
 
-- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0): **obligatorio** para leer si no lo leíste ya
+- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0)
 - [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para profundizar sobre HTTP si no lo hiciste ya.
+
+
+## Tecnologías para contenido estático
+
+* [Jekyll](https://jekyllrb.com/) (el que usamos para el sitio de la materia) esto pertenece a un stack llamado [Jamstack](https://jamstack.org/)
+* [Python server](https://www.hackerearth.com/practice/notes/simple-http-server-in-python/#:~:text=Python%20comes%20with%20a%20built,system%20into%20a%20web%20server.)
+

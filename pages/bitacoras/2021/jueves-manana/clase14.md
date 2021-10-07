@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 17
+title: Clase 14
 description: Jueves (Mañana, 2021)
-permalink: /bitacoras/2021/jueves-m/clase-17/
+permalink: /bitacoras/2021/jueves-m/clase-14/
 ---
 
 **¡Bienvenidos nuevamente a diseño en pantuflas!**
@@ -23,22 +23,12 @@ Además vemos las alternativas que tenemos cuando nos enfrentamos a interfaces:
     - Si no tienen estado podriamos conventirlas en enum o en clase abstracta
     - Si tiene estado deberiamos convertirlas en clases abstractas
 
-Y finalmente veremos como mantener persistir el orden en las listas para poder obtener los objetos en el mismo orden que los teniamos que en objetos. `@OrderColumn(name = "nombreDeColumnaQueMantieneElOrden")`
-
 ## Material
 
-- [Presentación utilizada](https://docs.google.com/presentation/d/1GDwgLehXzBXVdi6vTNe4-T6IDMZ65gBMex5swtYIb_U)
-- [Video de la clase](https://www.youtube.com/watch?v=3qTAsOnNVmw&list=PL7cuUUqxhfsNt7ycizHgksigXDesa_IGl&index=12)
+- [Presentación utilizada](https://docs.google.com/presentation/d/14xaa6U5DOsKBPnenWADOILN9vt-mNMYTyR4VjHOTOQ8/edit?usp=sharing)
+- [Video de la clase](https://youtu.be/XHRUrw3DcC4)
 
 ## Apuntes
 
 - [Mapeo Objetos/Relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit)
 - [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn)
-
-## Para la próxima clase
-
-Analizar que pasa con el ejemplo de `Auto -> Posicion`
-
-![](https://www.planttext.com/api/plantuml/img/SoWkIImgAStDuU9ApaaiBbPmB2t9LwXMu580Wk2IeioyT8M2n9BKl99KhbgOce3yuipapFmyXMfaPJc99PabfIaeGlbvwM0ne5QmmRfsSCrSN0wfUIb0cm40)
-
-![](http://www.plantuml.com/plantuml/png/POx12i8m343l-Ogmez0_66DUl7Zn3wGqOGlKLjhq8DP_jsNA3hiaBoHvoPpL9YqF3x0ACJf9pZC0S53H5mxded50cv4xuHiGJoZKaZ4jF6CM9p7SXN0SBzTfWi--VFjrDy6_EaYyRUE5EiMmTEoIxM2j9icoggbrDy3CWThJNm00)
