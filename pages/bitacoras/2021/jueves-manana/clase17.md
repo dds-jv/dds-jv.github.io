@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 20
+title: Clase 17
 description: Jueves (Mañana, 2021)
-permalink: /bitacoras/2021/jueves-m/clase-20/
+permalink: /bitacoras/2021/jueves-m/clase-17/
 ---
 
 **¡Hola!**
