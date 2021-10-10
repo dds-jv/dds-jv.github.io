@@ -20,6 +20,7 @@ En esta clase presentamos los conceptos de arquitectura Web, HTTP y REST.
 
 ## Para la próxima clase
 
+- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
 - [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0): **obligatorio** para leer
 - [QMP Iteración 7](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t): **obligatorio** ejercicio
 - [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para seguir profundizando hasta donde puedan y quieran
