@@ -43,13 +43,18 @@ En esta clase iremos en profundidad en la definición de endpoints HTTP + presen
 
 ## Apuntes
 
-- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
 - [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0)
 - [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para profundizar sobre HTTP si no lo hiciste ya.
-
+- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
 
 ## Tecnologías para contenido estático
 
 * [Jekyll](https://jekyllrb.com/) (el que usamos para el sitio de la materia) esto pertenece a un stack llamado [Jamstack](https://jamstack.org/)
 * [Python server](https://www.hackerearth.com/practice/notes/simple-http-server-in-python/#:~:text=Python%20comes%20with%20a%20built,system%20into%20a%20web%20server.)
 
+## Para la clase siguiente
+
+- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
+- Proyecto sobre los cuales trabajaremos
+  - [Pokedex](https://github.com/dds-utn/spark-web-proof-of-concept/tree/bootstrap-css)
+  - [Consultoras Login](https://github.com/dds-utn/spark-web-proof-of-concept/tree/consultoras-login)
