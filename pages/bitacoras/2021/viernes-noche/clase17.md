@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 20
+title: Clase 17
 description: Viernes (Noche, 2021)
-permalink: /bitacoras/2021/viernes-n/clase-20/
+permalink: /bitacoras/2021/viernes-n/clase-17/
 ---
 
 
