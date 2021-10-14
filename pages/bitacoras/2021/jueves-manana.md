@@ -26,6 +26,8 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 15: ORM[Value Object. Orden en las listas] - Práctica parcial(online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-15)
 - [Clase 16: Arquitectura web[HTTP + Diseño de rutas](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-16) 
 - [Clase 17: Arquitectura web[API REST JSON. HTML + CSS + Spark]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-17) 
+- [Clase 18: Arquitectura web[Rutas REST + Templates + Cookies]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-18) 
+
 
 <!--
 - [Clase 11: Metodologías ágiles y repaso (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-11) 
