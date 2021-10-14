@@ -15,7 +15,7 @@ En esta clase iremos en profundidad en la definición de endpoints HTTP + presen
 
 ## Material
 
-- [Video de la clase]()
+- [Video de la clase](https://www.youtube.com/watch?v=Wt5pAmyHvUo)
 - [Presentación](https://docs.google.com/presentation/d/11M2PMeCoLOwde20E0PFVfCz-cWZvPHX25SQAystvbIY/edit?usp=sharing)
 - Ejercicio en clase
   - [Branch base](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon)

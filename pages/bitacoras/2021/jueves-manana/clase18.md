@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 21
+title: Clase 18
 description: Jueves (Mañana, 2021)
-permalink: /bitacoras/2021/jueves-m/clase-21/
+permalink: /bitacoras/2021/jueves-m/clase-18/
 ---
 
 **¡Hola!**
@@ -12,6 +12,7 @@ Ya con algo de práctica y conocimiento previo acerca de la __Arquitectura Web__
 ## Resumen
 
 Hoy vimos como:
+    - Como plantear URLs siguiendo las convenciones de REST
     - Hacer un filtro en base a un formulario y enviar la información ingresada al servidor.
     - Enviar información al servidor para luego ser guardada
     - Reutilizar parte de los templates
@@ -20,9 +21,14 @@ Hoy vimos como:
 
 ## Material
 
-- [Video de la clase](https://youtu.be/gCDOuhyVrWw)
+- [Video de la clase]()
 - [Proyecto pokémon con búsqueda en el controller](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-step-search)
-- [Proyecto consultoras con persistencia](https://github.com/dds-utn/spark-web-proof-of-concept/tree/consultoras-con-persistencia)
+- [Proyecto pokémon con layout](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-layout)
+- [Proyecto pokémon con login con cookies simple](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-session)
+- [Proyecto pokémon con login con session](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-session)
+
+## Apuntes
+- [APIs y servicios web](https://docs.google.com/document/d/1Zn0caIulROTp471uIPuQ7SnszMwzaEQSoWmDP8UsmPM/edit#heading=h.p1y6axz6zmcn)
 
 ## Tecnologías
 
