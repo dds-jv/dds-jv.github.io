@@ -17,7 +17,6 @@ Hoy vimos como:
     - Enviar información al servidor para luego ser guardada
     - Reutilizar parte de los templates
     - Mantener estado del lado del cliente usando cookies
-    - Mantener estado del lado del servidor usando el concepto de sesión (session)
 
 ## Material
 
@@ -34,8 +33,6 @@ Hoy vimos como:
 - [Handlebars - Partials (versión JS, pero los conceptos aplican)](https://handlebarsjs.com/guide/partials.html)
 - Spark
   - [Cookies](https://sparkjava.com/documentation#cookies)
-  - [Filtros](https://sparkjava.com/documentation#filters)
-  - [Sessions](https://sparkjava.com/documentation#sessions)
 
 ## Apuntes
 
