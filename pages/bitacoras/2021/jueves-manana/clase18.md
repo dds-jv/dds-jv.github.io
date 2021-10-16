@@ -24,8 +24,7 @@ Hoy vimos como:
 - [Video de la clase]()
 - [Proyecto pokémon con búsqueda en el controller](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-step-search)
 - [Proyecto pokémon con layout](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-layout)
-- [Proyecto pokémon con login con cookies simple](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-session)
-- [Proyecto pokémon con login con session](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-session)
+- [Proyecto pokémon con login con cookies simple](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-cookies)
 
 ## Apuntes
 - [APIs y servicios web](https://docs.google.com/document/d/1Zn0caIulROTp471uIPuQ7SnszMwzaEQSoWmDP8UsmPM/edit#heading=h.p1y6axz6zmcn)
