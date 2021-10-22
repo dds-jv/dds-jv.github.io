@@ -27,6 +27,7 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 16: Arquitectura web[HTTP + Diseño de rutas](online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-16) 
 - [Clase 17: Arquitectura web[API REST JSON. HTML + CSS + Spark]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-17) 
 - [Clase 18: Arquitectura web[Rutas REST + Templates + Cookies]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-18) 
+- [Clase 19: Arquitectura web[Session + Filtros + Persistencia]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-19) 
 
 
 <!--

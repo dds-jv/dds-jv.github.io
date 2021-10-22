@@ -1,0 +1,34 @@
+---
+layout: page
+title: Clase 19
+description: Jueves (Mañana, 2021)
+permalink: /bitacoras/2021/jueves-m/clase-19/
+---
+
+**¡Hola!**
+
+## Resumen
+
+Hoy vimos como:
+    - Mantener estado del lado del servidor usando la session
+    - Hacer cosas antes/después de todas las requests o sobre un subconjunto usando filtros
+    - Manejar las transacciones en una petición web
+    - No duplicar lógica de transformación usando filtros
+
+## Material
+
+- [Video de la clase]()
+- [Presentación](https://docs.google.com/presentation/d/1rVEIF5BbFc7I_JluHm0xy4zCylhJtwwEC34-XGTj4d0/edit?usp=sharing)
+
+## Apuntes
+
+## Tecnologías
+
+- Spark
+  - [Sessions](https://sparkjava.com/documentation#sessions)
+
+
+## Para la próxima clase
+
+- [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
+- [Seminario de UI](https://drive.google.com/drive/folders/1cV8NP-SkO3FL2oaqskgYZhuU3kJ0ZUi7)
