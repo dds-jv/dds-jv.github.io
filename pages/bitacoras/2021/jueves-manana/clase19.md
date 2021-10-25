@@ -34,3 +34,5 @@ Hoy vimos como:
 - [Seminario de UI](https://drive.google.com/drive/folders/1cV8NP-SkO3FL2oaqskgYZhuU3kJ0ZUi7)
 
 - [Arquitecturas Concurrentes, Episodio 1: El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
+- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing)
+  - Ejercicio EntregaYaYaYa, MicroPC IDE, Rekomendashi
