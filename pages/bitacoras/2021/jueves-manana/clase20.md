@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Clase 22
+title: Clase 20
 description: Jueves (Mañana, 2021)
-permalink: /bitacoras/2021/jueves-m/clase-22/
+permalink: /bitacoras/2021/jueves-m/clase-20/
 ---
 
 ### ¡Hola! Bienvenidos a diseño en pantuflas
@@ -25,8 +25,8 @@ Además veremos como resolver problemas de escalabilidad.
 
 ## Material
 
-- [Video de la clase](https://youtu.be/HpXeReqyicM)
-- [Presentación utilizada](https://docs.google.com/presentation/d/1tMbPTemM-qKagqP7_jspJHglEIb0nVib75iui5pbjAM/edit)
+- [Video de la clase]()
+- [Presentación utilizada]()
 
 ## Apuntes
 

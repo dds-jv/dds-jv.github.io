@@ -32,3 +32,5 @@ Hoy vimos como:
 
 - [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
 - [Seminario de UI](https://drive.google.com/drive/folders/1cV8NP-SkO3FL2oaqskgYZhuU3kJ0ZUi7)
+
+- [Arquitecturas Concurrentes, Episodio 1: El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
