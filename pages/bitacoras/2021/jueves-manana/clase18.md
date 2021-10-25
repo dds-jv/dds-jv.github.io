@@ -20,7 +20,7 @@ Hoy vimos como:
 
 ## Material
 
-- [Video de la clase]()
+- [Video de la clase](https://www.youtube.com/watch?v=AfQg16zBWwA)
 - [Proyecto pokémon con búsqueda en el controller](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-step-search)
 - [Proyecto pokémon con layout](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-layout)
 - [Proyecto pokémon con login con cookies simple](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-cookies)

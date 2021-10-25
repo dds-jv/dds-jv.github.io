@@ -17,7 +17,7 @@ Hoy vimos como:
 
 ## Material
 
-- [Video de la clase]()
+- [Video de la clase](https://www.youtube.com/watch?v=fMoELwhGsRw)
 - [Presentación](https://docs.google.com/presentation/d/1rVEIF5BbFc7I_JluHm0xy4zCylhJtwwEC34-XGTj4d0/edit?usp=sharing)
 
 ## Apuntes
