@@ -5,6 +5,7 @@ description: Algunos Enunciados
 permalink: /enunciados/parte-b
 ---
 
+- [2 canciones (2020)](https://docs.google.com/document/d/1DGIFDVIsxbbpffSTyDEaR2m37GF4XSbDoXrUKoctvs4/edit)
 - [Ginpass (1-11-2019)](https://docs.google.com/document/d/18uB4Bb5qnfsrvH3I6sDWCF6LxlBvY7mHkFkTBrRdOG4/edit?usp=sharing)
 - [Que Me Pongo (2-11-2018)](https://docs.google.com/document/d/15ifQWQqfzbwwHIiiuoZiE4eyhd_DpmaQ5OGPvD9x2Wc/edit#heading=h.uyku9mnteh0t)
   - [Soluciones corregidas](https://drive.google.com/drive/folders/17mAYXrJSJBGmrLzUPF6ygpWkwm0ELTuV)

@@ -36,5 +36,4 @@ Hoy en nuestra última clase teórica del año vamos a cerrar el tema de arquite
 
 _Créditos a Juan Zaffaroni:_
 
-- [NoSQL: Documental y Clave-Valor](https://drive.google.com/file/d/0B27PgUCCYOICWmhRX3RHdWtGUk0/view)
-- [NoSQL: Teorema CAP](https://drive.google.com/file/d/0B27PgUCCYOICWmhRX3RHdWtGUk0/view)
+- [NoSQL: Intro a NoSQL](https://drive.google.com/file/d/0B27PgUCCYOICWmhRX3RHdWtGUk0/view)

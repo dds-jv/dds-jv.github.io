@@ -28,11 +28,6 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 17: Arquitectura web[API REST JSON. HTML + CSS + Spark]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-17) 
 - [Clase 18: Arquitectura web[Rutas REST + Templates + Cookies]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-18) 
 - [Clase 19: Arquitectura web[Session + Filtros + Persistencia]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-19) 
-
-
-<!--
-- [Clase 11: Metodologías ágiles y repaso (online)]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-11) 
-- [Clase 21: Arquitectura web[Formularios. Cookies. Session]]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-21) 
-- [Clase 22: Introducción a la arquitectura y su documentación]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-22) 
-- [Clase 23: Integración de sistemas y componentes arquitecturales]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-23) 
--->
+- [Clase 20: Introducción a la arquitectura y su documentación]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-20) 
+- [Clase 21: Integración de sistemas y componentes arquitecturales]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-21) 
+- [Clase 22: Simulacro segundo parcial]({{site.baseurl}}/bitacoras/2021/jueves-m/clase-22)
