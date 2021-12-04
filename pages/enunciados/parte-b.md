@@ -6,7 +6,7 @@ permalink: /enunciados/parte-b
 ---
 
 
-- [SwordGo](https://docs.google.com/document/d/1ySg2AAbg6wHGIqfPlwbKgEphnpbi9HVbgOJrMo3qI9s/edit)
+- [SwordGo (2021)](https://docs.google.com/document/d/1ySg2AAbg6wHGIqfPlwbKgEphnpbi9HVbgOJrMo3qI9s/edit)
    - [Errores comunes y decisiones importantes](https://docs.google.com/document/d/10uEstaNVua88KKaUKln1tMxsArbKjfj_SKlmO6ck5mI/edit#heading=h.u09tqd6lh5s1) 
 - [2 canciones (2020)](https://docs.google.com/document/d/1DGIFDVIsxbbpffSTyDEaR2m37GF4XSbDoXrUKoctvs4/edit)
    - [Errores comunes y decisiones importantes](https://docs.google.com/document/d/1UPKkmlSrUfjJbzOGYIPq6FY8cu59GNEUXLF-pjrW3I8/edit#heading=h.9i7zegyrmflq) 
