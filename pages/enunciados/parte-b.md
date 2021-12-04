@@ -5,7 +5,11 @@ description: Algunos Enunciados
 permalink: /enunciados/parte-b
 ---
 
+
+- [SwordGo](https://docs.google.com/document/d/1ySg2AAbg6wHGIqfPlwbKgEphnpbi9HVbgOJrMo3qI9s/edit)
+   - [Errores comunes y decisiones importantes](https://docs.google.com/document/d/10uEstaNVua88KKaUKln1tMxsArbKjfj_SKlmO6ck5mI/edit#heading=h.u09tqd6lh5s1) 
 - [2 canciones (2020)](https://docs.google.com/document/d/1DGIFDVIsxbbpffSTyDEaR2m37GF4XSbDoXrUKoctvs4/edit)
+   - [Errores comunes y decisiones importantes](https://docs.google.com/document/d/1UPKkmlSrUfjJbzOGYIPq6FY8cu59GNEUXLF-pjrW3I8/edit#heading=h.9i7zegyrmflq) 
 - [Ginpass (1-11-2019)](https://docs.google.com/document/d/18uB4Bb5qnfsrvH3I6sDWCF6LxlBvY7mHkFkTBrRdOG4/edit?usp=sharing)
 - [Que Me Pongo (2-11-2018)](https://docs.google.com/document/d/15ifQWQqfzbwwHIiiuoZiE4eyhd_DpmaQ5OGPvD9x2Wc/edit#heading=h.uyku9mnteh0t)
   - [Soluciones corregidas](https://drive.google.com/drive/folders/17mAYXrJSJBGmrLzUPF6ygpWkwm0ELTuV)
