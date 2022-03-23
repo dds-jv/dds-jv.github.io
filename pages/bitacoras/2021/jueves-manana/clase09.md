@@ -41,7 +41,7 @@ Podés ver una **muy** interesante comparación de todos los patrones [acá](htt
 reproductor.registerOnStop(new StopHandler())
 
 RepoPelis>>pendientes()
-  this.pelis.fitler(peli => peli.estaPendiente())
+  this.pelis.filter(peli => peli.estaPendiente())
 
 
 Peli>>id
@@ -83,7 +83,7 @@ reproductor.registerOnFinish(new FinishHandler())
 
 
 RepoPelis>>pendientes()
-  this.pelis.fitler(peli => peli.estaPendiente())
+  this.pelis.filter(peli => peli.estaPendiente())
 
 
 Peli>>id
