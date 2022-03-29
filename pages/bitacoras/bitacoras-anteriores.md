@@ -4,6 +4,9 @@ title: Historial de bitácoras
 description: Bitácoras años anteriores
 permalink: /bitacoras/bitacoras-anteriores/
 ---
+## 2021
+- [Jueves mañana]({{site.baseurl}}/bitacoras/2021/jueves-m)
+- [Viernes noche]({{site.baseurl}}/bitacoras/2021/viernes-n)
 
 ## 2020
 - [Jueves mañana]({{site.baseurl}}/bitacoras/2020/jueves-m)
