@@ -16,13 +16,14 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 ## Quiénes Somos
 
 - Juan Zaffaroni
+- Santiago Lorenzo
+- Natán Szmedra
 - Gastón Prieto
 - Lucas Clauser
 - Matias Mendez Corridoni
-- Natán Szmedra
-- Santiago Lorenzo
 - Camila Margni
 - Martin Izraelski
+
 
 ## Resumen
 
@@ -45,8 +46,8 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 
 ## Material utilizado
 
-- [Presentación](https://docs.google.com/presentation/d/1YvhClVLqCHFVtnzAn2gP1MusakyXu4lVjh6HcZRwLA8/edit#slide=id.gced8bced9a_1_129)
-- [Video de la clase](https://youtu.be/3iXb0ZDXYoA)
+- [Presentación]()
+- [Video de la clase]()
 
 ## Apuntes sobre los temas vistos
 
@@ -66,10 +67,10 @@ Para consultas pueden usar el [foro de la materia](https://github.com/dds-jv/for
 - Apuntes a leer
   - [Manejo de errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit)
   - [Cualidades de diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
-  - [Formulario de seguimiento (Completar una vez leído)](https://docs.google.com/forms/d/1QfTuvAzCzHm4-b2K2s7S0zHsI3vYkVhxl8WmgE0DzIg/edit)
+  - [Formulario de seguimiento (Completar una vez leído)]()
 - Ejercitación para la clase que viene 
     - Pensar en las alternativas para el [ejercicio de Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU/edit) y plantear el diseño (diagrama de clases + pseudo código de objetos / wollok). 
-    - [Formulario de entrega ejercicio](https://docs.google.com/forms/d/1_nskgDmf_evyVorrkCnHrzKgS_YIP-0Ghh4dJAn3qC8/edit)
+    - [Formulario de entrega ejercicio]()
 
 Cualquier duda que tengas sobre lo que hay que hacer podes consultarlo por el foro en el apartado consultas generales
 
@@ -77,6 +78,6 @@ Cualquier duda que tengas sobre lo que hay que hacer podes consultarlo por el fo
 
 - Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ) para ir poniendote al día con el lenguaje.
   - ¡Lecciones de Java en Mumuki!
-    - Ir al [campus virtual](https://aulasvirtuales.frba.utn.edu.ar/course/view.php?id=2521) a buscar el link
+    - Ir al [campus virtual]() a buscar el link
 - Para la construcción del proyecto Java vamos a usar [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/)
 - Si aún no usaste GIT (aunque calculo que si en Paradigmas), es importante que [leas ésta introducción](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)

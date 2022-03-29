@@ -3,6 +3,7 @@ layout: page
 title: Clase 2
 description: Jueves (Mañana, 2022)
 permalink: /bitacoras/2022/jueves-m/clase-02/
+
 ---
 
 **¡Hola!**

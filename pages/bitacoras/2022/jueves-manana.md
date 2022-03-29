@@ -3,7 +3,7 @@ layout: page
 title: Jueves
 description: Turno Mañana - 2022
 permalink: /bitacoras/2022/jueves-m/
-frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQywdMcFtGRoXrfsVV56DWJ_h3o0pXB6oDPnaRGnRL5_hkIiTVoYi27WlItVoAbR4AsaMe4_TsFVDcR/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSxQ1wpifJMckY61pvjfJKRMqLb-pY-vR66IuHlA_Dpi3dUqXnbUE8_XvF8CSIy47k32JILawzQWFFi/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
 ---
 ## Clases
 

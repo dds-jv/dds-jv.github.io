@@ -32,3 +32,4 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 20: Introducción a la arquitectura y su documentación]({{site.baseurl}}/bitacoras/2022/viernes-n/clase-20)
 - [Clase 21: Integración de sistemas]({{site.baseurl}}/bitacoras/2022/viernes-n/clase-21)
 
+
