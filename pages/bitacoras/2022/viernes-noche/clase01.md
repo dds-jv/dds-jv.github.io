@@ -49,7 +49,7 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 
 # Material
 
-- [Presentación]()
+- [Presentación](https://docs.google.com/presentation/d/1Aa8h_upxAlwpPuJdlNfCFOH7Cg9b8FkE-fCekHLjY2I/edit)
 * [Introducción a Diseño de Sistemas](https://docs.google.com/document/d/1mqWuU_5p9l6GIfHXSjcoyDXILWTKq2eW2dLFlIBOQzk)
 * [Introducción al Desarrollo de Software](https://docs.google.com/document/d/1TZeWMdtMOKv7fESrFyJEJXWLTVutGVy_Gho9h5e1tRY/edit#heading=h.hegow82vrh7m)
 * [Introducción a Arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE)
@@ -58,7 +58,7 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 # Tarea
 
 * [¡Repasá Objetos!](https://www.pdep.com.ar/material/apuntes)
-    * En partircular, repasá [los mensajes de colecciones de Wollok](https://docs.google.com/document/d/1oJ-tyQJoBtJh0kFcsV9wSUpgpopjGtoyhJdPUdjFIJQ/edit) 
+    * En partircular, repasá [los mensajes de colecciones de Wollok](https://docs.google.com/document/d/1oJ-tyQJoBtJh0kFcsV9wSUpgpopjGtoyhJdPUdjFIJQ/edit)
 * Hacé el ejercicio de [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU)
 * Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ).
     * Y tené siempre a mano la [guía de colecciones de Java](https://docs.google.com/document/d/1Tn4hhyEwbAm1OBhqz2Yu2NIrY_AX2hArwUMEtZadtLk/edit#heading=h.84nijkpu6fvo)
@@ -69,4 +69,3 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 * Leé el apunte que explica como [Comunicar un diseño](https://docs.google.com/document/d/1eXLlNppAX-7E2M8Xxs0MCckdn4XVEYmeQNaS_E1RqTc/edit)
 * Leé el apunte que explica las [Cualidades de diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
 * Y leé el apunte sobre [Diseño de manejos de errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#heading=h.x500jbxzopra)
-
