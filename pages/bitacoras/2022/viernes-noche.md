@@ -3,7 +3,7 @@ layout: page
 title: Viernes
 description: Turno Noche - 2022
 permalink: /bitacoras/2022/viernes-n/
-frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRz7NrebGYqL3Eb3CpMlq70I0QymqqdPtj5YQOtPoMumKomJ6k9T_NQGX-Ze-uFUcsMM4995Yz-Vasm/pubhtml?gid=0&single=true"
+frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSa4F_v5WkSCRAYlIrPbudKJysH1lZ8sVPhb4rOnzhtXzO1JvTdw9QMejV-bpWSMlDk80MQAgtbdfzf/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
 ---
 
 ## Clases
@@ -31,5 +31,3 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 19: UI Web: Sesión y transacciones]({{site.baseurl}}/bitacoras/2022/viernes-n/clase-19)
 - [Clase 20: Introducción a la arquitectura y su documentación]({{site.baseurl}}/bitacoras/2022/viernes-n/clase-20)
 - [Clase 21: Integración de sistemas]({{site.baseurl}}/bitacoras/2022/viernes-n/clase-21)
-
-
