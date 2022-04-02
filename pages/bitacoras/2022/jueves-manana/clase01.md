@@ -46,8 +46,8 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 
 ## Material utilizado
 
-- [Presentación]()
-- [Video de la clase]()
+- [Presentación](https://docs.google.com/presentation/d/16A3yZbKPXJr9rA18pSGtsuR_2aje6QDb-zy1sifu4oA/edit?usp=sharing)
+- [Video de la clase - año pasado porque no se grabo bien](https://youtu.be/3iXb0ZDXYoA)
 
 ## Apuntes sobre los temas vistos
 
@@ -67,10 +67,10 @@ Para consultas pueden usar el [foro de la materia](https://github.com/dds-jv/for
 - Apuntes a leer
   - [Manejo de errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit)
   - [Cualidades de diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
-  - [Formulario de seguimiento (Completar una vez leído)]()
+  - [Formulario de seguimiento (Completar una vez leído)](https://docs.google.com/forms/d/e/1FAIpQLSdOKblzjgBiS0yxKcSePYURIGcS3nXnzCpFLghg7cE3IFFPAg/viewform)
 - Ejercitación para la clase que viene 
     - Pensar en las alternativas para el [ejercicio de Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU/edit) y plantear el diseño (diagrama de clases + pseudo código de objetos / wollok). 
-    - [Formulario de entrega ejercicio]()
+    - [Formulario de entrega ejercicio](https://docs.google.com/forms/d/e/1FAIpQLSf8Nhks2820A-9coU7MlQQpKLAWeZO-p6Yce0Af-x6ZxSfRaQ/viewform)
 
 Cualquier duda que tengas sobre lo que hay que hacer podes consultarlo por el foro en el apartado consultas generales
 
@@ -78,6 +78,6 @@ Cualquier duda que tengas sobre lo que hay que hacer podes consultarlo por el fo
 
 - Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ) para ir poniendote al día con el lenguaje.
   - ¡Lecciones de Java en Mumuki!
-    - Ir al [campus virtual]() a buscar el link
+    - Ir al [campus virtual]() a buscar el link (próximamente)
 - Para la construcción del proyecto Java vamos a usar [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/)
 - Si aún no usaste GIT (aunque calculo que si en Paradigmas), es importante que [leas ésta introducción](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)
