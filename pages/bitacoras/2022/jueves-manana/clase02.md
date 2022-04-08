@@ -19,8 +19,8 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 ## Material utilizado
 
-- [Video de la Clase](https://youtu.be/izr0L5bOGJc)
-- [Presentación](https://docs.google.com/presentation/d/1Qkh4fFirDCOzBPQmSYBu6qDaS2K2wI7DoqscYuxYfS4/edit?usp=sharing)
+- [Video de la Clase - Del año pasado](https://youtu.be/izr0L5bOGJc)
+- [Presentación]()
 
 ## Apuntes sobre los temas vistos
 
@@ -37,9 +37,9 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 - Realizar ejercicio: [¿Que me pongo? (primera iteración)](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
   - Enviar solución [acá](https://docs.google.com/forms/d/1uymYx-XJ9ku9WqQUtIFJC3cwXVFnzmR_YCTplmues30/viewform?edit_requested=true)
 
-## TPI - 29/04 fecha límite
+## TPI - fecha límite
 
-- [Tarea de classroom](https://classroom.github.com/a/X3ONTey6)
+- [Tarea de classroom]()
 
 ## Material Complementario
 
