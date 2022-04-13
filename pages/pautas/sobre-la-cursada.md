@@ -122,9 +122,9 @@ La respuesta breve es que sí, nos adherimos, a veces no yendo a clases, y otras
 
 ## ¿Cómo nos comunicamos?
 
-### Lista de correo
+### Aula virtual
 
-Es obligatorio inscribirse a la lista del curso: por allí se compartirá material, discusiones, anuncios, etc. Hacelo desde este [enlace](https://dds-jv.github.io/mailto:dds-jv-cursada@googlegroups.com). Vas a necesitar una cuenta de Google o compatible.
+Es obligatorio inscribirse al aula virtual de cada curso.
 
 
 ### Repositorios de la cátedra
@@ -136,5 +136,5 @@ El repositorio de la cátedra es https://github.com/dds-utn, ahí vas a encontra
 
 ¡Mirá siempre el seguimiento de las clases antes y después de cada una! Lo vas encontrar en las bitácoras:
 
-* [Jueves](https://dds-jv.github.io/bitacoras/2021/jueves-m/)
-* [Viernes](https://dds-jv.github.io/bitacoras/2021/viernes-n/)
+* [Jueves](https://dds-jv.github.io/bitacoras/2022/jueves-m/)
+* [Viernes](https://dds-jv.github.io/bitacoras/2022/viernes-n/)
