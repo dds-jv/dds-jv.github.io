@@ -20,7 +20,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 # Material
 
-- [Presentación](https://docs.google.com/presentation/d/1eCoC34ubxRJOyGLfl3-t8SuepfqXCHf3F2h68GGr2LE/edit#slide=id.g35f391192_00)
+- [Presentación](https://docs.google.com/presentation/d/1_RqovrnLXMbWp9VtVommoxWUiqcDXKJcIpPdSsPPoSs/edit?usp=sharing)
 - [Video de Template y Strategy](https://www.youtube.com/watch?v=NZRYknYXX90)
 - [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit)
 	- _Complementario: [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
@@ -31,11 +31,10 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 	* [Versión explicada](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
 	* [Pseudocódigo visto en clase](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
 	* [Video sobre patrones Strategy y Template Method](https://drive.google.com/file/d/11vgwTdXXujSuDQTDULVLtHEiRFuzPoik/view)
-
+	* [Explicación opciones visto el año anterior](https://drive.google.com/file/d/1uPhQOEmUAg7Vi0eRHtXWkDNPhIrLO5iv/view?usp=sharing) : tienen que entrar con el usuario de la facultad.
 
 # Tarea
 
-* [Patrones Creacionales](https://docs.google.com/document/d/1wuU7VVvf7B4zhBinlc0RGuJs5lHI5-ZD/edit#heading=h.gjdgxs)
 * [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
 * [Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
 
