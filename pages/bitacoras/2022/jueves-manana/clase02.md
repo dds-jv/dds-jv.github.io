@@ -20,7 +20,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 ## Material utilizado
 
 - [Video de la Clase - Del año pasado](https://youtu.be/izr0L5bOGJc)
-- [Presentación]()
+- [Presentación](https://docs.google.com/presentation/d/15WCyWiwq36u9xFT5XayipVzdQ_jGdM1QvcUUREucL3M/edit)
 
 ## Apuntes sobre los temas vistos
 
@@ -32,14 +32,15 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 - [Introducción a los patrones de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
 - Ver vídeo: [Patrones, Strategy y Template Method](https://youtu.be/NZRYknYXX90)
-- [Patrones creacionales](https://docs.google.com/document/d/1wuU7VVvf7B4zhBinlc0RGuJs5lHI5-ZD/edit#heading=h.gjdgxs)
-  - [Formulario para dudas](https://docs.google.com/forms/d/1UvYdokRU9jYNilEio53giorGg1-2QfeCAEh6Jzi0LyM/edit)
+- [Cuestionario dudas - clase 2](https://docs.google.com/forms/d/e/1FAIpQLSfl-vfcDx854tkAJyLHz_JtH4jAi05m6zX3ty3Hx9iVZ089mA/viewform)
+- [Cuestionario dudas - clase 3](https://docs.google.com/forms/d/e/1FAIpQLSc2TtjsIcHuSlDq0lLQ1bAIOyVvI_V_KOXV42tcwpHIowaaNA/viewform)
+
 - Realizar ejercicio: [¿Que me pongo? (primera iteración)](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
-  - Enviar solución [acá](https://docs.google.com/forms/d/1uymYx-XJ9ku9WqQUtIFJC3cwXVFnzmR_YCTplmues30/viewform?edit_requested=true)
+  - Enviar solución [acá](https://docs.google.com/forms/d/e/1FAIpQLScmSN6Fj8Fb-g_VQAVszmCRGFJhe3QIzoEO59QYD4xMlBg1FQ/viewform)
 
-## TPI - fecha límite
+## TPI - fecha límite: 24/4
 
-- [Tarea de classroom]()
+- [Tarea de classroom](https://classroom.github.com/classrooms/4492795-dds-2022-jueves)
 
 ## Material Complementario
 
