@@ -40,7 +40,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 ## TPI - fecha límite: 24/4
 
-- [Tarea de classroom](https://classroom.github.com/classrooms/4492795-dds-2022-jueves)
+- [Tarea de classroom](https://classroom.github.com/a/nOiCRDeV)
 
 ## Material Complementario
 
