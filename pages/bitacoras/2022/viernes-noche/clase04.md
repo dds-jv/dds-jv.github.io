@@ -14,7 +14,7 @@ permalink: /bitacoras/2022/viernes-n/clase-04/
 
 # Material
 
-- [Presentación](https://docs.google.com/presentation/d/1vj39I6emMqO_qR2NuTOnhO7S8_4VczkgPy9G0O2rBUk/edit#slide=id.g35f391192_00)
+- [Presentación](https://docs.google.com/presentation/d/17rXxYFpasUGowZKjE6kFY9sF5JWOOZKqI9sv0OTU5N8)
 - [Patrones creacionales](https://docs.google.com/document/d/1wuU7VVvf7B4zhBinlc0RGuJs5lHI5-ZD/edit#heading=h.gjdgxs)
 - [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
 - [Solución explicada a QMP Segunda Iteración](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM/edit)

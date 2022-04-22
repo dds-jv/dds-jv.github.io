@@ -13,7 +13,7 @@ permalink: /bitacoras/2022/viernes-n/clase-03/
 
 # Material
 
-- [Presentación](https://docs.google.com/presentation/d/1QVpZBLYKmqnJcf8JU7Z21I30QykcOHobbhXHKJIoAH0)
+- [Presentación](https://docs.google.com/presentation/d/1ZsUaR_OP3jL3ItAIPnVfNbvZYudy1iqy2BO6MvnJcQk)
 - [Introducción a patrones de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit?usp=sharing)
 - [Solución explicada a QMP Primera Iteración](https://docs.google.com/document/d/1ayrs5-vrGsXgZKDob-f5_0fmhCYXf7-ty5Be6NXITRY/edit#heading=h.uyku9mnteh0t)
   - [Pseudocódigo visto en clase](https://gist.github.com/flbulgarelli/15559d2468c8e5c713f9336a197b3216)
