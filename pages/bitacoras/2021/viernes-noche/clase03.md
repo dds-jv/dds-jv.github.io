@@ -23,4 +23,4 @@ permalink: /bitacoras/2021/viernes-n/clase-03/
 
 * [Ejercicio: Qué Me Pongo - Segunda Iteración](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y/edit#heading=h.uyku9mnteh0t)
 - [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
-- [Patrones creacionales](https://docs.google.com/document/d/1wuU7VVvf7B4zhBinlc0RGuJs5lHI5-ZD/edit#heading=h.gjdgxs)
+- [Patrones creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit?usp=sharing)

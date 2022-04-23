@@ -35,7 +35,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 # Tarea
 
-* [Patrones Creacionales](https://docs.google.com/document/d/1wuU7VVvf7B4zhBinlc0RGuJs5lHI5-ZD/edit#heading=h.gjdgxs)
+* [Patrones Creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit?usp=sharing)
 * [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
 * [Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
 
