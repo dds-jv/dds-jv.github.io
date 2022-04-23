@@ -31,8 +31,6 @@ Peor aún, el cumplimiento riguroso de una currícula obliga a que cualquier des
 
 El problema es que en una educación fragmentaria en la que la adquisición de conocimientos individuales, desprovistos de su dinamismo y relación natural, orientada a las evaluaciones antes que a los aprendizajes significativos, al depósito bancarizado de información antes que a la construcción de saberes cooperativos, y al cumplimiento de currículas modulares antes que a los recorridos enriquecedores, el aprendizaje del diseño de sistemas (como así cualquier actividad que involucre práctica, creatividad, discusión, pero también apropiación de contenidos disciplinares _duros_) siempre será trunco, y apenas una aproximación a lo que debe ser.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ny61lc2xiZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## ¿Y entonces? ¿Será muy pesada la cursada? ¿Se puede aprobar? ¿Puedo ya empezar a llorar?
 
 ¡No todo está perdido! Quizás estudiar bajo esta estructura no sea la forma ideal, pero definitivamente hay mucho que podemos y vamos a conocer durante la cursada. Eso sí, tendremos que aceptar (en el ínterin) y convivir con algunas realidades:
@@ -100,15 +98,6 @@ Sí.
 ## ¿Y qué hay sobre el lenguaje y el respeto?
 
 Desde el equipo docente creemos que no hay educación posible sin respeto entre todas las partes: todes (estudiantes y docentes) somos personas, y estamos acá para enseñar y aprender, pero también para pasar momentos disfrutables. Por eso es importante que siempre tengamos esto en cuenta, tanto para ofrecerlo como para exigirlo, y señalarlo si se quiebra.
-
-En particular, creemos que estamos atravesando un momento de doble responsabilidad compartida:
-
- * por un lado, la reivindicación de los derechos de las mujeres y el colectivo LGBT+ y el combate férreo a toda forma de discriminación, violencia o acoso, en general.
- * por el otro, la lucha contra la marcada brecha de género que existe en las carreras de informática y afines, en particular. Te dejamos este excelente [informe de la Fundación Sadosky](http://www.fundacionsadosky.org.ar/wp-content/uploads/2014/06/Informe-sobre-Genero-final.pdf).
-
-¡Cuidado! Nada de esto debe entenderse como una postura superada, no somos portaderes de una verdad, o nos posiciona fuera de una sociedad plagada de prácticas micro-prácticas machistas. Pero sí consideramos fundamental poner estas problemáticas sobre la mesa, abrirlas al debate, y esperar tanto de estudiantes como docentes, nuevamente, tanto su aceptación y exigencia.
-
-Ah, y por si lo notaste, acá hay una [nota muy recomendada del Gato y la Caja](https://elgatoylacaja.com.ar/la-lengua-degenerada/) sobre cómo el lenguaje impacta en la forma en que pensamos (y sí, también vale para el nombre de las abstracciones en el software).
 
 ## ¿Les docentes se adhieren a los paros?
 
