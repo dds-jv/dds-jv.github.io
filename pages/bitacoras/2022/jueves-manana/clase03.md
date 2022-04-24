@@ -9,15 +9,17 @@ permalink: /bitacoras/2022/jueves-m/clase-03/
 
 Hoy repasamos los que son los patrones de diseño y practicamos con la primera iteración de QueMePongo, discutimos muchas opciones para resolver esta iteración y entender a que tenemos que darle importancia.
 
-- [Video de la clase]()
-- [Presentación]()
+- [Video de la clase](https://youtu.be/PJ3GxNna0Sc)
+- [Presentación](https://drive.google.com/file/d/1RtN2zVFqqQ6Dcn2f8zzoaqPvIipiiMxu/view?usp=sharing)
+- [Material utilizado](https://drive.google.com/drive/folders/1kv4C3NWhWrbwPAldTZchzz3hbXyeDA15?usp=sharing)
 
 ## Resumen
 
 - Repasamos la idea de patrón de diseño y cuales vimos
-- Repasamos las cualidades de diseño y los conceptos asociados al manejo de errores
+- Repasamos las cualidades de diseño y como estan asociadas a los patrones
+- Practicamos decisiones de diseño para un ejercicio
 
-## Material
+## Material teorico
 
 - [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
   - _Complementario: [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
