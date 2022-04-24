@@ -31,7 +31,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 - [Introducción a los patrones de diseño](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
 - Ver vídeo: [Patrones, Strategy y Template Method](https://youtu.be/NZRYknYXX90)
-- [Patrones creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit?usp=sharing)
+- [Patrones creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit#)
   - [Formulario para dudas](https://docs.google.com/forms/d/1UvYdokRU9jYNilEio53giorGg1-2QfeCAEh6Jzi0LyM/edit)
 - Realizar ejercicio: [¿Que me pongo? (primera iteración)](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
   - Enviar solución [acá](https://docs.google.com/forms/d/1uymYx-XJ9ku9WqQUtIFJC3cwXVFnzmR_YCTplmues30/viewform?edit_requested=true)

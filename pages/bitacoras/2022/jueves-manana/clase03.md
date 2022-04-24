@@ -30,7 +30,7 @@ Hoy repasamos los que son los patrones de diseño y practicamos con la primera i
 
 - [Solución explicada a QMP Primera Iteración](https://docs.google.com/document/d/1ayrs5-vrGsXgZKDob-f5_0fmhCYXf7-ty5Be6NXITRY)
 - [Strategy ES](https://reactiveprogramming.io/blog/es/patrones-de-diseno/strategy)
-- [Patrones creacionales](https://docs.google.com/forms/d/e/1FAIpQLSd1rZe9dFpY6DeG9C2NvaapftmB66c9o8Z3Zp6OoRJgedjFvQ/viewform)
+- [Patrones creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit#)
 - [Ejercicio QueMePongo - Iteración 2](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y)
 
 ## Formularios de seguimiento

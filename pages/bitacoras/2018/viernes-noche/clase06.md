@@ -5,7 +5,7 @@ description: Viernes (Noche, 2018)
 permalink: /bitacoras/2018/viernes-n/clase-06/
 ---
 # Resumen
-En ésta clase vamos a continuar viendo los Patrones de Diseño, pero en particular un tipo de ellos: Los [_Creacionales_](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit?usp=sharing), que como bien nos indica su nombre, consisten en buenas prácticas a casos frecuentes de creación de instancias.
+En ésta clase vamos a continuar viendo los Patrones de Diseño, pero en particular un tipo de ellos: Los [_Creacionales_](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit#), que como bien nos indica su nombre, consisten en buenas prácticas a casos frecuentes de creación de instancias.
 También explicaremos porque decir _instanciación_ no es lo mismo que _configuración_.
   - Builder
   - [Singleton](https://sourcemaking.com/design_patterns/singleton)

@@ -20,7 +20,7 @@ permalink: /bitacoras/2022/jueves-m/clase-04/
 
 ## Material
 
-- [Patrones creacionales](https://docs.google.com/document/d/1wuU7VVvf7B4zhBinlc0RGuJs5lHI5-ZD)
+- [Patrones creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI)
   - _Complementario [Otro Apunte - Código en XTend](https://docs.google.com/document/d/1UhHVskJKyw7y28AsAASsCXtIodEiJ4coEOiw0QdlOTo/edit)_
 - [Ejercicio QueMePongo - Iteración 2](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y)
 - [Solución QueMePongo explicada - Iteración 2](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM)

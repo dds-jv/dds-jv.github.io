@@ -18,7 +18,7 @@ permalink: /apuntes/patrones/
   - [Sobre los Efectos en el Patrón Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
   
 - **Patrones Creacionales**
-  - [Patrones Creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit?usp=sharing)
+  - [Patrones Creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit#)
   - [Patrones Creacionales (en Java)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4)
   - [Ejemplos Creacionales de Clientes de una Tarjeta de Crédito y Firewall](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6NjQxMmVmYWQ0NzUwZTFmOA)
   - [Ejemplos Creacionales de Microprocesador](https://docs.google.com/document/d/1ILsxAvgZwPD4sTtB-rBq7wfJZf22e9G6qpllglAbT2g/edit)
