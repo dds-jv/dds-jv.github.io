@@ -12,7 +12,7 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 1: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacoras/2022/jueves-m/clase-01)
 - [Clase 2: Cualidades de Diseño y Manejo de Errores]({{site.baseurl}}/bitacoras/2022/jueves-m/clase-02)
 - [Clase 3: Patrones de diseño]({{site.baseurl}}/bitacoras/2022/jueves-m/clase-03) 
-- [Clase 4: Tiempo de Uso vs. Tiempo de Configuración. Patrones creacionales (sin actualizar)]({{site.baseurl}}/bitacoras/2022/jueves-m/clase-04)
+- [Clase 4: Tiempo de Uso vs. Tiempo de Configuración. Patrones creacionales]({{site.baseurl}}/bitacoras/2022/jueves-m/clase-04)
 - [Clase 5: Manejo del cambio - Dependencias vs Framework (sin actualizar)]({{site.baseurl}}/bitacoras/2022/jueves-m/clase-05) 
 - [Clase 6: Inyección de dependencia - Adaptación de interfaces - Testing[Impostores] (sin actualizar)]({{site.baseurl}}/bitacoras/2022/jueves-m/clase-06/)
 - [Clase 7: Cosificar comportamiento (online) (sin actualizar)]({{site.baseurl}}/bitacoras/2022/jueves-m/clase-07)
