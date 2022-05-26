@@ -9,7 +9,7 @@ permalink: /bitacoras/2022/jueves-m/clase-05/
 ## Material utilizado
 
 - [Video](https://youtu.be/iCW2TLQyc4I)
-- [Presentación](https://docs.google.com/presentation/d/17l3LSJA81DnRsrtMKi4SgtU4dNhuEIQtF9CH9F_8uSU/edit?usp=sharing)
+- [Presentación](https://docs.google.com/presentation/d/1mH5bBFV0LD6_RdL2vnkudEfd3VCRt94TgIg8-oOpCkA/edit?usp=sharing)
 
 ## Resumen
 
