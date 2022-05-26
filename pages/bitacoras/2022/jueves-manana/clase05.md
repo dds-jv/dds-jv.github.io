@@ -8,7 +8,7 @@ permalink: /bitacoras/2022/jueves-m/clase-05/
 
 ## Material utilizado
 
-- Video __Próximamente__
+- [Video](https://youtu.be/iCW2TLQyc4I)
 - [Presentación](https://docs.google.com/presentation/d/17l3LSJA81DnRsrtMKi4SgtU4dNhuEIQtF9CH9F_8uSU/edit?usp=sharing)
 
 ## Resumen
@@ -45,8 +45,8 @@ De manera adicional, agregamos un articulo de Martin Fowler sobre [deuda ténica
   - [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing) *Ya estaba en los de la clase anterior* 😎
   - [Diseño de interfaces entrantes/salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg)
   - [Impostores](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit#heading=h.5bqwe0zgcgud)
-  - [Formulario de entrega](https://docs.google.com/forms/d/e/1FAIpQLSf-D2yMjM23BF23KRJLDf2n1IuyPZ5MDeRoLPlgs2Sy4UhB_w/viewform)
+  - [Formulario de entrega](https://docs.google.com/forms/d/e/1FAIpQLSf25adlwVJKxJkMNgZSpfJQFUkcT1SHaUZ_3AONaJzRxKQbZQ/viewform)
 
 - Para entregar
   - [QMP - Iteración 4](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY)
-  - [Formulario de entrega](https://docs.google.com/forms/d/12GWY5Dtar_9mXYZd1I2JOXwcOzAYcbKRe0aNL1_jXEg)
+  - [Formulario de entrega](https://docs.google.com/forms/d/e/1FAIpQLSdv1Zwr97A6PKiQ5RZJC0L6GmaE2UEzqk5ayJuByMH9TdIJjg/viewform)
