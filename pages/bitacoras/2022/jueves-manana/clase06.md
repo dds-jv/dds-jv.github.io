@@ -13,9 +13,12 @@ Sexta clase de Diseño de Sistemas en pantuflas!
 ## Material utilizado
 
 - [Video](https://youtu.be/OEyO366N4GU)
-- [Presentación]()
+- [Presentación](https://github.dev/dds-jv/dds-jv.github.io/blob/6acd12ee0b4872692eed15cc5091f5fe5f6b3a93/pages/bitacoras/2022/jueves-manana/materiales/clase06/Testing%2C%20Adaptaci%C3%B3n%20de%20Interfaces%2C%20Mocking%20y%20Adapters.pdf)
 
 ## Material de clase
+
+- [Ejercicio GarbariSi](https://github.dev/dds-jv/dds-jv.github.io/blob/6acd12ee0b4872692eed15cc5091f5fe5f6b3a93/pages/bitacoras/2022/jueves-manana/materiales/clase06/GarbariSi%20v2.pdf)
+  - [Solución - Diagrama](https://github.dev/dds-jv/dds-jv.github.io/blob/6acd12ee0b4872692eed15cc5091f5fe5f6b3a93/pages/bitacoras/2022/jueves-manana/materiales/clase06/Diagrama%20de%20clases.pdf)
 
 ## Material
 
@@ -31,7 +34,7 @@ Sexta clase de Diseño de Sistemas en pantuflas!
 
 - Apuntes para leer
   - [Reificar comportamiento](https://docs.google.com/document/d/14n6SNTbCt1wJzhNiIFNSoAq0tJdYjRrOQCi5ar_FQ1c/edit#heading=h.6ab0fffv8tld)
-  - [Patrón Command]()
+  - [Patrón Command](https://github.dev/dds-jv/dds-jv.github.io/blob/6acd12ee0b4872692eed15cc5091f5fe5f6b3a93/pages/bitacoras/2022/jueves-manana/materiales/clase06/Patr%C3%B3n%20Adapter.pdf)
 - Para entregar
   - [QMP - Iteración 5](https://docs.google.com/document/d/1wS622pMwZrDK9ilL_hEt5bBE04vKUKZILx8cIQ-aQzU/edit)
   - [Formulario de entrega](https://docs.google.com/forms/d/e/1FAIpQLSfQ8ndPggfNHxCH5rAgE2wfpzLMOKeclM6jJg8L-NmeYoiCpw/viewform)
