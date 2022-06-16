@@ -12,20 +12,10 @@ Sexta clase de Diseño de Sistemas en pantuflas!
 
 ## Material utilizado
 
-- [Video](https://www.youtube.com/watch?v=yXQcbPDiI8U)
-- [Presentación](https://docs.google.com/presentation/d/1cYIp_Krk_NworDgBCldxMl2k7zWwaidg550OxRbF0IU/edit?usp=sharing)
+- [Video](https://youtu.be/OEyO366N4GU)
+- [Presentación]()
 
-## Resumen
-
-En esta clase estuvimos viendo como modelar la comunicación entre dos componentes y como probarlas.
-
-En principio vimos como modelar la [comunicación entre componentes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg), a identificar si estamos modelando la interfaz entrante a nuestro sistema o la interfaz saliente de nuestro sistema.
-
-Además vimos como adaptar interfaces de componentes que aún no tenemos o que no son compatibles con una que deseamos, para esto nos ayudaría el *patrón adapter*.
-
-Recordamos que era una dependencia y empezamos a hablar de distintas formas de conocerlas, en particular de la [inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit) para poder parametrizarlas y tener mayor flexibilidad/testeabilidad.
-
-Por otro lado, tuvimos un desafío extra que fue como testear de forma unitaria nuestros componentes sin tener que usar los componentes reales, esto es muy útil cuando los componentes que usamos tienen efecto y queremos evitarlos, para esto nos sirvio definir [impostores](https://docs.google.com/document/d/11mVR-4wEZhlQMDEqrfQeYLypEsrSqXv98dr78SA0Oq4/edit#heading=h.5bqwe0zgcgud).
+## Material de clase
 
 ## Material
 
@@ -41,9 +31,7 @@ Por otro lado, tuvimos un desafío extra que fue como testear de forma unitaria 
 
 - Apuntes para leer
   - [Reificar comportamiento](https://docs.google.com/document/d/14n6SNTbCt1wJzhNiIFNSoAq0tJdYjRrOQCi5ar_FQ1c/edit#heading=h.6ab0fffv8tld)
-  - Patrón Command
-  - [Seguimiento](https://docs.google.com/forms/d/e/1FAIpQLScmtZsHh0tkHL7yvcsENaqhhmQwroqQ4_7LMLRdGERdluhaMQ/viewform)
-
+  - [Patrón Command]()
 - Para entregar
   - [QMP - Iteración 5](https://docs.google.com/document/d/1wS622pMwZrDK9ilL_hEt5bBE04vKUKZILx8cIQ-aQzU/edit)
-  - [Formulario de entrega](https://docs.google.com/forms/d/e/1FAIpQLSen55-rmydFL7HQuEEQWthTqQtgjR5nj6MdmRtdM159P4nu3g/viewform)
+  - [Formulario de entrega](https://docs.google.com/forms/d/e/1FAIpQLSfQ8ndPggfNHxCH5rAgE2wfpzLMOKeclM6jJg8L-NmeYoiCpw/viewform)

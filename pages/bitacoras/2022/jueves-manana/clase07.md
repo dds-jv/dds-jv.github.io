@@ -10,8 +10,8 @@ permalink: /bitacoras/2022/jueves-m/clase-07/
 
 Septima clase de Diseño de Sistemas en pantuflas!
 
-- [Video](https://www.youtube.com/watch?v=hIeDuysrBLk)
-- [Presentación](https://docs.google.com/presentation/d/1tOb7JOuFYMHbSdX1vAzTD2YYX1atmcV1XvfHKskWTfQ/edit?usp=sharing)
+- [Video del año pasado - esta clase fue en vivo](https://www.youtube.com/watch?v=hIeDuysrBLk)
+
 
 ## Resumen
 
@@ -40,7 +40,7 @@ Ejercicios donde se implementa el _patrón command_:
 - Apuntes a leer
   - [Patrón Observer](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
   - [Sobre los efectos del Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
-  - [Formulario de dudas](https://docs.google.com/forms/d/1rSsbsPQNbwaEsDB5Vi4FxdM6EThe4wn5IVX7uv8YnYo/edit)
+  - [Formulario de dudas](https://docs.google.com/forms/d/e/1FAIpQLSfltkOTQTHi1cdpduIeDAGsEmAxysvpUP3Tea960f2tx0n0Ow/viewform)
   
 - [Ejercicio QMP - Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit#)
-  - [Entrega de soluciones](https://docs.google.com/forms/d/e/1FAIpQLSex4nXA8wFj8QZKe7JfUdQAcAn6zKkVSgZ-0rFaiQi6-UGeAA/viewform)
+  - [Entrega de soluciones](https://docs.google.com/forms/d/e/1FAIpQLSet0IyIfSkY2Hf2zBzYSGJGO2RYUA439XlBFu3HPKvQFdRjcA/viewform)
