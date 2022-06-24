@@ -17,6 +17,7 @@ permalink: /bitacoras/2022/viernes-n/clase-07/
 - [Patrón Command](http://www.google.com/url?q=http%3A%2F%2Fwww.uml.org.cn%2Fc%2B%2B%2Fpdf%2FDesignPatterns.pdf&sa=D&sntz=1&usg=AFQjCNFD5AGp1QDdoN_pu3TgljJJRqMAMg)
 - [Qué Me Pongo: Quinta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
    -  [Solución Posible](https://docs.google.com/document/d/1Q3HaxGWoxaZHLlvPxNt1cxQdubMIXkPOpcp4_vOO-zM/edit#heading=h.uyku9mnteh0t)
+- [Solución en clase](https://gist.github.com/flbulgarelli/3a09fb7450b54ecb696bb74324239cc4)
 
 # Para la próxima clase
 
