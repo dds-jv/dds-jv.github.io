@@ -19,7 +19,7 @@ Además hablamos de los Repositorios, objetos globales que nos permiten conocer 
 ## Material utilizado
 
 - Video de la clase _Próximamente_
-- [Presentación utilizada](https://docs.google.com/presentation/d/12cP3lKgrdKm6J09_DRNv1Cf3UHiI0UjRWL5lK-ZWx5o/edit?usp=sharing)
+- [Presentación utilizada](https://docs.google.com/presentation/d/14q-qUvlxWbiSs9MnCNEl0_AToadpgWd5qfufnQViKpg/edit?usp=sharing)
 
 ## Práctica
 
@@ -32,9 +32,9 @@ Además hablamos de los Repositorios, objetos globales que nos permiten conocer 
 ## Para la próxima clase 
 
 - [Patrones de comunicación entre componentes](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
-  - [Formulario de seguimiento](https://docs.google.com/forms/d/1J1Ju8Wa50TQqcRLWswO1OygCPcju4qZQB4FCLLfhsEA/edit)
+  - [Formulario de seguimiento](https://docs.google.com/forms/d/e/1FAIpQLSe3bfpDmjCmy-Foe5Ok4Wm_-F3cxhYPT3JvwjQbDgPXI_GJ7A/viewform)
 
 - [Ejercitación nefli](https://docs.google.com/document/d/1IXuDYLLPmyEGC1s0RED9vwyMGPAnerEme0M2PNVFuwM/edit)
-  - [Formulario de entrega](https://docs.google.com/forms/d/e/1FAIpQLSdl1KHd3hFzjUgiF3bpjBvWKYgeSnhhDZy4UEE5D0M4agZNYQ/viewform). 
+  - [Formulario de entrega](https://docs.google.com/forms/d/e/1FAIpQLSdZxfZ1JD2h55auK7OkBNxhCGswRtJYZz5MIkCEXSc0Tc3xzQ/viewform). 
     - Obligatorio al menos leer el enunciado.
     - No es parte de los que son contados para firmar la materia o promoción. Aunque es muy recomendable entregarlo ya que es una versión minimalista de algo que aparecio en un parcial. Si queres ver el parcial completo de ese momento podes encontrarlo [acá](https://docs.google.com/document/d/1YYFk99LmQp1OrRuyhAagUVa4J8lwGkMHd_tbj5gHYk8/edit?usp=sharing)
