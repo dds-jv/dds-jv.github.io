@@ -1,26 +1,37 @@
 ---
 layout: page
-title: Clase 15
+title: Clase 16
 description: Jueves (Mañana, 2022)
-permalink: /bitacoras/2022/jueves-m/clase-15/
+permalink: /bitacoras/2022/jueves-m/clase-16/
 ---
 
-**Última clase de diseño en pantuflas de ORM!**
+**Arrancamos la web en pantuflas!!**
 
 ## Resumen
 
-En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnología JPA/Hibernate. 
-* Guardar el orden de los elementos de la lista. `@OrderColumn`
-* Incluir el estado de una asociación dentro del objeto que la contiene (embeber). `@Embedded` + `@Embeddable`
+Hoy vamos a hablar de la web y de la arquitectura sobre la que esta pensada
 
-Además vamos a incorporar los conceptos de valores y entidades (_value_ object vs _entities_).
+* Historia de la web
+* Arquitectura MVC en la web
+
+Analizamos el protocolo HTTP
+
+- Como esta compuesto un pedido (request)
+- Como esta compuesta una respuesta (response)
 
 ## Material
 
-- [Presentación utilizada](https://docs.google.com/presentation/d/1u0G9EE90VChYLyWPCA1dBxHVQBQ8Jc343x1wbe4Fp2s/edit)
-- [Video de la clase](https://youtu.be/FDDxBdwd0ag)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1O0v4Xf-O_9RwegSMS2mvRXan0n1A_I0KNbDoxb0m4lI/edit)
+- [Video de la clase](https://youtu.be/kCD7NM_wB3U)
+- [Tutorial HTTP - hasta el punto 8](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial)
 
 ## Apuntes
 
-- [Clasificación de los objetos - Evans](https://martinfowler.com/bliki/EvansClassification.html)
-- [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn)
+- [Introducción a la arquitectura web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit)
+- [¿Cómo funciona Internet?](https://developer.mozilla.org/es/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [¿Cómo funciona la Web?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/C%C3%B3mo_funciona_la_Web)
+- [¿Cómo funciona HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Overview)
+- [¿Cómo funciona un DNS?](https://howdns.works/)
+
+## Dato de color
+- [Caso de mega y la distribución](https://youtu.be/Mj9A9wYQot8)

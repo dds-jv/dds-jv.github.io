@@ -2,7 +2,7 @@
 layout: page
 title: Clase 23
 description: Jueves (Mañana, 2021)
-permalink: /bitacoras/2021/jueves-m/clase-23/
+permalink: /bitacoras/2021/jueves-m/__clase-23/
 ---
 
 ### ¡Hola última clase teórica de diseño en pantuflas!**

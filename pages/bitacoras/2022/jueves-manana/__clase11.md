@@ -2,7 +2,7 @@
 layout: page
 title: Clase 11
 description: Jueves (Mañana, 2021)
-permalink: /bitacoras/2021/jueves-m/clase-11/
+permalink: /bitacoras/2021/jueves-m/__clase-11/
 ---
 
 **Décima clase de Diseño de Sistemas en pantuflas!!**

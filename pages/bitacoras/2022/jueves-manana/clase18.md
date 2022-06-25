@@ -7,33 +7,32 @@ permalink: /bitacoras/2022/jueves-m/clase-18/
 
 **¡Hola!**
 
-Ya con algo de práctica y conocimiento previo acerca de la __Arquitectura Web__, hoy nos enfocaremos en cómo armar una aplicación web en la cual veremos como guardar una información y consultarla. Además como mantener el estado cross-request para poder saber si un usuario se autentico en el sistema.
-
 ## Resumen
 
 Hoy vimos como:
-    - Como plantear URLs siguiendo las convenciones de REST
-    - Hacer un filtro en base a un formulario y enviar la información ingresada al servidor.
-    - Enviar información al servidor para luego ser guardada
-    - Reutilizar parte de los templates
-    - Mantener estado del lado del cliente usando cookies
+    - Mantener estado del lado del servidor usando la session
+    - Hacer cosas antes/después de todas las requests o sobre un subconjunto usando filtros
+    - Manejar las transacciones en una petición web
+    - No duplicar lógica de transformación usando filtros
 
 ## Material
 
-- [Video de la clase](https://www.youtube.com/watch?v=AfQg16zBWwA)
-- [Proyecto pokémon con búsqueda en el controller](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-step-search)
-- [Proyecto pokémon con layout](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-layout)
-- [Proyecto pokémon con login con cookies simple](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-cookies)
+- [Video de la clase](https://www.youtube.com/watch?v=fMoELwhGsRw)
+- [Presentación](https://docs.google.com/presentation/d/1rVEIF5BbFc7I_JluHm0xy4zCylhJtwwEC34-XGTj4d0/edit?usp=sharing)
 
 ## Apuntes
-- [APIs y servicios web](https://docs.google.com/document/d/1Zn0caIulROTp471uIPuQ7SnszMwzaEQSoWmDP8UsmPM/edit#heading=h.p1y6axz6zmcn)
 
 ## Tecnologías
 
-- [Handlebars - Partials (versión JS, pero los conceptos aplican)](https://handlebarsjs.com/guide/partials.html)
 - Spark
-  - [Cookies](https://sparkjava.com/documentation#cookies)
+  - [Sessions](https://sparkjava.com/documentation#sessions)
 
-## Apuntes
 
-- [Cookies](https://developer.mozilla.org/es/docs/Web/HTTP/Cookies)
+## Para la próxima clase
+
+- [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
+- [Seminario de UI](https://drive.google.com/drive/folders/1cV8NP-SkO3FL2oaqskgYZhuU3kJ0ZUi7)
+
+- [Arquitecturas Concurrentes, Episodio 1: El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
+- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing)
+  - Ejercicio EntregaYaYaYa, MicroPC IDE, Rekomendashi

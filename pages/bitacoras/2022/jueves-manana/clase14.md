@@ -1,34 +1,26 @@
 ---
 layout: page
-title: Clase 14
+title: Clase 15
 description: Jueves (Mañana, 2022)
-permalink: /bitacoras/2022/jueves-m/clase-14/
+permalink: /bitacoras/2022/jueves-m/clase-15/
 ---
 
-**¡Bienvenidos nuevamente a diseño en pantuflas!**
+**Última clase de diseño en pantuflas de ORM!**
 
 ## Resumen
 
-En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnología JPA/Hibernate. Además incorporamos el concepto de mapeo de herencia.
+En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnología JPA/Hibernate. 
+* Guardar el orden de los elementos de la lista. `@OrderColumn`
+* Incluir el estado de una asociación dentro del objeto que la contiene (embeber). `@Embedded` + `@Embeddable`
 
-Además vamos a entender el concepto de consulta polimorfica para poder analizar que estrategia de herencia voy a utilizar para persistir.
-    - Single Table (Una tabla)
-    - Joined (Tabla por clase)
-    - Table per concrete class (Tabla por clase **concreta**)
-      - Y sus estrategias de generación de ids 🤓
-
-Y en el caso de que no nos interese hacer consultas polimorficas podriamos usar `@MappedSuperclass`
-
-Además vemos las alternativas que tenemos cuando nos enfrentamos a interfaces:
-    - Si no tienen estado podriamos conventirlas en enum o en clase abstracta
-    - Si tiene estado deberiamos convertirlas en clases abstractas
+Además vamos a incorporar los conceptos de valores y entidades (_value_ object vs _entities_).
 
 ## Material
 
-- [Presentación utilizada](https://docs.google.com/presentation/d/14xaa6U5DOsKBPnenWADOILN9vt-mNMYTyR4VjHOTOQ8/edit?usp=sharing)
-- [Video de la clase](https://youtu.be/XHRUrw3DcC4)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1u0G9EE90VChYLyWPCA1dBxHVQBQ8Jc343x1wbe4Fp2s/edit)
+- [Video de la clase](https://youtu.be/FDDxBdwd0ag)
 
 ## Apuntes
 
-- [Mapeo Objetos/Relacional](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit)
+- [Clasificación de los objetos - Evans](https://martinfowler.com/bliki/EvansClassification.html)
 - [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn)

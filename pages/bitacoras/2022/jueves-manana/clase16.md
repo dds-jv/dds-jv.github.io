@@ -5,33 +5,56 @@ description: Jueves (Mañana, 2022)
 permalink: /bitacoras/2022/jueves-m/clase-16/
 ---
 
-**Arrancamos la web en pantuflas!!**
+**¡Hola!**
+
+Luego de descubrir temas relacionados a la Arquitectura Web, vamos a profundizar un poco el aspecto que vimos más la clase pasada: El Diseño Web, visto desde el lado del Servidor.
 
 ## Resumen
 
-Hoy vamos a hablar de la web y de la arquitectura sobre la que esta pensada
-
-* Historia de la web
-* Arquitectura MVC en la web
-
-Analizamos el protocolo HTTP
-
-- Como esta compuesto un pedido (request)
-- Como esta compuesta una respuesta (response)
+En esta clase iremos en profundidad en la definición de endpoints HTTP + presentamos [Spark](http://sparkjava.com/), un framework muy liviano para exponer nuestra aplicación via HTTP.
 
 ## Material
 
-- [Presentación utilizada](https://docs.google.com/presentation/d/1O0v4Xf-O_9RwegSMS2mvRXan0n1A_I0KNbDoxb0m4lI/edit)
-- [Video de la clase](https://youtu.be/kCD7NM_wB3U)
-- [Tutorial HTTP - hasta el punto 8](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial)
+- [Video de la clase](https://www.youtube.com/watch?v=Wt5pAmyHvUo)
+- [Presentación](https://docs.google.com/presentation/d/11M2PMeCoLOwde20E0PFVfCz-cWZvPHX25SQAystvbIY/edit?usp=sharing)
+- Ejercicio en clase
+  - [Branch base](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon)
+  - [Branch generando JSON](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-api)
+  - [Branch generando HTML en el controller](https://github.com/dds-utn/spark-web-proof-of-concept/tree/pokemon-step-1)
+  - [Branch usando template + css basico](https://github.com/dds-utn/spark-web-proof-of-concept/tree/css-basico)
+  - [Branch usando bootstrap](https://github.com/dds-utn/spark-web-proof-of-concept/tree/bootstrap-css)
+
+
+## Tecnologías vistas
+
+- [Spark Java](http://sparkjava.com/documentation)
+  - [Debug tools](https://github.com/perwendel/spark-debug-tools)
+
+- [Motor de template[Handlebars]](https://handlebarsjs.com/guide/)
+
+- CSS (Cascade Style Sheet)
+  - [Intro CSS](https://www.w3schools.com/css/css_intro.asp)
+  - [Página de referencia CSS](https://css-tricks.com/almanac/)
+  - Posicionamiento de elementos
+    - [CSS display](https://www.w3schools.com/css/css_display_visibility.asp)
+    - [Videos introductorios](https://flexbox.io/)
+    - [Práctica flexbox](https://flexboxfroggy.com/#es)
+  - [Bootstrap: CSS Framework](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
 ## Apuntes
 
-- [Introducción a la arquitectura web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit)
-- [¿Cómo funciona Internet?](https://developer.mozilla.org/es/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [¿Cómo funciona la Web?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/C%C3%B3mo_funciona_la_Web)
-- [¿Cómo funciona HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Overview)
-- [¿Cómo funciona un DNS?](https://howdns.works/)
+- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0)
+- [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para profundizar sobre HTTP si no lo hiciste ya.
+- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
 
-## Dato de color
-- [Caso de mega y la distribución](https://youtu.be/Mj9A9wYQot8)
+## Tecnologías para contenido estático
+
+* [Jekyll](https://jekyllrb.com/) (el que usamos para el sitio de la materia) esto pertenece a un stack llamado [Jamstack](https://jamstack.org/)
+* [Python server](https://www.hackerearth.com/practice/notes/simple-http-server-in-python/#:~:text=Python%20comes%20with%20a%20built,system%20into%20a%20web%20server.)
+
+## Para la clase siguiente
+
+- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
+- Proyecto sobre los cuales trabajaremos
+  - [Pokedex](https://github.com/dds-utn/spark-web-proof-of-concept/tree/bootstrap-css)
+  - [Consultoras Login](https://github.com/dds-utn/spark-web-proof-of-concept/tree/consultoras-login)
