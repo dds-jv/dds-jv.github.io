@@ -15,7 +15,7 @@ Además, discutimos sobre metodologías de desarrollo.
 
 ## Material
 
-- [Presentación utilizada](https://docs.google.com/presentation/d/18y4Xr1nMGFd2Kh2z-SSLdK1NwgOhMbe2xnNAk8PEhAs/edit)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1ZSxNDDsTcsi26ZvX69ysqdwmZ_NH_OW3EC7loYpZGSc/edit)
 - [Apunte sobre el patrón Observer, caso práctico](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
 - [Sobre los efectos del Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
 
@@ -26,13 +26,14 @@ Además, discutimos sobre metodologías de desarrollo.
 
 ## Práctica
 
-- [Qué Me Pongo: Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit#)
-- [Código de la solucíón de clase](https://gist.github.com/flbulgarelli/ef546da56968d24c0284d8e43152946a)
+- [Noodle: Simulacro de Parcial](https://docs.google.com/document/d/1-Qpv38kB29lNuzIi88TkTg4LGbO_iNijoVesZyvG5wM/edit#heading=h.3sssitpwxf4t)
 
-## Para la próxima clase
+## Temas bonus
+
+_(Porque por los feriados no entraron)_
 
 - Ver [Diseño y metodologías de desarrollo](https://docs.google.com/document/d/11PQO8NPSOV4SW0ZwtFsh4RCtWubuEBV6E5qPicqJNKs/edit)
-- Leer el enunciado de [Conversor de Unidades](https://github.com/dds-utn/dds-conversor-ui#readme). Nota: el repositorio contiene tanto el enunciado como la solución; para esta clase sólo es necesario leer el enunciado del problema. 
-- Leer: 
+- Leer el enunciado de [Conversor de Unidades](https://github.com/dds-utn/dds-conversor-ui#readme). Nota: el repositorio contiene tanto el enunciado como la solución; para esta clase sólo es necesario leer el enunciado del problema.
+- Leer:
    1. [Brevísima nota sobre Arena](https://sites.google.com/site/programacionui/temario/02-disenio-UI/arena-disclaimer)
    2. [Definiciones iniciales sobre UI](http://wiki.uqbar.org/wiki/articles/ui-definiciones-iniciales.html)
