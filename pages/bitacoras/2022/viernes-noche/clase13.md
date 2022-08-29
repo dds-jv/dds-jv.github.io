@@ -22,10 +22,9 @@ En esta oportunidad estudiamos cómo conectarnos con un RDBM utilizando un ORM:
 - [Código utilizado](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol)
 - Paso a paso:
    - [Mapeos básicos](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md)
-      - [Versión en clase](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-en-clase-2022-08-27)
+      - [Versión en clase](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-en-clase-2022-08-26)
    - [Colecciones](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
-      - [Versión en clase](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-en-clase-2022-08-27)
-      - [Versión en clase](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-en-clase-2021-08-27))
+      - [Versión en clase](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-en-clase-2021-08-26))
 
 
 ## Para la próxima clase
