@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Clase 16
+title: Clase 15
 description: Jueves (Mañana, 2022)
-permalink: /bitacoras/2022/jueves-m/clase-16/
+permalink: /bitacoras/2022/jueves-m/clase-15/
 ---
-
-**Arrancamos la web en pantuflas!!**
 
 ## Resumen
 
@@ -21,8 +19,7 @@ Analizamos el protocolo HTTP
 
 ## Material
 
-- [Presentación utilizada](https://docs.google.com/presentation/d/1O0v4Xf-O_9RwegSMS2mvRXan0n1A_I0KNbDoxb0m4lI/edit)
-- [Video de la clase](https://youtu.be/kCD7NM_wB3U)
+- [Presentación utilizada](https://docs.google.com/presentation/d/10IKH8835WJtM8jZ_p7MwTedvAnvtfXRJzHuwfhmB8yI/edit?usp=sharing)
 - [Tutorial HTTP - hasta el punto 8](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial)
 
 ## Apuntes
@@ -32,6 +29,13 @@ Analizamos el protocolo HTTP
 - [¿Cómo funciona la Web?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/C%C3%B3mo_funciona_la_Web)
 - [¿Cómo funciona HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Overview)
 - [¿Cómo funciona un DNS?](https://howdns.works/)
+
+## Para la próxima clase
+
+- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
+- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0): **obligatorio** para leer
+- [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para seguir profundizando hasta donde puedan y quieran
+
 
 ## Dato de color
 - [Caso de mega y la distribución](https://youtu.be/Mj9A9wYQot8)

@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Clase 15
+title: Clase 14
 description: Jueves (Mañana, 2022)
-permalink: /bitacoras/2022/jueves-m/clase-15/
+permalink: /bitacoras/2022/jueves-m/clase-14/
 ---
-
-**Última clase de diseño en pantuflas de ORM!**
 
 ## Resumen
 
@@ -18,7 +16,7 @@ Además vamos a incorporar los conceptos de valores y entidades (_value_ object 
 ## Material
 
 - [Presentación utilizada](https://docs.google.com/presentation/d/1u0G9EE90VChYLyWPCA1dBxHVQBQ8Jc343x1wbe4Fp2s/edit)
-- [Video de la clase](https://youtu.be/FDDxBdwd0ag)
+- [Video de la clase](https://youtu.be/Hzg6WRiJ-RE)
 
 ## Apuntes
 
