@@ -15,8 +15,7 @@ En esta clase seguimos trabajando con [Spark](http://sparkjava.com/), entendiend
 
 > partials/fragmento/componente (control directo) vs layouts (inversión de control)
 
-Problema: Código repetido
-Solución: depende. ¿Es el código repetido una estructura general para toda la aplicación, o al menos una parte de ella? ¿O se trata de fragmentos que aparecen con alguna frecuencia, en lugares diferentes, pero sin obedecer a una estructura general?
+Problema: ¡Código repetido! Solución: ¡depende!. ¿Es el código repetido una estructura general para toda la aplicación, o al menos una parte de ella? ¿O se trata de fragmentos que aparecen con alguna frecuencia, en lugares diferentes, pero sin obedecer a una estructura general?
 
 Dependiendo el caso, estamos hablando de un layout (disposición) o un fragmento/componente (partial).
 
