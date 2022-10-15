@@ -25,20 +25,20 @@ Dependiendo el caso, estamos hablando de un layout (disposición) o un fragmento
 
 Por un lado, tenemos que invocar el layout:
 
-```
+```handlebars
 {{> layout.html.hbs }}
 ```
 
 Por otro lado, tenemos que definirlo, con potenciales "huecos", al mejor estilo template-method:
 
-```
-  {{# block "contenido" }}
-  {{/block}}
+```handlebars
+{{# block "contenido" }}
+{{/block}}
 ```
 
 Luego, en la vista que nos interesa aplicar ese layout, utilizaremos `partial` para llenar esos huecos:
 
-```
+```handlebars
 {{# partial "contenido" }}
 {{/partial}}
 ```
@@ -47,7 +47,7 @@ Luego, en la vista que nos interesa aplicar ese layout, utilizaremos `partial` p
 
 Lo implementamos usando la misma sintaxis, sólo que no tienen huecos:
 
-```
+```handlebars
 {{> fragmento.html.hbs }}
 ```
 
@@ -66,7 +66,7 @@ HandlebarsTemplateEngine engine = new HandlebarsTemplateEngine() {
 
 Luego de hacer esto, podremos usarlo en nuestros _templates_:
 
-```
+```handlebars
 {{holaMundo}}
 ```
 
@@ -75,7 +75,7 @@ Luego de hacer esto, podremos usarlo en nuestros _templates_:
 Iteración:
 
 
-```
+```handlebars
 {{#each consultoras}}
     <li>{{nombre}}</li>
 {{/each}}
@@ -83,7 +83,7 @@ Iteración:
 
 o también:
 
-```
+```handlebars
 {{#consultoras}}
     <li>{{nombre}}</li>
 {{/consultoras}}
@@ -95,7 +95,7 @@ o también:
 * Importancia de redirigir luego de un `POST` en una aplicación Web (o devolver 201 en un API)
 * Manejo declarativo de transacciones:
 
-```
+```java
 withTransaction(() ->{
     RepositorioConsultoras.instancia.agregar(nueva);
     usuario.agregarConsultora(nueva);
