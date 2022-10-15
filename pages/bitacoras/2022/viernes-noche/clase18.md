@@ -11,17 +11,22 @@ permalink: /bitacoras/2022/viernes-n/clase-18/
 En esta clase seguimos trabajando con [Spark](http://sparkjava.com/), entendiendo como las páginas tienen estructuras generales conocidas como _Layouts_, y como las plantillas  (_templates_) y _partials_ nos pueden ayudar a no repetir lógica de vista.
 
 
-### Partials y Layouts
+### Framentos y Layouts
 
-> partials/fragmento/componente (control directo) vs layouts (inversión de control)
+> partials/fragmentos/componentes (control directo) vs layouts (inversión de control)
 
 Problema: ¡Código repetido! Solución: ¡depende!. ¿Es el código repetido una estructura general para toda la aplicación, o al menos una parte de ella? ¿O se trata de fragmentos que aparecen con alguna frecuencia, en lugares diferentes, pero sin obedecer a una estructura general?
 
-Dependiendo el caso, estamos hablando de un layout (disposición) o un fragmento/componente (partial).
+Dependiendo el caso, estamos hablando de un fragmento/componente (partial) o un layout (disposición).
 
 ### Layouts
 
-Por un lado, tenemos que invocar el layout:
+Los layouts nos proponen una forma de reutilizar el código HTML definiendo (al menos un) archivo
+que hace de marco general y define puntos de extensión o "huecos", que las vistas completarán.
+
+No serán estos marcos generales quienes invoquen a las vistas, sino las vistas quienes se enmarcarán en nuestros _layouts_.
+
+Para implementar esta idea, por un lado, en nuestras vistas tenemos que invocar el layout:
 
 {% raw %}
 ```handlebars
@@ -29,33 +34,51 @@ Por un lado, tenemos que invocar el layout:
 ```
 {% endraw %}
 
-Por otro lado, tenemos que definirlo, con potenciales "huecos", al mejor estilo template-method:
+Por otro lado, tenemos que crear nuestro archivo `layout.html.hbs`, con uno o más "huecos" nombrados, al mejor estilo template-method:
 
 {% raw %}
 ```handlebars
-{{# block "contenido" }}
+{{# block "principal" }}
 {{/block}}
 ```
 {% endraw %}
 
-Luego, en la vista que nos interesa aplicar ese layout, utilizaremos `partial` para llenar esos huecos:
+
+[Link al código completo](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/984caccb92c40ae08a0253d8c7c8a9e8abc002c8/src/main/resources/templates/layout.html.hbs)
+
+Luego, volveremos a la la vista en que nos interesa aplicar ese layout, y utilizaremos `partial` para llenar esos huecos:
 
 {% raw %}
 ```handlebars
-{{# partial "contenido" }}
+{{# partial "principal" }}
 {{/partial}}
 ```
 {% endraw %}
 
+
+[Link al código completo](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/984caccb92c40ae08a0253d8c7c8a9e8abc002c8/src/main/resources/templates/index.html.hbs)
+
 ### Fragmentos
 
-Lo implementamos usando la misma sintaxis, sólo que no tienen huecos:
+Nuestros fragmentos son archivos con porciones de HTML que invocamos directamente desde nuestra vista para que nos aporten un fragmento (justamente) de código reutilizable. Los implementamos usando la misma sintaxis, sólo que no tienen huecos:
 
 {% raw %}
 ```handlebars
-{{> fragmento.html.hbs }}
+{{> contratanos.html.hbs }}
 ```
 {% endraw %}
+
+[Link al código completo](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/984caccb92c40ae08a0253d8c7c8a9e8abc002c8/src/main/resources/templates/blog.html.hbs)
+
+Estos fragmentos definirán componentes HTML reutilizables, como por ejemplo, un botón _contratanos_ genérico que insertaremos en más de un lugar de la página:
+
+
+```handlebars
+<!-- Probablemente sea un poco más complejo-->
+<a href="/....">Contratanos (...)</a>
+```
+
+[Link al código completo](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/984caccb92c40ae08a0253d8c7c8a9e8abc002c8/src/main/resources/templates/contratanos.html.hbs)
 
 Alternativamente, podemos registrar _helpers_, que son pequeñas funciones que extienden la sintaxis de Handebars:
 
