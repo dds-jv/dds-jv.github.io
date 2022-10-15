@@ -6,7 +6,6 @@ permalink: /bitacoras/2022/viernes-n/clase-18/
 ---
 
 
-
 ## Resumen
 
 En esta clase seguimos trabajando con [Spark](http://sparkjava.com/), entendiendo como las páginas tienen estructuras generales conocidas como _Layouts_, y como las plantillas  (_templates_) y _partials_ nos pueden ayudar a no repetir lógica de vista.
@@ -25,32 +24,39 @@ Dependiendo el caso, estamos hablando de un layout (disposición) o un fragmento
 
 Por un lado, tenemos que invocar el layout:
 
+{% raw %}
 ```handlebars
 {{> layout.html.hbs }}
 ```
+{% endraw %}
 
 Por otro lado, tenemos que definirlo, con potenciales "huecos", al mejor estilo template-method:
 
+{% raw %}
 ```handlebars
 {{# block "contenido" }}
 {{/block}}
 ```
+{% endraw %}
 
 Luego, en la vista que nos interesa aplicar ese layout, utilizaremos `partial` para llenar esos huecos:
 
+{% raw %}
 ```handlebars
 {{# partial "contenido" }}
 {{/partial}}
 ```
+{% endraw %}
 
 ### Fragmentos
 
 Lo implementamos usando la misma sintaxis, sólo que no tienen huecos:
 
+{% raw %}
 ```handlebars
 {{> fragmento.html.hbs }}
 ```
-
+{% endraw %}
 
 Alternativamente, podemos registrar _helpers_, que son pequeñas funciones que extienden la sintaxis de Handebars:
 
@@ -66,40 +72,90 @@ HandlebarsTemplateEngine engine = new HandlebarsTemplateEngine() {
 
 Luego de hacer esto, podremos usarlo en nuestros _templates_:
 
+{% raw %}
 ```handlebars
 {{holaMundo}}
 ```
+{% endraw %}
 
 ### Paréntesis: repaso breve de las estructuras de control
 
 Iteración:
 
 
+{% raw %}
 ```handlebars
 {{#each consultoras}}
     <li>{{nombre}}</li>
 {{/each}}
 ```
+{% endraw %}
 
 o también:
 
+{% raw %}
 ```handlebars
 {{#consultoras}}
     <li>{{nombre}}</li>
 {{/consultoras}}
 ```
+{% endraw %}
 
 ### Forms de guardado y transacciones
 
 * REST: `POST /consultoras` vs `GET /consultoras/nueva`
-* Importancia de redirigir luego de un `POST` en una aplicación Web (o devolver 201 en un API)
-* Manejo declarativo de transacciones:
 
 ```java
-withTransaction(() ->{
-    RepositorioConsultoras.instancia.agregar(nueva);
-    usuario.agregarConsultora(nueva);
-});
+// el primero muestra el formulario
+Spark.get("/consultoras/nueva", consultorasController::nueva, engine);
+// el segundo es quien recibe la información del formulario y crea al objeto
+Spark.post("/consultoras", consultorasController::crear);
+```
+
+* Formularios de creación: indicar el uso del método `POST`.
+
+
+```html
+<form method="POST" action="/consultoras">
+    <label for="nombre">Nombre</label>
+    <input name="nombre" type="text">
+
+    <label for="cantidadEmpleados">Cantidad de empleados</label>
+    <input name="cantidadEmpleados" type="number" min="1" max="100" >
+
+    <input type="submit">
+</form>
+```
+
+
+* Importancia de redirigir luego de un `POST` en una aplicación Web (o devolver 201 en un API). Si no, es fácil generar sitios propensos a envíos duplicados de formularios:
+
+
+```java
+  public Void crear(Request request, Response response) {
+    // ...
+    response.redirect("/");
+    return null;
+  }
+```
+
+* Manejo declarativo de transacciones. No usar explícitamente `transaction.begin()`, `transaction.commit()`, `transaction.rollback()`. En su lugar utilizar `TransactionalOps` y `withTransaction`:
+
+```java
+public class ConsultorasController implements WithGlobalEntityManager, TransactionalOps {
+
+  // ...
+
+  public Void crear(Request request, Response response) {
+    withTransaction(() -> {
+      Consultora consultora = new Consultora(
+              request.queryParams("nombre"),  // no confundirse! Aunque el método se llama
+                                              // queryParam, en realidad son body params
+              Integer.parseInt(request.queryParams("cantidadEmpleados")));
+      RepositorioConsultoras.instancia.agregar(consultora);
+    });
+    // ...
+  }
 ```
 
 ## Material
