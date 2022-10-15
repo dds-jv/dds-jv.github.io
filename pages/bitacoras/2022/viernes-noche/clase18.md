@@ -8,10 +8,11 @@ permalink: /bitacoras/2022/viernes-n/clase-18/
 
 ## Resumen
 
-En esta clase seguimos trabajando con [Spark](http://sparkjava.com/), entendiendo como las páginas tienen estructuras generales conocidas como _Layouts_, y como las plantillas  (_templates_) y _partials_ nos pueden ayudar a no repetir lógica de vista.
+En esta clase seguimos trabajando con [Spark](http://sparkjava.com/), entendiendo como las páginas tienen tanto _fragmentos_ de código repetitivos como estructuras generales conocidas como _Layouts_, y como las plantillas  (_templates_) y los elementos `block` y `partial` de Handlebars nos pueden ayudar a no repetir lógica de vista.
 
+Además, repasamos qué son los formularios, cómo podemos hacer formularios de creación de recursos con HTML y HTTP, y qué implicancias tienen desde el punto de vista del acceso al contexto de persistencia.
 
-### Framentos y Layouts
+### Fragmentos y Layouts
 
 > partials/fragmentos/componentes (control directo) vs layouts (inversión de control)
 
