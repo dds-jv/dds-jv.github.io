@@ -25,7 +25,7 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 	- [Cuentas Contables](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-objetos-patrones/cuentas-contables)
 - **Estado como Objeto**
 	- [Tamagotchi](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-objetos-patrones/tamagotchi)
-	- [Asientos](https://docs.google.com/document/d/178B3xAC3jq0o2z33Nd4m5S3VycdrifUJYOPUNBCsfn8/edit#heading=h.cnfmz278is9d) _(Aterrizar.com)_
+	- [Asientos](https://docs.google.com/document/d/1A7s5pqZYqwe31M0lb6mYQVg8QBE6FO3c7QVoeFJVx4s/edit#) _(Aterrizar.com)_
 
 _Material Relacionado: [El Proceso de Diseño (ej. "Manejo de Proyectos")](https://sites.google.com/site/utndesign/material/apuntes-teoricos/ProcesoDisegno.pdf?attredirects=0)_
 
