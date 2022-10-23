@@ -17,7 +17,8 @@ Por último, dejaremos un video sobre la temática de **usabilidad y experiencia
 
 ## Material
 
-- [Presentación](https://docs.google.com/presentation/d/1Qx4h2-mt9WQU_2bTQBHb9T1oBqVJNir7nQ1kUD-Eqoo/edit)
+- [Presentación](https://docs.google.com/presentation/d/1Dxn15lJcvpZVgUH9nOAHQxWdQQMEuF4H6M50075yqco/edit#slide=id.gf9c2586648_0_28)
+- [Anotaciones de clase](https://excalidraw.com/#json=D3P7x39HN5r5l-e0f3J4i,5o1sc7RgLK5JPQNKhBqngA)
 - [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
 - [Documentación de Spark](http://sparkjava.com/documentation)
 - [Código de clase](https://github.com/dds-utn/spark-web-proof-of-concept) (hay varias ramas)
