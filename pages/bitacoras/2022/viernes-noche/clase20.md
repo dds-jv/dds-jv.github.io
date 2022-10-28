@@ -25,6 +25,7 @@ Para introducir estos conceptos vamos a estar resolviendo los ejercicio *Rekomen
 - [Arquitecturas Concurrentes, Episodio 1: El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
 - [Comunicación de decisiones arquitectónicas]({{site.baseurl}}/attachments/ComunicandoDecisionesArquitectonicas.pdf)
 - **Opcional** [Introducción a arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE/edit#heading=h.z9jwy1eurzt9)
+- [Demo de nginx](https://github.com/flbulgarelli/nginx-sample)
 
 # Para la próxima clase
 
