@@ -4,6 +4,7 @@ title: Parte A
 description: Algunos Enunciados
 permalink: /enunciados/parte-a
 ---
+- [Firmadocs](https://docs.google.com/document/d/1KF_apBjJLVBNTQrO4bGyKVZC_r9nRXGJjpRDNl7yEX0/edit#heading=h.cj431gdbfa8)
 - [Basher (2019)](https://docs.google.com/document/d/1qf-2U2S_XIpJAMSsYF0bWerjqIu7_jLvVVXfLSkMpIk)
 - [Copia.me (01-06-2018)](https://docs.google.com/document/d/1NIgfMwyokaJ5U1oFXCGDVOIt5Pbh80Aat6o-v8MOqYk/edit)
    - [Soluciones posibles](https://docs.google.com/document/d/1t7oUyhheEcPjoj2XzNu0x4pB_BGTUmbjhDjskDB2k1I/edit#heading=h.xxux6vkwpsjl)
