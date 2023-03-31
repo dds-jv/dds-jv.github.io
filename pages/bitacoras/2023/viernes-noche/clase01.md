@@ -16,16 +16,17 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 * Franco Bulgarelli (Viernes noche - **K3053**)
 * Gastón Prieto (Viernes noche - **K3153**)
 * Rodolfo Caputo
-* Jessica Saavedra
 * Fernando Petryszyn
-* Nicolás Anderson
 * Sofía Cortés
-* Nahuel Palumbo
+* Sofía Cortéz
+* Ivan Scardoani
 * Julián Picó
 * Gustavo Crespi
 * Martín Loguancio
 * Germán Gallici
-* Nahuel Pascual
+* Juan Salazar
+* Franco Banfi
+* Gabriel Pizzi
 
 # Resumen
 
