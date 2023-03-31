@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Clase 11
-description: Viernes (Noche, 2022)
-permalink: /bitacoras/2022/viernes-n/clase-11/
+description: Viernes (Noche, 2023)
+permalink: /bitacoras/2023/viernes-n/clase-11/
 ---
 
 ## Resumen
@@ -42,4 +42,3 @@ Leer:
   - [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn).
   - [Apunte: Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
   - [ORM](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit): secciones 1 - 4
-

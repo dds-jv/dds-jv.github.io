@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Clase 21
-description: Viernes (Noche, 2022)
-permalink: /bitacoras/2022/viernes-n/clase-21/
+description: Viernes (Noche, 2023)
+permalink: /bitacoras/2023/viernes-n/clase-21/
 ---
 
 # Resumen

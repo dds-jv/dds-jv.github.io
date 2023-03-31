@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Clase 6
-description: Viernes (Noche, 2022)
-permalink: /bitacoras/2022/viernes-n/clase-06/
+description: Viernes (Noche, 2023)
+permalink: /bitacoras/2023/viernes-n/clase-06/
 ---
 
 - [Presentación](https://docs.google.com/presentation/d/1GS-dQLC5AsZSJtwezbG1aO6fXMUpUNW7-sTui8Ha77c/edit)

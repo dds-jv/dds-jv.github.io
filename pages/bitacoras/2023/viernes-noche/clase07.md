@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Clase 7
-description: Viernes (Noche, 2022)
-permalink: /bitacoras/2022/viernes-n/clase-07/
+description: Viernes (Noche, 2023)
+permalink: /bitacoras/2023/viernes-n/clase-07/
 ---
 
 # Resumen
@@ -27,4 +27,3 @@ permalink: /bitacoras/2022/viernes-n/clase-07/
    - El ejercicio de [Listas de Correo](https://docs.google.com/document/d/1o0Bc2Az38ii7YzbsDVX-v8bu3-eBbIdsJqKABMArqv0/edit)
    - La [la solución posible](https://docs.google.com/document/d/1aw8p79d78zos47ommvwZw6fIkHH_Qx_SBfwU3yfJ96k/edit#heading=h.ssrn70io33qo). De esta **se recomienda omitir el apartado sobre decortator**, dado que no es un patrón que trabajemos en la cursada
 - [Complementario: Sobre los efectos en el Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
-

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Clase 2
-description: Viernes (Noche, 2022)
-permalink: /bitacoras/2022/viernes-n/clase-02/
+description: Viernes (Noche, 2023)
+permalink: /bitacoras/2023/viernes-n/clase-02/
 ---
 
 **¡Hola!**
@@ -37,6 +37,3 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 * [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
 * [Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
-
-
-
