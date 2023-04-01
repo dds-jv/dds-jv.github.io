@@ -14,9 +14,8 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 # Resumen
 
 - Aprendimos sobre cualidades de diseño y sobre cómo comunicarlo.
-- Vimos qué es un error, como tratarlos y usar las excepciones de manera eficaz.
 - Evacuamos dudas y consultas de Macowins
-
+- Abordamos el concepto de _Patrones de Diseño_.
 
 # Material
 
