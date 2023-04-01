@@ -5,6 +5,11 @@ description: Bitácoras años anteriores
 permalink: /bitacoras/bitacoras-anteriores/
 ---
 
+## 2022
+- [Jueves mañana]({{site.baseurl}}/bitacoras/2022/jueves-m)
+- [Viernes noche]({{site.baseurl}}/bitacoras/2022/viernes-n)
+
+
 ## 2021
 - [Jueves mañana]({{site.baseurl}}/bitacoras/2021/jueves-m)
 - [Viernes noche]({{site.baseurl}}/bitacoras/2021/viernes-n)
