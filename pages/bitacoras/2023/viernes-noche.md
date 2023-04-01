@@ -12,8 +12,8 @@ frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqvQyv8uPhYZq1fEhX4ZtSN
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 
 - [Clase 1: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-01)
-- [Clase 2: Cualidades de Diseño, Patrones de Diseño y Manejo de Errores. Strategy, Template Method]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-02)
-- [Clase 3: Patrones de diseño. Tiempo de Uso vs. Tiempo de Configuración. Patrones creacionales]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-03)
+- [Clase 2: Cualidades de Diseño, Patrones de Diseño. Strategy, Template Method]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-02)
+- [Clase 3: Patrones de diseño  y Manejo de Errores. Tiempo de Uso vs. Tiempo de Configuración. Patrones creacionales]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-03)
 - [Clase 4: Inversion de control, Refactoring, Inyección de Dependencias]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-04)
 - [Clase 5: Diseño de Interfaces entre componentes. Testing]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-05)
 - [Clase 7: Adaptación de Interfaces entre Componentes y Patrones de comunicación]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-06)
