@@ -3,7 +3,8 @@ layout: page
 title: Viernes
 description: Turno Noche - 2023
 permalink: /bitacoras/2023/viernes-n/
-frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSa4F_v5WkSCRAYlIrPbudKJysH1lZ8sVPhb4rOnzhtXzO1JvTdw9QMejV-bpWSMlDk80MQAgtbdfzf/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqvQyv8uPhYZq1fEhX4ZtSNrrQ-Ykr20JMKOHX4JMyv9FB-u6iNxJ6YTOzEyrijHO_jt72RyRI6E_J/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+
 ---
 
 ## Clases
