@@ -8,8 +8,10 @@ permalink: /bitacoras/2023/viernes-n/clase-03/
 
 # Resumen
 
-- Abordamos el concepto de _Patrones de Diseño_.
+- Continuamos abortando el concepto de _Patrones de Diseño_.
 - Evacuamos dudas y consultas de QMP Primera Iteración
+- Vimos qué es un error, como tratarlos y usar las excepciones de manera eficaz.
+
 
 # Material
 
