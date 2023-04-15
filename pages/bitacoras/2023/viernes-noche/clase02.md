@@ -34,9 +34,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 - [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit)
 	- _Complementario: [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
 	- _Complementario: [Las entradas del diseño](https://docs.google.com/document/d/1qPM_sQ0UyGFKRzl13Cbf6zDKj6vxJ4wMZQIXeOrRvM8/edit?usp=sharing)_
-- [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit) 
-- [Diseño del Manejo de Errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#)
-	- _Complementario: [Excepciones en Java](https://docs.google.com/document/d/1G0a9j-OA0rIEA5cdvEhIMbztJVo86ssvZKBK8HL9akg/edit)_
+- [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit) t)_
 - [Solución - Macowins](https://docs.google.com/document/d/10Tp6E4zEl1ibuUVKBJ-RbyIWD1O1EyAFfPU73c1Ycm4/edit)
 	* [Versión explicada](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
 	* [Pseudocódigo visto en clase](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
@@ -50,3 +48,4 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 * [Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
 * Y leé el apunte sobre [Diseño de manejos de errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#heading=h.x500jbxzopra)
+	- _Complementario: [Excepciones en Java](https://docs.google.com/document/d/1G0a9j-OA0rIEA5cdvEhIMbztJVo86ssvZKBK8HL9akg/edi
