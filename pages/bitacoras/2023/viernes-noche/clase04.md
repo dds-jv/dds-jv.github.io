@@ -18,7 +18,8 @@ permalink: /bitacoras/2023/viernes-n/clase-04/
 - [Patrones creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit#)
 - [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
 - [Solución explicada a QMP Segunda Iteración](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM/edit)
-
+    - [Código en clase](https://gist.github.com/flbulgarelli/9e1f6e135bb00b098710cbf34305b857)
+    
 # Tarea
 
 - [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
