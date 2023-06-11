@@ -39,6 +39,7 @@ Además hablamos de los Repositorios, objetos globales que nos permiten conocer 
 
 ## Para la próxima clase 📅
 
+- [Que Me Pongo Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit): Ahora sí, **hacer el punto bonus**.  
 - [Patrones de comunicación](https://docs.google.com/document/d/1EVPwqFyq2TW5Z5_VUeWdh9yLesxPBbSBzke2jHNURuk/edit)
 -  [Diseño y metodologías de desarrollo](https://docs.google.com/document/d/11PQO8NPSOV4SW0ZwtFsh4RCtWubuEBV6E5qPicqJNKs/edit)
   - Leer secciones 1, 2, 3, 4.1 y 4.4
