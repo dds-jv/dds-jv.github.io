@@ -24,6 +24,7 @@ https://docs.google.com/document/d/1wS622pMwZrDK9ilL_hEt5bBE04vKUKZILx8cIQ-aQzU/
 
 ### Apuntes y ejercicios
 
+- [Que Me Pongo Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit): **no** hacer el punto bonus. 
 - [Patrón Observer](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit). Antes de encararlo se recomienda antes leer:
    - El ejercicio de [Listas de Correo](https://docs.google.com/document/d/1o0Bc2Az38ii7YzbsDVX-v8bu3-eBbIdsJqKABMArqv0/edit)
    - La [la solución posible](https://docs.google.com/document/d/1aw8p79d78zos47ommvwZw6fIkHH_Qx_SBfwU3yfJ96k/edit#heading=h.ssrn70io33qo). De esta **se recomienda omitir el apartado sobre decortator**, dado que no es un patrón que trabajemos en la cursada
