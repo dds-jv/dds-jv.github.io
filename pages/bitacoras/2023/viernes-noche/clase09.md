@@ -30,8 +30,7 @@ Finalmente, trabajaremos sobre tareas programadas.
 - Observer, página 269
 
 
-## Temas bonus
-
-_(Porque por los feriados no entraron)_
+## Para la próxima clase
 
 - Ver [Diseño y metodologías de desarrollo](https://docs.google.com/document/d/11PQO8NPSOV4SW0ZwtFsh4RCtWubuEBV6E5qPicqJNKs/edit)
+- Leer [el enunciado de Noodle](https://docs.google.com/document/d/1-Qpv38kB29lNuzIi88TkTg4LGbO_iNijoVesZyvG5wM/edit#heading=h.3sssitpwxf4t). Idealmente, comenzar a pensar una solución. 
