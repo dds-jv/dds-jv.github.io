@@ -4,7 +4,9 @@ title: Parte A
 description: Algunos Enunciados
 permalink: /enunciados/parte-a
 ---
-- [Firmadocs](https://docs.google.com/document/d/1KF_apBjJLVBNTQrO4bGyKVZC_r9nRXGJjpRDNl7yEX0/edit#heading=h.cj431gdbfa8)
+- [Noodle](https://docs.google.com/document/d/1-Qpv38kB29lNuzIi88TkTg4LGbO_iNijoVesZyvG5wM/edit#heading=h.3sssitpwxf4t) (2021).
+   - [Una posible solución](https://docs.google.com/document/d/1MLHePD5Sh37bBthZEx-sukcc4O6XV3r9g_Dxuwqq-Z0/edit#heading=h.hbopxauou1j5)
+- [Firmadocs](https://docs.google.com/document/d/1KF_apBjJLVBNTQrO4bGyKVZC_r9nRXGJjpRDNl7yEX0/edit#heading=h.cj431gdbfa8) (2020)
 - [Basher (2019)](https://docs.google.com/document/d/1qf-2U2S_XIpJAMSsYF0bWerjqIu7_jLvVVXfLSkMpIk)
 - [Copia.me (01-06-2018)](https://docs.google.com/document/d/1NIgfMwyokaJ5U1oFXCGDVOIt5Pbh80Aat6o-v8MOqYk/edit)
    - [Soluciones posibles](https://docs.google.com/document/d/1t7oUyhheEcPjoj2XzNu0x4pB_BGTUmbjhDjskDB2k1I/edit#heading=h.xxux6vkwpsjl)
