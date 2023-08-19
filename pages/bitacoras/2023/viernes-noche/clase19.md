@@ -5,36 +5,21 @@ description: Viernes (Noche, 2023)
 permalink: /bitacoras/2023/viernes-n/clase-19/
 ---
 
+# Resumen
 
+En esta clase y subsiguientes, vamos a cambiar un poco el enfoque para empezar a charlar sobre temas de _Arquitectura_. Entendiendo cómo diseño de arquitectura, el diseño (y sus decisiones) de lo más importante. Es decir sus componentes, relaciones, comunicaciones y cómo tiene injerencia, no solo en las piezas de software sino en los componentes de hardware, tecnologías, costos y contexto.
 
-## Resumen
+En particular presentaremos y mostraremos en vivo un **balanceador de carga:**: un dispositivo de Hardware o Software especializado que permite distribuir la carga de trabajo a los diferentes nodos a partir de un algoritmo.
 
-En esta clase cerramos nuestro estudio de UI MVC Web con [Spark](http://sparkjava.com/).
+# Material
 
-Entenderemos cómo funcionan las sesiones HTTP como forma de simular estado en un protocolo _stateless_. Además integraremos nuestras vistas con la persistencia, utilizando transacciones para las operaciones mutables.
+- [Presentación de la clase](https://docs.google.com/presentation/d/1dFweT7Jg4CwG2pwUuzsPiopA1p-bkVX9QlwkCySuizU/edit)
+- [Arquitecturas Concurrentes, Episodio 1: El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
+- [Comunicación de decisiones arquitectónicas]({{site.baseurl}}/attachments/ComunicandoDecisionesArquitectonicas.pdf)
+- **Opcional** [Introducción a arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE/edit#heading=h.z9jwy1eurzt9)
+- [Demo de nginx](https://github.com/flbulgarelli/nginx-sample)
 
-Por último, dejaremos un video sobre la temática de **usabilidad y experiencia de usuario** (UI/UX).
+# Para la próxima clase
 
-## Material
-
-- [Presentación](https://docs.google.com/presentation/d/1Dxn15lJcvpZVgUH9nOAHQxWdQQMEuF4H6M50075yqco/edit#slide=id.gf9c2586648_0_28)
-- [Anotaciones de clase](https://excalidraw.com/#json=D3P7x39HN5r5l-e0f3J4i,5o1sc7RgLK5JPQNKhBqngA)
-- [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
-- [Documentación de Spark](http://sparkjava.com/documentation)
-- [Código de clase](https://github.com/dds-utn/spark-web-proof-of-concept) (hay varias ramas)
-
-## Material complementario sobre CSS
-
-- [Intro a CSS](https://www.w3schools.com/css/css_intro.asp)
-- [Página de consulta sobre CSS](https://css-tricks.com/almanac/)
-- [Display](https://www.w3schools.com/css/css_display_visibility.asp)
-- [Flexbox](https://flexbox.io/): Videos introductorios sobre flexbox (los primeros 8 videos son los más importantes)
-- [Práctica Flexbox](https://flexboxfroggy.com/#es)
-- [CSS Zen Garden](http://www.csszengarden.com/)
-
-
-## Para la próxima clase
-
-* Leer [El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
-* Opcional: [Introducción a arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE/edit#heading=h.z9jwy1eurzt9)
-* Leer [EntregasYaYaYa](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit#heading=h.tvlfd8lfshb0)
+- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing). Hacer **EntregaYaYaYa**, **Shera**, y **Rekomendashi**
+  - [Soluciones](https://drive.google.com/drive/folders/1mI6cDlBqdsmv_tp-BTXqCVhTFplpylN6)
