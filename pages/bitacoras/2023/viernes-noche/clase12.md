@@ -17,6 +17,35 @@ En esta oportunidad estudiamos cómo conectarnos con un RDBM utilizando un ORM:
 - Aprendimos cómo persistir objetos y realizar tests sobre ellos
 - Conversamos sobre cambios al modelo de objetos devenidos del mapeo relacional
 
+## Hoja de Ruta
+
+- JDBC
+  - Sirve para Conectarnos a Bases de Datos (Relacionales)
+  - Sigue la idea del patrón adapter
+    - Oracle
+    - SqlServer
+    - Postgre
+    - MariaDB
+    - HSQLDB
+  - Adapta muy poquitas cosas y aún tenemos que gestionar buena parte de la desadaptación de impedencia a mano (impedance missmatch)
+
+- JPA
+  - Se para encima de JDBC
+  - Resuelve muchos más problemas de impedance missmatch
+  - Nos da una mejor capa de abstracción del motor de base de datos
+
+En definitiva las tecnologías que estamos usando se relacionan así:
+
+```
+JPA -> Hibernate -> JDBC -> HSLQDB/MySQL/MariaDB/Postgre
+ |                   |
+ |                   +- (cadenas de conexión y drivers)
+ |
+ +--- Anotaciones
+ +--- Dependencias
+ +--- Archivo de configuración persistence.xml
+```
+
 ## Material
 
 - [Presentación utilizada](https://docs.google.com/presentation/d/1UdFd8EKeeDTvrpY0w46BzA7Fr-X7UjCvb-8lw-jrb3o/edit#slide=id.g35f391192_00)
