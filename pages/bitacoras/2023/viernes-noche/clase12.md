@@ -56,10 +56,9 @@ JPA -> Hibernate -> JDBC -> HSLQDB/MySQL/MariaDB/Postgre
    - [Fútbol versión JDBC](https://github.com/dds-utn/eg-equipos-futbol-jdbc-java)
    - Paso a paso:
       - [Mapeos básicos](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md)
-         - [Versión en alternativa](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-en-clase-2022-08-26)
+         - [Versión en clase](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-en-clase-2023)
       - [Colecciones](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
-         - [Versión en alternativa](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-en-clase-2021-08-26)
-
+         
 
 ## Para la próxima clase 📅
 
