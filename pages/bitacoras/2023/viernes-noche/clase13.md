@@ -21,7 +21,8 @@ Además incorporamos el concepto de mapeo de herencia `Inheritance` y enums  (`E
 - [Presentación](https://docs.google.com/presentation/d/1v7fZvU_-kKjSHXKQBXhQpwsq0Taizm6TgWSTSRwrdzE/edit)
   - [Presentación del Jueves](https://docs.google.com/presentation/d/14xaa6U5DOsKBPnenWADOILN9vt-mNMYTyR4VjHOTOQ8/edit)
 - Código utilizado:
-  - [Primera parte](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
+  - [Primera parte](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-sin-mapeos)
+    - [Solución](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
   - [Segunda parte](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia-sin-mapeos)
     - [Solución](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia)
     - [Alternative enums](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia-alternativa-enums)
