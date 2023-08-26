@@ -14,7 +14,30 @@ En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnolog
  - Mapeos de colecciones (`OneToMany` y `ManyToMany`)
  - Orden de colecciones (`OrderColumn`)
 
-Además incorporamos el concepto de mapeo de herencia `Inheritance` y enums  (`Enumerated`): ver [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido-herencia/README.md#parte-3-herencia)
+Además incorporamos el concepto de mapeo de herencia `Inheritance` y enums  (`Enumerated`): ver [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido-herencia/README.md#parte-3-herencia).
+
+Mencionamos algunos corolarios:
+
+Mapeo de herencia:
+
+- corolario 1:  solo nos importa considerar el mapeo de herencia cuando
+  - atributo persistente
+  - de una clase persistente
+  - tipado con un tipo polimórfico
+
+
+- corolario 2:
+  - solo la single table TIENE discriminador
+
+- corolario 3:
+  - en Joined, las tablas "hijas" tiene un ID que es tanto PK como FK
+
+
+- corolario 4:
+ - NO existe el mapeo de polimorfirmo, sólo de herencia
+ - Si queremos mapear una interfaz con las mismas restricciones del corolario 1, tenemos que realizar algún tipo de conversión:
+    - Opción 1: convertir la interfaz en un enum polimórfico (muy limitada, muy limitante)
+    - Opción 2: convertir nuestra interfaz en una clase abstracta (malas noticias: no siempre se puede)
 
 ## Material
 
