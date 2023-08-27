@@ -24,18 +24,13 @@ Mapeo de herencia:
   - atributo persistente
   - de una clase persistente
   - tipado con un tipo polimórfico
-
-
 - corolario 2:
   - solo la single table TIENE discriminador
-
 - corolario 3:
   - en Joined, las tablas "hijas" tiene un ID que es tanto PK como FK
-
-
 - corolario 4:
- - NO existe el mapeo de polimorfirmo, sólo de herencia
- - Si queremos mapear una interfaz con las mismas restricciones del corolario 1, tenemos que realizar algún tipo de conversión:
+  - **NO** existe el mapeo de polimorfirmo, sólo de herencia
+  - Si queremos mapear una interfaz con las mismas restricciones del corolario 1, tenemos que realizar algún tipo de conversión:
     - Opción 1: convertir la interfaz en un enum polimórfico (muy limitada, muy limitante)
     - Opción 2: convertir nuestra interfaz en una clase abstracta (malas noticias: no siempre se puede)
 
