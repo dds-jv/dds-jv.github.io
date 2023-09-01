@@ -12,7 +12,6 @@ En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnolog
  - Mapeos sencillos (tipos primitivos)
  - Mapeo de relaciones simples (`OneToOne` y `ManyToOne`)
  - Mapeos de colecciones (`OneToMany` y `ManyToMany`)
- - Orden de colecciones (`OrderColumn`)
 
 Además incorporamos el concepto de mapeo de herencia `Inheritance` y enums  (`Enumerated`): ver [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido-herencia/README.md#parte-3-herencia).
 
@@ -43,6 +42,7 @@ Mapeo de herencia:
     - [Solución](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
   - [Segunda parte](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia-sin-mapeos)
     - [Solución](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia)
+    - [Solución en clase](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia-en-clase-2023)
     - [Alternative enums](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-herencia-alternativa-enums)
 - [Guía de anotaciones](https://docs.google.com/document/d/1jWtehhVCFYECKvpdcCxnEgWZFCv2fR2WPyUJSoiX3II/edit#heading=h.r09lefmcufkn).
 - [Apunte: Incorporar JPA a nuestra solución](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit?ts=57e1f2b8#heading=h.kkyach7i1h8n)
