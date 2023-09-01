@@ -6,11 +6,10 @@ permalink: /bitacoras/2023/viernes-n/clase-14/
 ---
 
 
-
 ## Resumen
 
-En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnología JPA/Hibernate. Además incorporamos los conceptos de valores y entidades (_value_ object vs _entities_). Además, encaramos un parcial como ejercicio integrador.
-
+En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnología JPA/Hibernate. Presentamos la anotación (`OrderColumn`)
+ e incorporamos los conceptos de valores y entidades (_value_ object vs _entities_). Además, encaramos un parcial como ejercicio integrador.
 
 ## Material
 
