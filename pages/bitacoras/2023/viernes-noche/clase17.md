@@ -162,10 +162,10 @@ Spark.post("/consultoras", consultorasController::crear);
   }
 ```
 
-* Manejo declarativo de transacciones. No usar explícitamente `transaction.begin()`, `transaction.commit()`, `transaction.rollback()`. En su lugar utilizar `SimplePersistenceUnit` y `withTransaction`:
+* Manejo declarativo de transacciones. No usar explícitamente `transaction.begin()`, `transaction.commit()`, `transaction.rollback()`. En su lugar utilizar `WithSimplePersistenceUnit` y `withTransaction`:
 
 ```java
-public class ConsultorasController implements SimplePersistenceUnit {
+public class ConsultorasController implements WithSimplePersistenceUnit {
 
   // ...
 
