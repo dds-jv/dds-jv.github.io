@@ -187,6 +187,7 @@ public class ConsultorasController implements WithSimplePersistenceUnit {
     - De nuevo (repaso de Spark y cómo y por qué separar en controladores): [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
 - [Código: consultoras con soporte transaccional para Java 17](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras-transaccional)
 - [Código: consultoras para Java 17](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras-sin-login)
+- [Código: base de Java 17 + Spark + JPA](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/jpa-spark-java-17)
 - [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0)
   - [Tutorial de Grid](https://cssgridgarden.com/#es)
   - [Tutorial de Flex](https://flexboxfroggy.com/#es)
