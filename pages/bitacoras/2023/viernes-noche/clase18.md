@@ -11,7 +11,10 @@ permalink: /bitacoras/2023/viernes-n/clase-18/
 
 En esta clase cerramos nuestro estudio de UI MVC Web con [Spark](http://sparkjava.com/).
 
-Entenderemos cómo funcionan las sesiones HTTP como forma de simular estado en un protocolo _stateless_. Además integraremos nuestras vistas con la persistencia, utilizando transacciones para las operaciones mutables.
+
+Por un lado, realizamos un ejercicio: [QMP8](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/qmp-web).
+
+Por otro lado, repasamos (la explicación completa está en el video subido al webcampus) cómo funcionan las sesiones HTTP como forma de simular estado en un protocolo _stateless_. Además integraremos nuestras vistas con la persistencia, utilizando transacciones para las operaciones mutables.
 
 Por último, dejaremos un video sobre la temática de **usabilidad y experiencia de usuario** (UI/UX).
 
@@ -21,7 +24,8 @@ Por último, dejaremos un video sobre la temática de **usabilidad y experiencia
 - [Anotaciones de clase](https://excalidraw.com/#json=D3P7x39HN5r5l-e0f3J4i,5o1sc7RgLK5JPQNKhBqngA)
 - [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
 - [Documentación de Spark](http://sparkjava.com/documentation)
-- [Código de clase](https://github.com/dds-utn/spark-web-proof-of-concept) (hay varias ramas)
+- [Ejercicio de QMP8](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/qmp-web)
+    - [Resolución del login](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/qmp-web-con-login)
 
 ## Material complementario sobre CSS
 
