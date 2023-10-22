@@ -29,5 +29,6 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 16: Introducción a Spark y MVC Web]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-16)
 - [Clase 17: UI Web: Templating]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-17)
 - [Clase 18: UI Web: Sesión y transacciones]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-18)
-- [Clase 19: Introducción a la arquitectura y su documentación]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-19)
-- [Clase 20: Integración de sistemas]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-20)
+- [Clase 19: Arquitectura: Introducción y su documentación]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-19)
+- [Clase 20: Arquitectura: Integración de sistemas]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-20)
+- [Clase 20: Arquitectura: Caching]({{site.baseurl}}/bitacoras/2023/viernes-n/clase-21)
