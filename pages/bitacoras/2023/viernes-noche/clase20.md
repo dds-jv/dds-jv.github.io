@@ -20,7 +20,8 @@ Para introducir este conceptos vamos a estar trabajando con los ejercicios de *S
 - [Listado de componentes arquitecturales comunes](https://docs.google.com/document/d/1LWr7tDy47qFQt8Y1XOGFWCra9NQkugqsSxSPt9QMiKs/edit#heading=h.n9ul1ib5i4m)
 - [Demo de caché](https://github.com/flbulgarelli/cache-samples)
 - [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing).
-    - [Soluciones](https://drive.google.com/drive/folders/1mI6cDlBqdsmv_tp-BTXqCVhTFplpylN6) (No leer sin antes intentar resolver los ejercicios)
+    - [Soluciones](https://docs.google.com/document/d/1zQPyGbnyKMsMNedsSnFWLobyGUUU2KTuGOyoPIsvnSw/edit#heading=h.o8eoqhxo0gxt) (No leer sin antes intentar resolver los ejercicios)
+    - [Resolución en clase](https://docs.google.com/document/d/1ORo7-7Vq0Bv9Cdxa_EsIDpldrWRVKCayPZj1pvgUW_s/edit)
 
 # Para la próxima clase
 
