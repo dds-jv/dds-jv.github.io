@@ -26,6 +26,7 @@ Para introducir este conceptos vamos a estar trabajando con los ejercicios de *S
 # Para la próxima clase
 
 - [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing). Hacer **Librerías Bustos Domecq**
+- [Listado de componentes arquitecturales comunes](https://docs.google.com/document/d/1LWr7tDy47qFQt8Y1XOGFWCra9NQkugqsSxSPt9QMiKs/edit#heading=h.n9ul1ib5i4m). Leer _colas de mensajes_ y _monitores y supervisores_.  
 
 # Material bonus
 
