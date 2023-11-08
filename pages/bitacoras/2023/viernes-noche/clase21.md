@@ -7,9 +7,12 @@ permalink: /bitacoras/2023/viernes-n/clase-21/
 
 # Resumen
 
-En esta clase vamos a hablar de integración de aplicaciones y sus patrones arquitecturales. En particular, presentamos el concepto de **Cola de mensajes**, componente arquitectónico que nos ayudará a descoplar componentes que producen y consumen información a velocidades diferentes. Para introducir estos conceptos vamos a estar trabajando con el ejercicio de **Librerías Bustos Domecq**. 
+En esta clase vamos a hablar de integración de aplicaciones y sus patrones arquitecturales. En particular, presentamos el concepto de **Cola de mensajes**, componente arquitectónico que nos ayudará a descoplar componentes que producen y consumen información a velocidades diferentes. Veremos también como las comunicaciones asincrónicas y orientadas a eventos nos permiten otras formas de integración de aplicaciones y microservicios. 
 
-Además, discutiremos sobre herramientas de monitoreo y supervisión y su importancia para asegurar la robustez del sistema, y más particularmente, su tolerancia a fallos, disponibilidad y trazabilidad. 
+Por último, discutiremos sobre herramientas de monitoreo y supervisión y su importancia para asegurar la robustez del sistema, y más particularmente, su tolerancia a fallos, disponibilidad y trazabilidad. 
+
+Para introducir estos conceptos vamos a estar trabajando con el ejercicio de **Librerías Bustos Domecq**. 
+
 
 # Material
 
