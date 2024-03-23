@@ -23,23 +23,13 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 
 # Resumen
 
-1. Presentamos la materia:
-
-    En esta materia vamos a enfocarnos en aprender a diseñar un sistema, haciendo hincapié en el software pero sin olvidar el contexto no automatizado. Estudiaremos y debatiremos diferentes problemas y soluciones comunes a ellos y nos adentraremos en el manejo de diferentes tecnologías fundamentales para la construcción de aplicaciones en la industria de hoy. Finalmente haremos una breve incursión en nociones arquitecturales de software y sus aplicaciones.
-
-2. Introducimos la noción de diseño
-
-    Diseñar es tomar decisiones entre distintas alternativas de solución, ponderando sus cualidades
-
+1. Presentamos la materia: vamos a enfocarnos en aprender a diseñar un sistema, haciendo hincapié en el software pero sin olvidar el contexto no automatizado. Estudiaremos y debatiremos diferentes problemas y soluciones comunes a ellos y nos adentraremos en el manejo de diferentes tecnologías fundamentales para la construcción de aplicaciones en la industria de hoy. Finalmente haremos una breve incursión en nociones arquitecturales de software y sus aplicaciones.
+2. Introducimos la noción de diseño: _Diseñar es tomar decisiones entre distintas alternativas de solución, ponderando sus cualidades_
 3. Nos introducimos a los sistemas software, su arquitectura y sus metodologías de desarrollo.
-
-4. Hacemos foco en la idea del desarrollo iterativo e incremental
-    * Analizar, diseñar, construir, testear.
-    * Su motivación y aplicabilidad.
-    * Limitaciones de su contexto.
-5. Hablamos sobre la importancia del software en el diseño de un sistema.
-6. Hablamos sobre cómo la tecnología no define el diseño pero sí lo condiciona fuertemente
-
+4. Mencionamos la idea del desarrollo iterativo e incremental, y cómo nos basaremos en ésta para la implementación del trabajo práctico. 
+5. Hablamos sobre la omnipresencia del software dentro de los sistemas informáticos, sin dejar de lado que siempre habrá aspectos no automatizables. 
+6. Hablamos sobre cómo el software tiene implicancias políticas y sociales, las cuales no podemos soslayar
+7. Repasamos los diagramas de clases y el concepto de pseudocódigo, y cómo estas son herramientas para comunicar un diseño 
 
 # Material
 
@@ -53,7 +43,8 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 
 * [¡Repasá Objetos!](https://www.pdep.com.ar/material/apuntes)
     * En partircular, repasá [los mensajes de colecciones de Wollok](https://docs.google.com/document/d/1oJ-tyQJoBtJh0kFcsV9wSUpgpopjGtoyhJdPUdjFIJQ/edit)
-* Hacé el ejercicio de [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU)
+    * Como material de lectura complementario, sugerimos el libro _Object Design: Roles, Responsibilities and Collaborations_, de Rebecca Wirfs-Brock and Alan McKean. 
+* Terminar el ejercicio de [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU)
 * Leé el [apunte de Java](https://docs.google.com/document/d/1VYBey56M0UU6C0689hAClAvF9ILE6E7nKIuOqrRJnWQ).
     * Y tené siempre a mano la [guía de colecciones de Java](https://docs.google.com/document/d/1Tn4hhyEwbAm1OBhqz2Yu2NIrY_AX2hArwUMEtZadtLk/edit#heading=h.84nijkpu6fvo)
 * Para la construcción del proyecto Java vamos a usar [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/)
@@ -62,3 +53,5 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 * Si aún no usaste Git, es importante que [leas ésta introducción](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit#heading=h.r9wuhoi4rpgq)
 * Leé el apunte que explica como [Comunicar un diseño](https://docs.google.com/document/d/1eXLlNppAX-7E2M8Xxs0MCckdn4XVEYmeQNaS_E1RqTc/edit)
 * Leé el apunte que explica las [Cualidades de diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw)
+
+
