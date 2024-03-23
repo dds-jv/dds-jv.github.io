@@ -27,3 +27,4 @@ permalink: /bitacoras/2024/viernes-n/clase-04/
 - [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
 - [Ejemplos Code Smells](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
 - [Ejercicio Monedero](https://github.com/dds-utn/dds-monedero-java8)
+- [QMP: Tercera Iteración](https://docs.google.com/document/d/1XGb_Xt2v3viZY4RNky6zguL-ATv1iqEzHWhK4a6vsIk/edit#)
