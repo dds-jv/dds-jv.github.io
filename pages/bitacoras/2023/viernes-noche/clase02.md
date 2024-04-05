@@ -29,7 +29,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 # Material
 
-- [Presentación](https://docs.google.com/presentation/d/1_RqovrnLXMbWp9VtVommoxWUiqcDXKJcIpPdSsPPoSs/edit?usp=sharing)
+- [Presentación](https://docs.google.com/presentation/d/1l4etWvZz0KTu7MGWct1wBusg1hXFRZYw_7g-2d-mm8U/edit#slide=id.g35f391192_00)
 - [Video de Template y Strategy](https://www.youtube.com/watch?v=NZRYknYXX90)
 - [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit)
 	- _Complementario: [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
