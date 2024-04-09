@@ -14,16 +14,23 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 # Resumen
 
 - Aprendimos sobre cualidades de diseño y sobre cómo comunicarlo.
-- Evacuamos dudas y consultas de Macowins
+- Evacuamos dudas y consultas sobre Java y Maven. En particular, recalcamos que es una herramienta de gestión de dependencias y de construcción de proyectos, que ofrece comandos como:
+
+
+```bash
+# para instalar dependencias y proyectos
+mvn install
+# ejecutar pruebas
+mvn test
+# empaquetar al proyecto
+mvn package
+```
+
+- Hablamos sobre cualidades de diseño. Hablamos sobre la correlación positiva y negativa: son pocos los pares de cualidades (si es que siquiera existen) en que siempre una va a ir en contra o a favor de la otra. En general, tenemos que estudiar la correlación entre las cualidades de forma situada. ¿Hay una solución ideal? No ¿Buscaremos producir una única solución? Tampoco. El objetivo es comparar, formar criterio y lograr pensamiento crítico.
 - Abordamos el concepto de _Patrones de Diseño_.  Dentro de estos patrones, vimos:
    - Strategy (estrategia): solución basada en composición. No toda composición es un strategy.
    - Template method (método plantilla): solución basada en herencia con clase abstracta que tiene un método concreto. No toda herencia ni herencia de clase abstracta es un template method.
 - Hablamos sobre la importancia de pensar los patrones desde la semántica y no solamente desde las estructuras.
-- Abordamos las cualidades de diseño. En particular, charlamos bastante sobre:
-   - Simplicidad
-   - Flexibilidad, extensibilidad
-   - Abstracción: que el nombre de las abstracciones, su estado y su comportamiento esté semánticamente vinculado.
-    - Mutaciones controladas: minimizar los cambios accidentales (es decir, innecesarios) en los objetos de nuestro dominio. Siempre que se pueda modelar de forma “funcional”, con objetos sin estado, o estado que no cambia, mejor, porque hace más sencillo razonar sobre el código
 - Repasamos soluciones basadas en composición vs herencia.
   - Ventajas y desventajas de cada una: las primeras son más dinámicas, mientras que las segundas son estáticas.
 
@@ -46,7 +53,8 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 # Tarea
 
-* [Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ)
-* Mirá el video [Desafiando los algoritmos de opresión](https://www.youtube.com/watch?v=iRVZozEEWlE)
+* [Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ). ¡Traelo hecho para la clase que viene!
+* Mirá el video [Desafiando los algoritmos de opresión](https://www.youtube.com/watch?v=iRVZozEEWlE) (Tiene subtítulos automáticos, no son los mejores pero se entiende bastante bien). ¡Lo charlamos en clase!
+* Dale un nuevo vistazo al apunte de [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit): lanzamos una nueva versión. 
 * Y leé el apunte sobre [Diseño de manejos de errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#heading=h.x500jbxzopra)
   * _Complementario_: [Excepciones en Java](https://docs.google.com/document/d/1G0a9j-OA0rIEA5cdvEhIMbztJVo86ssvZKBK8HL9akg/edit)
