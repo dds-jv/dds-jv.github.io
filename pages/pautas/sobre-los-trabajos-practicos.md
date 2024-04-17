@@ -16,11 +16,12 @@ La materia contará con tres tipos de trabajos prácticos:
 2. Entregas individuales de TPs de implementación (TPI): 3 por cuatrimestre
     * Las mismas serán evaluadas de forma automática a través de Github Classroom
     * Para **aprobar** es necesario tener 2 de cada tres entregas cuatrimestrales aprobadas en tiempo y forma.
-3. Ejercicios semanales de diseño: hasta 7 entregas por cuatrimestre
-    * Las mismas serán evaluadas en clase, seleccionando una por grupo
-    * Para **aprobar** es necesaria al menos una entrega individual por grupo
-    * Para **promocionar** es necesario tener el 50% de las entregas individuales por cuatrimestre
+3. Ejercicios semanales de diseño: **hasta** 7 entregas por cuatrimestre
+    * Las mismas serán evaluadas en clase, individual o grupalmente. 
+    * Estas entregas **no** son requeridas para **aprobar**
+    * Para **promocionar** es necesario haber hecho al menos 50% de las entregas individuales por cuatrimestre (las cuales se enviarán a través de los formularios que se publicarán semana a semana)
     * La mayoría de ellas serán sobre el ejercicio iterativo "Qué Me Pongo" (QMP), aunque algunas semanas podrán ser sobre otros problemas. 
+
 
 # Sobre las buenas prácticas
 
@@ -29,13 +30,14 @@ Es posible que durante la cursada se adviertan algunas cuestiones, aunque de igu
 > Algunos aspectos dependen de la tecnología, por lo que para otro lenguaje y/o IDE deberían averiguarlo por su cuenta.
 
 ## No usen `for` e `if` para operar sobre colecciones
-En su lugar, usen `lambda` y `stream` (de hecho, la introducción del uso _sencillo_ de `lambdas` fué uno de los argumentos por los que comenzamos a utilizar Java 1.8).
+
+En su lugar, usen `lambda` y `stream` (de hecho, la introducción del uso _sencillo_ de `lambdas` fué uno de los argumentos por los que comenzamos a utilizar Java 1.8+).
 
 La justificación debería ser supérflua a ésta altura, pero utilizando éste tipo de mecanismos obtienen un código con menos detalles algorítmicos que el que tendría uno que use `for` e `if` para cualquier operación sobre colecciones.
 
-¿Cómo se llama este concepto? Es fácil, empieza con **d** y termina con **eclaratividad**.
+¿Cómo se llama este concepto? Es fácil, empieza con **d**... y termina con **eclaratividad**.
 
-La declaratividad es buena. Aplíquenla ;).
+La declaratividad es buena. ¡No se olviden de aplicarla 😄!
 
 ## Por favor, tabulen
 
@@ -70,6 +72,7 @@ Aunque, si necesitan un comportamiento particular de la clase concreta, debería
 Vean ésta [discusión en StackOverflow](https://stackoverflow.com/questions/3383726/java-declaring-from-interface-type-instead-of-class), que es muy clara al respecto.
 
 ## Tengan un uso consciente de los modificadores de visibilidad
+
 _En Java: `public`, `private`, `protected` y `package`._
 
 Algunas reglas básicas:
@@ -79,11 +82,27 @@ Algunas reglas básicas:
 
 Como regla general, lo que ustedes quieren es darle la visibilidad más privada posible al componente que sea. Para tomar un ejemplo, si tienen un método público que no era utilizado por nadie salvo por otros métodos dentro del mismo objeto y lo dejo público, mas adelante otro programador (o ustedes mismos en el futuro) puede estar tentado a usarlo. Si en el día de mañana ustedes quieren cambiar la lógica de este método, van a tener que evaluar el impacto en todos los otros objetos que utilizaron a este método (lo de siempre: acoplamiento, mantenibilidad, etcétera).
 
-# Sobre Java en particular
-
 ## No usar `Calendar` o `java.util.Date`
 
 Ambas son clases _antiguas_ con varias falencias de diseño. A partir de Java 1.8 debemos usar la nueva API: `LocalDate`, `LocalDateTime`, `Month`, etcétera.
 
 [Acá hay una entrada de blog](http://blog.eddumelendez.me/2016/07/conociendo-la-nueva-date-api-en-java-8-parte-i/) que explica muy claro el tema y detalla a la API.
 
+## Nunca lancen `Exception`
+
+Asegúrense de siempre lanzar [`RuntimeException`](https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeException.html)s o sus subclases, como [`IllegalArgumentException`](https://docs.oracle.com/javase/8/docs/api/java/lang/IllegalArgumentException.html) o excepciones personalizadas. En particular: 
+
+ * No lancen `Throwable`, por ser demasiado genérica
+ * No lancen `Exception`, porque obliga a agregar `throws` a la firma de los métodos
+ * No lancen `Error`, porque semánticamente se reserva a problemas graves y propios de la plataforma que jamás deberían ser manejados. 
+
+## No redefinan `equals` ni `hashCode`...
+
+...salvo que lo estén haciendo a conciencia. En Java, al redefinir la noción de equivalencia es necesario reimplementar el método `hashCode`, por lo que siempre que se redefina uno, se debe redefinir el otro. Pero, en cualquier caso, estas redefiniciones no son triviales, con lo cual dejamos esta serie de sugerencias: 
+
+  1. No redefinian ni `equals` ni `hashCode`
+  2. ...pero sí aún así decidieran hacerlo
+     1. Redefinan los dos a la vez
+     2. Usen en ambas implementaciones [`Objects.equals`](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#equals-java.lang.Object-java.lang.Object-) y [`Objects.hashCode`](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#hashCode-java.lang.Object-), respectivamente
+
+  
