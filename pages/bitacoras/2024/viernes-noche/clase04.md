@@ -8,13 +8,15 @@ permalink: /bitacoras/2024/viernes-n/clase-04/
 
 # Resumen
 
+- Resolvimos algunas dudas más de QMP1.
+- Hablamos sobre la situación crítica del presupuesto universitario 
 - Explicamos _creación_, _instanciación_ e _inicialización_.
 - Mostramos algunos patrones creacionales: _Builder_ y _Singleton_
 - Evacuamos dudas y consultas de QMP Segunda Iteración
 
 # Material
 
-- [Presentación](https://docs.google.com/presentation/d/17rXxYFpasUGowZKjE6kFY9sF5JWOOZKqI9sv0OTU5N8)
+- [Presentación](https://docs.google.com/presentation/d/11khwAxqgbNdD7tqkgkaTlvoa1u3x1YjjW1J8TzJnQQQ/edit#slide=id.g35f391192_00)
 - [Patrones creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit#)
 - [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
 - [Solución explicada a QMP Segunda Iteración](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM/edit)
@@ -29,3 +31,5 @@ permalink: /bitacoras/2024/viernes-n/clase-04/
 - [Ejemplos Code Smells](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
 - [Ejercicio Monedero](https://github.com/dds-utn/dds-monedero-java8)
 - [QMP: Tercera Iteración](https://docs.google.com/document/d/1XGb_Xt2v3viZY4RNky6zguL-ATv1iqEzHWhK4a6vsIk/edit#)
+- Vamos a mandar algunos materiales más. 
+
