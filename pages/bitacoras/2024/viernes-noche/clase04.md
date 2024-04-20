@@ -18,7 +18,8 @@ permalink: /bitacoras/2024/viernes-n/clase-04/
 - [Patrones creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit#)
 - [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
 - [Solución explicada a QMP Segunda Iteración](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM/edit)
-    - [Código en clase](https://gist.github.com/flbulgarelli/9e1f6e135bb00b098710cbf34305b857)
+    - [Código en clase (Aula 2)](https://gist.github.com/flbulgarelli/56cfcef53fb45da3fd8bf27fff58e427)
+    - [Diagrama de clase (Aula 2)](https://www.plantuml.com/plantuml/png/JOun3i8m34LtdyBgb0xb01Ngm8x4q0kOnXAH6bBPMH3YxjIaYLYYvCNlVoyhgU9D-Ea9t_01AEHAcINGkZD4D7xC35Fx-qEpKAJgNf88-IG_LpdFOKlEZhwyg-_gnVWYJ582NO_Z4Mt5BMuuxKrrrn6xipcPTUe07i4pSjpo2oF7Euj-0G00)
 
 # Tarea
 
