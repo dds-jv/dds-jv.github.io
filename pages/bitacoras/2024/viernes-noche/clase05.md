@@ -18,7 +18,7 @@ permalink: /bitacoras/2024/viernes-n/clase-05/
 - [Presentación](https://docs.google.com/presentation/d/1Y53o0lifOgAMsdTTg9v4BSR94Pnf-K44mqz1rOy8oU4/edit#slide=id.g82d3d5330f_0_705)
 - [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
 - Deuda técnica:
-   - [Deuda técnica como práctica central de la ingeniería de software](https://www.youtube.com/watch?v=OfIYiyg1op8) 
+   - [Concepto de deuda técnica](https://www.youtube.com/watch?v=OfIYiyg1op8&t=400s)
    - [Una crítica al concepto de deuda técnica](https://www.youtube.com/watch?v=DvfMOJaIzhY)
 - [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit#heading=h.6ab0fffv8tld)
 - [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
