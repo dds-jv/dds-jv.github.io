@@ -25,11 +25,13 @@ permalink: /bitacoras/2024/viernes-n/clase-04/
 
 # Tarea
 
-- [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
-- [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit#heading=h.6ab0fffv8tld)
-- [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
-- [Ejemplos Code Smells](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
-- [Ejercicio Monedero](https://github.com/dds-utn/dds-monedero-java8)
-- [QMP: Tercera Iteración](https://docs.google.com/document/d/1XGb_Xt2v3viZY4RNky6zguL-ATv1iqEzHWhK4a6vsIk/edit#)
-- Vamos a mandar algunos materiales más. 
+- 👓 **Obligatorio**: Leer [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
+- 👓 **Obligatorio**: Leer [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing
+- 👓 Deseable: Leer [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit#heading=h.6ab0fffv8tld)
+- 🖨️ Deseable: Tener a mano los [Ejemplos de Code Smells](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
+- ⌨️ **Obligatorio**: Hacer el [ejercicio Monedero](https://github.com/dds-utn/dds-monedero-java8)
+- ⌨️ Deseable: Hacer el ejercicio [QMP: Tercera Iteración](https://docs.google.com/document/d/1XGb_Xt2v3viZY4RNky6zguL-ATv1iqEzHWhK4a6vsIk/edit#)
+- 🎥 **Obligatorio**: Ver estos dos videos sobre deuda técnica:
+   - [Concepto de deuda técnica](https://www.youtube.com/watch?v=OfIYiyg1op8&t=400s) (6:40 a 9:00, aunque toda la entrevista es interesante)
+   - [Una crítica al concepto de deuda técnica](https://www.youtube.com/watch?v=DvfMOJaIzhY)
 
