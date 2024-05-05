@@ -32,9 +32,12 @@ permalink: /bitacoras/2024/viernes-n/clase-05/
 
 # Tarea
 
-- [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
-- _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
-- Patrón Adapter del Libro de Gamma (ver nota en el formulario de seguimiento)
-- [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
-- _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
-- [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
+- Lectura: [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
+   - _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
+- Lectura: Patrón Adapter del Libro de Gamma (ver nota en el formulario de seguimiento)
+- Lectura: [Testing (incluye Impostores y testing en JUnit)]({{site.baseurl}}/apuntes/validacion)
+   - _Complementario: [Mocks aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)_
+- Lectura: Ingeniería de Software, Ian Sommerville, Ética en la ingeniería de software (sección 1.2, páginas 14 a 19)
+   - [Enlace en Academia.edu](https://www.academia.edu/25063155/Ingenieria_de_Software_Somerville) (el cual refiere a su vez al [Código de conducta de ACM](https://ethics.acm.org/code-of-ethics/software-engineering-code/))
+   - Complementario: [Ethics: Why Software Engineers Can’t Afford to Look Away](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372461&tag=1)
+- Ejercicio: [Qué Me Pongo: Cuarta Iteración](https://docs.google.com/document/d/1sy9S9EeIQr8fhatKnfTCgOfjVniJDu2viI-Av0gn0xY/edit)
