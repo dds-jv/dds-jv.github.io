@@ -36,14 +36,34 @@ Dado que virtualmente cualquier operación en un sistema puede ser pensada como 
   * que las acciones sean mayormente independientes entre sí (esto se estudiará en mas detalle en la siguiente clase)
   * en suma, que no exista un vínculo rígido entre los eventos y sus reacciones (o lo que es casi lo mismo, entre los observables y sus observadores) y que por tanto, busquemos desacoplar los primeros de los segundos. 
 
-Luego, trabajamos en particular una posible implementación de la noción de eventos en la programación con objetos: el patrón _observer_. En este patrón: 
+Los eventos, en un sentido de cualidades de diseño, son algo chiquito, pero sirve para cosas muy poderosas/heavies como recopilar datos, analytics, trazabilidad, explotación de datos y extractivismo digital, vigilancia, inversión de control, o simplemente desacoplamiento.
+
+
+Luego, trabajamos en particular una posible implementación de la noción de eventos en la programación con objetos: el patrón _observer_. En este patrón...
+
+> que no es la única forma, existen otras formas de implementar eventos, como callbacks, reactores, programación reactiva, etc
+
+...se cumple que: 
 
   * el observable notifica uno o más tipos de eventos diferentes
   * estos eventos podrían notificarse muchas veces, una vez, o incluso ninguna
   * el _observable_ se caracteriza por exponer mensajes que permiten la suscripción de observadores, que típicamente siguen algún patrón de nombres del estilo:
-     * `agregarSuscriptor` / `agregarObservador`
+    * Cuando el observable produce un único tipo de evento o existe una única interfaz que lo observa: `agregarSuscriptor` / `agregarObservador` / `registrarSuscriptor` / `addListener` / etc
+    * Cuando el observable produce múltiples tipos de eventos o existen múltiples interfaces que lo observan: 
+      * `agregarSuscriptorDe${EventoX}` / `agregarObservadorDe${EventoX}` / `registrarSuscriptorDe${EventoX}` / `add${EventoX}Listener` / etc
+      * `on${EventoX}` / `ante${EventoX}`: un poco menos evidente, pero igualmente común
+  * el _observador_ se caracteriza por entender un mensaje _manejador_ (_handler_) por cada tipo de evento ante el cual puede reaccionar. En general, estos métodos deben tener `void` por retorno, es decir, no deben retornar nada. Acá nuevamente existen diferentes convenciones: 
+      * `run` / `call` / `execute` / etc: no es lo más común (dado que son nombre con una semántica más próxima a una _cosificación de comportamiento_), pero en ocasiones puede verse de esa forma si el observador sólo soporta un tipo de evento
+      * `notify` / `notify${EventoX}`: semánticamente más correcto y un poco más frecuente (de hecho, así se puede encontrar en varias ediciones del catálogo de patrones GOF)
+      * nuevamente `on${EventoX}` / `ante${EventoX}`. Esta forma es bastante común también, aunque a diferente del item anterior, en que se usaban para registrar observadores, acá tendrán otra firma: recibirán la notificación en lugar del observador. 
 
-Además recuperamos la idea de _Repositorios_, objetos globales que nos permiten conocer todas las instancias de cierto tipo, generando un objeto cohesivo responsable de esa tarea.
+
+Esto nos arroja cuatro corolarios: 
+
+  * No existe una interfaz bien definida y genérica para los observables; lo que los hace observables es justamente su capacidad de registrar observadores. 
+  * Normalmente, existirá una implementación de observador para cada acción posible.
+  * Normalmente, existirá una interfaz observadora por cada tipo de evento posible.
+  * Normalmente, existirá un método para registrar un observador por cada tipo de evento posible.
 
 
 ## Material utilizado
