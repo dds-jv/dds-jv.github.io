@@ -33,5 +33,7 @@ Finalmente, trabajaremos sobre tareas programadas.
 
 ## Para la próxima clase
 
+- Releer los apuntes de [Observer, caso práctico](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit), [Repaso de Observer](https://gist.github.com/flbulgarelli/142210fd84d13e9df8f9d0290215bebd) y [Sobre los efectos del Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn). Es importante hacerlo dado que es un patrón complejo que requiere tiempo para que asiente. 
+- Ver [¿Por qué me vigilan si no soy nadie?](https://www.youtube.com/watch?v=NPE7i8wuupk), una charla que sirve como puntapié para entender el vínculo entre eventos, extractivismo de datos y  vigilancia digital. 
 - Ver [Diseño y metodologías de desarrollo](https://docs.google.com/document/d/11PQO8NPSOV4SW0ZwtFsh4RCtWubuEBV6E5qPicqJNKs/edit)
 - Leer [el enunciado de Noodle](https://docs.google.com/document/d/1-Qpv38kB29lNuzIi88TkTg4LGbO_iNijoVesZyvG5wM/edit#heading=h.3sssitpwxf4t). Idealmente, comenzar a pensar una solución.
