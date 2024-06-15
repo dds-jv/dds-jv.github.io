@@ -17,6 +17,7 @@ Finalmente, trabajaremos sobre tareas programadas.
 
 ## Material
 
+- [Repaso de Observer](https://gist.github.com/flbulgarelli/142210fd84d13e9df8f9d0290215bebd)
 - [Que Me Pongo Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit): Punto bonus.
    - Esta es una posible [puesta en común](https://drive.google.com/file/d/1JPWEYqw0a_ylqq2zF3zLa2SscGqPFPGg/view?usp=sharing).
    - Esta es otra [puesta en común, que incluye el punto bonus](https://github.com/flbulgarelli/qmp6)
