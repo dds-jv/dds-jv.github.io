@@ -9,11 +9,14 @@ permalink: /bitacoras/2024/viernes-n/clase-11/
 
 En esta oportunidad hablamos sobre la persistencia y tocamos los siguientes temas:
 - Utilidad y rol que cumple la misma en nuestros sistemas.
-- Mencionamos diferentes medios de persistencia y modelos. Haciendo foco en el modelo relacional.
+- Discutimos sobre las motivaciones de la persistencia: durabilidad, compartir información y soportar volúmenes de datos mayores que los que caben en la memoria RAM.
+- Dimos ejemplos de diferentes medios de persistencia y modelos:
+    - Archivos
+    - Bases de datos relacionales y no relacionales
 - Abordamos el modelo relacional, sus características y conceptos principales.
 - Hablamos de Relaciones/Tablas, Consultas, Claves Foráneas y Primarias e Integridad de datos
-- Hicimos una demostracion de consultas SQL, tanto DDL como DML.
-- Vimos qué son las Formas Normales, ahondamos en las primeras 3 y hablamos sobre desnormalización.
+- Hicimos una demostracion de consultas SQL, tanto DDL como DML en el modelo relacional (Postgre), documental (Mongo) y clave valor (Redis).
+- Mencionamos qué son las Formas Normales y hablamos sobre desnormalización.
 
 Además, comenzamos a modelar datos
 - Vimos varias alternativas de solucional ejercicio de Canchas de Paddle
@@ -22,7 +25,7 @@ Además, comenzamos a modelar datos
 
 ## Material
 
-- [Presentación utilizada](https://docs.google.com/presentation/d/1nqdBSJqCIxO0B5KDAjC5mt2n_NU06mD7CWjzPpnZaL8/edit#slide=id.g35f391192_00)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1Yig8bXnLXzjsWmrT40W4xbw85DVCVYMMsb8gc7OqKtE/edit#slide=id.g35f391192_00)
 - [Consultas de ejemplo SQL (poner la opción de abrir en diagrams.net)](https://drive.google.com/file/d/1kfHXXyfUDmSLJdk-Wdw_7ilCRdB1wgKb/view?usp=sharing)
 - [Ejercicio de canchas de Paddle](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80/edit#heading=h.bvad7dw8bhrq)
   - [DER base](https://drive.google.com/file/d/1pzfjfZusgj9IGdA2Mw7gXYeJWIHnr2Qf/view?usp=sharing)

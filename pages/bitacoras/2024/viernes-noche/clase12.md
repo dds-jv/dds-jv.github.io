@@ -11,7 +11,7 @@ permalink: /bitacoras/2024/viernes-n/clase-12/
 En esta oportunidad estudiamos cómo conectarnos con un RDBM utilizando un ORM:
 
 - Presentamos JPA y Hibernate
-- Aprendimos el Cliclo de vida de Objetos
+- Aprendimos el Ciclo de vida de Objetos
 - Hablamos de Convenciones y Configuraciones
 - Aprendimos como agregar anotaciones a nuestro modelo para mapearlo a un modelo de datos
 - Aprendimos cómo persistir objetos y realizar tests sobre ellos
