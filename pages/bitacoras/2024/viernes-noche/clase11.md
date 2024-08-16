@@ -25,7 +25,7 @@ Además, comenzamos a modelar datos
 
 ## Material
 
-- [Presentación utilizada](https://docs.google.com/presentation/d/1Yig8bXnLXzjsWmrT40W4xbw85DVCVYMMsb8gc7OqKtE/edit#slide=id.g35f391192_00)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1Yig8bXnLXzjsWmrT40W4xbw85DVCVYMMsb8gc7OqKtE/edit)
 - [Consultas de ejemplo SQL (poner la opción de abrir en diagrams.net)](https://drive.google.com/file/d/1kfHXXyfUDmSLJdk-Wdw_7ilCRdB1wgKb/view?usp=sharing)
 - [Ejercicio de canchas de Paddle](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80/edit#heading=h.bvad7dw8bhrq)
   - [DER base](https://drive.google.com/file/d/1pzfjfZusgj9IGdA2Mw7gXYeJWIHnr2Qf/view?usp=sharing)
