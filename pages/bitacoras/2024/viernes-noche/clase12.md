@@ -45,10 +45,36 @@ JPA -> Hibernate -> JDBC -> HSLQDB/MySQL/MariaDB/Postgre
  +--- Dependencias
  +--- Archivo de configuración persistence.xml
 ```
+Estudiamos también el pseudocódigo de conexión y acceso a la base de datos con JDBC:
+
+```java
+// var driver = new PostgreSQL("postgre://franco:123456789@localhost:2000/qmp");
+// var driver = new HSQLDB("hsqldb://un_archivo/qmp");
+Driver driver = new MysqlDriver("mysql://franco:123456789@localhost:2000/qmp");
+ResultSet resultados = driver.ejecutarSQL("select * from prendas");
+Prendas prendas = resultados.map(resultado => {
+  return new Prenda((String) resultado.get(0),  (int) resultado.get(1), ...);
+});
+
+// He aquí la base de un repositorio ^
+
+// Pero tiene ciertos problemas:
+// - es complejo de escribir
+// - es difícil de mantener
+// - implica repetir lógica
+// - está fuertemente acoplado al motor de base de datos
+// - es poco flexible: no es sencillo incorporar operaciones nuevas, elementos nuevos del domino
+//   migrar de base de datos
+
+// Por eso vamos a buscar otras alternativas
+
+// "asperezas" entre el modelo relacional y el modelo de objetos
+// => impedance mismatch (desadaptación de impedancia)
+```
 
 ## Material
 
-- [Presentación utilizada](https://docs.google.com/presentation/d/1UdFd8EKeeDTvrpY0w46BzA7Fr-X7UjCvb-8lw-jrb3o/edit#slide=id.g35f391192_00)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1nXNCzT81aPQgFpFG1ZpizeA92InrEi8Wsg5moYii4CY/edit#slide=id.g35f391192_00)
 - [ORM](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit): secciones 1 - 4
 - [Código de ejemplo de conexión JDBC](https://gist.github.com/flbulgarelli/f2219952bcacb33ea35a71a4e5478399)
 - [Normalización](https://docs.google.com/document/d/1Jil-3oiveXDtY1iKBCof7jE9ooRFJ-f1KjcXgaGk6F0/edit#heading=h.aa3gqw2dds4m)
