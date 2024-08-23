@@ -88,12 +88,8 @@ Prendas prendas = resultados.map(resultado => {
 
 ## Para la próxima clase 📅
 
-- Leer con detenimiento el código visto en esta clase, siguiendo [esta hoja de ruta](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md). NOTA: Se recomienda leer mirar brevemente antes la [versión sin mapeos](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-sin-mapeos)
-
-
-## Para la próxima clase
-
 - Leer:
+  - El código visto en esta clase, siguiendo [esta hoja de ruta](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol/README.md). NOTA: Se recomienda leer mirar brevemente antes la [versión sin mapeos](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-sin-mapeos)
    - [Apunte sobre ORM (Sección 5: Subtipos en el modelo relacional)](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s)
    - [Ejercicio: Canchas de Paddle, Parte 2 (_Obligatorio_)](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80)
 

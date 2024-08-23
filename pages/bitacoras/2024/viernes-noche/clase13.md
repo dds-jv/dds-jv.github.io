@@ -9,9 +9,27 @@ permalink: /bitacoras/2024/viernes-n/clase-13/
 
 En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnología JPA/Hibernate:
 
- - Mapeos sencillos (tipos primitivos)
- - Mapeo de relaciones simples (`OneToOne` y `ManyToOne`)
- - Mapeos de colecciones (`OneToMany` y `ManyToMany`)
+### Mapeo de atributos
+
+Como ya vimos, mapear **tipos primitivos** (o pseudo primitivos) a columnas es relativamente directo, siempre y cuando los tipos tengan un mapeo natural a la base de datos:
+    * `LocalDate` / `LocalDateTime` => `DATE` y `TIMESTAMP`
+    * `String` => `VARCHAR` y `Text`
+    * tipos numéricos => `INT`, `LONG`, `BIGINT`, `DECIMAL`, etc
+
+Aún así, podemos utilizar `@Column` para personalizar aspectos más sutiles como nombres de columnas, precisión, gestión de nulls, etc.
+
+Por otro lado, las cosas se tornan un poco mas complejas cuando estos atributos representan relaciones con otros objetos de nuestro dominio.
+
+Por un lado, tenemos las **relaciones simples**, que se representan con `OneToOne` y `ManyToOne`, y se traducen a claves foráneas (_fks_) en la tabla que estamos mapeando. Estas relaciones son por defecto ansiosas (_eager_), es decir, que al cargar un objeto, también sus relaciones se cargarán. Esto puede ser alterado mediante el atributo `fetch` (una estrategia lazy traerá _proxies_ de los objetos en lugar de instancias de las clases de dominio).
+
+Por otro lado, tenemos **relaciones multiples**, que se corresponden a mapeos de colecciones usando `OneToMany` y `ManyToMany`. Estos mapeos son diferidos por defecto (_lazy_). En ambos casos, estas anotaciones generarán tablas intermedias, las cuales pueden ser controladas con `@JoinColumn` (de hecho, esto en `@OneToMany` evita la generación de la tabla intermedia) y `@JoinTable`.
+
+En ocasiones nos toparemos con atributos que no pueden ser mapeados fácilmente a tipos primitivos de la base de datos. Para estos casos tenemos dos opciones:
+
+  * `@Convert`
+  * `@Transient`
+
+### Mapeo de herencia y atributos polimórficos
 
 Además incorporamos el concepto de mapeo de herencia `Inheritance` y enums  (`Enumerated`): ver [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido-herencia/README.md#parte-3-herencia).
 
