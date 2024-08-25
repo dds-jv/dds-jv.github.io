@@ -12,9 +12,10 @@ En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnolog
 ### Mapeo de atributos
 
 Como ya vimos, mapear **tipos primitivos** (o pseudo primitivos) a columnas es relativamente directo, siempre y cuando los tipos tengan un mapeo natural a la base de datos:
-    * `LocalDate` / `LocalDateTime` => `DATE` y `TIMESTAMP`
-    * `String` => `VARCHAR` y `Text`
-    * tipos numéricos => `INT`, `LONG`, `BIGINT`, `DECIMAL`, etc
+
+  * `LocalDate` / `LocalDateTime` => `DATE` y `TIMESTAMP`
+  * `String` => `VARCHAR` y `Text`
+  * tipos numéricos => `INT`, `LONG`, `BIGINT`, `DECIMAL`, etc
 
 Aún así, podemos utilizar `@Column` para personalizar aspectos más sutiles como nombres de columnas, precisión, gestión de nulls, etc.
 
@@ -53,8 +54,7 @@ Mapeo de herencia:
 
 ## Material
 
-- [Presentación](https://docs.google.com/presentation/d/1v7fZvU_-kKjSHXKQBXhQpwsq0Taizm6TgWSTSRwrdzE/edit)
-  - [Presentación del Jueves](https://docs.google.com/presentation/d/14xaa6U5DOsKBPnenWADOILN9vt-mNMYTyR4VjHOTOQ8/edit)
+- [Presentación](https://docs.google.com/presentation/d/1FT1HtZ4pfFJnszEcQltUsXjO3dQcTi3szTA9eExBiDI/edit#slide=id.g82d3d5330f_0_6)
 - Código utilizado:
   - [Primera parte](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-extendido-sin-mapeos)
     - [Solución](https://github.com/dds-utn/jpa-proof-of-concept-template/blob/futbol-extendido/README.md#parte-2-extensiones)
