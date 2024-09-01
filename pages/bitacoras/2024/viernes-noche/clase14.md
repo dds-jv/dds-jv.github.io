@@ -5,11 +5,10 @@ description: Viernes (Noche, 2024)
 permalink: /bitacoras/2024/viernes-n/clase-14/
 ---
 
-
 ## Resumen
 
 En esta oportunidad seguimos profundizando en los conceptos de ORM y la tecnología JPA/Hibernate. Presentamos la anotación `OrderColumn`
- e incorporamos los conceptos de valores y entidades (_value_ object vs _entities_) y las anotaciones `ElementCollection`, `Embedded` y `Embeddable`. Además, encaramos un parcial como ejercicio integrador.
+ e incorporamos los conceptos de valores y entidades (_value_ object vs _entities_) y las anotaciones `ElementCollection`, `Embedded` y `Embeddable`.
 
 Algunos corolarios:
 
@@ -27,7 +26,9 @@ Algunos corolarios:
 - **Corolario 10**: Los `Embeddable` **no** soportan polimorfismo, ergo para poder embeber algo, tiene que ser **no** polimórfico
 - **Corolario 11**: Los `Embeddable` **tienen** que ser value objects
 
-Paréntesis: Taxonomías de objetos. Recordar que los estados son una terna de:
+Además estudiamos _taxonomías de objectos_:
+
+Recordar que los objetos son una terna de:
 
 - estado
 - identidad
@@ -45,17 +46,14 @@ Ver también [acá](https://martinfowler.com/bliki/EvansClassification.html)
 
 ## Material
 
-- [Presentación](https://docs.google.com/presentation/d/1mE-U5H8iRxOB5P-QXHwwfNGktn_7QqOfTfUprRvlne4/edit)
+- [Presentación](https://docs.google.com/presentation/d/13_ofBSZzy0x7uo3FRnn1bk-bQZiQpffhXT2JqmLZVZA)
 - Ejemplo de clase:
-  - [Embebibles](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/localizacion-sin-mapeos)
-  - [Solución](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/localizacion)
-  - [Solución en clase](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/localizacion-en-clase-2024)
-- [Parcial Juego de Tronos](https://docs.google.com/document/d/1Qjgq_KS73UUn8337LEoXi_M28wtgi-EkBuaQ7N-9Ks4/edit#heading=h.tlw7c15gv98x)
-  - [Solución](https://docs.google.com/document/d/1BzxQmaeqVCkM68UvYwPcO8JwhsCuIZJXjrXAeEogjh8/edit)
-
+  - [Fútbol Completo](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/futbol-completo)
 
 ## Para la próxima clase
 
+1. Hacer el [Parcial Juego de Tronos](https://docs.google.com/document/d/1Qjgq_KS73UUn8337LEoXi_M28wtgi-EkBuaQ7N-9Ks4/edit#heading=h.tlw7c15gv98x)
+  Ver la solución [Solución](https://docs.google.com/document/d/1BzxQmaeqVCkM68UvYwPcO8JwhsCuIZJXjrXAeEogjh8/edit) y traer dudas.
 1. [Introducción a Arquitectura Web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit#heading=h.kx1xmbyu1do6)
 1. [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): hasta el punto 8. Hacerlo luego de leer el apunte anterior.
 
