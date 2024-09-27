@@ -6,7 +6,6 @@ permalink: /bitacoras/2024/viernes-n/clase-18/
 ---
 
 
-
 ## Resumen
 
 En esta clase cerramos nuestro estudio de UI MVC Web con [Spark](http://sparkjava.com/).

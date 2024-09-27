@@ -8,7 +8,7 @@ permalink: /bitacoras/2024/viernes-n/clase-17/
 
 ## Resumen
 
-En esta clase seguimos trabajando con [Spark](http://sparkjava.com/), entendiendo como las páginas tienen tanto _fragmentos_ de código repetitivos como estructuras generales conocidas como _Layouts_, y como las plantillas  (_templates_) y los elementos `block` y `partial` de Handlebars nos pueden ayudar a no repetir lógica de vista.
+En esta clase seguimos trabajando con ~[Spark](http://sparkjava.com/)~ [Javalin](https://javalin.io/), entendiendo como las páginas tienen tanto _fragmentos_ de código repetitivos como estructuras generales conocidas como _Layouts_, y como las plantillas  (_templates_) y los elementos `block` y `partial` de Handlebars nos pueden ayudar a no repetir lógica de vista.
 
 Además, repasamos qué son los formularios, cómo podemos hacer formularios de creación de recursos con HTML y HTTP, y qué implicancias tienen desde el punto de vista del acceso al contexto de persistencia.
 
@@ -129,10 +129,11 @@ o también:
 * REST: `POST /consultoras` vs `GET /consultoras/nueva`
 
 ```java
+Javalin app = ...
 // el primero muestra el formulario
-Spark.get("/consultoras/nueva", consultorasController::nueva, engine);
+app.get("/consultoras/nueva", consultorasController::nueva, engine);
 // el segundo es quien recibe la información del formulario y crea al objeto
-Spark.post("/consultoras", consultorasController::crear);
+app.post("/consultoras", consultorasController::crear);
 ```
 
 * Formularios de creación: indicar el uso del método `POST`.
@@ -155,9 +156,9 @@ Spark.post("/consultoras", consultorasController::crear);
 
 
 ```java
-  public Void crear(Request request, Response response) {
+  public Void crear(Context context) {
     // ...
-    response.redirect("/");
+    context.redirect("/");
     return null;
   }
 ```
@@ -169,12 +170,13 @@ public class ConsultorasController implements WithSimplePersistenceUnit {
 
   // ...
 
-  public Void crear(Request request, Response response) {
+  public Void crear(Context context) {
     withTransaction(() -> {
       Consultora consultora = new Consultora(
-              request.queryParams("nombre"),  // no confundirse! Aunque el método se llama
-                                              // queryParam, en realidad son body params
-              Integer.parseInt(request.queryParams("cantidadEmpleados")));
+              context.formParam("nombre"), // son parámetros del cuerpo (body)
+                                           // codificados como application/x-www-form-urlencoded
+              Integer.parseInt(context.formParam("cantidadEmpleados")
+      ));
       RepositorioConsultoras.instancia.agregar(consultora);
     });
     // ...
@@ -183,11 +185,11 @@ public class ConsultorasController implements WithSimplePersistenceUnit {
 
 ## Material
 
-- [Documentación de Spark](http://sparkjava.com/documentation)
-    - De nuevo (repaso de Spark y cómo y por qué separar en controladores): [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
+- [Documentación de Javalin](https://javalin.io/documentation)
+    - De nuevo (repaso de ruteadores y cómo y por qué separar en controladores): [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
 - [Código: consultoras con soporte transaccional para Java 17](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras-transaccional)
 - [Código: consultoras para Java 17](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras-sin-login)
-- [Código: base de Java 17 + Spark + JPA](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/jpa-spark-java-17)
+- [Código: base de Java 17 + Javalin + JPA](https://github.com/dds-utn/javalin-web-proof-of-concept)
 - [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0)
   - [Tutorial de Grid](https://cssgridgarden.com/#es)
   - [Tutorial de Flex](https://flexboxfroggy.com/#es)
