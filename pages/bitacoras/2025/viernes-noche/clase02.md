@@ -14,18 +14,6 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 # Resumen
 
 - Aprendimos sobre cualidades de diseño y sobre cómo comunicarlo.
-- Evacuamos dudas y consultas sobre Java y Maven. En particular, recalcamos que es una herramienta de gestión de dependencias y de construcción de proyectos, que ofrece comandos como:
-
-
-```bash
-# para instalar dependencias y proyectos
-mvn install
-# ejecutar pruebas
-mvn test
-# empaquetar al proyecto
-mvn package
-```
-
 - Hablamos sobre cualidades de diseño. Hablamos sobre la correlación positiva y negativa: son pocos los pares de cualidades (si es que siquiera existen) en que siempre una va a ir en contra o a favor de la otra. En general, tenemos que estudiar la correlación entre las cualidades de forma situada. ¿Hay una solución ideal? No ¿Buscaremos producir una única solución? Tampoco. El objetivo es comparar, formar criterio y lograr pensamiento crítico.
 - Abordamos el concepto de _Patrones de Diseño_.  Dentro de estos patrones, vimos:
    - Strategy (estrategia): solución basada en composición. No toda composición es un strategy.
@@ -39,15 +27,11 @@ mvn package
 - [Presentación](https://docs.google.com/presentation/d/1_RqovrnLXMbWp9VtVommoxWUiqcDXKJcIpPdSsPPoSs/edit?usp=sharing)
 - [Video de Template y Strategy](https://www.youtube.com/watch?v=NZRYknYXX90)
 - [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit)
-	- _Complementario: [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
-	- _Complementario: [Las entradas del diseño](https://docs.google.com/document/d/1qPM_sQ0UyGFKRzl13Cbf6zDKj6vxJ4wMZQIXeOrRvM8/edit?usp=sharing)_
+- [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
+	- _Complementario: [Las entradas del diseño](https://docs.google.com/document/d/
 - [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit) t)_
 - [Solución - Macowins](https://docs.google.com/document/d/10Tp6E4zEl1ibuUVKBJ-RbyIWD1O1EyAFfPU73c1Ycm4/edit)
-	* [Versión explicada](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
-	* [Pseudocódigo visto en clase](https://drive.google.com/open?id=1x1SuTwc5fQW-rT4n5-nixMp-ymkwyKFV)
-	* [Video sobre patrones Strategy y Template Method](https://drive.google.com/file/d/11vgwTdXXujSuDQTDULVLtHEiRFuzPoik/view)
-	* [Explicación opciones visto el año anterior](https://drive.google.com/file/d/1uPhQOEmUAg7Vi0eRHtXWkDNPhIrLO5iv/view?usp=sharing) : tienen que entrar con el usuario de la facultad.
-- Tarjetas de patrones de diseño (**no reemplazan al libro de patrones de GOF**): https://refactoring.guru/es/design-patterns
+- Complementario: Tarjetas de patrones de diseño (**no reemplazan al libro de patrones de GOF**): https://refactoring.guru/es/design-patterns
   - https://refactoring.guru/es/design-patterns/strategy
   - https://refactoring.guru/es/design-patterns/template-method
 
