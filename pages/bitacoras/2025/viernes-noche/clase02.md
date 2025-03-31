@@ -28,8 +28,7 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 - [Video de Template y Strategy](https://www.youtube.com/watch?v=NZRYknYXX90)
 - [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit)
 - [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
-	- _Complementario: [Las entradas del diseño](https://docs.google.com/document/d/
-- [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit) t)_
+- [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
 - [Solución - Macowins](https://docs.google.com/document/d/10Tp6E4zEl1ibuUVKBJ-RbyIWD1O1EyAFfPU73c1Ycm4/edit)
 - Complementario: Tarjetas de patrones de diseño (**no reemplazan al libro de patrones de GOF**): https://refactoring.guru/es/design-patterns
   - https://refactoring.guru/es/design-patterns/strategy
@@ -37,8 +36,8 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 
 # Tarea
 
-* [Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ). ¡Traelo hecho para la clase que viene!
+* Obligatorio: Hacer el TPI1: Implementación de Macowins
+* [Ejercicio: Qué Me Pongo - Iteración I](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ). ¡Traelo pensado para la clase que viene!
 * Mirá el video [Desafiando los algoritmos de opresión](https://www.youtube.com/watch?v=iRVZozEEWlE) (Tiene subtítulos automáticos, no son los mejores pero se entiende bastante bien). ¡Lo charlamos en clase!
-* Dale un nuevo vistazo al apunte de [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit): lanzamos una nueva versión.
-* Y leé el apunte sobre [Diseño de manejos de errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#heading=h.x500jbxzopra)
+* Leé el apunte sobre [Diseño de manejos de errores](https://docs.google.com/document/d/1u7t9eKDdAVwhQVAkstV0nkfAGIJsY2O_UEHKJJVje6c/edit#heading=h.x500jbxzopra)
   * _Complementario_: [Excepciones en Java](https://docs.google.com/document/d/1G0a9j-OA0rIEA5cdvEhIMbztJVo86ssvZKBK8HL9akg/edit)

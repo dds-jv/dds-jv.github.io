@@ -9,6 +9,7 @@ permalink: /bitacoras/2025/viernes-n/clase-03/
 # Resumen
 
 - Evacuamos dudas y consultas de QMP Primera Iteración y realizamos una solución.
+- Tuvimos una Introducción a decisiones de Arquitectura, en particular a las vinculadas a la arquitectura física.
 - Vimos qué es un error, como tratarlos y usar las excepciones de manera eficaz.
 - Charlamos sesgos, algortimos y opresión a partir del video [Desafiando los algoritmos de opresión](https://www.youtube.com/watch?v=iRVZozEEWlE)
 

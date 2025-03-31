@@ -47,7 +47,7 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 
 # Tarea
 
-* Hacer el ejercicio [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU)
+* Obligatorio: Hacer el ejercicio [Macowins](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU)
     * Si lo necesitás, [¡repasá Objetos!](https://www.pdep.com.ar/material/apuntes). En partircular, repasá [los mensajes de colecciones de Wollok](https://docs.google.com/document/d/1oJ-tyQJoBtJh0kFcsV9wSUpgpopjGtoyhJdPUdjFIJQ/edit)
     * Como material de lectura complementario, sugerimos el libro _Object Design: Roles, Responsibilities and Collaborations_, de Rebecca Wirfs-Brock and Alan McKean.
 * Leé el apunte que explica como [Comunicar un diseño](https://docs.google.com/document/d/1eXLlNppAX-7E2M8Xxs0MCckdn4XVEYmeQNaS_E1RqTc/edit)
