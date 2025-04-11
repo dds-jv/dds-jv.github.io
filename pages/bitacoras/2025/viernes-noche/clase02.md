@@ -29,7 +29,8 @@ _Importante: En caso de que tengas dudas sobre Java y Maven, ¡preguntá!_
 - [Cualidades de Diseño](https://docs.google.com/document/d/14HdvHvS33WqYb6Ak0BGa0IeCTbzeCRSDKs-1Ot-qLDw/edit)
 - [Guías para comunicar un diseño](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit?usp=sharing)_
 - [Introducción a los patrones de de diseño)](https://docs.google.com/document/d/1uXPhuAKXa4wzcIhriFfnI53aB311jOZtcKfTDuiKQ8Y/edit)
-- [Solución - Macowins]([https://docs.google.com/document/d/10Tp6E4zEl1ibuUVKBJ-RbyIWD1O1EyAFfPU73c1Ycm4/edit](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI/edit?tab=t.0#heading=h.pzjlb13p5e2p))
+- [Solución - Macowins](https://docs.google.com/document/d/17lZBUaVC8QMDYZG_JCPEcGk3-5lL9Iz6-iG5OmfoaMI/edit?tab=t.0#heading=h.pzjlb13p5e2p)
+   - [Alternativa](https://docs.google.com/document/d/10Tp6E4zEl1ibuUVKBJ-RbyIWD1O1EyAFfPU73c1Ycm4/edit)
 - Complementario: Tarjetas de patrones de diseño (**no reemplazan al libro de patrones de GOF**): https://refactoring.guru/es/design-patterns
   - https://refactoring.guru/es/design-patterns/strategy
   - https://refactoring.guru/es/design-patterns/template-method
