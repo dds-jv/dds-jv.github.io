@@ -5,14 +5,13 @@ description: Viernes (Noche, 2025)
 permalink: /bitacoras/2025/viernes-n/clase-04/
 ---
 
-
 # Resumen
 
 - Resolvimos algunas dudas más de QMP1.
-- Hablamos sobre la situación crítica del presupuesto universitario
 - Explicamos _creación_, _instanciación_ e _inicialización_.
 - Mostramos algunos patrones creacionales: _Builder_ y _Singleton_
 - Evacuamos dudas y consultas de QMP Segunda Iteración
+- Charlamos sesgos, algortimos y opresión a partir del video [Desafiando los algoritmos de opresión](https://www.youtube.com/watch?v=iRVZozEEWlE) y
 
 # Material
 
@@ -20,8 +19,6 @@ permalink: /bitacoras/2025/viernes-n/clase-04/
 - [Patrones creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit#)
 - [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
 - [Solución explicada a QMP Segunda Iteración](https://docs.google.com/document/d/1NeSJWVvj5JlEZo89kh99lO22X7GCJsPETSuNfw6cVeM/edit)
-    - [Código en clase (Aula 2)](https://gist.github.com/flbulgarelli/56cfcef53fb45da3fd8bf27fff58e427)
-    - [Diagrama de clase (Aula 2)](https://www.plantuml.com/plantuml/png/JOun3i8m34LtdyBgb0xb01Ngm8x4q0kOnXAH6bBPMH3YxjIaYLYYvCNlVoyhgU9D-Ea9t_01AEHAcINGkZD4D7xC35Fx-qEpKAJgNf88-IG_LpdFOKlEZhwyg-_gnVWYJ582NO_Z4Mt5BMuuxKrrrn6xipcPTUe07i4pSjpo2oF7Euj-0G00)
 
 # Tarea
 
@@ -34,3 +31,5 @@ permalink: /bitacoras/2025/viernes-n/clase-04/
 - 🎥 **Obligatorio**: Ver estos dos videos sobre deuda técnica:
    - [Concepto de deuda técnica](https://www.youtube.com/watch?v=OfIYiyg1op8&t=400s) (6:40 a 9:00, aunque toda la entrevista es interesante)
    - [Una crítica al concepto de deuda técnica](https://www.youtube.com/watch?v=DvfMOJaIzhY)
+- 👓 **Obligatorio**: Leer [Design for accountability](https://www.researchgate.net/publication/221248162_Designing_for_accountability)
+- ¡Hacer el TPA1!
