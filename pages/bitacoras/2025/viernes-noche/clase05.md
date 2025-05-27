@@ -13,6 +13,94 @@ permalink: /bitacoras/2025/viernes-n/clase-05/
 - Discutimos sobre: _Refactor_ y _Manejo del Cambio_
 - Vimos cómo hacer refactors en vivo ayudándonos con un IDE
 
+
+# Ejemplos de código
+
+A continuación dejamos algunos ejemplos vistos en clase:
+
+## Inyección de dependencias
+
+```js
+// la forma de obtener dependencias con control directo
+class FuenteEstatica {
+  lectorDeCsvs
+
+  constructor() {
+    this.lectorDeCsvs = new LectorDeCsvs()
+  }
+}
+
+fuente = new FuenteEstatica()
+fuente = new FuenteEstatica() // MALDICION! NO PUEDO CAMBIARLO
+
+
+// alternativa a medio camino: service locator
+class FuenteEstatica {
+  lectorDeCsvs
+
+  constructor() {
+    this.lectorDeCsvs = ServiceLocator.INSTANCE.getLectorDeCSVs()
+  }
+}
+
+ServiceLocator.INSTANCE.setLectorDeCSV(new LectorDeCsvs())
+fuente = new FuenteEstatica()
+
+
+ServiceLocator.INSTANCE.setLectorDeCSV(lectorDeCSVSoloParaElTest)
+fuente = new FuenteEstatica()
+
+
+
+// alternativa con inyección de dependencias
+class FuenteEstatica {
+  lectorDeCsvs
+
+  constructor(lectorDeCsvs) {
+    this.lectorDeCsvs = lectorDeCsvs
+  }
+}
+
+
+//fuente = new FuenteEstatica(new LectorDeCsvs())
+fuente = new FuenteEstatica(lectorDeCSVSoloParaElTest)
+
+fuente = new FuenteEstatica(LectorDeCsvs.getInstance())
+```
+
+## Singleton
+
+```java
+class LectorDeCSV {
+  public static LectorDeCSV INSTANCE = new LectorDeCSV();
+}
+```
+
+## Code smells
+
+Los code smells son simplemente heurísticas. No dicen taxativamente si algo es correcto o incorrecto.
+
+```js
+// Message chain (cadena de envío de mensajes)
+// ¿Esto está mal? ¡Habría que analizarlo!
+objeto
+  .mensaje()
+  .otroMensaje()
+  .otroMensajeMas()
+
+// Quizás podemos delegarlo:
+objeto.unMensajeMasInteresante()
+
+// O quizás es aceptable
+// Por ejemplo, podría el API de streams de java
+// nos fuerza a escribir el código de esa forma
+objeto
+  .stream()
+  .fitler()
+  .map()
+  .toList()
+```
+
 # Material
 
 - [Presentación](https://docs.google.com/presentation/d/1Y53o0lifOgAMsdTTg9v4BSR94Pnf-K44mqz1rOy8oU4/edit#slide=id.g82d3d5330f_0_705)
