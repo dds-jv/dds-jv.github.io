@@ -14,6 +14,130 @@ Además, introducimos el concepto de patrones de comunicación entre componentes
 
 Finalmente, trabajaremos sobre tareas programadas.
 
+### Tareas programadas
+
+Las tareas programadas (o _tareas calendarizadas_) operaciones del sistema que en lugar de buscar ejecutarlos de forma interactiva, como parte de nuestros casos de uso, sino de forma automática, con cierta frecuencia.
+
+##  Puntos de entrada
+
+Vamos a necesitar definir un archivo que oficie de punto de entrada, o como se suele llamar en inglés, _main_. Este archivo será responsable de cargar nuestro código y ejecutar la tarea calendarizada.
+
+```java
+public class Main {
+   public static void main(string[] args) {
+      // ...
+   }
+}
+```
+
+## Empaquetado
+
+Vamos a tener que agregar la configuración del `maven-assembly-plugin` a nuestro `pom.xml`:
+
+```xml
+<plugin>
+    <artifactId>maven-assembly-plugin</artifactId>
+    <executions>
+        <execution>
+            <phase>package</phase>
+             <goals>
+                 <goal>single</goal>
+             </goals>
+         </execution>
+     </executions>
+     <configuration>
+         <descriptorRefs>
+             <!-- This tells Maven to include all dependencies -->
+             <descriptorRef>jar-with-dependencies</descriptorRef>
+         </descriptorRefs>
+         <archive>
+             <manifest>
+                 <mainClass>archivo.con.el.Main</mainClass>
+             </manifest>
+         </archive>
+    </configuration>
+</plugin>
+```
+
+## Crontab
+
+Finalmente vamos a tener que generar un crontab:
+
+```bash
+# Con este comando podemos listar las tareas instaladas
+crontab -l
+```
+
+```bash
+# nos permitirá editar las tareas
+crontab -e
+```
+
+## Paréntesis: editores de línea de comando
+
+Al editar las tareas de `cron`, éste nos abrirá por defecto un editor de línea de comandos, como `nano` o `vim`. ¡A no temer! Es un editor, pero que se opera mediante el teclado.
+
+
+## Expresiones cron
+
+Ahora sí, expresiones cron. Tienen la siguiente forma:
+
+```bash
+# m h  dom mon dow   command
+```
+
+Por ejemplo:
+
+```bash
+# a cada minuto de cada día
+* *  *   *   *     java -jar /home/user/nombre-del-jar.jar
+```
+
+```bash
+# cada 5 minutos
+*/5 *  *   *   *     java -jar /home/user/nombre-del-jar.jar
+```
+
+
+```bash
+# al inicio de cada hora
+0 *  *   *   *     java -jar /home/user/nombre-del-jar.jar
+```
+
+```bash
+# a las 23:59 de cada domingo
+23 59  *   *   0     java -jar /home/user/nombre-del-jar.jar
+```
+
+¡Tenemos que tener cuidado! Las rutas a los archivos deben ser absolutas.
+
+
+Si todo está bien, obtendremos el siguiente mensaje al guardar:
+
+```
+crontab: installing new crontab
+```
+
+## Archivos de log
+
+Necesitamos tener registro de lo que pasó. Redirecciones: > vs >>. tail -F
+
+```bash
+* *  *   *   *     java -jar /home/user/nombre-del-jar.jar >> /home/user/tarea_programada.log
+```
+
+## Deteniendo la calendarización
+
+```bash
+crontab -e
+```
+
+Y eliminamos la línea o la comentamos con `#`. Obtendremos nuevamente éste mensaje:
+
+```
+crontab: installing new crontab
+```
+
 
 ## Material
 
