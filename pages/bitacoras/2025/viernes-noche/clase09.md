@@ -16,7 +16,7 @@ Finalmente, trabajaremos sobre tareas programadas.
 
 ### Tareas programadas
 
-Las tareas programadas (o _tareas calendarizadas_) operaciones del sistema que en lugar de buscar ejecutarlos de forma interactiva, como parte de nuestros casos de uso, sino de forma automática, con cierta frecuencia.
+Las tareas programadas (o _tareas calendarizadas_) son operaciones de nuestro sistema que en lugar ejecutarlas de forma interactiva, como parte de nuestros casos de uso, se ejecutan de forma automática, con cierta frecuencia.
 
 ##  Puntos de entrada
 
@@ -32,10 +32,13 @@ public class Main {
 
 ## Empaquetado
 
-Vamos a tener que agregar la configuración del `maven-assembly-plugin` a nuestro `pom.xml`:
+Para poder ejecutar nuestro main, vamos a necesitar primero crear un paquete ejecutable (en el ecosistema de Java, utilizamos el formato `jar`) que contenga el código de nuestro proyecto y sus dependencias.
+
+Para ellos vamos a tener que agregar la configuración del `maven-assembly-plugin` a nuestro `pom.xml`:
 
 ```xml
 <plugin>
+    <!-- Este plugin permite empaquetar nuestras aplicaciones utilizando distintos formatos -->
     <artifactId>maven-assembly-plugin</artifactId>
     <executions>
         <execution>
@@ -47,10 +50,11 @@ Vamos a tener que agregar la configuración del `maven-assembly-plugin` a nuestr
      </executions>
      <configuration>
          <descriptorRefs>
-             <!-- This tells Maven to include all dependencies -->
+             <!-- Esto indica que genere un paquete que incluya las dependencias -->
              <descriptorRef>jar-with-dependencies</descriptorRef>
          </descriptorRefs>
          <archive>
+             <!-- Esto indica cual será el punto de entrada de nuestro ejecutable -->
              <manifest>
                  <mainClass>archivo.con.el.Main</mainClass>
              </manifest>
@@ -59,9 +63,14 @@ Vamos a tener que agregar la configuración del `maven-assembly-plugin` a nuestr
 </plugin>
 ```
 
-## Crontab
+Luego podremos ejecutar `mvn package`, comando que generará el paquete en cuestión.
 
-Finalmente vamos a tener que generar un crontab:
+## Crontab y expresiones `cron`
+
+Finalmente, en cada nodo del sistema operativo donde se ejecutarán nuestras tareas programadas, vamos a tener que generar un crontab:
+
+> Nota: Al editar las tareas de `cron`, éste nos abrirá por defecto un editor de línea de comandos, como `nano` o `vim`. ¡A no temer! Es un editor, pero que se opera mediante el teclado.
+
 
 ```bash
 # Con este comando podemos listar las tareas instaladas
@@ -73,44 +82,36 @@ crontab -l
 crontab -e
 ```
 
-## Paréntesis: editores de línea de comando
-
-Al editar las tareas de `cron`, éste nos abrirá por defecto un editor de línea de comandos, como `nano` o `vim`. ¡A no temer! Es un editor, pero que se opera mediante el teclado.
-
-
-## Expresiones cron
-
-Ahora sí, expresiones cron. Tienen la siguiente forma:
+Ahora sí, veamos las expresiones cron. Son propias de los sistemas operativos unix (como Linux) pero están ampliamente extendidas en otras tecnologías. Tienen la siguiente forma:
 
 ```bash
-# m h  dom mon dow   command
+# m h  dom mon dow   comando
 ```
 
 Por ejemplo:
 
 ```bash
 # a cada minuto de cada día
-* *  *   *   *     java -jar /home/user/nombre-del-jar.jar
+* *  *   *   *     java -jar /home/user/nombre-del-paquete-ejecutable.jar
 ```
 
 ```bash
 # cada 5 minutos
-*/5 *  *   *   *     java -jar /home/user/nombre-del-jar.jar
+*/5 *  *   *   *     java -jar /home/user/nombre-del-paquete-ejecutable.jar
 ```
 
 
 ```bash
 # al inicio de cada hora
-0 *  *   *   *     java -jar /home/user/nombre-del-jar.jar
+0 *  *   *   *     java -jar /home/user/nombre-del-paquete-ejecutable.jar
 ```
 
 ```bash
 # a las 23:59 de cada domingo
-23 59  *   *   0     java -jar /home/user/nombre-del-jar.jar
+23 59  *   *   0     java -jar /home/user/nombre-del-paquete-ejecutable.jar
 ```
 
 ¡Tenemos que tener cuidado! Las rutas a los archivos deben ser absolutas.
-
 
 Si todo está bien, obtendremos el siguiente mensaje al guardar:
 
@@ -120,10 +121,10 @@ crontab: installing new crontab
 
 ## Archivos de log
 
-Necesitamos tener registro de lo que pasó. Redirecciones: > vs >>. tail -F
+Necesitamos tener registro de lo que pasó. Una forma sencilla consiste en redireccionar la salida estándar utilizando `>>`
 
 ```bash
-* *  *   *   *     java -jar /home/user/nombre-del-jar.jar >> /home/user/tarea_programada.log
+* *  *   *   *     java -jar /home/user/nombre-del-paquete-ejecutable.jar >> /home/user/tarea_programada.log
 ```
 
 ## Deteniendo la calendarización
