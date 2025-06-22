@@ -16,3 +16,4 @@ permalink: /ejercicios/
 - **Guia 7 (bonus):** [Diseño Funcional]({{site.baseurl}}/ejercicios/guia-7)
 - **Guia 8:** [Persistencia]({{site.baseurl}}/ejercicios/guia-8)
 - **Guia 9:** [Arquitectura]({{site.baseurl}}/ejercicios/guia-9)
+- **Guía 10:**[Práctica de parcial](https://docs.google.com/document/d/1rqqEEeoX0ZuyUbKXe6l71WwxgPS0fxzYHZfo_oSAHYE/edit?tab=t.0)
