@@ -18,7 +18,7 @@ Finalmente, trabajaremos sobre tareas programadas.
 
 Las tareas programadas (o _tareas calendarizadas_) son operaciones de nuestro sistema que en lugar ejecutarlas de forma interactiva, como parte de nuestros casos de uso, se ejecutan de forma automática, con cierta frecuencia.
 
-##  Puntos de entrada
+####  Puntos de entrada
 
 Vamos a necesitar definir un archivo que oficie de punto de entrada, o como se suele llamar en inglés, _main_. Este archivo será responsable de cargar nuestro código y ejecutar la tarea calendarizada.
 
@@ -30,7 +30,7 @@ public class Main {
 }
 ```
 
-## Empaquetado
+#### Empaquetado
 
 Para poder ejecutar nuestro main, vamos a necesitar primero crear un paquete ejecutable (en el ecosistema de Java, utilizamos el formato `jar`) que contenga el código de nuestro proyecto y sus dependencias.
 
@@ -65,7 +65,7 @@ Para ellos vamos a tener que agregar la configuración del `maven-assembly-plugi
 
 Luego podremos ejecutar `mvn package`, comando que generará el paquete en cuestión.
 
-## Crontab y expresiones `cron`
+#### Crontab y expresiones `cron`
 
 Finalmente, en cada nodo del sistema operativo donde se ejecutarán nuestras tareas programadas, vamos a tener que generar un crontab:
 
@@ -119,7 +119,7 @@ Si todo está bien, obtendremos el siguiente mensaje al guardar:
 crontab: installing new crontab
 ```
 
-## Archivos de log
+#### Archivos de log
 
 Necesitamos tener registro de lo que pasó. Una forma sencilla consiste en redireccionar la salida estándar utilizando `>>`
 
@@ -127,7 +127,7 @@ Necesitamos tener registro de lo que pasó. Una forma sencilla consiste en redir
 * *  *   *   *     java -jar /home/user/nombre-del-paquete-ejecutable.jar >> /home/user/tarea_programada.log
 ```
 
-## Deteniendo la calendarización
+#### Deteniendo la calendarización
 
 ```bash
 crontab -e
@@ -139,6 +139,43 @@ Y eliminamos la línea o la comentamos con `#`. Obtendremos nuevamente éste men
 crontab: installing new crontab
 ```
 
+#### Un ejemplo concreto
+
+```java
+// TPI3
+class MainDeEnvioDeRecordatorioDeEventos {
+  public static void main(string[] args) {
+    RepositorioEventos
+      .dameTodos()
+      .filter(evento => evento.estaPendienteDeNotification()) // TODO delegar en el repositorio
+      .filter(evento => evento.estaEnPlazoDeSerNotificado())
+      .each(evento => evento.enviarRecordatorio())
+  }
+}
+
+class Evento {
+
+  boolean estaEnPlazoDeSerNotificado() {
+    return LocalDate.now().isCloseTo(this.fechaYHoraDeInicio, 5.minutes())
+  }
+
+  boolean estaPendienteDeNotification() {
+    return !this.recordatorioEnviado
+  }
+
+  void enviarRecordatorio() {
+    // ... utilizar su o sus medios de notificacion para mandar la(s) notificacion(es)
+    // correspondientes
+    this.recordatorioEnviado = true
+  }
+}
+
+// en el crontab agregamos un
+// */2 * * * * java -jar /bin/calendarios/mainEnvioEventos.jar
+
+// en el pom tenemos que agregar la configuración necesaria para construir este jar
+// ....
+```
 
 ## Material
 
