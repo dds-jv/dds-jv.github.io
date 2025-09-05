@@ -293,6 +293,8 @@ Exploramos el código de un [API REST JSON](https://github.com/dds-utn/javalin-w
 
 ### Tercera parte: Javalin y exposición de contenido HTML
 
+Exploramos el código de una [Aplicación cliente liviano](https://github.com/dds-utn/javalin-web-proof-of-concept/tree/example-templating)
+
 
 ## Material
 
