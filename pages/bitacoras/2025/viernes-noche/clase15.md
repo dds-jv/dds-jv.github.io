@@ -286,6 +286,11 @@ $ curl -XPOST /guardarropas/15/prenda/ \
 
 ### Segunda parte: Javalin y exposición de APIs
 
+Exploramos el código de un [API REST JSON](https://github.com/dds-utn/javalin-web-proof-of-concept/tree/example-api)
+
+  1. Observamos la estructura de archivos (modelos, controladores, archivo semilla, rutas y código de aplicación)
+  2. Extendemos el API para `/usuarios/{nombre}`
+
 ### Tercera parte: Javalin y exposición de contenido HTML
 
 
@@ -297,8 +302,9 @@ $ curl -XPOST /guardarropas/15/prenda/ \
 - [Documentación de Javalin](https://javalin.io/)
 - [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
 - Ejercicios:
-  - [Ejercicio en clase: QMP7](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t)
-  - [Ejercicio en clase: Modelo de consultoraas](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras)
+  - [Ejercicio en clase: QMP7 (Modelado REST)](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t)
+  - [Ejercicio en clase: Pokemon (API REST JSON con Javalin)](https://github.com/dds-utn/javalin-web-proof-of-concept/tree/example-api)
+  - [Ejercicio en clase: Modelo de consultoras](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras)
 - [Repositorio base de Javalin](https://github.com/dds-utn/javalin-web-proof-of-concept)
 
 ## Para la próxima clase
