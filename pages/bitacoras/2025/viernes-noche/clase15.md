@@ -6,11 +6,24 @@ permalink: /bitacoras/2025/viernes-n/clase-15/
 ---
 
 
+## Temario
+
+En esta clase los conceptos de arquitectura Web y sus protocolos. Para ello, y teniendo en cuenta que algunos de estos temas ya han sido dados en la materia de Desarrollo de Software, dejamos un video de repaso que cubre los temas de:
+
+ 1. La web y su historia
+ 2. Las arquitecturas cliente-servidor
+ 3. El protocolo HTTP
+ 4. El patrón MVC
+
+Luego, profundizamos en la distinción entre cliente pesado y cliente liviano, el protocolo HTTP y las convenciones REST.
+
+Por último, presentamos [Javalin](https://javalin.io/), un framework muy liviano para exponer nuestra aplicación via HTTP, y daremos un ejemplo de exposición de un API REST JSON y de una aplicación HTML.
+
 ## Resumen
 
-En esta clase presentamos los conceptos de arquitectura Web de cliente liviano, HTTP y REST.
+### Primera parte: modelado REST
 
-Además, presentamos [Javalin](https://javalin.io/), un framework muy liviano para exponer nuestra aplicación via HTTP Además, resolvimos el ejercicio de QMP, séptima iteración:
+Esta primera parte está guiada por el ejercicio de QMP7.
 
 > Como usuarie de QueMePongo quiero ver todas las prendas que tengo en mi guardarropas desde el navegador para poder administrarlas.
 
@@ -20,7 +33,7 @@ Algunas opciones:
 GET http://localhost:5000/api/[controller]/guardarropa
 GET http://www.quemepongo.com/guardarropas/{id}/prendas
 GET http://www.quemepongo.com/guardarropas/prendas
-GET quemepongo/{id_usuario}/guardarropas
+GET /quemepongo/{id_usuario}/guardarropas
 ```
 
 > **Corolario 1**: Cuidado, la URL/URI tiene que estar bien formada URI:
@@ -36,7 +49,7 @@ Otras opciones:
 GET /api/[controller]/guardarropa
 GET /guardarropas/{id}/prendas
 GET /guardarropas/prendas
-GET quemepongo/{id_usuario}/guardarropas
+GET /quemepongo/{id_usuario}/guardarropas
 ```
 
 > **Corolario 2**: No nos va a importar ni el dominio, ni el puerto ni el protocolo
@@ -58,7 +71,7 @@ GET /api/[controller]/guardarropa # OJO, esto es una cuestión
 ¿Y qué tal esta opción?
 
 ```bash
-GET quemepongo/{id_usuario}/guardarropas # OJO, vamos a evitar
+GET /quemepongo/{id_usuario}/guardarropas # OJO, vamos a evitar
                                          # colocar el nombre de
                                          # la aplicación en la ruta,
                                          # porque es **redundante**
@@ -87,7 +100,7 @@ GET /guardarropas/prendas #  OJO, es redundante, porque el
 
 
 ```bash
-GET usuarios/{id}/prendas # OJO, no vamos a agregar información de sesión
+GET /usuarios/{id}/prendas # OJO, no vamos a agregar información de sesión
                           # (es decir, que quién / en que
                           # contexto se está usando nuestra ruta)
                           # porque vamos a informarla utilizando
@@ -271,24 +284,25 @@ $ curl -XPOST /guardarropas/15/prenda/ \
 ```
 
 
+### Segunda parte: Javalin y exposición de APIs
+
+### Tercera parte: Javalin y exposición de contenido HTML
+
 
 ## Material
 
 - [Presentación](https://docs.google.com/presentation/d/1O0v4Xf-O_9RwegSMS2mvRXan0n1A_I0KNbDoxb0m4lI/edit)
 - [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): hasta el punto 8
 - [Introducción a Arquitectura Web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit#heading=h.kx1xmbyu1do6)
-- [QMP7](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t)
-- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
-- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0)
-- [Ejercicio en clase](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras)
+- [Ejercicio en clase: QMP7](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t)
+- [Ejercicio en clase: Modelo de consultoraas](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras)
 - [Documentación de Javalin](https://javalin.io/)
+- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
 
 
 ## Para la próxima clase
 
 - [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
 - [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0): **obligatorio** para leer
-- [QMP Iteración 7](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t): **obligatorio** ejercicio
 - [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para seguir profundizando hasta donde puedan y quieran
-- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0): **obligatorio** para leer si no lo leíste ya
-- [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para profundizar sobre HTTP si no lo hiciste ya.
+- [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0)
