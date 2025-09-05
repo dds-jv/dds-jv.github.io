@@ -294,11 +294,12 @@ $ curl -XPOST /guardarropas/15/prenda/ \
 - [Presentación](https://docs.google.com/presentation/d/1O0v4Xf-O_9RwegSMS2mvRXan0n1A_I0KNbDoxb0m4lI/edit)
 - [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): hasta el punto 8
 - [Introducción a Arquitectura Web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit#heading=h.kx1xmbyu1do6)
-- [Ejercicio en clase: QMP7](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t)
-- [Ejercicio en clase: Modelo de consultoraas](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras)
 - [Documentación de Javalin](https://javalin.io/)
 - [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
-
+- Ejercicios:
+  - [Ejercicio en clase: QMP7](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t)
+  - [Ejercicio en clase: Modelo de consultoraas](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras)
+- [Repositorio base de Javalin](https://github.com/dds-utn/javalin-web-proof-of-concept)
 
 ## Para la próxima clase
 
