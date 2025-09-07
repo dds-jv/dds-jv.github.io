@@ -82,6 +82,102 @@ Si bien entonces todos los objetos tienen estas tres características, no todas 
 
 Ver también [acá](https://martinfowler.com/bliki/EvansClassification.html)
 
+## Popurrí de preguntas de clase
+
+¿Como resolver la persistencia de una relación persistente de una clase persistente?
+
+  - Se puede aplicar mapeos de herencia
+      1. **single table**
+      2. _joined_
+      3. table per class (peor opción)
+  - Si la jeraraquía (poco elementos) y sus miembros son statless (sin estado)
+     - Se puede convertir a enum y mapearlo como tal
+  - Se pueden utilizar técnicas de serialización con @convert (NO LO RECOMENDAMOS)
+  - **NO SE PUEDEN** utilizar mapeos embebibles (@Embeddable ni @ElementCollection)
+
+Para responder, analicemos algunas situaciones particulares.
+
+### No hay uso polimórfico
+
+```java
+class A implements B, C { }
+
+@Entidad
+class E1 {
+  @ManyToOne
+  A a;
+}
+```
+
+**Conclusión**: no hay que hacer mapeos polimórficos
+
+### Hay uso polimórfico, pero no es persistente
+
+```java
+class A implements B, C { }
+
+@Entidad
+class E1 {
+  @Transient
+  B a;
+}
+```
+
+**Conclusión**: no hay que hacer mapeos polimórficos
+
+
+### Hay un solo uso polimórfico
+
+
+```java
+class A implements B, C { }
+
+@Entidad
+class E1 {
+  @ManyToOne
+  B a;
+}
+```
+
+**Conclusión**: hay que hacer un mapeo polimórfico
+
+
+### Hay múltiples usos polimórficos
+
+```java
+class A implements B, C { }
+
+@Entidad
+class E1 {
+  @ManyToOne
+  B a;
+}
+
+@Entidad
+class E2 {
+  @ManyToOne
+  C a;
+}
+```
+
+**Conclusión**:
+
+ * hay que modificar el modelo, probablemente
+ * Es un caso difícil e infrecuente
+
+## ¿Cómo hago para realizar consultas nativas del motor?
+
+Hay que utilizar `entityManager.createNativeQuery`
+
+
+## ¿Como hacer consultas de tipo reporte de manera eficiente en términos de velocidad de respuesta?
+
+Técnicas complementarias utilizando desnormalización de formas diferentes:
+
+* Opción 1: Guardar los resultados del reporte en la base de datos como una entidad más, y recalcular periodicamente usando un cron (optimizar la velocidad con la que se accede al resultado / evitar el recómputo del resultado)
+* Opción 2: Desnormalizar partes de las entidades involucradas en la consulta y hacer el reporte en vivo pero utilizar estos campos desnormalizados (optimizar la velocidad de generación del resultado)
+
+
 ## Material
 
 - [Presentación](https://docs.google.com/presentation/d/13_ofBSZzy0x7uo3FRnn1bk-bQZiQpffhXT2JqmLZVZA)
