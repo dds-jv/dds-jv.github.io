@@ -26,6 +26,12 @@ Algunos corolarios:
 - **Corolario 10**: Los `Embeddable` **no** soportan polimorfismo, ergo para poder embeber algo, tiene que ser **no** polimórfico
 - **Corolario 11**: Los `Embeddable` **tienen** que ser value objects
 
+## Taxonomías de objetos
+
+> Nota: La terminología de taxonomías, tipos o estereotipos de objetos está inspirada
+> en las secciones _A Model Expressed in Software_ y _The Lifecycle of a Domain Object_ del capítulo 2 del libro _Domain Driven Design_ (DDD) de Eric Evans
+> Recomendamos fuertamente la lectura del material original. 
+
 Además estudiamos _taxonomías de objectos_:
 
 Recordar que los objetos son una terna de:
@@ -34,13 +40,45 @@ Recordar que los objetos son una terna de:
 - identidad
 - comportamiento
 
-
 Si bien entonces todos los objetos tienen estas tres características, no todas son igualmente importantes. Por eso tenemos al menos cuatro tipos de _estereotipos_ de objetos:
 
-- _Símbolos_ (como por ejemplo los enums básicos): lo importante es su identidad, no tienen estado, y el comportamiento está supeditado a su identidad
-- _Entidades_: lo importante es su identidad, luego su estado y el comportamiento está supeditado a estos dos
-- _Servicios_ (ejemplo, un strategy): son objetos que tienen comportamiento importante, estado supeditado al comportamiento y poca o nula identidad
-- _Valores_ (_value-objects_): son objectos donde lo más importante es el estado, tienen comportamiento supeditado al mismo y NO tienen identidad importante.
+- _Entidades_: lo importante es su identidad, luego su estado y el comportamiento está supeditado a estos dos ejes. Como se menciona en DDD:
+
+  > Object modeling tends to lead us to focus on the attributes of an object, but the fundamental concept of an  
+  > ENTITY is an abstract continuity threading through a lifecycle and even multiple forms.  
+  > Some objects are not defined primarily by their attributes. They represent a thread of identity that  
+  > runs through time and often across distinct representations. Sometimes such an object must be  
+  > matched with another object even though attributes differ. An object must be distinguished from  
+  > other objects even though they might have the same attributes. Mistaken identity can lead to data  
+  > corruption.  
+  >
+  > An object defined primarily by its identity is called an ENTITY. ENTITIES have special modeling and  
+  > design considerations. They have lifecycles that can radically change their form and content, while a thread  
+  > of continuity must be maintained. Their identities must be defined so that they can be effectively tracked.  
+  > Their class definitions, responsibilities, attributes and associations should revolve around who they are,  
+  > rather than the particular attributes they carry. Even for ENTITIES that don’t transform so radically or have  
+  > such complicated lifecycles, applying the semantic category leads to more lucid models and more robust  
+  > implementations.
+
+- _Símbolos_ (como por ejemplo los enums básicos): lo importante es su identidad, pero **no tienen estado**, y el comportamiento está supeditado a su identidad. Son objetos que se utilizan fundamentalmente para identificar y discriminar otros objetos y es común que sus nombres contengan las expresiones _CodigoDe_, _TipoDe_, etc. 
+- _Valores_ (_value-objects_): son objectos donde lo más importante es el estado, tienen comportamiento supeditado al mismo y NO tienen identidad importante. Citando a DDD:
+
+ > An object that represents a descriptive aspect of the domain that has no conceptual identity is called a
+ > VALUE OBJECT. VALUE OBJECTS are instantiated to represent elements of the design that we care about only
+ > for what they are, not who they are.
+ 
+- _Servicios_ (ejemplo, un strategy): son objetos que tienen comportamiento importante, estado supeditado al comportamiento y poca o nula identidad. Su función principal es la de operar, asistir o coordinar a otros objetos del dominio y son frecuentemente intercambiables por otros servicios con funcionalidad idéntica o similar. Son elementos que suelen ser más subproductos del modelado orientado a objetos (en el cual utilizaremos técnicas como polimorfismo y composición para lograr mayor extensibilidad), que conceptos que surjan nativamente de nuestras intuiciones del dominio. Como se menciona en DDD:
+
+> Some concepts from the domain aren’t natural to model as objects. Forcing then required domain
+> functionality to be assigned as a responsibility of an ENTITY or VALUE either distorts the definition of
+> a model based object or adds meaningless artificial objects
+> (...)
+> The name "service" emphasizes the relationship with other objects. Unlike ENTITIES and VALUE OBJECTS, it
+> is defined purely in terms of what it can do for a client. A SERVICE tends to be named for an activity, rather
+> than an entity, a "verb" rather than a "noun". A SERVICE can still have an abstract, intentional definition; it
+> just has a different flavor than the definition of an object. A SERVICE should still have a defined
+> responsibility, and that responsibility and the interface fulfilling it should be defined in terms of the domain
+> language.
 
 Ver también [acá](https://martinfowler.com/bliki/EvansClassification.html)
 
