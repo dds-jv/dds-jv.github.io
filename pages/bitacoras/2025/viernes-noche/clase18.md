@@ -5,6 +5,21 @@ description: Viernes (Noche, 2025)
 permalink: /bitacoras/2025/viernes-n/clase-18/
 ---
 
+---
+layout: page
+title: Clase 18
+description: Viernes (Noche, 2025)
+permalink: /bitacoras/2025/viernes-n/clase-18/
+---
+
+# Temario
+
+
+* Diagrama de despliegue: Aplicaciones, Sistemas, Nodos, Componentes, Usuarios, Actores, Roles.
+* Arquitecturas clásicas: Desktop, Web (cliente liviano vs cliente pesado), Móvil.
+* Infraestructura de despliegue. Despliegue IaaS, SaaS, PaaS, Bare Metal.
+* Balanceo de carga.
+
 # Resumen
 
 En esta clase y subsiguientes, vamos a cambiar un poco el enfoque para empezar a charlar sobre temas de _Arquitectura_. Entendiendo cómo diseño de arquitectura, el diseño (y sus decisiones) de lo más importante. Es decir sus componentes, relaciones, comunicaciones y cómo tiene injerencia, no solo en las piezas de software sino en los componentes de hardware, tecnologías, costos y contexto.
@@ -15,15 +30,11 @@ Además, discutiremos sobre las implicancias de la arquitectura de sistemas: tan
 
 # Material
 
-
 - [Presentación de la clase](https://docs.google.com/presentation/d/1dFweT7Jg4CwG2pwUuzsPiopA1p-bkVX9QlwkCySuizU/edit)
 - [Listado de componentes arquitectónicos comunes](https://docs.google.com/document/d/1LWr7tDy47qFQt8Y1XOGFWCra9NQkugqsSxSPt9QMiKs/edit#heading=h.n9ul1ib5i4m)
 - [Demo de nginx](https://github.com/flbulgarelli/nginx-sample)
-- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing). Trabajaremos con **EntregaYaYaYa** y **A.F. Analytics** y comenzaremos a encarar **Rekomendashi, Fase 2**
+- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing). Trabajaremos con **Rekomendashi, Fase 2**
   - [Soluciones](https://docs.google.com/document/d/1zQPyGbnyKMsMNedsSnFWLobyGUUU2KTuGOyoPIsvnSw/edit#heading=h.o8eoqhxo0gxt) (No verlas sin intentar resolver el ejercicio antes)
-
-- **Complementario**: [Comunicación de decisiones arquitectónicas]({{site.baseurl}}/attachments/ComunicandoDecisionesArquitectonicas.pdf)
-- **Complementario**: [Introducción a arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE/edit#heading=h.z9jwy1eurzt9)
 
 # Para la próxima clase
 

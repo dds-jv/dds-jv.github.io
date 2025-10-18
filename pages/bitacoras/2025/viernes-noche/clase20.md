@@ -5,6 +5,14 @@ description: Viernes (Noche, 2025)
 permalink: /bitacoras/2025/viernes-n/clase-20/
 ---
 
+# Temario
+
+ * Componentes Arquitecturales: Colas de Mensajes.
+ * Monitoreo y supervisión.
+ * Comunicación por cola vs API HTTP.
+ * CDN.
+
+
 # Resumen
 
 En esta clase vamos a hablar de integración de aplicaciones y sus patrones arquitecturales. En particular, presentamos el concepto de **Cola de mensajes**, componente arquitectónico que nos ayudará a descoplar componentes que producen y consumen información a velocidades diferentes. Veremos también como las comunicaciones asincrónicas y orientadas a eventos nos permiten otras formas de integración de aplicaciones y microservicios.

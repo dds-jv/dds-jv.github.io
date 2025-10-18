@@ -5,6 +5,11 @@ description: Viernes (Noche, 2025)
 permalink: /bitacoras/2025/viernes-n/clase-19/
 ---
 
+# Temario
+
+ * Componentes Arquitecturales: Caché.
+ * Microservicio
+
 # Resumen
 
 En esta clase vamos a presentar la idea de **microservicios**, un enfoque para desarrollar una sola aplicación como un conjunto de "pequeños" servicios, donde cada uno se ejecuta en su propio proceso. Los mismos pueden (o no) estar escritos en diferentes lenguajes,comunicarse entre sí (por ejemplo, por medio de una API HTTP) y persistir su propios conjunto de datos.
