@@ -35,6 +35,5 @@ Para introducir este conceptos vamos a estar trabajando con los ejercicios de *S
 
 # Material bonus
 
-_Créditos a Juan Zaffaroni:_
-
 - [NoSQL: Documental y Clave-Valor](https://drive.google.com/file/d/1AVroYEf3CCqHZtRC-YBA3h6G6X-nJCg4/view?usp=sharing)
+- [Coreografía de Microservicios](https://www.youtube.com/watch?v=jI3SGvg-6oo)
