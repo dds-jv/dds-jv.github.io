@@ -1,4 +1,5 @@
 {% include head.html %}
+
 <body>
     {% if site.tooltip-enabled %}{% include tooltip.html %}{% endif %}
     {% include header.html %}
@@ -19,6 +20,120 @@
                     prácticos</a>
             </div>
         </article>
+        <hr>
+        <!-- INICIO DEL WIDGET (COPIAR DESDE AQUÍ PARA MOODLE) -->
+        <div class="alerta-financiamiento-widget"
+            style="max-width: 450px; margin: 20px auto; background-color: #ffffff; border-radius: 4px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); border: 1px solid #d1d5db; overflow: hidden; line-height: 1.5;">
+
+            <!-- Franja Superior Bordó -->
+            <div
+                style="background-color: #7f1d1d; padding: 18px; text-align: center; border-bottom: 5px solid #450a0a;">
+                <h2
+                    style="margin: 0; color: #ffffff; font-size: 16px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">
+                    Incumplimiento Ley 27.795
+                </h2>
+                <p style="margin: 4px 0 0 0; color: #fecaca; font-size: 11px; font-weight: 400; opacity: 0.9;">
+                    Financiamiento Universitario (Promulgada: 21 Oct 2025)
+                </p>
+            </div>
+
+            <!-- Área del Contador -->
+            <div style="padding: 30px 20px; text-align: center;">
+                <p
+                    style="margin: 0 0 15px 0; color: #4b5563; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em;">
+                    Tiempo transcurrido sin cumplimiento efectivo:
+                </p>
+
+                <!-- Contenedor de Cifras -->
+                <div style="display: flex; justify-content: center; gap: 8px; margin-bottom: 25px;">
+                    <!-- Días -->
+                    <div
+                        style="background-color: #ffffff; padding: 12px 4px; border-radius: 2px; width: 75px; border: 1px solid #e5e7eb; border-top: 3px solid #7f1d1d;">
+                        <span data-utn-unit="days"
+                            style="display: block; font-size: 30px; font-weight: 900; color: #7f1d1d;">00</span>
+                        <span
+                            style="font-size: 9px; color: #6b7280; font-weight: 800; text-transform: uppercase;">Días</span>
+                    </div>
+                    <!-- Horas -->
+                    <div
+                        style="background-color: #ffffff; padding: 12px 4px; border-radius: 2px; width: 75px; border: 1px solid #e5e7eb; border-top: 3px solid #4b5563;">
+                        <span data-utn-unit="hours"
+                            style="display: block; font-size: 30px; font-weight: 900; color: #1f2937;">00</span>
+                        <span
+                            style="font-size: 9px; color: #6b7280; font-weight: 800; text-transform: uppercase;">Horas</span>
+                    </div>
+                    <!-- Minutos -->
+                    <div
+                        style="background-color: #ffffff; padding: 12px 4px; border-radius: 2px; width: 75px; border: 1px solid #e5e7eb; border-top: 3px solid #4b5563;">
+                        <span data-utn-unit="mins"
+                            style="display: block; font-size: 30px; font-weight: 900; color: #1f2937;">00</span>
+                        <span
+                            style="font-size: 9px; color: #6b7280; font-weight: 800; text-transform: uppercase;">Min</span>
+                    </div>
+                    <!-- Segundos -->
+                    <div
+                        style="background-color: #ffffff; padding: 12px 4px; border-radius: 2px; width: 75px; border: 1px solid #e5e7eb; border-top: 3px solid #4b5563;">
+                        <span data-utn-unit="secs"
+                            style="display: block; font-size: 30px; font-weight: 900; color: #1f2937;">00</span>
+                        <span
+                            style="font-size: 9px; color: #6b7280; font-weight: 800; text-transform: uppercase;">Seg</span>
+                    </div>
+                </div>
+
+                <!-- Caja de Texto Informativo -->
+                <div
+                    style="text-align: left; background-color: #f9fafb; border-left: 4px solid #9ca3af; padding: 15px; border-radius: 0 4px 4px 0;">
+                    <p style="margin: 0; font-size: 11px; color: #374151; line-height: 1.5;">
+                        <strong style="color: #7f1d1d;">Estado de Emergencia:</strong> La desactualización
+                        presupuestaria compromete el funcionamiento de las Universidades Nacionales. La pérdida salarial
+                        acumulada a marzo de 2026 es del <strong>36%</strong>.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Footer Gris -->
+            <div style="background-color: #f3f4f6; padding: 10px; border-top: 1px solid #e5e7eb; text-align: center;">
+                <span
+                    style="font-size: 9px; font-weight: 700; color: #9ca3af; text-transform: uppercase; letter-spacing: 0.5px;">
+                    Actualización en tiempo real • Marzo 2026
+                </span>
+            </div>
+
+            <!-- Script con Lógica Reforzada -->
+            <script>
+                (function () {
+                    // Fecha de promulgación: 21 de octubre de 2025
+                    var target = new Date(2025, 9, 21, 0, 0, 0).getTime();
+
+                    function run() {
+                        var now = new Date().getTime();
+                        var gap = now - target;
+                        if (gap < 0) return;
+
+                        var d = Math.floor(gap / 86400000);
+                        var h = Math.floor((gap % 86400000) / 3600000);
+                        var m = Math.floor((gap % 3600000) / 60000);
+                        var s = Math.floor((gap % 60000) / 1000);
+
+                        var update = function (u, v) {
+                            var els = document.querySelectorAll('[data-utn-unit="' + u + '"]');
+                            for (var i = 0; i < els.length; i++) {
+                                els[i].innerText = v.toString().padStart(2, '0');
+                            }
+                        };
+
+                        update('days', d);
+                        update('hours', h);
+                        update('mins', m);
+                        update('secs', s);
+                    }
+
+                    setInterval(run, 1000);
+                    run();
+                })();
+            </script>
+        </div>
+        <!-- FIN DEL WIDGET -->
         <hr>
         <article class="post" role="article">
             <header class="post-header">
