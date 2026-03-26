@@ -5,6 +5,10 @@ description: Bitácoras años anteriores
 permalink: /bitacoras/bitacoras-anteriores/
 ---
 
+
+## 2025
+- [Viernes noche]({{site.baseurl}}/bitacoras/2025/viernes-n)
+
 ## 2024
 - [Viernes noche]({{site.baseurl}}/bitacoras/2024/viernes-n)
 
