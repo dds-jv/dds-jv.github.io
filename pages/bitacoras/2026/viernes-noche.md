@@ -3,7 +3,7 @@ layout: page
 title: Viernes
 description: Turno Noche - 2026
 permalink: /bitacoras/2026/viernes-n/
-frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQk3bwBcvfRgRG_Mdi_GytXFyO3roPn-DjIUJPkbDYDj2iERSLfew-r4x6sDn-bBZXiE8vFOCfSYmmB/pubhtml?gid=0&single=true"
+frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSGvNCs2WOrWNkVhnskDQ9Q95ecT2JxdiK55rjCjdbdUoFK9CB-NbrRvGoQ1FZe8hToFBgTdWUbMwBY/pubhtml?gid=1274491851&single=true"
 
 ---
 
