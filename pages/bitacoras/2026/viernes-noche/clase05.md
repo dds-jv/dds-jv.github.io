@@ -8,6 +8,7 @@ permalink: /bitacoras/2026/viernes-n/clase-05/
 
 # Resumen
 
+- Introducimos brevemente el concepto de patrones creacionales (si hay tiempo en la materia lo abordaremos con más profundidad luego)
 - Abordamos el concepto de _Inversion de Control_.
 - Nos introdujimos a la _Inyección de dependencias_.
 - Discutimos sobre: _Refactor_ y _Manejo del Cambio_
@@ -113,9 +114,6 @@ objeto
 - [Ejemplos Code Smells](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
 - [Enunciado de Monedero](https://github.com/dds-utn/dds-monedero-java8)
     - [Soluciones posibles](https://github.com/dds-utn/dds-monedero-java8/branches/all)
-- Complementario: [QMP 3](https://docs.google.com/document/d/1XGb_Xt2v3viZY4RNky6zguL-ATv1iqEzHWhK4a6vsIk/edit)
-    - [Pseudocódigo de QMP3](https://drive.google.com/file/d/1wRcRZSLDspmMMTtWlfB5c8P85moKgnQp/view?usp=sharing)
-    - [Soluciones posibles](https://docs.google.com/document/d/1eMm7sRyyi-PJ8YFt0Ro2ecxfHBC6WJBlui7x21rFA2Q/edit#heading=h.uyku9mnteh0t)
 
 
 # Tarea
