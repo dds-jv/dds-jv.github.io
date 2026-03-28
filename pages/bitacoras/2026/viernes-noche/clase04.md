@@ -23,9 +23,14 @@ permalink: /bitacoras/2026/viernes-n/clase-04/
 
 # Tarea
 
-* Ejercicio: Qué Me Pongo - Primera Iteración (si no lo hiciste)
 * [Ejercicio: Qué Me Pongo - Segunda Iteración](https://docs.google.com/document/d/10j6XB9zIhl5xox2xBEDEFsgPmueHMkyvLSHcLxl_27Y/edit#heading=h.uyku9mnteh0t)
 * Leer y ver video: Diseño de manejos de errores y Excepciones en Java (en el campus, si no lo hiciste)
-* Recomendado: Leer y ver video: Patrones creacionales (en el campus)
-* Recomendado: [Patrones creacionales](https://docs.google.com/document/d/1jyjLJiXhScB8204qPOHyHWqE5gRINvAbV3F4-x2E-hI/edit#)
-	- [Pseudocódigo ejemplos creacionales](https://github.com/dds-utn/ejemplos-creacionales)
+- 👓 **Obligatorio**: Leer [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
+- 👓 **Obligatorio**: Leer [Introducción a la inyección de dependencias](https://docs.google.com/document/d/1GsW-hVF0XR76KunDILqkltyE1KIBvj3ldCCkyStjne0/edit?usp=sharing)
+- 👓 Deseable: Leer [Biblioteca vs. Framework](https://docs.google.com/document/d/1D_MCoh4J8kL1MAKNlbDgAMu2nYxri-81nZBYOPFWnO0/edit#heading=h.6ab0fffv8tld)
+- 🖨️ Deseable: Tener a mano los [Ejemplos de Code Smells](https://docs.google.com/document/d/1N-ZFQqcmge7TozZ1zOcW1tbFrn9IFEJm91X8MFGysik/edit?usp=sharing)
+- ⌨️ **Obligatorio**: Hacer el [ejercicio Monedero](https://github.com/dds-utn/dds-monedero-java8)
+- 🎥 **Obligatorio**: Ver estos dos videos sobre deuda técnica:
+   - [Concepto de deuda técnica](https://www.youtube.com/watch?v=OfIYiyg1op8&t=400s) (6:40 a 9:00, aunque toda la entrevista es interesante)
+   - [Una crítica al concepto de deuda técnica](https://www.youtube.com/watch?v=DvfMOJaIzhY)
+- 👓 **Obligatorio**: Leer [Design for accountability](https://www.researchgate.net/publication/221248162_Designing_for_accountability)

@@ -11,16 +11,17 @@ frame: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQk3bwBcvfRgRG_Mdi_GytXF
 
 Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase.
 
-- [Clase 1: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-01)
-- [Clase 2: Cualidades de Diseño, Patrones de Diseño. Strategy, Template Method]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-02)
-- [Clase 3: Patrones de diseño  y Manejo de Errores]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-03)
-- [Clase 4: Tiempo de Uso vs. Tiempo de Configuración. Patrones creacionales]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-04)
+- [Clase 1: Presentación de la materia y visibilización de la crisis del financiamiento universitario]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-01)
+- [Clase 2: Diseño, Metodologías y Arquitectura]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-02)
+- [Clase 3: Cualidades de Diseño, Patrones de Diseño. Strategy, Template Method]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-03)
+- [Clase 4: Servicios, Integración y Manejo de Errores]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-04)
 - [Clase 5: Inversion de control, Refactoring, Inyección de Dependencias]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-05)
 - [Clase 6: Adaptación de Interfaces entre Componentes y Patrones de comunicación. Testing]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-06)
 - [Clase 7: Reificando Comportamiento]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-07)
 - [Clase 8: Eventos y Notificaciones. Observer]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-08)
 - [Clase 9: Observer (continuación)]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-09)
-- [Clase 10: Metodologías Ágiles. Práctica de parcial]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-10)
+- [Clase 10: Parrones creacionales. Metodologías Ágiles. Práctica de parcial]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-10)
+- Clase 10-bis: Modelos generativos.
 - [Clase 11: Modelo Relacional, Normalización y Denormalización]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-11)
 - [Clase 12: Práctica de Normalización, Intro a ORM, Ciclo de Vida]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-12)
 - [Clase 13: ORM, Mapeo de herencia, ORM, Relaciones, Identidad, Orden de Colecciones]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-13)
