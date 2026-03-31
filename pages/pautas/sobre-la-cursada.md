@@ -74,6 +74,7 @@ Ahora sí, yendo a los contenidos concretos, diseño es una materia en que:
 * aprenderemos a diseñar y construir sistemas (casi) completos, cubriendo los tres componentes arquitectónicos fundamentales: modelo, persistencia (guardar nuestros objetos) y presentación (hacer interfaces gráficas).
 * aprenderemos conceptos y herramientas que trascenderán el objetivo de la cursada y te servirán en toda tu carrera profesional, más allá de en qué parte de un equipo de desarrollo trabajes.
 * vincularemos a la actividad con cuestiones que la trascienden.
+* vincularemos al proceso del diseño de sistemas, sus tecnologías y sus productos con el contexto en que se produce, sus medios de financiamiento y su impacto social.
 
 
 ## ¿Y qué queda afuera?
@@ -101,9 +102,9 @@ Desde el equipo docente creemos que no hay educación posible sin respeto entre 
 
 ## ¿Les docentes se adhieren a los paros?
 
-Llegó la hora de hablar de otro temido tema: los paros docentes.
+Llegó la hora de hablar de otro temido tema: los paros docentes por la defensa del salario docente, el financiamiento a la universidad y la defensa de la educación y la ciencia pública.
 
-La respuesta breve es que sí, nos adherimos, a veces no yendo a clases, y otras veces, de forma activa (es decir, dando las clases pero no tomando listas), eso dependerá del reclamo particular y de la planificación a ese día. Vemos a este como un último recurso, al que sólo recurriremos cuando sea necesario.
+La respuesta breve es que sí, nos adherimos, en general no yendo a clases, y algunas veces, de forma activa, es decir, con jornadas de visibilización, clases públicas o cualquier otra acción que consideremos apropiada.
 
 ¿El motivo? Por un lado, porque creemos en la educación pública, y no estaríamos aquí si no fuera por ella. Y por otro, porque creemos que la labor docente debe ser considerada de excelencia y no de segunda, y una de (las tantas) formas de jerarquizarla es asignándole salarios acordes a las realidades. Pero sobre todo, porque pensamos que _docente que lucha, docente que enseña_.
 
@@ -125,5 +126,4 @@ El repositorio de la cátedra es https://github.com/dds-utn, ahí vas a encontra
 
 ¡Mirá siempre el seguimiento de las clases antes y después de cada una! Lo vas encontrar en las bitácoras:
 
-* [Jueves](https://dds-jv.github.io/bitacoras/2022/jueves-m/)
-* [Viernes](https://dds-jv.github.io/bitacoras/2022/viernes-n/)
+* [Viernes](https://dds-jv.github.io/bitacoras/2026/viernes-n/)

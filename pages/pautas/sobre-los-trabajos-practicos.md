@@ -9,18 +9,20 @@ permalink: /pautas/sobre-los-trabajos-practicos
 
 La materia contará con tres tipos de trabajos prácticos:
 
-1. Entregas grupales del TP anual (TPA): 3 por cuatrimestre
-    * Los grupos serán de 6 integrantes
-    * Las mismas serán evaluadas periódicamente por une ayudante
-    * Para aprobar es necesario tener 2 de cada tres entregas cuatrimestrales aprobadas en tiempo y forma.
-2. Entregas individuales de TPs de implementación (TPI): 3 por cuatrimestre
-    * Las mismas serán evaluadas de forma automática a través de Github Classroom
-    * Para **aprobar** es necesario tener 2 de cada tres entregas cuatrimestrales aprobadas en tiempo y forma.
-3. Ejercicios semanales de diseño: **hasta** 7 entregas por cuatrimestre
-    * Las mismas serán evaluadas en clase, individual o grupalmente. 
+1. Entregas grupales del TP anual (TPA): 2 por cuatrimestre
+    * Los grupos serán de 5 integrantes
+    * Las mismas serán evaluadas periódicamente por une ayudante, en general de forma presencial, en campus y en horario de cursada, en turnos asignados.
+    * Para aprobar es necesario tener todas las entregas cuatrimestrales aprobadas en tiempo y forma.
+    * En caso de haber reentregas, las mismas deben aprobadas para las fechas que tu ayudante te indique, y nunca después de diciembre.
+2. Entregas individuales de TPs de implementación (TPI): 7 aproximadamente por año
+    * Las mismas serán evaluadas de forma automática a través de Github Classroom y/o Google Forms
+        * En el primer cuatrimestre habrá 5 entregas: TPI0 (Diseño de Macowins), TPI1 (Implementación de Macowins), TPI2 (Introduccción a Arquitectura), TPI3 (Sistema de Archivos), y TPI4 (Calendarios). Es necesario aprobar las primeras 3 entregas de forma obligatoria, y al menos 4 de 5 entregas en total.
+        * En el segundo cuatrimestre habrá aproximadamente 2 entregas (a ser definidas)
+3. Ejercicios semanales de diseño: **hasta** 7 entregas en el primer cuatrimestre, hasta 3 entregas en el segundo cuatrimestre
+    * Las mismas serán evaluadas en clase, individual o grupalmente.
     * Estas entregas **no** son requeridas para **aprobar**
     * Para **promocionar** es necesario haber hecho al menos 50% de las entregas individuales por cuatrimestre (las cuales se enviarán a través de los formularios que se publicarán semana a semana)
-    * La mayoría de ellas serán sobre el ejercicio iterativo "Qué Me Pongo" (QMP), aunque algunas semanas podrán ser sobre otros problemas. 
+    * La mayoría de ellas serán sobre el ejercicio iterativo "Qué Me Pongo" (QMP), aunque algunas semanas podrán ser sobre otros problemas.
 
 
 # Sobre las buenas prácticas
@@ -90,19 +92,17 @@ Ambas son clases _antiguas_ con varias falencias de diseño. A partir de Java 1.
 
 ## Nunca lancen `Exception`
 
-Asegúrense de siempre lanzar [`RuntimeException`](https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeException.html)s o sus subclases, como [`IllegalArgumentException`](https://docs.oracle.com/javase/8/docs/api/java/lang/IllegalArgumentException.html) o excepciones personalizadas. En particular: 
+Asegúrense de siempre lanzar [`RuntimeException`](https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeException.html)s o sus subclases, como [`IllegalArgumentException`](https://docs.oracle.com/javase/8/docs/api/java/lang/IllegalArgumentException.html) o excepciones personalizadas. En particular:
 
  * No lancen `Throwable`, por ser demasiado genérica
  * No lancen `Exception`, porque obliga a agregar `throws` a la firma de los métodos
- * No lancen `Error`, porque semánticamente se reserva a problemas graves y propios de la plataforma que jamás deberían ser manejados. 
+ * No lancen `Error`, porque semánticamente se reserva a problemas graves y propios de la plataforma que jamás deberían ser manejados.
 
 ## No redefinan `equals` ni `hashCode`...
 
-...salvo que lo estén haciendo a conciencia. En Java, al redefinir la noción de equivalencia es necesario reimplementar el método `hashCode`, por lo que siempre que se redefina uno, se debe redefinir el otro. Pero, en cualquier caso, estas redefiniciones no son triviales, con lo cual dejamos esta serie de sugerencias: 
+...salvo que lo estén haciendo a conciencia. En Java, al redefinir la noción de equivalencia es necesario reimplementar el método `hashCode`, por lo que siempre que se redefina uno, se debe redefinir el otro. Pero, en cualquier caso, estas redefiniciones no son triviales, con lo cual dejamos esta serie de sugerencias:
 
   1. No redefinian ni `equals` ni `hashCode`
   2. ...pero sí aún así decidieran hacerlo
      1. Redefinan los dos a la vez
      2. Usen en ambas implementaciones [`Objects.equals`](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#equals-java.lang.Object-java.lang.Object-) y [`Objects.hashCode`](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#hashCode-java.lang.Object-), respectivamente
-
-  

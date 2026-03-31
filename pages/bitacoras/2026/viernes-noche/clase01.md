@@ -30,7 +30,7 @@ Si bien está pensado para que puedas seguir lo visto estés donde estés, es im
 
 
 
-1. Hablamos sobre la Ley de Financiamiento Universitario.
+1. Hablamos sobre la Ley de Financiamiento Universitario, la situación crítica del financiamiento universitario, las áreas que la Ley de Financiamiento Universitario cubre, de su incumplimiento al día del inicio de clases y, en particular, el atraso del salario docente y no docente y las graves consecuencias que eso acarrea el estudiantado.
 2. Conversamos sobre el objetivo de la materia, sus materiales y formas de evaluación
 3. Mencionamos la existencia de diagramas UML, como ser los de clases y diagramas de despliegue, que utilizaremos a lo largo de la materia.
 4. Introdujimos brevemente al concepto de arquitectura (lógica) y a los cuatro problemas de arquitectura que estudiaremos en la materia: modelo de dominio, persistencia, presentación, comunicación.
