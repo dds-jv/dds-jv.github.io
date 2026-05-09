@@ -8,11 +8,12 @@ permalink: /bitacoras/2026/viernes-n/clase-05/
 
 # Resumen
 
-- Introducimos brevemente el concepto de patrones creacionales (si hay tiempo en la materia lo abordaremos con más profundidad luego)
+En esta clase abordamos el concepto de _control_ desde diferentes ángulos
+
+- Hablamos sobre los conceptos de rendición de cuentas y opresión algorítmica
 - Abordamos el concepto de _Inversion de Control_.
 - Nos introdujimos a la _Inyección de dependencias_.
 - Discutimos sobre: _Refactor_ y _Manejo del Cambio_
-- Vimos cómo hacer refactors en vivo ayudándonos con un IDE
 
 
 # Ejemplos de código
@@ -104,7 +105,9 @@ objeto
 
 # Material
 
-- [Presentación](https://docs.google.com/presentation/d/1Y53o0lifOgAMsdTTg9v4BSR94Pnf-K44mqz1rOy8oU4/edit#slide=id.g82d3d5330f_0_705)
+- [Presentación](https://docs.google.com/presentation/d/1K5rtkdvwt2_KTESrqZuqFOvU6fqeXyDPy8Th9y0EV2M/edit?slide=id.g35f391192_00)
+- [Design for accountability](https://www.researchgate.net/publication/221248162_Designing_for_accountability)
+- [Desafiando los algoritmos de opresión](https://www.youtube.com/watch?v=iRVZozEEWlE)
 - [Manejo del cambio: Expansión y refactoring](https://docs.google.com/document/d/1cAje0qwy3Cus_ob0r-tatbcT01sDFeLt3MmSVmLeSxk/edit?usp=sharing)
 - Deuda técnica:
    - [Concepto de deuda técnica](https://www.youtube.com/watch?v=OfIYiyg1op8&t=400s)
