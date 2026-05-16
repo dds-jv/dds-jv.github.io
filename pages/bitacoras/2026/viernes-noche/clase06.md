@@ -5,18 +5,21 @@ description: Viernes (Noche, 2026)
 permalink: /bitacoras/2026/viernes-n/clase-06/
 ---
 
-- [Presentación](https://docs.google.com/presentation/d/1GS-dQLC5AsZSJtwezbG1aO6fXMUpUNW7-sTui8Ha77c/edit)
-- [Ejemplo de Mocking](https://drive.google.com/drive/folders/1fUdW29WD6pqQwLG_WGrqcNNzPBvgANBq?usp=sharing)
-
 # Resumen
 
+- Conversamos sobre el uso de dependencias e integración de sistemas, sus modos, ventajas y riesgos
+- Discutimos sobre algunos de los errores de seguridad más frecuentes al integrarse con dependencias y sistemas externos y lo analizamos en casos concretos de actualidad
+- Conversamos sobre los desafíos actuales en torno a seguridad, protección de datos personales, vigilancia y soberanía a la luz de las nuevas tecnologías generativas
 - Abordamos distintos tipos de _Testing_ y para qué lo hacemos.
 - Nos introdujimos al concepto de _Interfaz_, en un sentido más amplio que el de objetos.
 - Hablamos sobre cómo establecer y diseñar: _Interfaces entre componentes_
 - Aprendimos cómo mantener interfaces desacopladas valiéndonos del _Patrón Adapter_
+- Aprendimos sobre cómo el mocking nos puede ayudar con el testing cuando nos integramos con interfaces externas
 
 # Material
 
+- [Presentación](https://docs.google.com/presentation/d/1cZ28IV_9mvyWcpADZ2iniGdy_pLkWw3wIw4j0p__Fts/edit)
+- [Ejemplo de Mocking](https://drive.google.com/drive/folders/1fUdW29WD6pqQwLG_WGrqcNNzPBvgANBq?usp=sharing)
 - [Diseño de Interfaces Entrantes y Salientes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit#)
 - _Complementario: [Video sobre testing de interfaces externas](https://www.youtube.com/watch?v=-p7_NUDLRB0&index=1&list=PLTpxfh7PF3OpJSMNNPaYxLJii3Xm7PPA_)_
 - [Patrón Adapter (Pág. 157)](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)
