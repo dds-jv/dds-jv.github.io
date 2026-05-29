@@ -17,7 +17,10 @@ permalink: /bitacoras/2026/viernes-n/clase-07/
     - Cosificar el comportamiento <- es lo que tienen/tenían que ver para esta clase
     - Inversión de control / callback <- lo vimos la clase pasada
     - Programar orientado a eventos <- es lo que corresponde a la clase que viene
-- También respondimos algunas dudas sobre QMP4. A continuación dejamos el código que fuimos escribiendo.
+- También conversamos sobre clientes HTTP
+- Hicimos un paréntesis para conversar sobre el [código de conducta de IEEE](https://ethics.acm.org/code-of-ethics/software-engineering-code/).
+- Por último respondimos algunas dudas sobre QMP4. A continuación dejamos el código que fuimos escribiendo.
+
 
 ```java
 class Clima {
@@ -92,7 +95,6 @@ unServicio = mock(ServicioMeteorologico.class)
 
 // corolario: al tener un adapter no solamente gano en extensibilidad
 // sino también testeabilidad
-```
 enum Formalidad {
   FORMAL,
   DE_GALA,
@@ -114,6 +116,7 @@ class Prenda {
 
 # Material
 
+- [Presentación](https://docs.google.com/presentation/d/1a7BI9E-Y67-gnCY0jE0ZyTVxgl3hKSwIoQ7gfHeKiS0/edit?slide=id.g35f391192_00#slide=id.g35f391192_00)
 - [Reificar Comportamiento](https://docs.google.com/document/d/14n6SNTbCt1wJzhNiIFNSoAq0tJdYjRrOQCi5ar_FQ1c/edit#heading=h.6ab0fffv8tld)
 - [Patrón Command](http://www.google.com/url?q=http%3A%2F%2Fwww.uml.org.cn%2Fc%2B%2B%2Fpdf%2FDesignPatterns.pdf&sa=D&sntz=1&usg=AFQjCNFD5AGp1QDdoN_pu3TgljJJRqMAMg)
 - [Qué Me Pongo: Quinta Iteración](
