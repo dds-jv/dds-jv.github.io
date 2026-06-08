@@ -5,28 +5,35 @@ description: Viernes (Noche, 2026)
 permalink: /bitacoras/2026/viernes-n/clase-08/
 ---
 
-> _¡Hola todo el mundo!_
->
-> Dr Nick
-
 ## Resumen
+
+### Primera parte
+
+Esta semana tuvo lugar la onceava marcha de Ni Una Menos, por lo que nos tomamos unos minutos para conversar sobre los femicidios en Argentina y recordar la existencia del [área de géneros de UTN](https://www.instagram.com/ugd.utnba/), [el protocolo de género](https://frba.utn.edu.ar/protocolo-de-genero/) y la formación obligatoria de [Ley Micaela](https://frba.utn.edu.ar/ley-micaela/). Dejamos algunos materiales que complementan lo conversado:
+
+* [Lo que Ni Una Menos nos obligó a ver: la pedagogía de la CRUELDAD](https://youtu.be/vhRMlb2g0jE?si=1FyY5l8KL9UJxdpq)
+* [¿Y los varones qué?](https://youtu.be/tenRlCuwJg0?si=lydJ-xUhtCTBNQCa)
+
+También
+
+### Segunda parte
 
 En esta clase aprendimos sobre la noción de eventos para comunicar cosas que ocurren en nuestro sistema a otros objetos, sin acoplarnos a lo que hacen, pero ganando en flexibilidad de que se puedan suscribir otros interesados:
 
 Trabajamos sobre conceptos tales como:
 
-  * evento: cualquier cosa que _acontece_ (sí, es una definición muy genérica)
-  * sujeto observable (o _simplemente_, sujeto, o simplemente _observable_): aquel _ente_ que es la fuente de eventos y es capaz de producir notificacionesa
+  * evento: cualquier cosa que _acontece_ (sí, es una definición muy genérica) que es es relevante para el sistema
+  * sujeto observable (o _simplemente_, sujeto, o simplemente _observable_): aquel _ente_ que es la fuente de eventos y es capaz de producir notificaciones
   * notifación: el mensaje que se envía desde el sujeto observable a un observador, ante la ocurrencia de un cierto evento
   * observador: el ente interesando en los eventos de un _sujeto observable_
   * suscripción: el acto por el cual el _observador_ expresa su interés en (uno o alguno de) los _eventos_ que le suceden al _observable_.
   * acción: aquello que un observador realiza ante la ocurrencia de un evento para el que está suscripto
+
 Comentamos que, dependiendo de la tecnología, la literatura y la implementación de esta noción, existen muchos sinónimos para algunos de estos conceptos:
 
-  * `listener`, `subscriber` (suscriptor) como sinónimos de `observer` (observador)
+  * _interesado_, `listener`, `subscriber` (suscriptor) como sinónimos de `observer` (observador)
   * `listen`,`subscribe`, `register`, todos verbos que funcionan como cuasi-sinónimos de la acción de crear una suscripción
   * _reacción_: dado que las acciones de las que hablamos son en respuesta a un evento, es común referirlas como _reacciones_ (de donde viene un sinónimo del diseño orientado a eventos: el diseño _reactivo_)
-
 
 Dado que virtualmente cualquier operación en un sistema puede ser pensada como un evento, nos resulta útil acotar su uso a ciertos escenarios en que:
 
@@ -65,6 +72,64 @@ Esto nos arroja cuatro corolarios:
   * Normalmente, existirá una interfaz observadora por cada tipo de evento posible.
   * Normalmente, existirá un método para registrar un observador por cada tipo de evento posible.
 
+
+### Código en clase
+
+```ts
+class ListaDeCorreo {
+
+  // registrar un suscriptor/observador/interesada
+  // addInteresadoPost(interesado)
+  // registerInteresadoPost(interesado)
+  // onPost(interesado)
+  agregarInteresadoPost(interesado: InteresadoEnPost): void {
+    this.interesados.add(interesado)
+  }
+
+  quitarInteresadoPost(interesado: InteresadoEnPost): void {
+    this.interesados.remove(interesado)
+  }
+}
+
+
+// Momento de configuración
+var unaListaDeCorreo = new ListaDeCorreo()
+
+
+// en este punto no se notifica a nadie
+// esta es la llamada del "cliente"
+// momento de uso
+unaListaDeCorreo.hacerPost(...)
+
+
+// es muy común que sea otro objeto (distinto del cliente) el que se encarga
+// de agregar y quitar interesados
+// Otro momento de configuración
+var detector = new InteresadoDetctorDeUsuariosMolestos()
+unaListaDeCorreo.agregarInteresadoPost(new InteresadoMalasPalabras())
+unaListaDeCorreo.agregarInteresadoPost(detector)
+
+// otra llamada desde el cliente
+// notifica a 2 interesado
+unaListaDeCorreo.hacerPost(...)
+
+unaListaDeCorreo.quitarInteresadoPost(detector)
+
+// otra llamada desde el cliente
+// notifica a 1 interesado
+// otro momento de uso
+unaListaDeCorreo.hacerPost(...)
+
+
+// ======================================================
+// Importante: Momento de uso vs momento de configuración
+// ======================================================
+//
+// Momentos de configuración y de uso ocurren en instantes diferentes
+// y típicamente los desencadenan objetos diferentes.
+// Incluso pueden ser desencadenados por actores y personas diferentes:
+// son en definitiva, casos de uso diferentes.
+```
 
 ## Material utilizado
 
