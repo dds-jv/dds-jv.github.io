@@ -181,8 +181,9 @@ class Evento {
 
 - [Repaso de Observer](https://gist.github.com/flbulgarelli/142210fd84d13e9df8f9d0290215bebd)
 - [Que Me Pongo Sexta Iteración](https://docs.google.com/document/d/1NxqhJj70kt-_4aw-CawlISdJZyedzoOcLAVJAZVZISE/edit): Punto bonus.
-   - Esta es una posible [puesta en común](https://drive.google.com/file/d/1JPWEYqw0a_ylqq2zF3zLa2SscGqPFPGg/view?usp=sharing).
-   - Esta es otra [puesta en común, que incluye el punto bonus](https://github.com/flbulgarelli/qmp6)
+   - Esta es una [puesta en común, que incluye el punto bonus](https://github.com/flbulgarelli/qmp6)
+    - Acá encontrarás [las notas que tomamos en clase](https://github.com/flbulgarelli/qmp6/tree/en-clase-2026)
+   - Esta es otra posible [puesta en común](https://drive.google.com/file/d/1JPWEYqw0a_ylqq2zF3zLa2SscGqPFPGg/view?usp=sharing).
 - [Presentación utilizada](https://docs.google.com/presentation/d/1ZSxNDDsTcsi26ZvX69ysqdwmZ_NH_OW3EC7loYpZGSc/edit)
 - [Apunte sobre el patrón Observer, caso práctico](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit)
 - [Sobre los efectos del Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#heading=h.y04j3mise0wn)
