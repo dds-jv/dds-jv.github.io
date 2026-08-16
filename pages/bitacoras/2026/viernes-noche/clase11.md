@@ -9,7 +9,7 @@ permalink: /bitacoras/2026/viernes-n/clase-11/
 
 En esta oportunidad hablamos sobre la persistencia y tocamos los siguientes temas:
 - Utilidad y rol que cumple la misma en nuestros sistemas.
-- Discutimos sobre las motivaciones de la persistencia: durabilidad, compartir información y soportar volúmenes de datos mayores que los que caben en la memoria RAM.
+- Discutimos sobre las motivaciones de la persistencia: durabilidad, compartir información con otros sistemas y soportar volúmenes de datos mayores que los que caben en la memoria RAM.
 - Dimos ejemplos de diferentes medios de persistencia y modelos:
     - Archivos
     - Bases de datos relacionales y no relacionales
@@ -29,7 +29,8 @@ Además, comenzamos a modelar datos
 - [Consultas de ejemplo SQL (poner la opción de abrir en diagrams.net)](https://drive.google.com/file/d/1kfHXXyfUDmSLJdk-Wdw_7ilCRdB1wgKb/view?usp=sharing)
 - [Ejercicio de canchas de Paddle](https://docs.google.com/document/d/1UpZX9jNuptO9fTHf-945gjelpDc4e7o-jV3GYHA3k80/edit#heading=h.bvad7dw8bhrq)
   - [DER base](https://drive.google.com/file/d/1pzfjfZusgj9IGdA2Mw7gXYeJWIHnr2Qf/view?usp=sharing)
-  - [DER hecho en clase](https://app.diagrams.net/#G1QAmW3dProTx24aN2xD9KGQqQsod6Z_H3)
+  - [DER hecho en clase](../../../../attachments/clases/canchas_de_paddle_en_clase_2026.jpeg)
+  - [Otro posible DER](https://app.diagrams.net/#G1QAmW3dProTx24aN2xD9KGQqQsod6Z_H3)
 
 
 ## Apuntes
