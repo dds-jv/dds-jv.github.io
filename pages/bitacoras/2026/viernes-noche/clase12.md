@@ -74,7 +74,7 @@ Prendas prendas = resultados.map(resultado => {
 
 ## Material
 
-- [Presentación utilizada](https://docs.google.com/presentation/d/1nXNCzT81aPQgFpFG1ZpizeA92InrEi8Wsg5moYii4CY/edit#slide=id.g35f391192_00)
+- [Presentación utilizada](https://docs.google.com/presentation/d/1qyQK54SGzUcW4mPYbHFSxl79gqK_Q2j6udNZtsTmuM4/edit?slide=id.g35f391192_00)
 - [ORM](https://docs.google.com/document/d/1YLmp9vMnSzKg2emt3Bx564Tf1CLalShPc98Z8nCoi7s/edit): secciones 1 - 4
 - [Código de ejemplo de conexión JDBC](https://gist.github.com/flbulgarelli/f2219952bcacb33ea35a71a4e5478399)
 - [Normalización](https://docs.google.com/document/d/1Jil-3oiveXDtY1iKBCof7jE9ooRFJ-f1KjcXgaGk6F0/edit#heading=h.aa3gqw2dds4m)
