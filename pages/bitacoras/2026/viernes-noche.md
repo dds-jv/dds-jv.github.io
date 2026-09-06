@@ -21,7 +21,7 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 8: Eventos y Notificaciones. Observer]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-08)
 - [Clase 9: Observer (continuación)]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-09)
 - [Clase 10: Parrones creacionales. Metodologías Ágiles. Práctica de parcial]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-10)
-- Clase 10-bis: Modelos generativos.
+- [Clase 10-bis: Modelos generativos](({{site.baseurl}}/bitacoras/2026/viernes-n/clase-10bis))
 - [Clase 11: Modelo Relacional, Normalización y Denormalización]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-11)
 - [Clase 12: Práctica de Normalización, Intro a ORM, Ciclo de Vida]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-12)
 - [Clase 13: ORM, Mapeo de herencia, ORM, Relaciones, Identidad, Orden de Colecciones]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-13)
