@@ -25,6 +25,17 @@ Por último, presentamos [Javalin](https://javalin.io/), un framework muy livian
 
 > Decimos repaso porque este es un tema que en gran medida se da en Desarrollo de Software
 
+Repasamos cuestiones sobre:
+
+ * Sistemas distribuidos
+ * Arquitectura cliente - servidor
+ * HTTP y otras tecnologías de la Web: HTML, CSS, JS, Cookies, Websockets, LocalStorage, CORS, etc
+ * La historia de la Web y su herencia histórica
+ * MVC vs MVC Web
+ * Los elementos fundamentales del protocolo HTP: pedidos, respuestas, contenidos, cabeceras, rutas, códigos de estado, etc
+ * Las convenciones de REST
+ * Clientes livianos vs pesados
+
 ### Segunda parte: modelado REST
 
 Esta primera parte está guiada por el ejercicio de QMP7.
@@ -340,7 +351,7 @@ Exploramos el código de una [Aplicación cliente liviano](https://github.com/dd
 
 ## Material
 
-- [Presentación](https://docs.google.com/presentation/d/1O0v4Xf-O_9RwegSMS2mvRXan0n1A_I0KNbDoxb0m4lI/edit)
+- [Presentación](https://docs.google.com/presentation/d/1wQdYou9GgKwSwDuNlvdbuOGJlvCwG3Y9tHHoyIi4Da8)
 - [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): hasta el [punto 14](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es#14-recursos), inclusive
 - [Introducción a Arquitectura Web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit#heading=h.kx1xmbyu1do6)
 - [Documentación de Javalin](https://javalin.io/)
