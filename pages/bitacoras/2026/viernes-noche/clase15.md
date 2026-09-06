@@ -21,7 +21,11 @@ Por último, presentamos [Javalin](https://javalin.io/), un framework muy livian
 
 ## Resumen
 
-### Primera parte: modelado REST
+### Primera parte: (repaso) de arquitectura Web
+
+> Decimos repaso porque este es un tema que en gran medida se da en Desarrollo de Software
+
+### Segunda parte: modelado REST
 
 Esta primera parte está guiada por el ejercicio de QMP7.
 
@@ -284,14 +288,52 @@ $ curl -XPOST /guardarropas/15/prenda/ \
 ```
 
 
-### Segunda parte: Javalin y exposición de APIs
+### Tercera parte: exposición HTTP con Javalin
+
+Tenemos que incorporar a nuestro proyecto:
+ - dependencias de Javalin (o del framework web / biblioteca de su agrado)
+ - el código de su dominio y sus repositorios queda intacto
+ - tenemos que incorporar componentes que permitan la interacción HTTP:
+   - nos inspiramos en el patrón MVC, que divide al código de la aplicaicón en
+     tres tipos de componentes (es lo mismo que el modelo de capas? NO, pero tienen reminicencias)
+       - modelo
+       - controlador
+       - vista
+   - MVC nos dice como hago para organizar mi código cuando tengo que exponer
+     una interfaz (UI Web, UI de escritorio, UI para celuares, API, TUI, CLI)
+   - MVC es una arquitectura muy general, y acá vamos a ver una implementación particular
+     que se llama _MVC Web Cliente Liviano_
+     - también conocido aproximadamente como _MVC Web del lado del Servidor_
+     - también conocido aproximadamente como _MVC Web con renderización del lado del servidor_
+     - etc
+ - En particular los componentes que vamos a agrupar
+   - Modelo: modelos de domino, repositorios, entidades, objetos no persistentes, adapters,
+     filtros, casi cualquier cosa que hayan hecho hasta ahora
+   - Controladores: objetos que sirven para coordinar a los componentes de modelo
+     - hay muchos controladores, típicamente uno por cada **caso de uso** o **casos de uso similares**
+     - tiene una reminiscencia a un test
+   - Vista: se encarga de tomar las repuestas del controlador y representarlas en términos del protocolo
+     de comunicación y presentación, como por ejemplo:
+     - JSON, XML: formar típicas de representar datos cuando estamos en cliente pesado
+       (en otras palabras, estamos exponiendo una API HTTP, pensada para ser consumida programática)
+     - HTML, CSS: formas típicas de representar cuando estamos en cliente liviano (en otras palabras,
+       estamos exponiendo directamente la información visual, pensada para ser consumida por humanes)
+        - Si estamos implementando un servidor en el contexto de web cliente liviano, nuestras vistas
+          se implementan en una tecnología de templating, como por ejemplo `handlebars`, que es un lenguaje
+          para generar HTML a partir de objetos (Java)
+ - Enrutamiento: se encargan de asociar las rutas HTTP a un controlador y delegar los resultados
+   a los componentes de vista. La capa de enrutamiento se escribe de forma bastante diferente según la tecnología.
+ - Corolario: en web cliente liviano (server side rending) NO hay una separación clara entre frontend y backend
+   (o en todo caso nos es irrelevante)
+
+#### Exposición de APIs
 
 Exploramos el código de un [API REST JSON](https://github.com/dds-utn/javalin-web-proof-of-concept/tree/example-api)
 
   1. Observamos la estructura de archivos (modelos, controladores, archivo semilla, rutas y código de aplicación)
   2. Extendemos el API para `/usuarios/{nombre}`
 
-### Tercera parte: Javalin y exposición de contenido HTML
+#### Exposición de contenido HTML
 
 Exploramos el código de una [Aplicación cliente liviano](https://github.com/dds-utn/javalin-web-proof-of-concept/tree/example-templating)
 
