@@ -302,7 +302,7 @@ Exploramos el código de una [Aplicación cliente liviano](https://github.com/dd
 - [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): hasta el [punto 14](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es#14-recursos), inclusive
 - [Introducción a Arquitectura Web](https://docs.google.com/document/d/1LBqAhXPzn-aeN5BIRZBmIrU5RKiYvySyWH-2Jkn-kJw/edit#heading=h.kx1xmbyu1do6)
 - [Documentación de Javalin](https://javalin.io/)
-- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
+- [Introducción a MVC Web del lado del servidor con Javalin](https://docs.google.com/document/d/1jMkmm2fk9FO-h-cxVz_v0r6p-UNl3sew1E1zXnP5WPQ/edit?tab=t.0)
 - Ejercicios:
   - [Ejercicio en clase: QMP7 (Modelado REST)](https://docs.google.com/document/d/1ERlDghk47Yc1_V1SQ7oCnZAC4bubHx7ZhQXS3naKMJA/edit#heading=h.uyku9mnteh0t)
   - [Ejercicio en clase: Pokemon (API REST JSON con Javalin)](https://github.com/dds-utn/javalin-web-proof-of-concept/tree/example-api)
@@ -311,7 +311,7 @@ Exploramos el código de una [Aplicación cliente liviano](https://github.com/dd
 
 ## Para la próxima clase
 
-- [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
+- [Introducción a MVC Web del lado del servidor con Javalin](https://docs.google.com/document/d/1jMkmm2fk9FO-h-cxVz_v0r6p-UNl3sew1E1zXnP5WPQ/edit?tab=t.0) (si no lo leíste ya)
 - [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0): **obligatorio** para leer
 - [Tutorial HTTP](https://github.com/flbulgarelli/http-tutorial/tree/master/tutorial/es): **opcional** para seguir profundizando hasta donde puedan y quieran
 - [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0)

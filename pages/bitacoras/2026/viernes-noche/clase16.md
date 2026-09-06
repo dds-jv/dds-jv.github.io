@@ -195,7 +195,7 @@ public class ConsultorasController implements WithSimplePersistenceUnit {
 ## Material
 
 - [Documentación de Javalin](https://javalin.io/documentation)
-    - De nuevo (repaso de ruteadores y cómo y por qué separar en controladores): [Introducción a MVC Web del lado del servidor con Spark](https://docs.google.com/document/d/1EFxqHstgtZ5jI5_plso6nfhvSXXcaT4iyE1qaZuPtXg/edit?usp=sharing)
+- De nuevo (repaso de ruteadores y cómo y por qué separar en controladores): [Introducción a MVC Web del lado del servidor con Javalin](https://docs.google.com/document/d/1jMkmm2fk9FO-h-cxVz_v0r6p-UNl3sew1E1zXnP5WPQ/edit?tab=t.0)
 - [Código: consultoras con soporte transaccional para Java 17](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras-transaccional)
 - [Código: consultoras para Java 17](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras-sin-login)
 - [Código: base de Java 17 + Javalin + JPA](https://github.com/dds-utn/javalin-web-proof-of-concept)
@@ -205,7 +205,6 @@ public class ConsultorasController implements WithSimplePersistenceUnit {
   - [Presentación](https://docs.google.com/presentation/d/1Dxn15lJcvpZVgUH9nOAHQxWdQQMEuF4H6M50075yqco/edit#slide=id.gf9c2586648_0_28)
   - [Anotaciones de clase](https://excalidraw.com/#json=D3P7x39HN5r5l-e0f3J4i,5o1sc7RgLK5JPQNKhBqngA)
   - [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
-  - [Documentación de Spark](https://javalin.iodocumentation)
   - [Ejercicio de QMP8](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/qmp-web)
       - [Resolución del login](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/qmp-web-con-login)
 
