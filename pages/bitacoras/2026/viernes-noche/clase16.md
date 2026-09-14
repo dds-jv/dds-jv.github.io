@@ -5,19 +5,18 @@ description: Viernes (Noche, 2026)
 permalink: /bitacoras/2026/viernes-n/clase-16/
 ---
 
+## Temario
+
+ * MVC del lado del servidor (continuación).
+ * Layouts  + Templating + Partials.
+ * Formularios
 
 ## Resumen
 
-En esta clase cerramos nuestro estudio de UI MVC Web con [Javalin](https://javalin.io).
 
 Notamos que las páginas tienen tanto _fragmentos_ de código repetitivos como estructuras generales conocidas como _Layouts_, y como las plantillas  (_templates_) y los elementos `block` y `partial` de Handlebars nos pueden ayudar a no repetir lógica de vista.
 
-Además, repasamos qué son los formularios, cómo podemos hacer formularios de creación de recursos con HTML y HTTP, y qué implicancias tienen desde el punto de vista del acceso al contexto de persistencia.
-
-
-Por un lado, realizamos un ejercicio: [QMP8](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/qmp-web).
-
-Por otro lado, repasamos (la explicación completa está en el video subido al webcampus) cómo funcionan las sesiones HTTP como forma de simular estado en un protocolo _stateless_. Además integraremos nuestras vistas con la persistencia, utilizando transacciones para las operaciones mutables.
+Además, repasamos qué son los formularios y cómo podemos hacer formularios de creación de recursos con HTML y HTTP.
 
 Por último, dejaremos un video sobre la temática de **usabilidad y experiencia de usuario** (UI/UX).
 
@@ -172,41 +171,17 @@ app.post("/consultoras", consultorasController::crear);
   }
 ```
 
-* Manejo declarativo de transacciones. No usar explícitamente `transaction.begin()`, `transaction.commit()`, `transaction.rollback()`. En su lugar utilizar `WithSimplePersistenceUnit` y `withTransaction`:
-
-```java
-public class ConsultorasController implements WithSimplePersistenceUnit {
-
-  // ...
-
-  public Void crear(Context context) {
-    withTransaction(() -> {
-      Consultora consultora = new Consultora(
-              context.formParam("nombre"), // son parámetros del cuerpo (body)
-                                           // codificados como application/x-www-form-urlencoded
-              Integer.parseInt(context.formParam("cantidadEmpleados")
-      ));
-      RepositorioConsultoras.instancia.agregar(consultora);
-    });
-    // ...
-  }
-```
-
 ## Material
 
+- [Presentación](https://docs.google.com/presentation/d/1qga14iFGwGR6xJZbW4mVJEryOlF8_yhWtzTjWmljVNc/)
 - [Documentación de Javalin](https://javalin.io/documentation)
 - De nuevo (repaso de ruteadores y cómo y por qué separar en controladores): [Introducción a MVC Web del lado del servidor con Javalin](https://docs.google.com/document/d/1jMkmm2fk9FO-h-cxVz_v0r6p-UNl3sew1E1zXnP5WPQ/edit?tab=t.0)
-- [Código: consultoras con soporte transaccional para Java 17](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras-transaccional)
-- [Código: consultoras para Java 17](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/modelo-consultoras-sin-login)
-- [Código: base de Java 17 + Javalin + JPA](https://github.com/dds-utn/javalin-web-proof-of-concept)
 - [Maquetado Web](https://docs.google.com/document/d/1UoEb9bzut-nMmB6wxDUVND3V8EymNFgOsw7Hka6EEkc/edit#heading=h.6ew85j4snou0)
   - [Tutorial de Grid](https://cssgridgarden.com/#es)
   - [Tutorial de Flex](https://flexboxfroggy.com/#es)
   - [Presentación](https://docs.google.com/presentation/d/1Dxn15lJcvpZVgUH9nOAHQxWdQQMEuF4H6M50075yqco/edit#slide=id.gf9c2586648_0_28)
   - [Anotaciones de clase](https://excalidraw.com/#json=D3P7x39HN5r5l-e0f3J4i,5o1sc7RgLK5JPQNKhBqngA)
   - [Video sobre UI/UX](https://www.youtube.com/watch?v=78l4oTU6AfA)
-  - [Ejercicio de QMP8](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/qmp-web)
-      - [Resolución del login](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/qmp-web-con-login)
 
 ## Material complementario sobre CSS
 
@@ -216,10 +191,3 @@ public class ConsultorasController implements WithSimplePersistenceUnit {
 - [Flexbox](https://flexbox.io/): Videos introductorios sobre flexbox (los primeros 8 videos son los más importantes)
 - [Práctica Flexbox](https://flexboxfroggy.com/#es)
 - [CSS Zen Garden](http://www.csszengarden.com/)
-
-
-## Para la próxima clase
-
-* Leer [El diablo está en los detalles](https://medium.com/arquitecturas-concurrentes/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
-* Opcional: [Introducción a arquitectura](https://docs.google.com/document/d/1XaKMrWPA0jntDK29gtEDRw-CoQgWXfHOmdbmihg4MpE/edit#heading=h.z9jwy1eurzt9)
-* Leer [EntregasYaYaYa](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit#heading=h.tvlfd8lfshb0)
