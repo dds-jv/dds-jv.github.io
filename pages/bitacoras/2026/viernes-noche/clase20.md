@@ -7,19 +7,12 @@ permalink: /bitacoras/2026/viernes-n/clase-20/
 
 # Temario
 
-
-* Diagrama de despliegue: Aplicaciones, Sistemas, Nodos, Componentes, Usuarios, Actores, Roles.
-* Arquitecturas clásicas: Desktop, Web (cliente liviano vs cliente pesado), Móvil.
-* Infraestructura de despliegue. Despliegue IaaS, SaaS, PaaS, Bare Metal.
 * Balanceo de carga.
 
 # Resumen
 
-En esta clase y subsiguientes, vamos a cambiar un poco el enfoque para empezar a charlar sobre temas de _Arquitectura_. Entendiendo cómo diseño de arquitectura, el diseño (y sus decisiones) de lo más importante. Es decir sus componentes, relaciones, comunicaciones y cómo tiene injerencia, no solo en las piezas de software sino en los componentes de hardware, tecnologías, costos y contexto.
+En esta clase, presentaremos una arquitectura monolítica HTTP. Estudiaremos su documentación mediante diagramas de despliegue y algunas de las decisiones con las que nos toparemos. Para posibilitar su escala horizontal, introduciremos el concepto de un **balanceador de carga**: un dispositivo de Hardware o Software especializado que permite distribuir la carga de trabajo a los diferentes nodos a partir de un algoritmo. Haremos una demostración utilizando `nginx`.
 
-En particular, presentaremos una arquitectura monolítica HTTP. Estudiaremos su documentación mediante diagramas de despliegue y algunas de las decisiones con las que nos toparemos. Para posibilitar su escala horizontal, introduciremos el concepto de un **balanceador de carga**: un dispositivo de Hardware o Software especializado que permite distribuir la carga de trabajo a los diferentes nodos a partir de un algoritmo. Haremos una demostración utilizando `nginx`.
-
-Además, discutiremos sobre las implicancias de la arquitectura de sistemas: tanto su impacto en la sociedad como la forma en que las relaciones sociales y de poder impactan en su arquitectura.
 
 # Material
 
