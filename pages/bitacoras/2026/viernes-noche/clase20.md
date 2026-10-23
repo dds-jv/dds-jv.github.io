@@ -17,6 +17,8 @@ En esta clase, presentaremos una arquitectura monolítica HTTP. Estudiaremos su 
 # Material
 
 - [Presentación de la clase](https://docs.google.com/presentation/d/1dFweT7Jg4CwG2pwUuzsPiopA1p-bkVX9QlwkCySuizU/edit)
+- [Presentación: De un nodo a muchos · Load Balancing](https://gastonprieto.github.io/presentacion-load-balancer/)
+- [Presentación: Proxy reverso](https://gastonprieto.github.io/presentacion-proxy-reverso/)
 - [Listado de componentes arquitectónicos comunes](https://docs.google.com/document/d/1LWr7tDy47qFQt8Y1XOGFWCra9NQkugqsSxSPt9QMiKs/edit#heading=h.n9ul1ib5i4m)
 - [Demo de nginx](https://github.com/flbulgarelli/nginx-sample)
 - [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing). Trabajaremos con **Rekomendashi, Fase 2**

@@ -25,6 +25,8 @@ Para introducir estos conceptos vamos a estar trabajando con el ejercicio de **L
 # Material
 
 - [Presentación de clase](https://docs.google.com/presentation/d/1QbezkA-rlufd3CKKPbEHCCN4KSYGZnsmxGkJ4saTdi8/edit#slide=id.g35f391192_00)
+- [Presentación: Colas de mensajes](https://gastonprieto.github.io/presentacion-colas-mensajes/)
+- **Opcional** [Presentación: Eventos con brokers](https://gastonprieto.github.io/presentacion-eventos-brokers/)
 - [Listado de componentes arquitecturales comunes](https://docs.google.com/document/d/1LWr7tDy47qFQt8Y1XOGFWCra9NQkugqsSxSPt9QMiKs/edit#heading=h.n9ul1ib5i4m)
 - [Demo de patrones de integración](https://github.com/flbulgarelli/integration_patterns)
 - [Demo de monitores](https://github.com/flbulgarelli/prometheus-sample)

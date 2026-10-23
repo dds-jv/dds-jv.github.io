@@ -32,6 +32,7 @@ También resolveremos dudas sobre los temas de las dos clases anteriores: _arqui
 # Material
 
 - [Presentación de la clase](https://docs.google.com/presentation/d/1dFweT7Jg4CwG2pwUuzsPiopA1p-bkVX9QlwkCySuizU/edit)
+- [Architecture Playground](https://gastonprieto.github.io/architecture-playground/)
 - [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing).
     - Trabajaremos con **EntregaYaYaYa** y **MicroPC IDE**
 - [Presentación sobre despliegue de software](https://docs.google.com/presentation/d/1LHZUqXX97_6oeFUBpGF-80hnm3qW166N9Ne6CfS1FDQ) (si no lo viste ya en DDSo)
