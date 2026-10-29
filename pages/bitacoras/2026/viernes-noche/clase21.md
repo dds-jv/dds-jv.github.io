@@ -16,7 +16,7 @@ En esta clase vamos a trabajar la idea de **caché**: un componente que almacena
 
 Además, vamos a presentar el **proxy reverso**: un componente que se ubica delante de nuestros servidores, recibe los pedidos de los clientes y los reenvía a los nodos correspondientes, pudiendo encargarse también de tareas como balanceo de carga, caché o terminación TLS.
 
-Para introducir este conceptos vamos a estar trabajando con los ejercicios de *SheRa Enterprise* y *Cyberfriday*
+Para introducir estos conceptos vamos a estar trabajando con el ejercicio de *Cyberfriday*
 
 # Material
 

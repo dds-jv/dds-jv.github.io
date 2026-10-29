@@ -17,6 +17,8 @@ En esta clase, presentaremos una arquitectura monolítica HTTP. Estudiaremos su 
 Además, vamos a presentar la idea de **microservicios**, un enfoque para desarrollar una sola aplicación como un conjunto de "pequeños" servicios, donde cada uno se ejecuta en su propio proceso. Los mismos pueden (o no) estar escritos en diferentes lenguajes, comunicarse entre sí (por ejemplo, por medio de una API HTTP) y persistir su propios conjunto de datos.
 Es importante remarcar que no solo implica una forma de diseño diferente (en comparación con un monolito), sino que en líneas generales plantea un cambio a nivel organización del equipo.
 
+Para introducir estos conceptos vamos a estar trabajando con los ejercicios de **Rekomendashi, Fase 2** y **SheRa Enterprise**.
+
 
 # Material
 
@@ -25,14 +27,14 @@ Es importante remarcar que no solo implica una forma de diseño diferente (en co
 - [Presentación: Microservicios](https://gastonprieto.github.io/presentacion-microservicios/)
 - [Listado de componentes arquitectónicos comunes](https://docs.google.com/document/d/1LWr7tDy47qFQt8Y1XOGFWCra9NQkugqsSxSPt9QMiKs/edit#heading=h.n9ul1ib5i4m)
 - [Demo de nginx](https://github.com/flbulgarelli/nginx-sample)
-- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing). Trabajaremos con **Rekomendashi, Fase 2**
+- [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing). Trabajaremos con **Rekomendashi, Fase 2** y **SheRa Enterprise**
   - [Soluciones](https://docs.google.com/document/d/1zQPyGbnyKMsMNedsSnFWLobyGUUU2KTuGOyoPIsvnSw/edit#heading=h.o8eoqhxo0gxt) (No verlas sin intentar resolver el ejercicio antes)
 
 # Para la próxima clase
 
 - [Guía de ejercicios de Arquitectura](https://docs.google.com/document/d/1snIOX5rNp3kwEkWF3R04-KuujUbMTOz1wanl3Rut0Ts/edit?usp=sharing).
-    - Releer **Rekomendashi** y sus soluciones propuestas
-    - Leer **Shera Enterprise** y **Cyberfriday**; ¡no veas aún sus soluciones! Las trabajaremos en clase.
+    - Releer **Rekomendashi** y **SheRa Enterprise** y sus soluciones propuestas
+    - Leer **Cyberfriday**; ¡no veas aún su solución! La trabajaremos en clase.
 - [Listado de componentes arquitectónicos comunes](https://docs.google.com/document/d/1LWr7tDy47qFQt8Y1XOGFWCra9NQkugqsSxSPt9QMiKs/edit#heading=h.n9ul1ib5i4m)
     - Leer el apartado sobre _balanceo de carga HTTP_
 - Las lecturas anteriores, si no las leíste antes.
