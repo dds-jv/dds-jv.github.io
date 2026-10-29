@@ -32,6 +32,6 @@ Cada enlace te lleva a lo visto y lo que hay que ver antes de la siguiente clase
 - [Clase 17: Integración con APIs: Interfaces entrantes y salientes, Webhooks y otros protocolos]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-17)
 - [Clase 18: Arquitectura de Sistemas]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-18)
 - [Clase 19: Arquitectura de Software: Despliegue, Escala e Introducción al Balanceo de carga]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-19)
-- [Clase 20: Arquitectura: Balanceo de carga]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-20)
-- [Clase 21: Arquitectura: Microservicios y Caché]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-21)
+- [Clase 20: Arquitectura: Balanceo de carga y Microservicios]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-20)
+- [Clase 21: Arquitectura: Caché y Proxy reverso]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-21)
 - [Clase 22: Arquitectura: Colas de mensajes, Integración de sistemas y Monitoreo]({{site.baseurl}}/bitacoras/2026/viernes-n/clase-22)
