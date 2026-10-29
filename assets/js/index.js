@@ -3,7 +3,7 @@
     $(document).ready(function(){
         $('p').linkify();
     });
-    $('iframe').load(function(){
+    $('iframe').on('load', function(){
         $(this).height($(this).contents().outerHeight());
     });
 }(jQuery));
